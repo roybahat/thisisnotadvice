@@ -196,6 +196,20 @@ _\[Contributed in part by_ [_Joseph Freed, CEO of Cultivate_](https://twitter.co
 
 **When is it OK to send a scheduling tool like Calendly?**
 
+**Whether you should send a Calendly link to someone or not depends on the person who you’re sending it to and if their convenience is more important to you than your own.** 
+
+**Although some people might appreciate the link, others will see it as an inconvenience.   Figuring out if a person will appreciate it or not can be a challenge as very few people would actually admit to hating Calendly links when asked. \[Ed.: when I receive them, I'm fortunate because I have administrative assistants. If I didn’t have the assistance, I think dealing with Calendly would be a lot more difficult.\]**
+
+ **When deciding to send a Calendly link, it can be useful to consider what you are solving for. If you are solving for your own convenience, then Calendly is magnificent. If you're solving for the convenience of the other person, then it depends on how the receiver will interpret it. If the person you’re sending it to is somebody who is super familiar with these types of tools and you get a sense that they're very tech savvy, then they would probably appreciate the Calendly link. But it’s important to remember that a lot of people in the business or organization world may not be as knowledgeable about things like Calendly and for them, it may be a burden. If the relationship is important to you, and you don’t know the person well, you may not want to ask them to do work by clicking through to something and picking something like Calendly, Doodle, or Mixmax.**  
+
+
+**Like so many other things, who might find something like Calendly convenient has changed post-COVID, as now, a lot more people are online and trying to find time. Many more people might be saying to themselves, "Oh, you know what? This actually saves me a lot of time because now I can just cross check my calendar against yours, at my own leisure, and it'll actually be much faster than having to email back and forth."**
+
+**If you just aren’t sure how they will perceive the Calendly link, you can always give them the option to use it or not. You could say, “Would you be free next Tuesday at three? If that doesn't work for you, let me know when it might, or if you prefer, you can just click here.”**
+
+**If you’re solving for your own convenience, sending a Calendly link is a great option. If you want to solve for the convenience of others, you may want to consider giving them the option to use Calendly or a more traditional method.**  
+
+
 **+++**
 
 **DAY 97**
