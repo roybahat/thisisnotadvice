@@ -194,29 +194,41 @@ _\[Contributed in part by_ [_Joseph Freed, CEO of Cultivate_](https://twitter.co
 
 **DAY 96**
 
-**When is it OK to send a scheduling tool like Calendly?**
+\*\*\*\*[**When is it OK to send a scheduling tool like Calendly?**](https://www.pscp.tv/w/1djxXorXEOEJZ)
 
-**Whether you should send a Calendly link to someone or not depends on the person who you’re sending it to and if their convenience is more important to you than your own.** 
+Whether you should send a Calendly link to someone or not depends on the person who you’re sending it to and if their convenience is more important to you than your own. 
 
-**Although some people might appreciate the link, others will see it as an inconvenience.   Figuring out if a person will appreciate it or not can be a challenge as very few people would actually admit to hating Calendly links when asked. \[Ed.: when I receive them, I'm fortunate because I have administrative assistants. If I didn’t have the assistance, I think dealing with Calendly would be a lot more difficult.\]**
+Although some people might appreciate the link, others will see it as an inconvenience.   Figuring out if a person will appreciate it or not can be a challenge as very few people would actually admit to hating Calendly links when asked. \[Ed.: when I receive them, I'm fortunate because I have administrative assistants. If I didn’t have the assistance, I think dealing with Calendly would be a lot more difficult.\]
 
- **When deciding to send a Calendly link, it can be useful to consider what you are solving for. If you are solving for your own convenience, then Calendly is magnificent. If you're solving for the convenience of the other person, then it depends on how the receiver will interpret it. If the person you’re sending it to is somebody who is super familiar with these types of tools and you get a sense that they're very tech savvy, then they would probably appreciate the Calendly link. But it’s important to remember that a lot of people in the business or organization world may not be as knowledgeable about things like Calendly and for them, it may be a burden. If the relationship is important to you, and you don’t know the person well, you may not want to ask them to do work by clicking through to something and picking something like Calendly, Doodle, or Mixmax.**  
+When deciding to send a Calendly link, it can be useful to consider what you are solving for. If you are solving for your own convenience, then Calendly is magnificent. If you're solving for the convenience of the other person, then it depends on how the receiver will interpret it. If the person you’re sending it to is somebody who is super familiar with these types of tools and you get a sense that they're very tech savvy, then they would probably appreciate the Calendly link. But it’s important to remember that a lot of people in the business or organization world may not be as knowledgeable about things like Calendly and for them, it may be a burden. If the relationship is important to you, and you don’t know the person well, you may not want to ask them to do work by clicking through to something and picking something like Calendly, Doodle, or Mixmax.
 
+Like so many other things, who might find something like Calendly convenient has changed post-COVID, as now, a lot more people are online and trying to find time. Many more people might be saying to themselves, "Oh, you know what? This actually saves me a lot of time because now I can just cross check my calendar against yours, at my own leisure, and it'll actually be much faster than having to email back and forth."
 
-**Like so many other things, who might find something like Calendly convenient has changed post-COVID, as now, a lot more people are online and trying to find time. Many more people might be saying to themselves, "Oh, you know what? This actually saves me a lot of time because now I can just cross check my calendar against yours, at my own leisure, and it'll actually be much faster than having to email back and forth."**
+If you just aren’t sure how they will perceive the Calendly link, you can always give them the option to use it or not. You could say, “Would you be free next Tuesday at three? If that doesn't work for you, let me know when it might, or if you prefer, you can just click here.”
 
-**If you just aren’t sure how they will perceive the Calendly link, you can always give them the option to use it or not. You could say, “Would you be free next Tuesday at three? If that doesn't work for you, let me know when it might, or if you prefer, you can just click here.”**
-
-**If you’re solving for your own convenience, sending a Calendly link is a great option. If you want to solve for the convenience of others, you may want to consider giving them the option to use Calendly or a more traditional method.**  
-
+If you’re solving for your own convenience, sending a Calendly link is a great option. If you want to solve for the convenience of others, you may want to consider giving them the option to use Calendly or a more traditional method.
 
 **+++**
 
 **DAY 97**
 
-**How do I do the least amount of work to prove I have a good idea for a startup?**
+\*\*\*\*[**How do I do the least amount of work to prove I have a good idea for a startup?**](https://www.pscp.tv/w/1yoKMXyMbYNxQ)
 
-\[guest: [James Cham, Partner, Bloomberg Beta](https://twitter.com/jamescham)\]
+If you are a founder who has a good idea for a startup, the execution of that idea is really important. But many people ask themselves, "What is the smallest amount of work I can do and still be successful?" Cutting corners can be beneficial, but it is important that you still prove that customers will value your product and that you give yourself enough time to evaluate yourself and the startup process.
+
+When starting out, it’s easy to spend time on your strengths and ignore your weaknesses until much later. This is aided by the startup world, which often fetishizes a founders' particular strength. That is to say, if you know a particular founder is design-oriented, you expect to see some of the most beautifully designed things from them. Despite this, if you know you are capable of doing something, it can be beneficial to focus on the other things. Simply put: start with the stuff you don’t know you can do. 
+
+For many people, what you don’t know you can do is creating demand for your product. If you’re going to take shortcuts, the shortcuts should allow you to prove that people will want your product. There is a paradox in taking shortcuts, as you want something that seems extraordinary to others, but you also want to work as little as possible and not put in time to make this thing extraordinary. Something that can be useful for this is creating a throw-away product. This is a product that you don’t intend to sell, but it serves as a way to test an aspect of your hypothesis. The goal here isn’t to create something beautiful, but simply to prove that it will do what you want it to do and that people will find it useful. \[Ed.: I love when we get pitched things that are totally busted and janky, but a bunch of the people using it adore it because it just does that thing. It being busted and janky isn’t a problem because you can fix all that stuff over time.\]  
+
+Oftentimes, what is important when pitching your startup idea is that it makes customers think,  "Oh, this is amazing, this solves my problem." In the old days, you may have had a conversation or used a PowerPoint to make your pitch. But now, people are getting away with something that looks like a Google Spreadsheet because they know exactly how to talk about it, answer the problem and re-pitch it in a way that their customer base understands. They are putting less effort into the pitch presentation but because they are approaching it with proving their value in mind, they are still impressing their customers.
+
+An important thing to consider is the fact that a startup is not just a product or an idea, it's a fiction created by a set of people and there is a social angle of trying to create your startup. You can think of the startup world as an ecosystem. Apart from you, the ecosystem also consists of those who you work with and those who you sell to. It’s important to consider these members of the ecosystem too and ask yourself, “Do you like selling to these types of people? Do you like the people who you might have to hire?”As you create your product and ask yourself these critical questions, you may find that some aspects that you were convinced of no longer seem like the right way forward. A classic example of this is a technical founder who has a thing that requires enterprise sales but then later discovers that they don't want to be selling things to enterprises and take CIOs out for steak dinners. Making these discoveries is a very important process and so if you feel like you aren’t moving fast enough with your idea, you can be assured that you are at least making progress here. On the one hand, you want to be lazy and figure your idea out as quickly as possible. On the other hand, you still need to figure out if you want to do this and if you want to devote yourself to it. When you are trying to prove you can create a startup, you tend to think of the customers, but really, it's as much about the customers as it is about you.
+
+Creating a startup can cause you to incur all kinds of debt, including technical debt, but it is important that the process doesn’t decrease your enthusiasm. \[Ed.: Julia, my co-founder, had a great definition of success, which is, "If every day or every week, you're more excited about it than you were the week before, you're succeeding." And it sounds so simple but ultimately the battery pack that fuels companies is founder enthusiasm.\] Taking shortcuts and taking the lean MVP route can be beneficial, but make sure it's personally viable to you and it doesn’t lead to the death of your enthusiasm. 
+
+When trying to do as little work as possible, it is important to still test if your product is useful and have insight about the thing that is going to be wildly exciting to the customer. Even if you cut a ton of corners, you can't cut the corner of what will excite the customer, because that's the whole value.
+
+_\[Contributed in part by:_ [_James Cham, Partner, Bloomberg Beta_](https://twitter.com/jamescham)_\]_
 
 **+++**
 
