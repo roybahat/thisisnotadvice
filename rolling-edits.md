@@ -1,7 +1,5 @@
 # / Rolling edits
 
-**DAY 90**
-
 **‌**[**How do I get the job when I don't feel like I fit the stereotype?**](https://www.youtube.com/watch?v=tuPdJLJ6dcg&feature=youtu.be)
 
 \[The above includes contributions from[ Bo Ren](https://twitter.com/Bosefina?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor), Head of Ecosystem and Assistant GM at Samsung NEXT.\]
