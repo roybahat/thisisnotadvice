@@ -26,8 +26,6 @@ _**+++**_
 
 [**Our startup has never sponsored anyone for a visa. Which type of visa should we pursue?**](https://www.pscp.tv/w/1mrxmEkkkwwxy)\*\*\*\*
 
-\[The below was contributed in part by [Nitin Pachisia, Founding Partner, Unshackled Ventures](https://twitter.com/immigreating?lang=en)\]
-
 For some people, there is a sense of mystery that hangs over the process of acquiring a visa. The consequential nature of the decisions you need to make when trying to obtain a visa might make you feel terrified or powerless, but there is no need for either of these feelings. Some of the questions you may ask yourself are going to be answered below. This doesn’t serve as legal advice, but it should give you a framework for the way forward.
 
 Asking attorneys for advice can be frustrating as some of them may just see your questions as an opportunity to sell you more legal services. A good attorney will ask you, “what are you trying to protect?” You need to find someone who will try to help you achieve your objective rather than merely do what you ask them to do. 
@@ -78,15 +76,15 @@ There is an emotional component when it comes to managing the uncertainty of the
 
 Many founders wonder if they can even found a company when on a visa, or if they should rather wait. The biggest cost of being on a visa as a founder is waiting and delaying when you start your company. Rather than simply waiting, consider going out and seeking out partners who are going to provide you with the resources that you need. If you think you have something that you want to start today, you should start today.
 
-Immigration plays a critical role in the startup ecosystem. Going through the process of acquiring a visa can be a stressful venture, but it is well worth it in the end as long as you protect yourself and seek information from the right sources
+Immigration plays a critical role in the startup ecosystem. Going through the process of acquiring a visa can be a stressful venture, but it is well worth it in the end as long as you protect yourself and seek information from the right sources. 
+
+_\[Contributed in part by_ [_Nitin Pachisia, Founding Partner, Unshackled Ventures_](https://twitter.com/immigreating?lang=en)_\]_
 
 **+++**
 
 **DAY 92**
 
 \*\*\*\*[**I'm a first time founder. How do I know when to start charging for my product?**](https://www.pscp.tv/w/1mnxelpqyLaJX)\*\*\*\*
-
-\[The below was contributed in part by [Alex Cohen, Founder, CommandDot](https://twitter.com/anothercohen)\]
 
 There are many benefits to charging for your product, and when deciding what to charge, it's useful to spend some time thinking about how valuable a customer will find it.
 
@@ -122,6 +120,8 @@ Another way to decide on pricing is to assess the product’s value in terms of 
 
 When deciding what to charge for your product, it is important to recognize how valuable your product is. Figuring out what your product is worth will allow you to determine how much a customer would be willing to pay for it. There are various ways to figure out what this number is, but asking the right questions and assessing how people respond to your pricing are good ways to start. 
 
+_\[Contributed in part by_ [_Alex Cohen, Founder, CommandDot_](https://twitter.com/anothercohen)_\]_
+
 **+++**
 
 **DAY 93**
@@ -142,25 +142,25 @@ One benefit to asking and receiving money from your friends and family is that i
 
 Asking those who are close to you for money can be a very difficult thing to do, but if you are courageous enough to do it, you can reap the benefits later.
 
-**+++++++++++++++++BELOW BEING EDITED BY MEG+++++++++++++++++++++++++++++**
+**+++**
 
 **DAY 94**
 
 \*\*\*\*[**I got into YC. Do I do it?**](https://www.pscp.tv/w/1kvJpevnAVwxE)\*\*\*\*
 
-Whether you should do YC or not depends on what your goals are and if YC will be of value to you.  Often the answer is yes, you should do it, but it’s expensive. 7% of your company is a lot, it may not sound like much in the beginning, but as you get bigger, you will realize that this number is high. Like all things, this loss may be worth it in terms of value and the value YC delivers is different for different people.
+Deciding whether to do [Y Combinator](https://www.ycombinator.com/) \(YC\) depends on what your goals are and if YC will be of value to you. Often it is worth it, but it's expensive \(YC requires a return of seven percent when the investment converts\). Seven percent may not sound like much in the beginning, but as you get bigger, you will realize that it's a lot. Like all things, this loss may be worth it in terms of value that YC delivers.
 
-People who can get value from YC are founders who lack a network of other founders or founders who need a moment to focus and would benefit from having to put something together so they can present at demo day.   YC gives you a wonderful community of founders and an opportunity to develop what you're doing.  You may end up working with a partner or other founders that can give you the kind of advice that can be transformative for your business. If your early customers are other startups, then YC can be especially useful as it introduces you to many potential customers.  
+People who can get value from YC are founders who lack a network of other founders, or founders who need a moment to focus and would benefit from having to put something together so they can present at demo day. YC gives you a wonderful community of founders and an opportunity to develop what you're doing. With YC, you may end up working with a partner or other founders that can give advice that could be transformative for your business. If your early customers are other startups, then YC can be especially useful as it introduces you to many potential customers.  
 
-The people who may not get value from YC are the people who want to do it for the name and the validation. There is no arguing that there is value in a name, but a name is more of an added benefit than a reason to do it. 7% is a steep price for a name. 
+The people who may not get value from YC are the people who just want to do it for the name and the validation. There is no arguing that there is value in a name, but a name is more of an added benefit than a reason to do it. Seven percent is a steep price for a name. 
 
-For those who do find value in YC, that value will last long after YC.  YC is not a full-time thing, but the community that you become a part of through YC lasts forever:  being in Bookface or the internal social network lasts forever and obviously, the reputational benefit lasts forever. 
+For those who do find value in YC, that value will last long after YC. YC is not a full-time thing, but the community that you become a part of through YC lasts forever: being in Bookface, YC's  internal social network, lasts forever and the reputation benefit lasts forever. 
 
-One additional thing to consider is the fact that the YC classes are fairly big and this size might mean that you don’t get to work with the kind of founders or partners that would be helpful to you. Despite the large class size, there still remains an under-representation of certain types of founders, and so you should keep in mind that whilst you're going to join a community of founders, that community is not going to be representative of all tech founders. The community at YC will represent a certain cluster of  tech founders and not the market as a whole.
+One thing to consider is the fact that  YC classes are fairly big and this size _might_ mean that you don’t get to work with the kind of founders or partners that would be helpful to you. Despite the large class size, there still remains an under-representation of certain types of founders, so you should keep in mind that while you're joining a community of founders, that community is not going to be representative of all tech founders. 
 
 While YC has a lot to offer, there are a number of other accelerators that are also great. Each accelerator has its own set of relationships and customer specialties and can help you with different things, from customer introductions to helping you figure out how to enter the market. Because of the wide range of accelerator options available, having an idea of what you’re looking for in an accelerator program is a good place to start.
 
-If you’re looking at these other lesser-known accelerator programs, you may be asking yourself, "How do I know if an accelerator is good?" There are definitely bad accelerators out there which won’t support you or benefit you. Something that can help you determine if the accelerator is good is to find out what is the best company that has gone through the accelerator. If you can’t figure out who that is, then you should probably proceed with caution. 
+If you’re looking at these other lesser-known accelerator programs, you may be asking yourself, "How do I know if an accelerator is good?" There are definitely bad accelerators out there, which won’t support you or benefit you. Something that can help you determine if the accelerator is good is to find out what is the best company that has gone through the accelerator. If you can’t figure out who that is, then you should probably proceed with caution. 
 
 Whether you should do YC or not depends entirely on your specific needs. YC can be very valuable to people who need to connect with other startups and founders, and those who need some direction.
 
@@ -170,38 +170,27 @@ Whether you should do YC or not depends entirely on your specific needs. YC can 
 
 \*\*\*\*[**How do I get my enterprise customer's attention when my startup lacks brand recognition?**](https://www.pscp.tv/w/1YqJDpgyeEaJV)\*\*\*\*
 
-\[\[The below was contributed in part by [Joseph Freed, CEO of Cultivate](https://twitter.com/josephfreed79?lang=en)\] 
+When trying to get your enterprise customer’s attention, you may be able to employ the  techniques that [Joseph Freed](https://twitter.com/josephfreed79?lang=en) used when starting [Cultivate](https://cultivate.com/): 1\) networking at conferences and 2\) focusing on logos. When your startup lacks brand recognition, it can be difficult to get customers to engage with you, but there are ways to get around this.
 
-When trying to get your enterprise customer’s attention, you may be able to employ the two techniques that Joseph used when starting Cultivate by attending conferences and gaining logos. When your startup lacks brand recognition, it can be difficult to get customers to engage with you, but there are ways to get around this.
+When choosing a conference to go to, the smaller and the nerdier, the better. With big companies and conferences, the speaker is surrounded by a throng of folks and having a meaningful conversation is just not possible. The best conferences are smaller and focused on practitioners.
 
-One strategy is to go to conferences. When choosing a conference to go to, the smaller and the nerdier, the better. With big companies and conferences, the speaker is surrounded by a throng of folks and having a meaningful conversation is just not possible. The best conferences are smaller, for practitioners.
+At the conference, you can try to identify the specific buyers who might be interested in your product. If there's a person from a respected enterprise who is speaking, you can try to talk to them after their presentation, saying something like, "Hey, I loved your talk. I'm co-founder of a startup and we're doing some of the things that you're trying to think about." Your goal at this point is really to get advice–when you are at this stage, gaining advisors is just as valuable as gaining customers.
 
-Once at the conference, you can then try to identify the specific buyers who might be interested in your product. After the person has finished speaking, and typically this is someone from a large enterprise, you can then try to speak to them. You don’t need to have a whole speech planned, but something like, "Hey, I loved your talk. I'm co-founder of a startup and we're doing some of the things that you're trying to think about." You're actually coming there saying, "Look, I'm the founder of a startup, and I would love your advice." When you are at this stage, gaining advisors is just as valuable as gaining customers.
-
-Talking to speakers at conferences can be especially beneficial as they are primed to have these conversations-- they’re already thought leaders. This isn’t to say that you will have a 100% success rate, the majority of people are going to say no, but because the speakers are generally more receptive, your hit rate will probably be higher.
+Talking to speakers at conferences can be especially beneficial as they are primed to have these conversations–they’re already thought leaders. This isn’t to say that you will have a 100% success rate; the majority of people are going to say no, but because the speakers are generally more receptive, your hit rate will probably be higher.
 
 \[Ed.: I've been on the other side of this situation, as the speaker at a conference, and after speaking you find yourself surrounded by people who are trying to sell you something. What is key here is to try and approach the people that speak about topics that are related to what you do.\]  
 
-The second thing that Joseph did was try to get logos. If you are trying to sell to enterprise people, you need logos because they’re more likely to buy when they know other people have bought.
+Another area of focus for getting enterprise customers is to focus on getting credible logos. If you are trying to sell to enterprise people, you need logos because they’re more likely to buy when they know other credible companies have bought your product. 
 
-One way to get these early logos and pre-customer logos is to be involved with incubators and accelerators from large enterprises.
-
-A lot of these programs have no strings attached. You show up, get advice, and then when you email people you can say that you are associated with that enterprise. 
+One way to get these early logos and pre-customer logos is to be involved with incubators and accelerators from large enterprises. A lot of these programs have no strings attached. You show up, get advice, and then when you email people you can say that you are associated with that enterprise. 
 
 When people see that you worked with that enterprise, it signals to them that you know how to work and it shows who your target is.
 
-Getting an enterprise’s attention can be particularly difficult when you’re just starting out, but you may be able to do it by talking to speakers at conferences and gaining logos at accelerators or incubators. No, it's timely, that second point, right? Because yesterday, Joe, actually, the question was, "Do I join an accelerator?" And one of the, \[crosstalk 00:07:30\].
+Getting an enterprise’s attention can be particularly difficult when you’re just starting out, but getting creative at conferences and with well-known companies via accelerators and incubators can help you get in the door.  
 
-Roy:
+_\[Contributed in part by_ [_Joseph Freed, CEO of Cultivate_](https://twitter.com/josephfreed79?lang=en)_\]_ 
 
-We didn't even talk about the corporate accelerators.
-
-Minn:
-
-Yeah, you're an example of, depending on the kind of accelerator and what you're looking for, there's a very valid reason to join one that is more enterprise-focused and actually has a different kind of brand reputation.  
-
-
-+++
+**+++++++++++++++++BELOW BEING EDITED BY MEG+++++++++++++++++++++++++++++**
 
 **DAY 96**
 
