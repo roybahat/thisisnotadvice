@@ -1,5 +1,7 @@
 # / Rolling edits
 
+**DAY 90**
+
 **‌**[**How do I get the job when I don't feel like I fit the stereotype?**](https://www.youtube.com/watch?v=tuPdJLJ6dcg&feature=youtu.be)
 
 \[The above includes contributions from[ Bo Ren](https://twitter.com/Bosefina?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor), Head of Ecosystem and Assistant GM at Samsung NEXT.\]
@@ -24,7 +26,7 @@ _**+++**_
 
 [**Our startup has never sponsored anyone for a visa. Which type of visa should we pursue?**](https://www.pscp.tv/w/1mrxmEkkkwwxy)\*\*\*\*
 
-\[The below comes from [Nitin Pachisia, Founding Partner, Unshackled Ventures](https://twitter.com/immigreating?lang=en)\]
+\[The below was contributed in part by [Nitin Pachisia, Founding Partner, Unshackled Ventures](https://twitter.com/immigreating?lang=en)\]
 
 For some people, there is a sense of mystery that hangs over the process of acquiring a visa. The consequential nature of the decisions you need to make when trying to obtain a visa might make you feel terrified or powerless, but there is no need for either of these feelings. Some of the questions you may ask yourself are going to be answered below. This doesn’t serve as legal advice, but it should give you a framework for the way forward.
 
@@ -84,7 +86,7 @@ Immigration plays a critical role in the startup ecosystem. Going through the pr
 
 \*\*\*\*[**I'm a first time founder. How do I know when to start charging for my product?**](https://www.pscp.tv/w/1mnxelpqyLaJX)\*\*\*\*
 
-\[The below comes from [Alex Cohen, Founder, CommandDot](https://twitter.com/anothercohen)\]
+\[The below was contributed in part by [Alex Cohen, Founder, CommandDot](https://twitter.com/anothercohen)\]
 
 There are many benefits to charging for your product, and when deciding what to charge, it's useful to spend some time thinking about how valuable a customer will find it.
 
@@ -120,23 +122,27 @@ Another way to decide on pricing is to assess the product’s value in terms of 
 
 When deciding what to charge for your product, it is important to recognize how valuable your product is. Figuring out what your product is worth will allow you to determine how much a customer would be willing to pay for it. There are various ways to figure out what this number is, but asking the right questions and assessing how people respond to your pricing are good ways to start. 
 
-**+++++++++++++++++BELOW BEING EDITED BY MEG+++++++++++++++++++++++++++++**
+**+++**
 
 **DAY 93**
 
 [**I'm starting a company. Should I actually take money from my friends and family?**](https://www.pscp.tv/w/1YqKDpgOEMLKV)\*\*\*\*
 
-Asking your friends and family for money can be a positive thing, as long as you are completely transparent about the process and you prioritize your relationships.
+Asking your friends and family for money can be a good idea, as long as you are completely transparent about the process and you prioritize your relationships.
 
-The answer to this question is different for everyone. \[Ed.: From my own personal experience, asking my mom for money was necessary and incredibly difficult. I knew that my mom didn’t have a lot of money to invest in startups, but we really needed the money.Later, being able to pay her back with five times  what she gave me was one of the most joyous moments of the whole startup experience for me\]. 
+The answer to whether to take money from friends is family will be different for everyone. \[Ed.: Asking my mom for money was both necessary and incredibly difficult. I knew that my mom didn’t have a lot of money to invest in startups, but we really needed the money. Later, being able to pay her back with five times what she gave me was one of the most joyous moments of the whole startup experience for me\]. 
 
-A useful question to ask yourself when trying to decide if you should ask someone for money is: which do you value more, the relationship between you and the person you might ask, or the startup. Assuming that the relationship is more valuable than the thing you want to create, you want to choose the approach that will conserve your relationship. If you are honest about the fact that there’s a good chance you’re going to lose the money they lend you, then losing that money probably won't cost you the relationship. What’s important here is honesty.  Asking people who you know for money can be a very uncomfortable experience, and it can serve as a type of litmus test of how far you are willing to go for your startup venture. There are many things that may make you similarly uncomfortable, and this situation may serve as a good opportunity to evaluate how much you are willing to put yourself on the line. Like many things in life, there are limitations to what you can reasonably ask a person for. What is reasonable varies drastically from person to person and it depends on your life circumstances.  \[Ed.: My college roommates were capable of writing a $10,000 check and had friends who could raise $100,000. I was obviously very fortunate and I obviously recognize that this isn’t the case for everyone.\] What you ask from your friends and family has to be scaled to what your personal network can do
+A useful question to ask when trying to decide if you should ask someone for money is: which do you value more, the relationship between you and the person you might ask, or the startup? Assuming that the relationship is more valuable than the thing you want to create, choose the approach that will conserve your relationship. If you are honest about the fact that there’s a good chance you’re going to lose the money they lend you, then losing that money probably won't cost you the relationship. What’s important is honesty. 
 
-One other benefit to asking and receiving money from your friends and family is that it gives you an opportunity to build a coalition of people who know and trust you and who can support you. In this way, asking for money can be empowering.
+Asking people who you know for money can be a very uncomfortable experience, and it can serve as a litmus test of how far you are willing to go for your startup venture. There are many things that may make you similarly uncomfortable, and this situation can serve as a good opportunity to evaluate how much you are willing to put yourself on the line.
 
-Asking those who are close to you for money can be a very difficult thing to do, but if you are courageous enough to do it, you can really reap the benefits later.
+Like many things in life, there are limitations to what you can reasonably ask a person for. What is reasonable varies drastically from person to person and it depends on your life circumstances. \[Ed.: My college roommates were capable of writing a $10,000 check and had friends who could raise $100,000. I was very fortunate that this was the case and I  recognize that this isn’t the case for everyone.\] What you ask from your friends and family has to be scaled to what your personal network can do.
 
-**+++**
+One benefit to asking and receiving money from your friends and family is that it gives you an opportunity to build a coalition of people who know and trust you–and who can support you. In this way, asking for money can be empowering.
+
+Asking those who are close to you for money can be a very difficult thing to do, but if you are courageous enough to do it, you can reap the benefits later.
+
+**+++++++++++++++++BELOW BEING EDITED BY MEG+++++++++++++++++++++++++++++**
 
 **DAY 94**
 
@@ -164,7 +170,7 @@ Whether you should do YC or not depends entirely on your specific needs. YC can 
 
 \*\*\*\*[**How do I get my enterprise customer's attention when my startup lacks brand recognition?**](https://www.pscp.tv/w/1YqJDpgyeEaJV)\*\*\*\*
 
-\[guest: [Joseph Freed, CEO of Cultivate](https://twitter.com/josephfreed79?lang=en)\] 
+\[\[The below was contributed in part by [Joseph Freed, CEO of Cultivate](https://twitter.com/josephfreed79?lang=en)\] 
 
 When trying to get your enterprise customer’s attention, you may be able to employ the two techniques that Joseph used when starting Cultivate by attending conferences and gaining logos. When your startup lacks brand recognition, it can be difficult to get customers to engage with you, but there are ways to get around this.
 
