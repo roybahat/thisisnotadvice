@@ -1,7 +1,5 @@
 # / Rolling edits
 
-**DAY 90**
-
 **‌**[**How do I get the job when I don't feel like I fit the stereotype?**](https://www.youtube.com/watch?v=tuPdJLJ6dcg&feature=youtu.be)
 
 If you don’t fit the stereotype for a job, it’s good to think about how emphasizing your differences could be beneficial.
