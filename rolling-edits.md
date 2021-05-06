@@ -234,7 +234,26 @@ _\[Contributed in part by:_ [_James Cham, Partner, Bloomberg Beta_](https://twit
 
 **DAY 98**
 
-**How should we split equity among the co-founders?**
+\*\*\*\*[**How should we split equity among the co-founders?**](https://www.pscp.tv/w/1BdxYnEeABXKX)
+
+There is no one right answer to how to split equity shares among co-founders, but it is important to consider all the factors that can influence this decision and to include these factors in your conversation about sharing equity.
+
+How you should split equity among co-founders is an important decision that you shouldn’t take lightly. It is important as, firstly, if you regret your decision later, it can be hard to fix and secondly, your views on the subject will probably change-- when the person who you thought was going to be really valuable turns out to be a dud, you will have to manage that and deal with the fact that their shares don’t reflect their involvement.
+
+When people approach equity shares, they usually have a conversation that is purely about those equity shares. Really, the conversation should be about much more.  In addition to equity shares, you can also talk about how much money the person has, what role money plays in their life, what role a feeling of ownership plays, how much control over what happens is involved, and how important identity is. All of these things play important roles in the division of equity.
+
+Something that can help you ask these critical questions is [The Partnership Charter,](https://www.goodreads.com/book/show/235803.The_Partnership_Charter), where psychologist and business mediation expert David Gage offers a comprehensive guide to the art of establishing and maintaining a partnership. The charter works for everything from marriages to business partnerships, and talking through the questions and answering them can benefit startup founders too. Asking the full inventory of important questions can be really hard, so starting with the Partnership Charter can be useful. 
+
+Once you have gone through the questions, you can identify the factors that should influence your decision. There is no one-size-fits-all for sharing equity, for some 50-50 works out well, whilst others can benefit from more unusual splits, like Uber who gave 90% to founders who weren't even full-time with the business. 
+
+Deciding on a number is a process of triangulation, and ideally you want to get to a place where everybody's feelings are known, regardless of whether they are happy or unhappy,  and you can work with everyone’s feelings as things unfold.
+
+With startups, long vesting periods can be beneficial. The market standard is a four-year vest, meaning you earn into your shares over four years. Founders typically don't have the "cliff" where an employee will vest over four years, but not get anything until the end of year one when they get a year all at once. Founders generally vest all the way through. Long vesting periods can seem daunting, but when you think about the fact that companies generally take a decade to succeed, having a 10-year vest doesn't seem that crazy. These long vests triangulate with many factors. It's not just about the money, or the fairness, or any one factor. It's about all of them, and you need to use the conversation about equity to get them on the table.
+
+You probably won’t care about your vesting period and equity shares unless you find yourself in the scenario where the company has been successful, but you only stayed for a while and then you got pushed out or left. In this case, you're probably going to end up having your stake renegotiated for you anyways. The next investor is going to say, "I don't want this person who's no longer involved at 15%, so as a condition of my investment, you need to go renegotiate that."
+
+Sharing equity is not just about money, it also involves other factors. In order to cover these factors in your conversation, you can ask questions and figure out how everyone is feeling.   
+
 
 **+++**
 
