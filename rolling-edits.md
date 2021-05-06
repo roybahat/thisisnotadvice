@@ -3,7 +3,7 @@
 _**+++**_
 **DAY 92**
 
-\*\*\*\*[**I'm a first time founder. How do I know when to start charging for my product?**](https://www.pscp.tv/w/1mnxelpqyLaJX)\*\*\*\*
+[**I'm a first time founder. How do I know when to start charging for my product?**](https://www.pscp.tv/w/1mnxelpqyLaJX)
 
 There are many benefits to charging for your product, and when deciding what to charge, it's useful to spend some time thinking about how valuable a customer will find it.
 
