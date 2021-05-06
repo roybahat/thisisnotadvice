@@ -1,23 +1,5 @@
 # / Rolling edits
 
-**‌**[**How do I get the job when I don't feel like I fit the stereotype?**](https://www.youtube.com/watch?v=tuPdJLJ6dcg&feature=youtu.be)
-
-If you don’t fit the stereotype for a job, it’s good to think about how emphasizing your differences could be beneficial.
-
-Oftentimes, it is your differentiated experience and point of view that makes you attractive to the employer. Instead of making excuses for your non-cookie-cutter background, consider highlighting these differences and talk about how they would allow you to excel in the responsibilities stated in the job description. 
-
-You may feel skeptical that the hiring manager will place value in what you have to offer and how it will translate to something that their business will benefit from. You can take a position in your storytelling that places emphasis on why the rewards are worth the risk.
-
-Recruiters often offer opportunities to do this when they ask questions like, "Why did this not work out? Why did you pivot? Why did you change?" This may seem intimidating, but it can serve as an opportunity to tell a story and show how you're an interdisciplinary thinker. 
-
-\[Ed.: Bo got into law school, paid her down payment for school, and ended up joining a startup instead.\] 
-
-Having plans that change, or a non-linear journey can allow you to gain new inputs and experience in various fields. And following your curiosity is rarely a bad thing. 
-
-You may think that your background doesn’t align with the expectations of a potential employer, but in emphasizing why your different history can benefit a company, you can come across as even more attractive to the hiring person.
-
-\[The above includes contributions from[ Bo Ren](https://twitter.com/Bosefina?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor), Head of Ecosystem and Assistant GM at Samsung NEXT.\]
-
 _**+++**_
 
 **DAY 91**
