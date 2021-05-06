@@ -94,7 +94,7 @@ An important note: interviewing is a pernicious entry place where bias enters in
 
 
 
-#### [You're hiring someone and you're unsure what to pay them. What should you pay them?](https://www.pscp.tv/roybahat/1eaKbzdkXmYKX)
+#### [**You're hiring someone and you're unsure what to pay them. What should you pay them?**](https://www.pscp.tv/roybahat/1eaKbzdkXmYKX)
 
 As a matter of principle, you want to pay everybody fairly. That means that you would be happy if you were in their shoes, getting paid what you're offering them, knowing what you know. If their happiness depends on their lack of knowledge, you're probably making a mistake.
 
@@ -108,13 +108,44 @@ To figure out what to pay them: What are they worth to you? What is the value th
 
 
 
-[**Should hiring decisions be unanimous?**](https://www.pscp.tv/roybahat/1mnGelXLEaQKX?t=24m13s)\*\*\*\*
+[**Should hiring decisions be unanimous?**](https://www.pscp.tv/roybahat/1mnGelXLEaQKX?t=24m13s)
 
 Choosing whether to make hiring decisions unanimous should depend on the cost of being wrong. For example, when making a hiring decision for the ninth person to join your 90-person sales team, unanimity doesn't feel necessary.
 
 \[Ed.: On the Bloomberg Beta team, hiring is unanimous. There's always a decisionmaker, but all of us has to be at least enthusiastic about the person. All of us will meet the person because it's such a small team and we all work closely together. If one person ends up not being excited to work with a person, then it just doesn't work.\]
 
 Unanimity may make for a more uniform pool of people who everybody likes, and you have to be careful not to just end up with a "least common denominator" hire. You have to compensate for that by talking a lot about how the diversity of perspectives and backgrounds that you want. So there isn't a right answer to unanimity, but the principle is to take into account the cost of being wrong.
+
+
+[**Our company has never sponsored anyone for a visa in the US. Which type of visa should we pursue?**](https://www.pscp.tv/w/1mrxmEkkkwwxy)
+
+For some people, there is a sense of mystery that hangs over the process of acquiring a visa. The consequential nature of the decisions you make when trying to obtain a visa might make you feel terrified or powerless, but there is no need for either of these feelings. This doesn’t serve as legal advice, but it should give you a framework for the way forward.
+
+The approach to acquiring a visa as a founder and as an employee are different.  
+
+If you've already started a company and raised some capital and are now looking at hiring someone who is already in the US and has some visa status, you’re asking yourself, “How do I bring them to work at my company?” The short answer is you need to sponsor their visa in order to give them full-time or part-time employment. There are many types of visas, and there are many pathways to immigration, depending on your intent and the person seeking a visa. To figure out which pathway is best, ask yourself and your future employee some questions (including about their education, citizenship, professional experience), and whether they want to be in the country long-term.
+
+Once you have the answers to these questions, select the right immigration counsel. The guidance that you find on the internet is often wrong or confusing. Working with the right experts can save you time and headaches.
+
+Asking attorneys for advice can be frustrating as some of them may see your questions as an opportunity to sell you more legal services. A good attorney will ask you, “what are you trying to protect?” You need to find someone who will try to help you achieve your objective rather than merely do what you ask them to do. 
+
+Some of the visa categories are dependent on your company's current state. For example, you can’t apply for a J-1 when you've only just started a company; however, you can apply for an H-1B, even if you started the company only three days ago (it's about how much money you've raised). With this in mind, find someone who is going to use all of the information you provide for your specific situation. (Remember not every immigration attorney is a good *start-up* immigration attorney.) Many attorneys specialize in high-volume cases -- as a startup founder, what you want is someone who's going to look at the specifics and figure out which type of playbook is best for you.
+
+How do you know if you have a good immigration lawyer, and how do you find one?
+
+A worthwhile lawyer will be creative and ask questions like, "Do you know everything about this person? Do you know what their marital status is? Do you know if they have any family background in the US or if they are the first in their family to come to the US?"
+
+It’s easy to think of H-1B by default, as this is the poster child of work visas. In reality, H-1B is just one of the 25 or more different visa pathways, which is why it's important to work with the right partnerscounsel. Choosing an immigration lawyer for your company can be almost as important as choosing the right investor for your company, as an immigration attorney could cause you to gain or lose key talent that could make a difference for your business.
+
+Although every case is different, it’s good to have a general idea of how long the process will take, how much it will cost and how certain it is.
+
+You can expect it to take about a month, at least, to process somebody's visa. Some visas allow people to start working on them as soon as you file the petition. If you file a petition for a person who is already working on an H-1B visa, they can join you immediately; you don’t have to wait. However, in most cases, the other visa categories have an approval criterion, where until they're approved, they can't work. So, as an employer, you should factor this into your calculation.
+
+Many founders wonder if they can even found a company when on a visa, or if they should rather wait. The biggest cost of being on a visa as a founder is waiting and delaying when you start your company. Rather than simply waiting, consider going out and seeking out partners who are going to provide you with the resources that you need. If you think you have something that you want to start today, you should start today.
+
+Immigration plays a particularly critical role in the startup ecosystem. Going through the process of acquiring a visa can be a stressful venture, but it is well worth it in the end as long as you protect yourself and seek information from the right sources. 
+
+_\[Contributed in part by_ [_Nitin Pachisia, Founding Partner, Unshackled Ventures_](https://twitter.com/immigreating?lang=en)_\]_
 
 
 

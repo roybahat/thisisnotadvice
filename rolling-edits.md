@@ -2,9 +2,32 @@
 
 _**+++**_
 
+[**If I'm on a visa in the US, what do I need to know about my options for changing jobs?**](https://www.pscp.tv/w/1mrxmEkkkwwxy)
+
+If you are an employee who's on a visa, such as an H-1B visa which is associated with your employer, and you are approached by a startup who wants to employ you, you may be concerned about leaving your big, safe company for a startup. What happens if while you're on a visa, you go to a startup and you lose your job?
+
+When deciding to take the risk, you should ask yourself if you believe in the founder of the startup and if you believe that the founder will be able to lead the company. Your risk is amplified when you are on a visa, because now you have a dependency on the startup company. It may be necessary to consider what your options are if the startup isn’t able to raise money. Here it comes down to how confident you are that you can find another job quickly. 
+
+In terms of how long you legally have to find another job, there are some common misconceptions. You may think that if the startup folds, you will have a month to find a new job before you are forced to leave the country. Fortunately, this is no longer the case for many visas.  For visas like an H-1B, you now have 60 days to find another job during which you are  in status and not considered to be overstaying. There are also other ways in which you can extend that timeline, such as applying immediately for a tourist visa.  In doing this, you can't work until the next employer files for your visa, but you are in status.
+
+One important thing for all immigrants is having their immigration lawyer's number on speed dial so that when an issue comes up, they can phone their lawyer and ask them for advice.
+
+You may wonder if you even need a personal immigration lawyer if your company has someone who may be able to help you. \[Ed.: When Nitin was at Deloitte, they had a big law firm, and they never represented him; they only represented the employer.\]
+
+When it comes to these big law firms or an immigration lawyer that is employed by your company, these lawyers do not work for you, and so they may not prioritize you and therefore  you should probably have your own immigration counsel. Even if your employer's counsel is doing the work, you want to be able to consult your own counsel to make sure that there is someone who is working with your best interest in mind. The cost of your own immigration counsel may seem like a steep price, but it is well worth the return on investment.
+
+Another reason you could benefit from having your own immigration counsel is in the case of you wanting to start ventures outside of your current employment, say, starting your own company. Your employer’s immigration counsel isn’t going to guide you on how to start your company or what visa you should get to do that. Your own immigration counsel will guide you the right way, and hopefully, they understand startup law or startup immigration.
+
+Like everything else in life, you need to surround yourself with the right people who can get or keep you out of trouble. When you make the choice to go to another country, you know that you have to be bound by certain laws, which you probably don't understand fully- most of us don’t understand immigration law fully. Similarly to finding the right kind of legal counsel, surrounding yourself with people who have been in a similar situation to you can be just as important.
+
+There is an emotional component when it comes to managing the uncertainty of the visa process. The process can be excruciating for founders and employees: you spend time working on something, and then you send some pieces of paper into a faceless bureaucracy. It can feel like your future rests in the hands of people who don’t seem to want you in this country.  This personal side of immigration isn’t often talked about. Being a founder is stressful and being a founder on a visa is even more stressful. What can really help you in these highly stressful times is having a community that stands by you. In addition to all of the tangible resources that you can get on immigration support and litigation, being surrounded by founders who are empathetic to where you’re coming from will serve as a huge resource.
+
+_\[Contributed in part by_ [_Nitin Pachisia, Founding Partner, Unshackled Ventures_](https://twitter.com/immigreating?lang=en)_\]_
+
+
 **DAY 91**
 
-[**Our startup has never sponsored anyone for a visa. Which type of visa should we pursue?**](https://www.pscp.tv/w/1mrxmEkkkwwxy)\*\*\*\*
+[**Our company has never sponsored anyone for a visa. Which type of visa should we pursue?**](https://www.pscp.tv/w/1mrxmEkkkwwxy)
 
 For some people, there is a sense of mystery that hangs over the process of acquiring a visa. The consequential nature of the decisions you need to make when trying to obtain a visa might make you feel terrified or powerless, but there is no need for either of these feelings. Some of the questions you may ask yourself are going to be answered below. This doesn’t serve as legal advice, but it should give you a framework for the way forward.
 
@@ -44,7 +67,7 @@ In terms of how long you legally have to find another job, there are some common
 
 One important thing for all immigrants is having their immigration lawyer's number on speed dial so that when an issue comes up, they can phone their lawyer and ask them for advice.
 
-You may wonder if you even need a personal immigration lawyer if your company has someone who may be able to help you. \[Ed.: When Nirin was at Deloitte, they had a big law firm, and they never represented him; they only represented the employer.\]
+You may wonder if you even need a personal immigration lawyer if your company has someone who may be able to help you. \[Ed.: When Nitin was at Deloitte, they had a big law firm, and they never represented him; they only represented the employer.\]
 
 When it comes to these big law firms or an immigration lawyer that is employed by your company, these lawyers do not work for you, and so they may not prioritize you and therefore  you should probably have your own immigration counsel. Even if your employer's counsel is doing the work, you want to be able to consult your own counsel to make sure that there is someone who is working with your best interest in mind. The cost of your own immigration counsel may seem like a steep price, but it is well worth the return on investment.
 
