@@ -22,8 +22,10 @@ Let's standardize on either YouTube or Periscope links.
 Omit needless words and phrases. For example, you can usually strike:
 * "it is important to"
 * "you need to"
+* "you should"
 * "a lot of" (this is a phrase that sounds more natural when spoken than written)
 * Even the word "that" often adds nothing!
+* WOrds like "are" and "is" often provide clues that you can simplify a sentence. Consider "consider what your options are" vs. "consider your options."
 
 \*\*\*\*
 
