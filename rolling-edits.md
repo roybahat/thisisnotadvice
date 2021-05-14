@@ -206,9 +206,31 @@ _\[Contributed in part by:_ [_Dan Pupius, CEO & Co-Founder, Range_](https://twit
 
 **DAY 100**
 
-**Can I change my company name?**
+\*\*\*\*[**Can I change my company name?**](https://www.pscp.tv/roybahat/1MnGndwoeZyxO)
 
-\[guest: [Spike Lipkin, Co-Founder & CEO, Newfront Insurance](https://www.linkedin.com/in/spike-lipkin/)\]
+If you believe that changing your company name is the best thing for your business, the process of doing so is challenging and long, but still entirely possible. 
+
+\[Ed.: Spike is the founder of "Newfront", which was once called “Abe Insurance.” There are a number of reasons why you may want to change your name, but for Spike, the fact that many people thought Abe was an acronym and that he was associated with Shinzo Abe was reason enough.\]
+
+There may not be one instance that makes you decide, “Okay, it’s time to change our company name.” But if there has been an accumulation of consumer conversations where your name was identified as something that they can’t relate to or deterred them in some way, you might want to consider changing it. \[For Spike, one of these conversations included a broker telling him that he would join their company in spite of their name.\]
+
+If you decide that it is necessary to change your name, you might be tempted to delay the process for as long as possible. Like exercise, changing your name can become something that stays at the back of your mind. You know you need to do it, but you never get around to actually doing it. 
+
+There are many approaches you can take when trying to come up with a new name. You might choose to speak to someone who has experience with company names, who will ask you questions like, "Imagine how the name makes you feel." \[Ed.: Although this may work for some people, Spike believes that they spent too long doing this.\] Alternatively, you could get creative and try combining words to create a name. 
+
+No matter what approach you take, if you are selling or working in an existing market, you will probably come to the realization that almost every name is already taken. This may not be a problem if you're in crypto, but if you, like Spike, are working in a well-developed market like insurance, you will see that in order to have something unique, you will have to make up a name that isn’t an existing word or something that you would usually think of.
+
+You may decide to change the name of the corporation or just your DBA, "doing business as" name. Your decision may be based on personal reasons, or legal reasons which sometimes require you to change the name of your corporation. Once you have picked the name for your corporation or DBA, the process of actually changing the name starts. If your company is already well-established and you are regulated by multiple states, have many licenses or have trading partners who you have legal relationships with, the process of changing your name can be a long and laborious one. \[Ed.: Spike’s law firm gave him a 2 page checklist to make the process easier. You can find it here.\]
+
+You will see some things on the checklist that you probably would never have thought of. One of them is the fact that a lot of things are on payroll, especially if you have employees in multiple states. Something else to consider is if you are involved in a lawsuit, you will have to notify the courts of your name change. 
+
+Another thing that can make the process difficult is if those you work with have different processes for updating their contracts. 
+
+Once you have legally changed your name, you can begin to update your platform. This can be particularly challenging if you already have a complex product with your old name written all over it. An important aspect of this is securing a new domain. It isn’t always necessary to have a domain that matches your company’s name, but if it is for you, it might be best to secure it early so you don’t end up spending large sums of money buying it from someone. 
+
+The process of changing your company’s name is undoubtedly a hassle \[Ed.: one that lasted about 6 months for Spike\], but it is something that can build value in the company in the long term. 
+
+_\[Contributed in part by:_ [_Spike Lipkin, Co-Founder & CEO, Newfront Insurance_](https://www.linkedin.com/in/spike-lipkin/)_\]_
 
 **+++**
 
