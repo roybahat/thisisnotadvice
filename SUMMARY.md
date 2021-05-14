@@ -27,5 +27,5 @@
 * [/ Rolling edits](rolling-edits.md)
 * [/ Cutting room floor](cutting-room-floor.md)
 * [/ Needs more content or research](needs-more-content-or-research.md)
-* [/ Notes for final edit](notes-for-final-edit.md)
+* [/ Style guide](notes-for-final-edit.md)
 
