@@ -1,6 +1,5 @@
 # / Rolling edits
 
-_**+++**_
 **DAY 92**
 
 [**I'm a first time founder. How do I know when to start charging for my product?**](https://www.pscp.tv/w/1mnxelpqyLaJX)
@@ -11,33 +10,33 @@ Many SaaS companies offer free trials for their services, and the people using t
 
 The fundamental belief is that if the software is great for a person, they'll pay for it. They won't feel bad about it, and they'll feel like they're spending their money on something that's valuable and saves them time.
 
-One of the reasons pricing is so hard for people is that it involves making many choices at once.  Questions about what your long-term business model is and how much profit you will make can be answered by getting evidence that your product is actually useful to someone.
+One of the reasons pricing is so hard for people is that it involves making many choices at once. Questions about what your long-term business model is and how much profit you will make can be answered by getting evidence that your product is actually useful to someone.
 
 It can feel very uncomfortable to charge early on when you feel a type of founders' guilt. You may be doubtful that your product is good enough to charge people for it and you may think it’s too early. The psychological temptation of founders and investors is to undercharge. Investors have the same idea that Economics 101 holds, which is that if you price less, you'll grow faster, but this is not always true in the early stages.
 
 One advantage of pricing early is that it can serve as a proxy for determining if someone's getting value out of the product. When people pay for your product, it proves that they view the product as valuable enough to warrant spending their money..
 
-Another advantage is that it highlights the people who are truly interested in the product from the beginning, so you know who to prioritize from day one rather than having a whole bunch of freeloaders and people who want access to something early but will never convert to paying users. 
+Another advantage is that it highlights the people who are truly interested in the product from the beginning, so you know who to prioritize from day one rather than having a whole bunch of freeloaders and people who want access to something early but will never convert to paying users.
 
-The number of people who are willing to pay can also help you to identify if your pricing is right. You can experiment with dropping or raising the price and observe if your conversions increase or decrease.  The choice to price allows you to get the evidence to figure out your place in the market..
+The number of people who are willing to pay can also help you to identify if your pricing is right. You can experiment with dropping or raising the price and observe if your conversions increase or decrease. The choice to price allows you to get the evidence to figure out your place in the market..
 
-A general rule of thumb for deciding what the price should be is to take whatever you think is right and double it. A lot of SaaS founders miss out on the opportunity to grow their income because they price too low. Rahul Vohra from Superhuman, has [shared](https://www.youtube.com/watch?v=JCiMqVC6Dok) interesting perspectives on pricing, noting that you should ask your _users_ what they're willing to pay and what would be too much. From this line of questioning, you can find a middle ground on a price point that offers your customers value but still lets you grow as a business.  If you look at other products and see what people are charging, you can say, let's double it and build a premium brand.
+A general rule of thumb for deciding what the price should be is to take whatever you think is right and double it. A lot of SaaS founders miss out on the opportunity to grow their income because they price too low. Rahul Vohra from Superhuman, has [shared](https://www.youtube.com/watch?v=JCiMqVC6Dok) interesting perspectives on pricing, noting that you should ask your _users_ what they're willing to pay and what would be too much. From this line of questioning, you can find a middle ground on a price point that offers your customers value but still lets you grow as a business. If you look at other products and see what people are charging, you can say, let's double it and build a premium brand.
 
-Your price choice is a big part of your brand. In most cases, the price of your product is quite malleable and can be changed over time because you're selling to a lot of end users. If you get the first thousand people wrong, you still have many others.. 
+Your price choice is a big part of your brand. In most cases, the price of your product is quite malleable and can be changed over time because you're selling to a lot of end users. If you get the first thousand people wrong, you still have many others..
 
-Although there are benefits to charging from early on, there are still consequences to charging too early. One way to figure out when to start charging is to use a two-phase approach. The first phase is pressure testing, where you get something into the market and see how well people respond to it. After you have tested if there is an interest in a product, you can move on to phase two, which is pressure testing pricing. 
+Although there are benefits to charging from early on, there are still consequences to charging too early. One way to figure out when to start charging is to use a two-phase approach. The first phase is pressure testing, where you get something into the market and see how well people respond to it. After you have tested if there is an interest in a product, you can move on to phase two, which is pressure testing pricing.
 
-During this phase, you would focus on two things: 1\) building a sticky, addictive product that people will use daily or weekly, and 2\) proving that the product is valuable and people will pay for it. 
+During this phase, you would focus on two things: 1\) building a sticky, addictive product that people will use daily or weekly, and 2\) proving that the product is valuable and people will pay for it.
 
-Oftentimes, asking people for pricing is not going to lead to the best result of where your pricing should be. There are various ways around this. One way could be to run various Twitter polls which ask questions like- ‘how much does your company let you expense per person, without approval or having to submit some sort of expense report?’ The responses to questions like these can give you an idea of how much the average person could afford to pay for your product.  
-  
-Another benefit to charging for your product is the connotations a paid product has for some people. Many customers appreciate paying for a product rather than being on a free version or trial, as it often means that they will get a better response and more assistance. Sometimes you get what you pay for, and many people recognize this and won’t mind paying for your quality product.  
+Oftentimes, asking people for pricing is not going to lead to the best result of where your pricing should be. There are various ways around this. One way could be to run various Twitter polls which ask questions like- ‘how much does your company let you expense per person, without approval or having to submit some sort of expense report?’ The responses to questions like these can give you an idea of how much the average person could afford to pay for your product.
 
-A great pricing strategy can really benefit your company, but if the pricing strategy is the only thing that allows you to be successful, you should have built a better product.  
-  
-Another way to decide on pricing is to assess the product’s value in terms of the time it saves customers. If your customer makes $50 an hour and your product saves them four hours a month, is it worth it to spend $25 to save $200? Most customers would be more than willing to spend $25 a month on something that could potentially save them hundreds to millions of dollars. 
+Another benefit to charging for your product is the connotations a paid product has for some people. Many customers appreciate paying for a product rather than being on a free version or trial, as it often means that they will get a better response and more assistance. Sometimes you get what you pay for, and many people recognize this and won’t mind paying for your quality product.
 
-When deciding what to charge for your product, it is important to recognize how valuable your product is. Figuring out what your product is worth will allow you to determine how much a customer would be willing to pay for it. There are various ways to figure out what this number is, but asking the right questions and assessing how people respond to your pricing are good ways to start. 
+A great pricing strategy can really benefit your company, but if the pricing strategy is the only thing that allows you to be successful, you should have built a better product.
+
+Another way to decide on pricing is to assess the product’s value in terms of the time it saves customers. If your customer makes $50 an hour and your product saves them four hours a month, is it worth it to spend $25 to save $200? Most customers would be more than willing to spend $25 a month on something that could potentially save them hundreds to millions of dollars.
+
+When deciding what to charge for your product, it is important to recognize how valuable your product is. Figuring out what your product is worth will allow you to determine how much a customer would be willing to pay for it. There are various ways to figure out what this number is, but asking the right questions and assessing how people respond to your pricing are good ways to start.
 
 _\[Contributed in part by_ [_Alex Cohen, Founder, CommandDot_](https://twitter.com/anothercohen)_\]_
 
@@ -49,13 +48,13 @@ _\[Contributed in part by_ [_Alex Cohen, Founder, CommandDot_](https://twitter.c
 
 Asking your friends and family for money can be a good idea, as long as you are completely transparent about the process and you prioritize your relationships.
 
-The answer to whether to take money from friends is family will be different for everyone. \[Ed.: Asking my mom for money was both necessary and incredibly difficult. I knew that my mom didn’t have a lot of money to invest in startups, but we really needed the money. Later, being able to pay her back with five times what she gave me was one of the most joyous moments of the whole startup experience for me\]. 
+The answer to whether to take money from friends is family will be different for everyone. \[Ed.: Asking my mom for money was both necessary and incredibly difficult. I knew that my mom didn’t have a lot of money to invest in startups, but we really needed the money. Later, being able to pay her back with five times what she gave me was one of the most joyous moments of the whole startup experience for me\].
 
-A useful question to ask when trying to decide if you should ask someone for money is: which do you value more, the relationship between you and the person you might ask, or the startup? Assuming that the relationship is more valuable than the thing you want to create, choose the approach that will conserve your relationship. If you are honest about the fact that there’s a good chance you’re going to lose the money they lend you, then losing that money probably won't cost you the relationship. What’s important is honesty. 
+A useful question to ask when trying to decide if you should ask someone for money is: which do you value more, the relationship between you and the person you might ask, or the startup? Assuming that the relationship is more valuable than the thing you want to create, choose the approach that will conserve your relationship. If you are honest about the fact that there’s a good chance you’re going to lose the money they lend you, then losing that money probably won't cost you the relationship. What’s important is honesty.
 
 Asking people who you know for money can be a very uncomfortable experience, and it can serve as a litmus test of how far you are willing to go for your startup venture. There are many things that may make you similarly uncomfortable, and this situation can serve as a good opportunity to evaluate how much you are willing to put yourself on the line.
 
-Like many things in life, there are limitations to what you can reasonably ask a person for. What is reasonable varies drastically from person to person and it depends on your life circumstances. \[Ed.: My college roommates were capable of writing a $10,000 check and had friends who could raise $100,000. I was very fortunate that this was the case and I  recognize that this isn’t the case for everyone.\] What you ask from your friends and family has to be scaled to what your personal network can do.
+Like many things in life, there are limitations to what you can reasonably ask a person for. What is reasonable varies drastically from person to person and it depends on your life circumstances. \[Ed.: My college roommates were capable of writing a $10,000 check and had friends who could raise $100,000. I was very fortunate that this was the case and I recognize that this isn’t the case for everyone.\] What you ask from your friends and family has to be scaled to what your personal network can do.
 
 One benefit to asking and receiving money from your friends and family is that it gives you an opportunity to build a coalition of people who know and trust you–and who can support you. In this way, asking for money can be empowering.
 
@@ -69,17 +68,17 @@ Asking those who are close to you for money can be a very difficult thing to do,
 
 Deciding whether to do [Y Combinator](https://www.ycombinator.com/) \(YC\) depends on what your goals are and if YC will be of value to you. Often it is worth it, but it's expensive \(YC requires a return of seven percent when the investment converts\). Seven percent may not sound like much in the beginning, but as you get bigger, you will realize that it's a lot. Like all things, this loss may be worth it in terms of value that YC delivers.
 
-People who can get value from YC are founders who lack a network of other founders, or founders who need a moment to focus and would benefit from having to put something together so they can present at demo day. YC gives you a wonderful community of founders and an opportunity to develop what you're doing. With YC, you may end up working with a partner or other founders that can give advice that could be transformative for your business. If your early customers are other startups, then YC can be especially useful as it introduces you to many potential customers.  
+People who can get value from YC are founders who lack a network of other founders, or founders who need a moment to focus and would benefit from having to put something together so they can present at demo day. YC gives you a wonderful community of founders and an opportunity to develop what you're doing. With YC, you may end up working with a partner or other founders that can give advice that could be transformative for your business. If your early customers are other startups, then YC can be especially useful as it introduces you to many potential customers.
 
-The people who may not get value from YC are the people who just want to do it for the name and the validation. There is no arguing that there is value in a name, but a name is more of an added benefit than a reason to do it. Seven percent is a steep price for a name. 
+The people who may not get value from YC are the people who just want to do it for the name and the validation. There is no arguing that there is value in a name, but a name is more of an added benefit than a reason to do it. Seven percent is a steep price for a name.
 
-For those who do find value in YC, that value will last long after YC. YC is not a full-time thing, but the community that you become a part of through YC lasts forever: being in Bookface, YC's  internal social network, lasts forever and the reputation benefit lasts forever. 
+For those who do find value in YC, that value will last long after YC. YC is not a full-time thing, but the community that you become a part of through YC lasts forever: being in Bookface, YC's internal social network, lasts forever and the reputation benefit lasts forever.
 
-One thing to consider is the fact that  YC classes are fairly big and this size _might_ mean that you don’t get to work with the kind of founders or partners that would be helpful to you. Despite the large class size, there still remains an under-representation of certain types of founders, so you should keep in mind that while you're joining a community of founders, that community is not going to be representative of all tech founders. 
+One thing to consider is the fact that YC classes are fairly big and this size _might_ mean that you don’t get to work with the kind of founders or partners that would be helpful to you. Despite the large class size, there still remains an under-representation of certain types of founders, so you should keep in mind that while you're joining a community of founders, that community is not going to be representative of all tech founders.
 
 While YC has a lot to offer, there are a number of other accelerators that are also great. Each accelerator has its own set of relationships and customer specialties and can help you with different things, from customer introductions to helping you figure out how to enter the market. Because of the wide range of accelerator options available, having an idea of what you’re looking for in an accelerator program is a good place to start.
 
-If you’re looking at these other lesser-known accelerator programs, you may be asking yourself, "How do I know if an accelerator is good?" There are definitely bad accelerators out there, which won’t support you or benefit you. Something that can help you determine if the accelerator is good is to find out what is the best company that has gone through the accelerator. If you can’t figure out who that is, then you should probably proceed with caution. 
+If you’re looking at these other lesser-known accelerator programs, you may be asking yourself, "How do I know if an accelerator is good?" There are definitely bad accelerators out there, which won’t support you or benefit you. Something that can help you determine if the accelerator is good is to find out what is the best company that has gone through the accelerator. If you can’t figure out who that is, then you should probably proceed with caution.
 
 Whether you should do YC or not depends entirely on your specific needs. YC can be very valuable to people who need to connect with other startups and founders, and those who need some direction.
 
@@ -89,7 +88,7 @@ Whether you should do YC or not depends entirely on your specific needs. YC can 
 
 \*\*\*\*[**How do I get my enterprise customer's attention when my startup lacks brand recognition?**](https://www.pscp.tv/w/1YqJDpgyeEaJV)\*\*\*\*
 
-When trying to get your enterprise customer’s attention, you may be able to employ the  techniques that [Joseph Freed](https://twitter.com/josephfreed79?lang=en) used when starting [Cultivate](https://cultivate.com/): 1\) networking at conferences and 2\) focusing on logos. When your startup lacks brand recognition, it can be difficult to get customers to engage with you, but there are ways to get around this.
+When trying to get your enterprise customer’s attention, you may be able to employ the techniques that [Joseph Freed](https://twitter.com/josephfreed79?lang=en) used when starting [Cultivate](https://cultivate.com/): 1\) networking at conferences and 2\) focusing on logos. When your startup lacks brand recognition, it can be difficult to get customers to engage with you, but there are ways to get around this.
 
 When choosing a conference to go to, the smaller and the nerdier, the better. With big companies and conferences, the speaker is surrounded by a throng of folks and having a meaningful conversation is just not possible. The best conferences are smaller and focused on practitioners.
 
@@ -97,31 +96,31 @@ At the conference, you can try to identify the specific buyers who might be inte
 
 Talking to speakers at conferences can be especially beneficial as they are primed to have these conversations–they’re already thought leaders. This isn’t to say that you will have a 100% success rate; the majority of people are going to say no, but because the speakers are generally more receptive, your hit rate will probably be higher.
 
-\[Ed.: I've been on the other side of this situation, as the speaker at a conference, and after speaking you find yourself surrounded by people who are trying to sell you something. What is key here is to try and approach the people that speak about topics that are related to what you do.\]  
+\[Ed.: I've been on the other side of this situation, as the speaker at a conference, and after speaking you find yourself surrounded by people who are trying to sell you something. What is key here is to try and approach the people that speak about topics that are related to what you do.\]
 
-Another area of focus for getting enterprise customers is to focus on getting credible logos. If you are trying to sell to enterprise people, you need logos because they’re more likely to buy when they know other credible companies have bought your product. 
+Another area of focus for getting enterprise customers is to focus on getting credible logos. If you are trying to sell to enterprise people, you need logos because they’re more likely to buy when they know other credible companies have bought your product.
 
-One way to get these early logos and pre-customer logos is to be involved with incubators and accelerators from large enterprises. A lot of these programs have no strings attached. You show up, get advice, and then when you email people you can say that you are associated with that enterprise. 
+One way to get these early logos and pre-customer logos is to be involved with incubators and accelerators from large enterprises. A lot of these programs have no strings attached. You show up, get advice, and then when you email people you can say that you are associated with that enterprise.
 
 When people see that you worked with that enterprise, it signals to them that you know how to work and it shows who your target is.
 
-Getting an enterprise’s attention can be particularly difficult when you’re just starting out, but getting creative at conferences and with well-known companies via accelerators and incubators can help you get in the door.  
+Getting an enterprise’s attention can be particularly difficult when you’re just starting out, but getting creative at conferences and with well-known companies via accelerators and incubators can help you get in the door.
 
-_\[Contributed in part by_ [_Joseph Freed, CEO of Cultivate_](https://twitter.com/josephfreed79?lang=en)_\]_ 
+_\[Contributed in part by_ [_Joseph Freed, CEO of Cultivate_](https://twitter.com/josephfreed79?lang=en)_\]_
 
-**+++++++++++++++++BELOW BEING EDITED BY MEG+++++++++++++++++++++++++++++**
+**+++**
 
 **DAY 96**
 
 \*\*\*\*[**When is it OK to send a scheduling tool like Calendly?**](https://www.pscp.tv/w/1djxXorXEOEJZ)
 
-Whether you should send a Calendly link to someone or not depends on the person who you’re sending it to and if their convenience is more important to you than your own. 
+If you're thinking about sending a scheduling link through a tool like Calendly, think about the person who you’re sending it to and whether their convenience is more important to you than your own.
 
-Although some people might appreciate the link, others will see it as an inconvenience.   Figuring out if a person will appreciate it or not can be a challenge as very few people would actually admit to hating Calendly links when asked. \[Ed.: when I receive them, I'm fortunate because I have administrative assistants. If I didn’t have the assistance, I think dealing with Calendly would be a lot more difficult.\]
+Although some people might appreciate getting a scheduling link, others will see it as an inconvenience. Figuring out if a person will appreciate it or not can be a challenge as very few people would actually admit to hating Calendly links when asked. \[Ed.: when I receive them, I'm fortunate because I have administrative assistants. If I didn’t have the assistance, I think dealing with Calendly would be a lot more difficult.\]
 
-When deciding to send a Calendly link, it can be useful to consider what you are solving for. If you are solving for your own convenience, then Calendly is magnificent. If you're solving for the convenience of the other person, then it depends on how the receiver will interpret it. If the person you’re sending it to is somebody who is super familiar with these types of tools and you get a sense that they're very tech savvy, then they would probably appreciate the Calendly link. But it’s important to remember that a lot of people in the business or organization world may not be as knowledgeable about things like Calendly and for them, it may be a burden. If the relationship is important to you, and you don’t know the person well, you may not want to ask them to do work by clicking through to something and picking something like Calendly, Doodle, or Mixmax.
+When deciding to send a Calendly link, it can be useful to consider what you are solving for. If you are solving for your own convenience, then Calendly is magnificent. If you're solving for the convenience of the other person, then it depends on how the receiver will interpret it. If the person you’re sending it to is somebody who is super familiar with these types of tools and you get a sense that they're very tech savvy, then they would probably appreciate the Calendly link. But it’s important to remember that a lot of people in the business world may not be as knowledgeable about things like Calendly and for them, it may be a burden. If the relationship is important to you, and you don’t know the person well, you may not want to ask them to do work by clicking through to something and picking something like Calendly, Doodle, or Mixmax.
 
-Like so many other things, who might find something like Calendly convenient has changed post-COVID, as now, a lot more people are online and trying to find time. Many more people might be saying to themselves, "Oh, you know what? This actually saves me a lot of time because now I can just cross check my calendar against yours, at my own leisure, and it'll actually be much faster than having to email back and forth."
+Like so many other things, who might find something like Calendly convenient has changed post-COVID, as now, a lot more people are online and trying to find time. Many more people might be saying to themselves, "This actually saves me a lot of time because now I can just cross check my calendar against yours, at my own leisure, and it'll actually be much faster than having to email back and forth."
 
 If you just aren’t sure how they will perceive the Calendly link, you can always give them the option to use it or not. You could say, “Would you be free next Tuesday at three? If that doesn't work for you, let me know when it might, or if you prefer, you can just click here.”
 
@@ -129,21 +128,23 @@ If you’re solving for your own convenience, sending a Calendly link is a great
 
 **+++**
 
+**+++++++++++++++++BELOW BEING EDITED BY MEG+++++++++++++++++++++++++++++**
+
 **DAY 97**
 
 \*\*\*\*[**How do I do the least amount of work to prove I have a good idea for a startup?**](https://www.pscp.tv/w/1yoKMXyMbYNxQ)
 
 If you are a founder who has a good idea for a startup, the execution of that idea is really important. But many people ask themselves, "What is the smallest amount of work I can do and still be successful?" Cutting corners can be beneficial, but it is important that you still prove that customers will value your product and that you give yourself enough time to evaluate yourself and the startup process.
 
-When starting out, it’s easy to spend time on your strengths and ignore your weaknesses until much later. This is aided by the startup world, which often fetishizes a founders' particular strength. That is to say, if you know a particular founder is design-oriented, you expect to see some of the most beautifully designed things from them. Despite this, if you know you are capable of doing something, it can be beneficial to focus on the other things. Simply put: start with the stuff you don’t know you can do. 
+When starting out, it’s easy to spend time on your strengths and ignore your weaknesses until much later. This is aided by the startup world, which often fetishizes a founders' particular strength. That is to say, if you know a particular founder is design-oriented, you expect to see some of the most beautifully designed things from them. Despite this, if you know you are capable of doing something, it can be beneficial to focus on the other things. Simply put: start with the stuff you don’t know you can do.
 
-For many people, what you don’t know you can do is creating demand for your product. If you’re going to take shortcuts, the shortcuts should allow you to prove that people will want your product. There is a paradox in taking shortcuts, as you want something that seems extraordinary to others, but you also want to work as little as possible and not put in time to make this thing extraordinary. Something that can be useful for this is creating a throw-away product. This is a product that you don’t intend to sell, but it serves as a way to test an aspect of your hypothesis. The goal here isn’t to create something beautiful, but simply to prove that it will do what you want it to do and that people will find it useful. \[Ed.: I love when we get pitched things that are totally busted and janky, but a bunch of the people using it adore it because it just does that thing. It being busted and janky isn’t a problem because you can fix all that stuff over time.\]  
+For many people, what you don’t know you can do is creating demand for your product. If you’re going to take shortcuts, the shortcuts should allow you to prove that people will want your product. There is a paradox in taking shortcuts, as you want something that seems extraordinary to others, but you also want to work as little as possible and not put in time to make this thing extraordinary. Something that can be useful for this is creating a throw-away product. This is a product that you don’t intend to sell, but it serves as a way to test an aspect of your hypothesis. The goal here isn’t to create something beautiful, but simply to prove that it will do what you want it to do and that people will find it useful. \[Ed.: I love when we get pitched things that are totally busted and janky, but a bunch of the people using it adore it because it just does that thing. It being busted and janky isn’t a problem because you can fix all that stuff over time.\]
 
-Oftentimes, what is important when pitching your startup idea is that it makes customers think,  "Oh, this is amazing, this solves my problem." In the old days, you may have had a conversation or used a PowerPoint to make your pitch. But now, people are getting away with something that looks like a Google Spreadsheet because they know exactly how to talk about it, answer the problem and re-pitch it in a way that their customer base understands. They are putting less effort into the pitch presentation but because they are approaching it with proving their value in mind, they are still impressing their customers.
+Oftentimes, what is important when pitching your startup idea is that it makes customers think, "Oh, this is amazing, this solves my problem." In the old days, you may have had a conversation or used a PowerPoint to make your pitch. But now, people are getting away with something that looks like a Google Spreadsheet because they know exactly how to talk about it, answer the problem and re-pitch it in a way that their customer base understands. They are putting less effort into the pitch presentation but because they are approaching it with proving their value in mind, they are still impressing their customers.
 
 An important thing to consider is the fact that a startup is not just a product or an idea, it's a fiction created by a set of people and there is a social angle of trying to create your startup. You can think of the startup world as an ecosystem. Apart from you, the ecosystem also consists of those who you work with and those who you sell to. It’s important to consider these members of the ecosystem too and ask yourself, “Do you like selling to these types of people? Do you like the people who you might have to hire?”As you create your product and ask yourself these critical questions, you may find that some aspects that you were convinced of no longer seem like the right way forward. A classic example of this is a technical founder who has a thing that requires enterprise sales but then later discovers that they don't want to be selling things to enterprises and take CIOs out for steak dinners. Making these discoveries is a very important process and so if you feel like you aren’t moving fast enough with your idea, you can be assured that you are at least making progress here. On the one hand, you want to be lazy and figure your idea out as quickly as possible. On the other hand, you still need to figure out if you want to do this and if you want to devote yourself to it. When you are trying to prove you can create a startup, you tend to think of the customers, but really, it's as much about the customers as it is about you.
 
-Creating a startup can cause you to incur all kinds of debt, including technical debt, but it is important that the process doesn’t decrease your enthusiasm. \[Ed.: Julia, my co-founder, had a great definition of success, which is, "If every day or every week, you're more excited about it than you were the week before, you're succeeding." And it sounds so simple but ultimately the battery pack that fuels companies is founder enthusiasm.\] Taking shortcuts and taking the lean MVP route can be beneficial, but make sure it's personally viable to you and it doesn’t lead to the death of your enthusiasm. 
+Creating a startup can cause you to incur all kinds of debt, including technical debt, but it is important that the process doesn’t decrease your enthusiasm. \[Ed.: Julia, my co-founder, had a great definition of success, which is, "If every day or every week, you're more excited about it than you were the week before, you're succeeding." And it sounds so simple but ultimately the battery pack that fuels companies is founder enthusiasm.\] Taking shortcuts and taking the lean MVP route can be beneficial, but make sure it's personally viable to you and it doesn’t lead to the death of your enthusiasm.
 
 When trying to do as little work as possible, it is important to still test if your product is useful and have insight about the thing that is going to be wildly exciting to the customer. Even if you cut a ton of corners, you can't cut the corner of what will excite the customer, because that's the whole value.
 
@@ -159,28 +160,49 @@ There is no one right answer to how to split equity shares among co-founders, bu
 
 How you should split equity among co-founders is an important decision that you shouldn’t take lightly. It is important as, firstly, if you regret your decision later, it can be hard to fix and secondly, your views on the subject will probably change-- when the person who you thought was going to be really valuable turns out to be a dud, you will have to manage that and deal with the fact that their shares don’t reflect their involvement.
 
-When people approach equity shares, they usually have a conversation that is purely about those equity shares. Really, the conversation should be about much more.  In addition to equity shares, you can also talk about how much money the person has, what role money plays in their life, what role a feeling of ownership plays, how much control over what happens is involved, and how important identity is. All of these things play important roles in the division of equity.
+When people approach equity shares, they usually have a conversation that is purely about those equity shares. Really, the conversation should be about much more. In addition to equity shares, you can also talk about how much money the person has, what role money plays in their life, what role a feeling of ownership plays, how much control over what happens is involved, and how important identity is. All of these things play important roles in the division of equity.
 
-Something that can help you ask these critical questions is [The Partnership Charter,](https://www.goodreads.com/book/show/235803.The_Partnership_Charter), where psychologist and business mediation expert David Gage offers a comprehensive guide to the art of establishing and maintaining a partnership. The charter works for everything from marriages to business partnerships, and talking through the questions and answering them can benefit startup founders too. Asking the full inventory of important questions can be really hard, so starting with the Partnership Charter can be useful. 
+Something that can help you ask these critical questions is [The Partnership Charter,](https://www.goodreads.com/book/show/235803.The_Partnership_Charter), where psychologist and business mediation expert David Gage offers a comprehensive guide to the art of establishing and maintaining a partnership. The charter works for everything from marriages to business partnerships, and talking through the questions and answering them can benefit startup founders too. Asking the full inventory of important questions can be really hard, so starting with the Partnership Charter can be useful.
 
-Once you have gone through the questions, you can identify the factors that should influence your decision. There is no one-size-fits-all for sharing equity, for some 50-50 works out well, whilst others can benefit from more unusual splits, like Uber who gave 90% to founders who weren't even full-time with the business. 
+Once you have gone through the questions, you can identify the factors that should influence your decision. There is no one-size-fits-all for sharing equity, for some 50-50 works out well, whilst others can benefit from more unusual splits, like Uber who gave 90% to founders who weren't even full-time with the business.
 
-Deciding on a number is a process of triangulation, and ideally you want to get to a place where everybody's feelings are known, regardless of whether they are happy or unhappy,  and you can work with everyone’s feelings as things unfold.
+Deciding on a number is a process of triangulation, and ideally you want to get to a place where everybody's feelings are known, regardless of whether they are happy or unhappy, and you can work with everyone’s feelings as things unfold.
 
 With startups, long vesting periods can be beneficial. The market standard is a four-year vest, meaning you earn into your shares over four years. Founders typically don't have the "cliff" where an employee will vest over four years, but not get anything until the end of year one when they get a year all at once. Founders generally vest all the way through. Long vesting periods can seem daunting, but when you think about the fact that companies generally take a decade to succeed, having a 10-year vest doesn't seem that crazy. These long vests triangulate with many factors. It's not just about the money, or the fairness, or any one factor. It's about all of them, and you need to use the conversation about equity to get them on the table.
 
 You probably won’t care about your vesting period and equity shares unless you find yourself in the scenario where the company has been successful, but you only stayed for a while and then you got pushed out or left. In this case, you're probably going to end up having your stake renegotiated for you anyways. The next investor is going to say, "I don't want this person who's no longer involved at 15%, so as a condition of my investment, you need to go renegotiate that."
 
-Sharing equity is not just about money, it also involves other factors. In order to cover these factors in your conversation, you can ask questions and figure out how everyone is feeling.   
-
+Sharing equity is not just about money, it also involves other factors. In order to cover these factors in your conversation, you can ask questions and figure out how everyone is feeling.
 
 **+++**
 
 **DAY 99**
 
-**My company is growing. How do I keep track of what's going on?**
+\*\*\*\*[**My company is growing. How do I keep track of what's going on?**](https://www.pscp.tv/w/1ynKOqDDjoQJR)\*\*\*\*
 
-\[guest: [Dan Pupius, CEO & Co-Founder, Range](https://twitter.com/dpup)\]
+As your company grows, you might find that you are no longer able to keep track of what is going on and stay on top of everything. Once you have accepted this, you can focus on staying on top of the important things, which can be identified using a sensing system.
+
+The first part of this answer is: don't try and know everything that is going on. Instead of trying to stay on top of everything, solve the problem by coming to the realization that you can’t stay on top of everything. Struggling to manage everything is common when your company grows and you hire more people to get leverage. With this growth, you’re probably going to need to operate at a different level of structure. Bringing more people on means that you are going to need to get comfortable with not knowing, and let your team do what they were hired to do. 
+
+The second part directly follows the first part: if you know that you aren’t going to pay attention to everything, how will you pay attention to the right things? 
+
+A way to make sure that you know about the right things is to have a sensing system in place. A sensing system will tell you when something goes wrong, or especially right, and will draw your attention to what needs input from you. Your sensing system can be through software, human processes, or interactions with different people. What form your sensing system takes is not important, as long as it allows you to understand the complex organism that is your company.
+
+\[Ed.: When Dan was at Medium, the team grew to a size where he could no longer know what each team member was doing. Dan felt that he didn’t know much about what his Eng team was up to, and so when it came to reporting their progress to the Exec team, he didn’t have much to share. 
+
+He then started having those Eng teams try and send him a report on Friday that he could then relate to the Exec team. But unfortunately, this wasn’t successful as noone wanted to report to him just for the sake of reporting to him. 
+
+So, he ended up creating a sensing system that could broadcast information to the whole company. Instead of team members giving information to him, he facilitated the flow of  information to the rest of the company. He was then able to highlight their work and represent it to the company through the weekly engineering report.\]
+
+Creating a broadcasting system like Dan’s is one way to set up a sensing system, but really what you need are rituals and cadence. The sensing system is built on top of rituals, and they have to be weekly, daily, monthly, and yearly. You can then build up that cadence of communication. 
+
+One way to incorporate a ritual is by using Range. If your team checks in with you routinely, you can assess how they are answering the team question and how their mood is. You can use these things to decide if you should look at something in more detail and go into their day-to-day work. Noticing when your team members aren’t acting as they usually do can allow you to be alerted when they are struggling or need more support. 
+
+You may think that a sensing system is about dealing with information that is present, but it is actually also about dealing with the absence of information. Oftentimes, when people on a team are struggling, they stop being forthcoming in their communication. In these cases, you take notice of the absence of information. If someone you usually hear from every day suddenly goes quiet, that is your signal that something may be wrong. 
+
+As your company increases in size, you probably aren’t going to be able to know everything that is going on in your company. Instead, you can strive to know the important things, which a sensing system can help bring to your attention.
+
+_\[Contributed in part by:_ [_Dan Pupius, CEO & Co-Founder, Range_](https://twitter.com/dpup)_\]_
 
 **+++**
 
@@ -232,7 +254,7 @@ Sharing equity is not just about money, it also involves other factors. In order
 
 **How do I set new expectations with my teammates as a WFH parent?**
 
-\[guest: ****[Caroline Fairchild, Editor at Large, LinkedIn](https://twitter.com/CFair1)\]
+\[guest: _\*\*_[Caroline Fairchild, Editor at Large, LinkedIn](https://twitter.com/CFair1)\]
 
 **+++**
 
@@ -802,9 +824,9 @@ All right. Thanks for having me talk to you all soon. Bye.
 
 **+++**
 
-**DAY 117  
-  
-How do I set boundaries on how much I work when there's always more to get done?**
+\*\*DAY 117
+
+How do I set boundaries on how much I work when there's always more to get done?\*\*
 
 Roy:
 
@@ -1094,7 +1116,7 @@ To be continued.
 
 **How do I kill projects when everything feels important?**
 
-\[Guest: ****[Jason Madhosingh](https://twitter.com/madho?lang=en)\]
+\[Guest: _\*\*_[Jason Madhosingh](https://twitter.com/madho?lang=en)\]
 
 Roy:
 
@@ -1720,8 +1742,8 @@ Thank you, Minn.
 
 **+++**
 
-**DAY 125**  
-  
+**DAY 125**
+
 **As the technical co-founder, what changes can I expect to navigate as we hire other product and eng execs?**
 
 \[Guest: [Gordon Wintrob](https://twitter.com/gwintrob?lang=en), Co-founder & CTO, Newfront Insurance\]
@@ -2366,51 +2388,8 @@ All right. Thank you everybody. To be continued and thank you, Candace.
 
 Candice:
 
-Thanks Roy.  
-  
-  
-****
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-****  
-
-
-  
-****  
-
-
-  
-  
-  
-  
-  
-****
-
-  
-****
-
-  
-  
-****
+Thanks Roy.
 
 [  
-****](https://www.pscp.tv/w/1kvJpevnAVwxE)\*\*\*\*
-
-
-
-
+_\*\*_](https://www.pscp.tv/w/1kvJpevnAVwxE)\*\*\*\*
 
