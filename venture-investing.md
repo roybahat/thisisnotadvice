@@ -2,7 +2,7 @@
 
 [**How do I need to think differently working as an investor vs. starting a company?**](https://www.pscp.tv/w/1dRKZZQMwjoKB)\*\*\*\*
 
-\[Ed.: The below comes from [Conor Sen](https://www.linkedin.com/in/conor-sen-709140/), columnist at [Bloomberg Opinion](https://www.bloomberg.com/opinion/authors/ATA2uaN4m4A/conor-sen) and founder of Peachtree Creek Investments.\[
+\[Ed.: The below comes from [Conor Sen](https://www.linkedin.com/in/conor-sen-709140/), columnist at [Bloomberg Opinion](https://www.bloomberg.com/opinion/authors/ATA2uaN4m4A/conor-sen) and founder of Peachtree Creek Investments.\]
 
 Founders often think, "How would an investor think about this?" And investors often have to get in the head of management. 
 
