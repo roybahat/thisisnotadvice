@@ -1,4 +1,4 @@
-# Leadership
+# Leading
 
 ### Making decisions
 

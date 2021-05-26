@@ -1,12 +1,10 @@
 # Table of contents
 
 * [\#thisisnotadvice about work](README.md)
-* [Building startups](startups.md)
-* [Ethics](business-ethics.md)
-* [Leadership](leadership.md)
 * [Managing yourself](unhappy-at-work.md)
-* [Mental health](mental-health.md)
 * [Managing others](paying-someone.md)
+* [Making ethical choices](business-ethics.md)
+* [Leading](leadership.md)
 * [Working with others](working-with-others.md)
 * [Personal growth](personal-growth.md)
 * [Personal brand building](personal-brand-building.md)
@@ -22,6 +20,7 @@
 * [Raising money](raising-money.md)
 * [Giving back](giving-back.md)
 * [Media & PR](media-and-pr.md)
+* [Building startups](startups.md)
 * [Remote work](remote-work.md)
 * [Odds and ends](odds-and-ends.md)
 * [/ Rolling edits](rolling-edits.md)

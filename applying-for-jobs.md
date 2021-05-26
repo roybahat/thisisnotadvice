@@ -1,12 +1,10 @@
 # Changing jobs
 
-Some careers are "LinkedIn tidy," a list of full-time jobs, one after another. [Other __careers are more like a portfolio of activities](https://also.roybahat.com/your-career-is-a-mess-a8a58acd18fa) that shifts over time. Some careers combine both. Many of the answers here relate to a moment of transition, like switching full-time jobs, though they also apply to taking on a new project or entering a new phase in the portfolio of your career.
-
-
+Some careers are "LinkedIn tidy," a list of full-time jobs, one after another. [Other \_\_careers are more like a portfolio of activities](https://also.roybahat.com/your-career-is-a-mess-a8a58acd18fa) that shifts over time. Some careers combine both. Many of the answers here relate to a moment of transition, like switching full-time jobs, though they also apply to taking on a new project or entering a new phase in the portfolio of your career.
 
 [**How do I know what I want to do with my life?**](https://www.pscp.tv/w/1yoJMXElQyXGQ)
 
-\[Ed.: When I was a freshman in college, the Dean of the School of Arts and Sciences gave a speech about "the arrow and the spiral." He spoke about how some people are like an arrow, they know what they want and they go do it. Other people have a meandering, spiraling path. And both are okay. The speech seemed to be intended to make the "spiralers" feel better at the beginning of college -- being surrounded by a bunch of arrows. I have always been a spiral. I  worked in government, and nonprofits, in big media, and started a company. Now I know I make my home in this startup thing. Ruth Bader Ginsburg always struck me as an arrow, a person who, from early on, knew the kind of justice she wanted to bring into the world, worked hard at it, was at the top of her field and achieved great things.\]
+\[Ed.: When I was a freshman in college, the Dean of the School of Arts and Sciences gave a speech about "the arrow and the spiral." He spoke about how some people are like an arrow, they know what they want and they go do it. Other people have a meandering, spiraling path. And both are okay. The speech seemed to be intended to make the "spiralers" feel better at the beginning of college -- being surrounded by a bunch of arrows. I have always been a spiral. I worked in government, and nonprofits, in big media, and started a company. Now I know I make my home in this startup thing. Ruth Bader Ginsburg always struck me as an arrow, a person who, from early on, knew the kind of justice she wanted to bring into the world, worked hard at it, was at the top of her field and achieved great things.\]
 
 The essence of being a good "spiral" is trying things out, because you can't figure it out by just sitting there, thinking, and convincing yourself, "Yes, I shall be a climate change activist or a startup founder." It involves trying on guesses for size and then being savvy about knowing how to assess those guesses. Sometimes those guesses are about trying a side project, sometimes it's spending a couple of years in a career, sometimes it's trying volunteer opportunities.
 
@@ -14,75 +12,67 @@ The essence of being a good "spiral" is trying things out, because you can't fig
 
 As you explore your possibilities, [think about what you solve for in the meanwhile](https://also.roybahat.com/how-to-take-career-risks-when-the-safe-options-look-so-good-273b43cbdf0e). Are you solving for learning, chasing extraordinary people? Some people solve for options, or for money so that they can be free. All those things can be valid choices, but in the objective function of your career while you're exploring, having something to solve for is essential.
 
-
-
 [**How do I know when I'm applying for a job if I will enjoy it?**](https://www.pscp.tv/roybahat/1PlKQNVnraNGE?t=20m28s)\*\*\*\*
 
 \[Ed.: The below comes from [David Rogier](https://www.linkedin.com/in/drogier), founder and CEO of [MasterClass](https://www.masterclass.com/).\]
 
 One of the best things you can do is "backchannel," which is to say figure out how to talk to employees at that company that aren't on the direct hiring team. If you're able to talk to people on the team, great, but it's usually easier to talk to folks who aren't on the team.
 
-You are going to hear bad stuff and that's fine. You want to hear _what type_ of bad stuff there is – e.g.,  is it really bad like the boss throws things at people or is it things that you're fine with like an ex-employee didn't feel aligned on a direction or project. 
+You are going to hear bad stuff and that's fine. You want to hear _what type_ of bad stuff there is – e.g., is it really bad like the boss throws things at people or is it things that you're fine with like an ex-employee didn't feel aligned on a direction or project.
 
 [Glassdoor](https://www.glassdoor.com/index.htm) is not a bad place to start, but you have to remember why somebody writes on Glassdoor – they're either extremely pissed or they are extremely thrilled. But you want to see what the extremely pissed people are saying.
-
-
 
 **‌**[**How do I get the job when I don't feel like I fit the stereotype?**](https://www.youtube.com/watch?v=tuPdJLJ6dcg&feature=youtu.be)
 
 If you don’t fit the stereotype for a job, it’s good to think about how emphasizing your differences could be beneficial.
 
-Oftentimes, it is your differentiated experience and point of view that makes you attractive to the employer. Instead of making excuses for your non-cookie-cutter background, consider highlighting these differences and talk about how they would allow you to excel in the responsibilities stated in the job description. 
+Oftentimes, it is your differentiated experience and point of view that makes you attractive to the employer. Instead of making excuses for your non-cookie-cutter background, consider highlighting these differences and talk about how they would allow you to excel in the responsibilities stated in the job description.
 
 You may feel skeptical that the hiring manager will place value in what you have to offer and how it will translate to something that their business will benefit from. You can take a position in your storytelling that places emphasis on why the rewards are worth the risk.
 
-Recruiters often offer opportunities to do this when they ask questions like, "Why did this not work out? Why did you pivot? Why did you change?" This may seem intimidating, but it can serve as an opportunity to tell a story and show how you're an interdisciplinary thinker. 
+Recruiters often offer opportunities to do this when they ask questions like, "Why did this not work out? Why did you pivot? Why did you change?" This may seem intimidating, but it can serve as an opportunity to tell a story and show how you're an interdisciplinary thinker.
 
-\[Ed.: Bo got into law school, paid her down payment for school, and ended up joining a startup instead.\] 
+\[Ed.: Bo got into law school, paid her down payment for school, and ended up joining a startup instead.\]
 
-Having plans that change, or a non-linear journey can allow you to gain new inputs and experience in various fields. And following your curiosity is rarely a bad thing. 
+Having plans that change, or a non-linear journey can allow you to gain new inputs and experience in various fields. And following your curiosity is rarely a bad thing.
 
 You may think that your background doesn’t align with the expectations of a potential employer, but in emphasizing why your different history can benefit a company, you can come across as even more attractive to the hiring person.
 
 \[The above includes contributions from[ Bo Ren](https://twitter.com/Bosefina?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor), Head of Ecosystem and Assistant GM at Samsung NEXT.\]
 
-
-
 [**If I'm on a visa in the US, what do I need to know about my options for changing jobs?**](https://www.pscp.tv/w/1mrxmEkkkwwxy)
 
-If you are an employee who's on a visa, such as an H-1B visa which is associated with your employer, and you're approached by a company who wants to employ you, you may be concerned about leaving your safe visa status. (And what happens if while you're on a visa, you go to a startup and you lose your job?)
+If you are an employee who's on a visa, such as an H-1B visa which is associated with your employer, and you're approached by a company who wants to employ you, you may be concerned about leaving your safe visa status. \(And what happens if while you're on a visa, you go to a startup and you lose your job?\)
 
-When deciding to take the risk, ask yourself if you believe in the founder of the startup and if you believe that the founder will be able to lead the company. Your risk is amplified when you are on a visa, because now you have a dependency on the startup company. Consider your options if the startup isn’t able to raise money. Here it comes down to how confident you are that you can find another job quickly. 
+When deciding to take the risk, ask yourself if you believe in the founder of the startup and if you believe that the founder will be able to lead the company. Your risk is amplified when you are on a visa, because now you have a dependency on the startup company. Consider your options if the startup isn’t able to raise money. Here it comes down to how confident you are that you can find another job quickly.
 
-In terms of how long you legally have to find another job, there are some common misconceptions. You may think that if the startup folds, you will have a month to find a new job before you are forced to leave the country. Fortunately, this is no longer the case for many visas.  For visas like an H-1B, you now have 60 days to find another job during which you are "in status" and not considered to be overstaying. There are also other ways in which you can extend that timeline, such as applying immediately for a tourist visa.  In doing this, you can't work until the next employer files for your visa, but you are in status.
+In terms of how long you legally have to find another job, there are some common misconceptions. You may think that if the startup folds, you will have a month to find a new job before you are forced to leave the country. Fortunately, this is no longer the case for many visas. For visas like an H-1B, you now have 60 days to find another job during which you are "in status" and not considered to be overstaying. There are also other ways in which you can extend that timeline, such as applying immediately for a tourist visa. In doing this, you can't work until the next employer files for your visa, but you are in status.
 
 Keep your immigration lawyer's number on speed dial.
 
 You may wonder if you even need a personal immigration lawyer if your company has someone who may be able to help you.
 
-When it comes to these big law firms or an immigration lawyer that is employed by your company, these lawyers do not work for you, and so they may not prioritize you and therefore you should probably have your own immigration counsel. \[Ed.: When Nitin was at Deloitte, they had a big law firm, and this is what happened.\] Even if your employer's counsel is doing the work, you may want to consult your own counsel so someone who is working with *your* best interest in mind. The cost of your own immigration counsel may seem steep, but it is worth it.
+When it comes to these big law firms or an immigration lawyer that is employed by your company, these lawyers do not work for you, and so they may not prioritize you and therefore you should probably have your own immigration counsel. \[Ed.: When Nitin was at Deloitte, they had a big law firm, and this is what happened.\] Even if your employer's counsel is doing the work, you may want to consult your own counsel so someone who is working with _your_ best interest in mind. The cost of your own immigration counsel may seem steep, but it is worth it.
 
 Your own immigration counsel may also help in case you want to start ventures outside of your current employment, say, starting your own company. Your employer’s immigration counsel isn’t going to guide you on how to start your company or what visa you should get to do that.
 
-There's an emotional component when it comes to managing the uncertainty of the visa process. The process can be excruciating for everyone: you spend time working on something, and then you send some pieces of paper into a faceless bureaucracy. It can feel like your future rests in the hands of people who don’t seem to want you in this country.  This personal side of immigration is rarely talked about. (Being a founder of a company is stressful and being a founder on a visa is even more stressful.) A community that stands by you may be essential. Surround yourself with people who have been through it.
+There's an emotional component when it comes to managing the uncertainty of the visa process. The process can be excruciating for everyone: you spend time working on something, and then you send some pieces of paper into a faceless bureaucracy. It can feel like your future rests in the hands of people who don’t seem to want you in this country. This personal side of immigration is rarely talked about. \(Being a founder of a company is stressful and being a founder on a visa is even more stressful.\) A community that stands by you may be essential. Surround yourself with people who have been through it.
 
 _\[Contributed in part by_ [_Nitin Pachisia, Founding Partner, Unshackled Ventures_](https://twitter.com/immigreating?lang=en)_\]_
 
-
-
-### Advancing within a company
+## Advancing within a company
 
 [**If I want to get promoted, how do I do it?**](https://www.pscp.tv/roybahat/1PlKQNVnraNGE?t=15m46s)
 
 \[Ed.: The below comes from [David Rogier](https://www.linkedin.com/in/drogier), founder and CEO of [MasterClass](https://www.masterclass.com/).\]
 
-In many jobs, the process is rarely very clearfor being promoted is unclear. 
+In many jobs, the process is rarely very clearfor being promoted is unclear.
 
 A good boss focuses on achieving outcomes and results. Go to your boss and just ask, "What is it I'm going to be judged on? What would take to get a promotion?" And then execute against that. With a bad boss, to get a promotion you just have to make them happy, so that process is less clear.
 
 To get a promotion, you should already be doing the job that you want. If you're going for a promotion to \(for example\) a "level four," you want to be doing the work of the four while you are a three.
 
-Sometimes getting a promotion is about more than your boss's choice. There can be a social dynamic  within the organization where you have to figure out, "Who else has to be comfortable with this promotion?" You often need an advocate beyond your boss so you need to figure out who that is.
+Sometimes getting a promotion is about more than your boss's choice. There can be a social dynamic within the organization where you have to figure out, "Who else has to be comfortable with this promotion?" You often need an advocate beyond your boss so you need to figure out who that is.
 
 People overthink getting promoted. And the best careers aren't usually a straight line of coordinator, senior coordinator, junior VP, senior VP. So take heart and look for the opportunities to jump ahead in an usual way.
 
@@ -90,7 +80,7 @@ People overthink getting promoted. And the best careers aren't usually a straigh
 
 \[Ed.: At one point, I was hired to run a subsidiary of News Corp, IGN, a video game media company. My job was to run IGN, and at the beginning I was "vice president." At a big company, leveling can be complicated and also important in terms of your pay band. I had peers who were running less complicated businesses who had the role of president. Eventually I realized I had to right for that role if I wanted to get paid appropriately for my work.\]
 
-The process of getting a promotion can be so complicated, especially if you have to prove yourself to your boss's boss, or to more than one manager. You have to solve for the things that you can control and be willing to put in some time.   
+The process of getting a promotion can be so complicated, especially if you have to prove yourself to your boss's boss, or to more than one manager. You have to solve for the things that you can control and be willing to put in some time.
 
 \_\_
 
@@ -104,7 +94,7 @@ Take the first steps into actually doing whatever the new career involves -- bef
 
 For example, if you think you might want change careers to be an author, the best way may be to try writing something on the side. **Look at your life as a** [**portfolio of activities**](https://also.roybahat.com/your-career-is-a-mess-a8a58acd18fa), something people who have conventional jobs rarely do.
 
-**Consider if you could start this other endeavor as a side project.** What you will need to learn to know whether you'll be good at it? How will you do it? Ask yourself, "Is there a way for me to access this next thing without giving up what I do now?" You might need to work nights and weekends. 
+**Consider if you could start this other endeavor as a side project.** What you will need to learn to know whether you'll be good at it? How will you do it? Ask yourself, "Is there a way for me to access this next thing without giving up what I do now?" You might need to work nights and weekends.
 
 You might consider a contortion in your current role, where you **think about how to get to know people who can help you enter your new career, while still doing your current job.** For example, if you're in a sales role, you might consider selling to clients in the industry where you might want to work. So long as what you're doing is truly in the interest of your current employer and not a trick for you to explore a new job. You may be learning something for yourself, but maybe this can help your company, too. You can also take that too far so be thoughtful in how you do the dance.
 
@@ -112,7 +102,7 @@ You might consider a contortion in your current role, where you **think about ho
 
 [**Will my resignation read like I was fired?**](https://www.pscp.tv/w/1dRJZZnNoADJB)\*\*\*\*
 
-There's a culture of obfuscation in my organizations, hiding the real reasons for things behind ego-saving excuses. \[Ed.: If McKinsey fires you, they would say, "You got counseled out." \(i.e.,  you were advised to leave\).\] The first question to ask yourself: "why do I care?" Many people who have been wildly successful got fired. Steve Jobs got fired; Mike Bloomberg got fired.
+There's a culture of obfuscation in my organizations, hiding the real reasons for things behind ego-saving excuses. \[Ed.: If McKinsey fires you, they would say, "You got counseled out." \(i.e., you were advised to leave\).\] The first question to ask yourself: "why do I care?" Many people who have been wildly successful got fired. Steve Jobs got fired; Mike Bloomberg got fired.
 
 In a way, there is a time in your career where being fired from a certain role at a certain time can mean that you were trying to do something worth doing, and just had a conflict. The main lens here is truth: If you were in fact fired and your company wanted to give you a fig leaf of asking for your resignation, and people read it that way, so it goes.
 
@@ -124,15 +114,13 @@ Being able to say something in social media is an amazing tool we have now, whic
 
 As a boss, if you don't have trust with the person who is leaving, they might undercut you on the way out, or undercut the organization, which many people do. Then the organization's interest has to supersede that employee's interest for the leader at the helm.
 
-Most of the time, people are responsible about this, and they just want to be known for what really happened and treated with dignity. Let them control the narrative, play against the norm. 
+Most of the time, people are responsible about this, and they just want to be known for what really happened and treated with dignity. Let them control the narrative, play against the norm.
 
 Might there be _someone_ important who will read your genuine resignation as if you got fired? Yes, that's the price, and you've got to pay it.
 
 \[Ed.: When I left IGN, which I had run, I resigned. I resigned because I failed to get done the thing I thought would be the important next step for our company -- a carve-out from our owner -- and felt I could take the organization no further under the current structure. I resigned because I failed to do something into which I had squeezed all my efforts. Figuring out exactly how to manage that took a trick. I played against a norm by avoiding a euphemism on my LinkedIn, and changing my title to say, "[Doing Nothing](https://also.roybahat.com/doing-nothing-36babe91aed0)." Because I was trying to make it very clear that was my intention, not just "spending more time with family."\]
 
-
-
-### Getting a new role
+## Getting a new role
 
 [**Why won't anyone believe that I can apply my previous experience to a new role?**](https://www.pscp.tv/w/1DXxyAEDpzexM)\*\*\*\*
 
@@ -152,13 +140,11 @@ In short, **instead of trying to translate your skills, try to reduce the risk t
 
 Your experience will vary depending on where you are in your career. It's actually easier at the beginning of your career to "translate" one experience into another because you're not being hired on your experience anyway – no one has experience at that point. And it's also easier late in your career if you've already been successful, because then you're hired for more abstract qualities \(like "ability to lead" or relationships\). The hardest part is the middle, because that tends to be the time in your life where you're proud of what you can do and bummed that other people can't see it -- and your living expenses are probably higher \(mortgage, childcare, that kind of thing\) because you're further along in years.
 
-
-
 [**How do I explain my career story make sense in light of detours?**](https://www.pscp.tv/w/1kvJpeXEWvMxE)\*\*\*\*
 
 \[Ed.: The below comes from [Seyi Taylor](https://www.linkedin.com/in/seyitaylor/), Product Management Fellow at [Code for Canada](https://codefor.ca/). Seyi went to medical school and graduated and practiced as a doctor for 18 months. And he knew in medical school that he probably wasn't meant to be a doctor for the rest of his life. He then founded a company and now works in product.\]
 
-When you need to tell your career story, start by trying to make sense of it for yourself. Ask yourself, "Why did I decide not to do this? Why did I decide not to do that?" Careers are a form of self discovery and of what you can do in the world, so think about where your previous steps have taken you on that path. 
+When you need to tell your career story, start by trying to make sense of it for yourself. Ask yourself, "Why did I decide not to do this? Why did I decide not to do that?" Careers are a form of self discovery and of what you can do in the world, so think about where your previous steps have taken you on that path.
 
 Maybe you were in a career that disappeared or became less profitable, or for whatever reason you needed to make a change. Do the hard work of picking stories from your current career, speaking to your experience, and figuring out how to reframe it for what you want to do next.
 
@@ -168,9 +154,7 @@ Oftentimes the reason people struggle to tell their story is because they have u
 
 Life is complicated, but stories are simple. If you can free yourself of the obligation to explain your whole life and just pick the part that seems honest to focus on, the person can always say, "Well, okay, what did you do from the ages of 22 to 25?" And then you can have a conversation about it. Starting with yourself and your own experience will help you start out strong.
 
-
-
-#### \*\*\*\*[**I got offered a new job. How do I know if I want to take it?**](https://www.pscp.tv/w/1PlJQNojbXVxE)\*\*\*\*
+### \*\*\*\*[**I got offered a new job. How do I know if I want to take it?**](https://www.pscp.tv/w/1PlJQNojbXVxE)\*\*\*\*
 
 Once you get a job offer, before you say yes, is there anything else you should do?
 
@@ -182,9 +166,9 @@ Find people who have left the company recently -- look on LinkedIn -- and [ask w
 
 Most people trust their own impressions too much. Your impressions are important. How you feel when you walk in is important. If you have a gross feeling, don't ignore that. If you have a great feeling, don't ignore that. But collect more data and triangulate.
 
-Ask the company for more information, if you need it -- like [their financial outlook](https://twitter.com/SekularHumanist/status/1283894620967931904). You want to understand where you fit in the company's goals and current state to avoid ending up on a project/team that could be at risk in the near future. \(Avoid taking "second-class citizen" jobs where your role isn't that important to the company.\)  
-  
-**To set yourself up for success, recognize that you have a moment once you get the offer, before you sign -- when they're selling you.** 
+Ask the company for more information, if you need it -- like [their financial outlook](https://twitter.com/SekularHumanist/status/1283894620967931904). You want to understand where you fit in the company's goals and current state to avoid ending up on a project/team that could be at risk in the near future. \(Avoid taking "second-class citizen" jobs where your role isn't that important to the company.\)
+
+**To set yourself up for success, recognize that you have a moment once you get the offer, before you sign -- when they're selling you.**
 
 If it feels appropriate, **ask to speak with others at the company, especially people who are senior**, where it might be appropriate while the company's selling you, but inappropriate once you start. For example, at a startup, you could ask to speak to board members, especially if you're going to be a report to the CEO. Or you could ask to speak to the CEO, or the head of the group.
 
@@ -198,11 +182,9 @@ To assess what's appropriate, try to imagine how it might land, and guess at whe
 
 When it comes down to accepting a new job, do as much homework as you can before you say yes, because you're going to spend a lot of your time on this job and with these team members. Avoid the situation where, six months in, you're saying to yourself, "I could have known that and I should have known that, but I just didn't think to ask." Avoid that forehead slap.
 
+### [Should I follow through on a job offer I already accepted, if I just got an offer I am more excited about?](https://www.pscp.tv/w/1LyGBNojgnaGN)
 
-
-#### [Should I follow through on a job offer I already accepted, if I just got an offer I am more excited about?](https://www.pscp.tv/w/1LyGBNojgnaGN)
-
-It's less actually about which company is better and more about how much you value keeping your word. 
+It's less actually about which company is better and more about how much you value keeping your word.
 
 Unfortunately, companies don't always keep their word. They canceled their internship programs in the era of Covid-19. They hire you and then go out of business the week you join. _People_ usually do keep their word. Yes, it might hurt you -- pulling out of an accepted offer is a black mark. The person who hires you might be, if you break your word, angry at you for a long time, maybe forever.
 
@@ -216,11 +198,9 @@ Does it matter if you've accepted the job verbally, but not yet signed an offer 
 
 And if you feel strongly about taking the other job, like you'd really be hurting yourself tremendously by taking your commitment, consider asking the company a question like, "Hey, I'm just loving the place I am now. Do you guys ever defer offers?" You could ask for permission instead of just bailing.
 
-A similar dilemma: you've joined a company just weeks ago, and then you get your dream job. Do you leave? The same principles apply. 
+A similar dilemma: you've joined a company just weeks ago, and then you get your dream job. Do you leave? The same principles apply.
 
-
-
-#### [I love the company where I'm interviewing -- but I don't think I like my new boss. What do I do?](https://www.pscp.tv/roybahat/1LyxBNWeADPxN)
+### [I love the company where I'm interviewing -- but I don't think I like my new boss. What do I do?](https://www.pscp.tv/roybahat/1LyxBNWeADPxN)
 
 The circumstances differ from place to place and moment to moment: At some companies, your boss might be there for a minute and then you might switch to somebody else. At some you might think about whether the boss is a reflection of the broader company culture. And some companies, the boss might as well _be_ the company. \(For example, if you go join a local branch of a big company and the guy's been there forever.\) And you would be working directly with them and three other people. In some companies, the boss matters a lot, in some companies that person might be gone by the time you join.
 
@@ -230,21 +210,19 @@ Take the most extreme case first: you've decided to pass on the job because you'
 
 On rare occasions, bad relationships do turn into good ones. \(Harry Potter and Hermione Granger started out disliking each other -- until they killed a troll together.\) So sometimes intense conflict can be a good thing, depending on how you act on it.
 
-
-
-#### [What should I do if I think someone is spreading bad references about me and stopping me from getting a job \(or, if I am a founder, an investment\)?](https://www.pscp.tv/roybahat/1YqKDEZODPVGV)
+### [What should I do if I think someone is spreading bad references about me and stopping me from getting a job \(or, if I am a founder, an investment\)?](https://www.pscp.tv/roybahat/1YqKDEZODPVGV)
 
 How do you act when something possibly awful is happening, but you're not sure? Your own psychology gets so involved there, especially if you were personally involved with someone. Maybe you start catastrophizing and thinking, "Oh, what if I need to leave the city that I live in because of this person?"
 
-The first thing to do in these situations is take a deep breath, check in with yourself, and try to identify what's known and what's unknown. 
+The first thing to do in these situations is take a deep breath, check in with yourself, and try to identify what's known and what's unknown.
 
 So, for example, let's say you're interviewing somewhere and the person who wouldn't hire you said, "Hey, sorry to tell you, you had a reference and they told us we can't trust you."
 
 Maybe you suspect that reference comes from a specific person \(an ex or maybe somebody from a past job with whom you had a bad relationship\). So, dissect the chain of possibilities for that person to have caused you this harm:. First, you have to assume that the hiring company \(who's telling you about the bad reference\) is in fact telling you the truth. They might not be. There might be some other reason they didn't want to hire you, or didn't want to give you an investment, and they might be blaming it on somebody. Then you have to assume the hiring person is accurately reporting what they heard -- meaning it didn't get lost in translation. Then you have to assume that they actually heard it from the source that you're worried about. Those are many assumptions that all have to be true.
 
-Be curious before furious. Ask the hiring person a question, "Can I talk to you a little bit more about that reference? I really always appreciate feedback. It's awful, of course -- not how I want to be known. And I'd just love to hear a little bit more." Thank the person for telling you about the reference at all, because it's hard to tell someone that the reason you don't want to work with them is because of something somebody else said. They have to protect that other person, and it's just awkward. Most people actually just ghost at that moment, which is horrible. 
+Be curious before furious. Ask the hiring person a question, "Can I talk to you a little bit more about that reference? I really always appreciate feedback. It's awful, of course -- not how I want to be known. And I'd just love to hear a little bit more." Thank the person for telling you about the reference at all, because it's hard to tell someone that the reason you don't want to work with them is because of something somebody else said. They have to protect that other person, and it's just awkward. Most people actually just ghost at that moment, which is horrible.
 
-Based on what you hear, think, "Well, what do I really think is likely to have happened?" More than one guess... what are some possibilities? And then act based on that. If there are repeated instances, take it more seriously. What the person is spreading could be illegal \(if you can, consult a lawyer\). 
+Based on what you hear, think, "Well, what do I really think is likely to have happened?" More than one guess... what are some possibilities? And then act based on that. If there are repeated instances, take it more seriously. What the person is spreading could be illegal \(if you can, consult a lawyer\).
 
 Maybe inoculate yourself a bit. For example, if you're a founder seeking investment and you're worried somebody out there is spreading something bad about you, consider saying something to a prospective investor like, "Hey, I hope you'll do your references on me, and I live by my reputation. Just so you know, I had a bitter squabble \[or, if you want to say, a personal situation, a romantic situation even\], I've heard that person is out there saying things about me -- like that I'm untrustworthy. And so, I hope you do your diligence with a lot of folks. If you want to ask me about anything directly, I'm an open book."
 
@@ -252,11 +230,9 @@ And that way you prepare them to expect it. You prompt them to question the moti
 
 If you're hiring someone, make sure you have multiple references and that you're not making a decision based on one. Be curious before furious if you're in a position of power.
 
+### [If I'm interested in a job but unsure what they should pay me, how do I figure out what I should get paid? ](https://www.pscp.tv/roybahat/1vOxwklMNkLxB)
 
-
-#### [If I'm interested in a job but unsure what they should pay me, how do I figure out what I should get paid? ](https://www.pscp.tv/roybahat/1vOxwklMNkLxB)
-
-Ask for more than you think. 
+Ask for more than you think.
 
 What are you worth to them? Think about the value to them of what you're offering, if you could bring more revenue or expand on some objective, or maybe you're just an extra pair of hands -- develop some perspective on what that's worth to them.
 
@@ -278,9 +254,7 @@ Sometimes even asking for double can get you paid much more than you'd otherwise
 
 If you feel fearful about asking for a bigger number than feels comfortable, that's natural. You get better at it with practice. Don't treat each negotiation as if it's your chance to show that you are the world's greatest dealmaker. Practice being a little more aggressive than feels comfortable to you and see how it goes.
 
-
-
-#### [I might get laid off, what do I do? How do I prepare?](https://www.pscp.tv/roybahat/1djGXomaMkeKZ)
+### [I might get laid off, what do I do? How do I prepare?](https://www.pscp.tv/roybahat/1djGXomaMkeKZ)
 
 **The first step is acknowledging, to yourself, the risk of losing your job.** Then you can face it. Often, the fear can be worse than the reality. Destigmatize it in your own mind, because if you face it without shame others who care about you \(family, friends\) will probably follow suit. \(Of course every individual circumstance differs. Some people support a family member, or they struggle to get a job because of some bias against them in the hiring marketplace.\)
 
@@ -292,21 +266,19 @@ Reach out to your communities, like other alumni from your school or previous co
 
 Some of the alternatives you think about might be within your company. Trying to make yourself useful in more than one way, and valued by people in different parts of the organization, can also create alternatives for you. Sometimes an internal job search is as much work \(and as worthwhile\) as finding a new job elsewhere.
 
-**If you do get laid off, know that you have rights as an employee.** Read up on them, and consult a lawyer if you can and feel it'd help. When a layoff happens, a person from the company will sit you down and explain to you what's happened. \(If they do it well, they'll be kind and sit with you individually -- that's often not the case.\) They may offer a severance payment. They may offer more than they're required to give you \(most people in the U.S. are employed "at will" meaning the company can fire them at any time\) -- in exchange for signing something. 
+**If you do get laid off, know that you have rights as an employee.** Read up on them, and consult a lawyer if you can and feel it'd help. When a layoff happens, a person from the company will sit you down and explain to you what's happened. \(If they do it well, they'll be kind and sit with you individually -- that's often not the case.\) They may offer a severance payment. They may offer more than they're required to give you \(most people in the U.S. are employed "at will" meaning the company can fire them at any time\) -- in exchange for signing something.
 
-Usually they ask you to sign some kind of a release. You'll promise not to sue the company or say bad things about them \(a non-disparagement\) in exchange for receiving severance money or continuing benefits. You can wait to sign. Say, "I'd like to read this overnight and I'll prepare to sign it tomorrow." 
+Usually they ask you to sign some kind of a release. You'll promise not to sue the company or say bad things about them \(a non-disparagement\) in exchange for receiving severance money or continuing benefits. You can wait to sign. Say, "I'd like to read this overnight and I'll prepare to sign it tomorrow."
 
 Some people plan their career by trying to find the job that is safest -- to minimize the risk of getting fired. It's hard to do that, because big companies often lay off large numbers of people and small companies often go out of business. \(The only job from which you can't be fired is [working for yourself](https://app.gitbook.com/@bloomberg-beta-1/s/this-is-not-advice-about-work/~/drafts/-MBfMtx7X7lsnhgwk37g/startups).\)
 
 Job safety comes in the form of having other options, as opposed to protecting what you're doing now. If you're living in fear of losing the job you have, it's really hard to perform well. It's really hard to be happy. Knowing your next best alternative is a form of power that can help you show up as yourself at work, and perform better.
 
+## Early career
 
+### [If I want to work in tech, should I go to an early-stage company or a big company?](https://www.pscp.tv/w/1LyGBNojgnaGN)
 
-### Early career
-
-#### [If I want to work in tech, should I go to an early-stage company or a big company?](https://www.pscp.tv/w/1LyGBNojgnaGN)
-
-A general principle, for all early-career jobs in tech -- including for career changers -- is to go to the fastest growing company you can possibly find. Usually that's a [mid-stage company](https://hunterwalk.com/2014/03/08/new-grads-midstage-startups-are-your-best-first-job-in-tech/): You're going to learn something there. The community is going to be a good group to know, because the very best people in tech often flock toward those companies. 
+A general principle, for all early-career jobs in tech -- including for career changers -- is to go to the fastest growing company you can possibly find. Usually that's a [mid-stage company](https://hunterwalk.com/2014/03/08/new-grads-midstage-startups-are-your-best-first-job-in-tech/): You're going to learn something there. The community is going to be a good group to know, because the very best people in tech often flock toward those companies.
 
 Once companies get big and public, they often slow down, they become more sclerotic and bureaucratic -- and you can't really learn as much because you're stuck in place. Your career progresses at many big companies by either waiting for people to leave or taking over their roles. At very, very early-stage companies, it's like striking flint and tinder. You're just hoping the fire is going to catch. And if it doesn't catch, you might not learn as much.
 

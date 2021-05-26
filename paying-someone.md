@@ -1,6 +1,6 @@
 # Managing others
 
-### Firing
+## Firing
 
 [**When you get to the point that you're almost certain you're going to fire someone, should you put them on a performance plan to give them some warning?**](https://www.pscp.tv/roybahat/1mnGelXLEaQKX?t=25m9s)\*\*\*\*
 
@@ -8,11 +8,9 @@ You should always give a person warning because it's the human thing to do. In s
 
 You should give a person a "warning," in the form of feedback about their performance, the moment you start to have concerns. You can escalate the severity of the warning \(from "I have some feedback" to, eventually, "you need to fix this if you want to stay at this company"\).
 
-Take into account the life circumstances of the person in question. If they're the sole provider for others, that might change when and how you communicate with them, for example. 
+Take into account the life circumstances of the person in question. If they're the sole provider for others, that might change when and how you communicate with them, for example.
 
 If you are the person who is having performance issues, and you receive a warning \(sometimes in the form of a written "[performance improvement plan](https://www.shrm.org/resourcesandtools/tools-and-samples/how-to-guides/pages/performanceimprovementplan.aspx)" or "PIP"\) you might be able to save yourself. Just recognize that is usually a four alarm fire, and you need to act fast.
-
-
 
 \*\*\*\*[**How do I fire someone?**](https://www.pscp.tv/w/1vAGRrqVgMDGl)
 
@@ -44,15 +42,13 @@ Firing someone sounds a lot harder than it is. Ideally, you have somebody to pre
 
 Fire them immediately.
 
-Tell them "I don't believe you." And when they ask why you can say, "Well, sometimes you can articulate it, sometimes you can't." Usually at that point, it's so fatal to their prospects at your company that they want to go. If you can't trust somebody you work with, especially as the CEO, it isn't about good or bad or right or wrong. It's about fit. If you do not trust somebody, then you can't work with them.   
-  
+Tell them "I don't believe you." And when they ask why you can say, "Well, sometimes you can articulate it, sometimes you can't." Usually at that point, it's so fatal to their prospects at your company that they want to go. If you can't trust somebody you work with, especially as the CEO, it isn't about good or bad or right or wrong. It's about fit. If you do not trust somebody, then you can't work with them.
+
 \(And maybe before you literally fire them "immediately," do some self examination of why you don't trust this person. Is it because they remind you of your mother and your mother once lied to you? Is this a pattern or is it just you worried about one inconsequential statement? Assuming you've dealt with this stuff, you can address the work matter at hand. And of course ideally you've warned the person about their behavior before, so it isn't coming out of the blue.\)
 
+## Hiring
 
-
-### Hiring
-
-#### [**How do I know if talent is a diamond in the rough...or just rough?**](https://www.pscp.tv/w/1YqxoRLPzBXJv)\*\*\*\*
+### [**How do I know if talent is a diamond in the rough...or just rough?**](https://www.pscp.tv/w/1YqxoRLPzBXJv)\*\*\*\*
 
 \[Ed.: Much of the below comes from [Anna Gat](https://twitter.com/theannagat), founder and CEO of [The Interintellect](https://www.interintellect.com/).\]
 
@@ -66,25 +62,21 @@ Asking questions of talent doesn't _always_ lead to direct answers for them or f
 
 Finding a dream career or role can be a long process. Sometimes people have to think about how they can iterate. How can they move to a more crystallized version of their best self?
 
-Encourage people that they can push themselves, but also recognize that they're going to have their own inner psychological barriers. Part of your role is to be a sounding board for them as they evolve through that. 
+Encourage people that they can push themselves, but also recognize that they're going to have their own inner psychological barriers. Part of your role is to be a sounding board for them as they evolve through that.
 
-
-
-#### [How do I know if I need an executive assistant? ](https://www.pscp.tv/w/cbqi6DFsWktwWXhYSnhvam58MUx5eEJhdk1BUE1KTvbv50I5sKksTI1B9KjK2vEf9-7dOu2Cn2cO2Egeo4Rk)
+### [How do I know if I need an executive assistant? ](https://www.pscp.tv/w/cbqi6DFsWktwWXhYSnhvam58MUx5eEJhdk1BUE1KTvbv50I5sKksTI1B9KjK2vEf9-7dOu2Cn2cO2Egeo4Rk)
 
 Think about the least useful thing you do in your day. If you find yourself doing that same task multiple times a week, find a way to take it away from you. \(Is it scheduling?\) You can try automating it \(for example, using a filter in your email, for example\). Then try delegating it to someone -- maybe at first you can use a virtual assistant. If you end up having enough volume, the right answer may be to [find a full-time dedicated person to assist you](https://medium.com/newco/who-should-a-startup-hire-first-c12b279814aa).
 
 Oftentimes the best first hire for many startups, particularly ones that have intense customer demands, is an administrative assistant to handle scheduling. You can start with a virtual assistant if you want to reduce the culture-fit risk with your company. You can graduate to a full-time person later.
 
-
-
-#### [Why am I spending so much time interviewing people without hiring them?](https://www.pscp.tv/roybahat/1nAKEdpLMPoxL)
+### [Why am I spending so much time interviewing people without hiring them?](https://www.pscp.tv/roybahat/1nAKEdpLMPoxL)
 
 Let's say you're spending six to eight hours a day interviewing candidates, six to eight candidates, and not hiring any. Figuring out what's broken is hard: it could mean that you're interviewing people perfectly and it's just a very high priority for you to find talent. Great CEOs can have phases in a company's life where they spend more than half their time recruiting. Or maybe you're terrible at interviewing people. Or maybe you're spending too much time interviewing -- possibly by interviewing too many people -- and you should set up your whole hiring system differently. \(Experimentation may help. Some companies [hire without looking at resumes](https://www.fastcompany.com/1784737/silicon-valleys-new-hiring-strategy).\)
 
-It is a known fact that we are terrible at interviewing people. All this obsession over different interview styles, and what's the magic question, is probably misguided. There's research that suggests [we form our first impression within 6 seconds of meeting a person](https://pdfs.semanticscholar.org/a920/32341de4ca3d1551095c86506af7b54150f4.pdf). 
+It is a known fact that we are terrible at interviewing people. All this obsession over different interview styles, and what's the magic question, is probably misguided. There's research that suggests [we form our first impression within 6 seconds of meeting a person](https://pdfs.semanticscholar.org/a920/32341de4ca3d1551095c86506af7b54150f4.pdf).
 
-There are more useful, less time consuming ways to assess a candidate, than doing an interview. [Backdoor references done quickly before you interview are often a better source of information than interviews](https://also.roybahat.com/hiring-someone-check-references-before-you-interview-ba05c5b46e37), because the person you are asking has actually worked with the candidate -- and they take less time than an interview. You might save yourself the trouble of interviewing someone whose prior coworkers despise them. Before a first interview, you could send a handful of one-line emails to people who have worked with the candidate \(find them on LinkedIn\). "Hey, I see you worked with \[the candidate\]. [On a scale from one to 10, if you don't mind me asking, would you hire them](https://www.vox.com/2015/5/22/8639717/reid-hoffman-the-alliance)?" Whether this is appropriate or not depends on whether that person is still employed at a company, and the culture of the industry and place where you work. 
+There are more useful, less time consuming ways to assess a candidate, than doing an interview. [Backdoor references done quickly before you interview are often a better source of information than interviews](https://also.roybahat.com/hiring-someone-check-references-before-you-interview-ba05c5b46e37), because the person you are asking has actually worked with the candidate -- and they take less time than an interview. You might save yourself the trouble of interviewing someone whose prior coworkers despise them. Before a first interview, you could send a handful of one-line emails to people who have worked with the candidate \(find them on LinkedIn\). "Hey, I see you worked with \[the candidate\]. [On a scale from one to 10, if you don't mind me asking, would you hire them](https://www.vox.com/2015/5/22/8639717/reid-hoffman-the-alliance)?" Whether this is appropriate or not depends on whether that person is still employed at a company, and the culture of the industry and place where you work.
 
 Ask yourself: how do you get more leverage out of the choice of which people you interview? \(Sourcing.\) If your model for sourcing is "let me articulate the profile of the person I want and then find close matches for that," you're probably doing it wrong. Most of the best people in most jobs would not have passed that profile-matching test.
 
@@ -92,21 +84,17 @@ The third thing: interviews can be short. "I often know in the first five minute
 
 An important note: interviewing is a pernicious entry place where bias enters into hiring, and can curtail diversity and inclusion and equity efforts. You want to have good candidates. The more objective you can be, the better. If you can't find backdoor references... that's _non_-data, not bad data. You can bias up on interviewing candidates from underrepresented backgrounds -- because they may have had to go through more to get there, and they likely to be better talent having gotten there, they may be better talent. If you want the best talent, interview more people from underrepresented backgrounds.
 
-
-
-#### [**You're hiring someone and you're unsure what to pay them. What should you pay them?**](https://www.pscp.tv/roybahat/1eaKbzdkXmYKX)
+### [**You're hiring someone and you're unsure what to pay them. What should you pay them?**](https://www.pscp.tv/roybahat/1eaKbzdkXmYKX)
 
 As a matter of principle, you want to pay everybody fairly. That means that you would be happy if you were in their shoes, getting paid what you're offering them, knowing what you know. If their happiness depends on their lack of knowledge, you're probably making a mistake.
 
 You also want to pay them justly. \(Most companies have awful behavior, for example, when it comes to paying women and men fairly -- not to mention people from many other discriminated-against backgrounds. You don't want to be that person. You want to be the person who pays people justly and fairly.\)
 
-Your organization may have some pay strategy, which could guide your approach. If you're the head of the organization, you can set it. Some places intentionally say, "We pay top of market." \(Netflix is known for that.\) Other places pay bottom of market because they believe they "compensate" their people in other ways. 
+Your organization may have some pay strategy, which could guide your approach. If you're the head of the organization, you can set it. Some places intentionally say, "We pay top of market." \(Netflix is known for that.\) Other places pay bottom of market because they believe they "compensate" their people in other ways.
 
 When you are in the process of getting to know a candidate, consider asking, in the very first conversation, what they need to make. You always want to front load the riskiest parts of the conversation, to make sure you're on the same page. What a tragedy if somebody goes through nine rounds of interviews, and then at the end, "Oh, crap. We can't pay you what you need to make." \(There is law about this in some places, where you cannot ask what a person currently earns.\) The candidate might hem and haw, but you never have more leverage than you do at the beginning of the process, when they might want the role. At least you'll get some information. And at that early point, you're not trying to negotiate the salary -- just making sure you're in the same city.
 
 To figure out what to pay them: What are they worth to you? What is the value they will bring to your organization? Some roles are easier to quantify than others. If they're a salesperson, it might be quite easy to quantify. And figure out what your next best alternative might cost. If the candidate said no, or you couldn't hire them, who would you go to next? Look at comparables -- it's out there on the internet for lots of roles. Then you have a sense of what's fair.
-
-
 
 [**Should hiring decisions be unanimous?**](https://www.pscp.tv/roybahat/1mnGelXLEaQKX?t=24m13s)
 
@@ -116,20 +104,19 @@ Choosing whether to make hiring decisions unanimous should depend on the cost of
 
 Unanimity may make for a more uniform pool of people who everybody likes, and you have to be careful not to just end up with a "least common denominator" hire. You have to compensate for that by talking a lot about how the diversity of perspectives and backgrounds that you want. So there isn't a right answer to unanimity, but the principle is to take into account the cost of being wrong.
 
-
 [**Our company has never sponsored anyone for a visa in the US. Which type of visa should we pursue?**](https://www.pscp.tv/w/1mrxmEkkkwwxy)
 
 For some people, there is a sense of mystery that hangs over the process of acquiring a visa. The consequential nature of the decisions you make when trying to obtain a visa might make you feel terrified or powerless, but there is no need for either of these feelings. This doesn’t serve as legal advice, but it should give you a framework for the way forward.
 
-The approach to acquiring a visa as a founder and as an employee are different.  
+The approach to acquiring a visa as a founder and as an employee are different.
 
-If you've already started a company and raised some capital and are now looking at hiring someone who is already in the US and has some visa status, you’re asking yourself, “How do I bring them to work at my company?” The short answer is you need to sponsor their visa in order to give them full-time or part-time employment. There are many types of visas, and there are many pathways to immigration, depending on your intent and the person seeking a visa. To figure out which pathway is best, ask yourself and your future employee some questions (including about their education, citizenship, professional experience), and whether they want to be in the country long-term.
+If you've already started a company and raised some capital and are now looking at hiring someone who is already in the US and has some visa status, you’re asking yourself, “How do I bring them to work at my company?” The short answer is you need to sponsor their visa in order to give them full-time or part-time employment. There are many types of visas, and there are many pathways to immigration, depending on your intent and the person seeking a visa. To figure out which pathway is best, ask yourself and your future employee some questions \(including about their education, citizenship, professional experience\), and whether they want to be in the country long-term.
 
 Once you have the answers to these questions, select the right immigration counsel. The guidance that you find on the internet is often wrong or confusing. Working with the right experts can save you time and headaches.
 
-Asking attorneys for advice can be frustrating as some of them may see your questions as an opportunity to sell you more legal services. A good attorney will ask you, “what are you trying to protect?” You need to find someone who will try to help you achieve your objective rather than merely do what you ask them to do. 
+Asking attorneys for advice can be frustrating as some of them may see your questions as an opportunity to sell you more legal services. A good attorney will ask you, “what are you trying to protect?” You need to find someone who will try to help you achieve your objective rather than merely do what you ask them to do.
 
-Some of the visa categories are dependent on your company's current state. For example, you can’t apply for a J-1 when you've only just started a company; however, you can apply for an H-1B, even if you started the company only three days ago (it's about how much money you've raised). With this in mind, find someone who is going to use all of the information you provide for your specific situation. (Remember not every immigration attorney is a good *start-up* immigration attorney.) Many attorneys specialize in high-volume cases -- as a startup founder, what you want is someone who's going to look at the specifics and figure out which type of playbook is best for you.
+Some of the visa categories are dependent on your company's current state. For example, you can’t apply for a J-1 when you've only just started a company; however, you can apply for an H-1B, even if you started the company only three days ago \(it's about how much money you've raised\). With this in mind, find someone who is going to use all of the information you provide for your specific situation. \(Remember not every immigration attorney is a good _start-up_ immigration attorney.\) Many attorneys specialize in high-volume cases -- as a startup founder, what you want is someone who's going to look at the specifics and figure out which type of playbook is best for you.
 
 How do you know if you have a good immigration lawyer, and how do you find one?
 
@@ -143,21 +130,19 @@ You can expect it to take about a month, at least, to process somebody's visa. S
 
 Many founders wonder if they can even found a company when on a visa, or if they should rather wait. The biggest cost of being on a visa as a founder is waiting and delaying when you start your company. Rather than simply waiting, consider going out and seeking out partners who are going to provide you with the resources that you need. If you think you have something that you want to start today, you should start today.
 
-Immigration plays a particularly critical role in the startup ecosystem. Going through the process of acquiring a visa can be a stressful venture, but it is well worth it in the end as long as you protect yourself and seek information from the right sources. 
+Immigration plays a particularly critical role in the startup ecosystem. Going through the process of acquiring a visa can be a stressful venture, but it is well worth it in the end as long as you protect yourself and seek information from the right sources.
 
 _\[Contributed in part by_ [_Nitin Pachisia, Founding Partner, Unshackled Ventures_](https://twitter.com/immigreating?lang=en)_\]_
 
-
-
-### How to manage people
+## How to manage people
 
 **DAY 77**
 
 \*\*\*\*[**How do I retain a high performer on my team?**](https://www.pscp.tv/w/1lDGLyopePQJm)
 
-If you have a mentality that you **must** keep a high performer – or a person with a rare skill – at all costs, you will make bad choices or have strange dynamics on your team. 
+If you have a mentality that you **must** keep a high performer – or a person with a rare skill – at all costs, you will make bad choices or have strange dynamics on your team.
 
-Make sure you have a plan if anybody on your team leaves, including if they have to leave because of a family illness or the like. This will give you alternatives _and_ an ability to think less emotionally, more rationally, about it. 
+Make sure you have a plan if anybody on your team leaves, including if they have to leave because of a family illness or the like. This will give you alternatives _and_ an ability to think less emotionally, more rationally, about it.
 
 Once you have a plan in place, think about this person on your team as engaging in a "tour of duty" at your company, as [Reid Hoffman has called it](https://hbr.org/2013/06/tours-of-duty-the-new-employer-employee-compact). You can both provide each other immense value for a period, but eventually they will move on. There's no static answer that works for a person forever.
 
@@ -165,9 +150,9 @@ And sometimes an amazing person will get an incredible offer that they can't ref
 
 So when you're interviewing someone, ask, "What do you hope to get out of the next phase of your career?" And have a real dialogue with them about it. Some people want to have a new experience or get a badge for something to show the world what they've accomplished.
 
-Ask yourself, "How can I make working with me, right now, the very best way in the world that this person can accomplish their goal?" And then design a role and situation that is bespoke for that need. And ideally, it's something that serves your needs as a company, but you might have to take some risks. You might need to give them more responsibility than they wanted. 
+Ask yourself, "How can I make working with me, right now, the very best way in the world that this person can accomplish their goal?" And then design a role and situation that is bespoke for that need. And ideally, it's something that serves your needs as a company, but you might have to take some risks. You might need to give them more responsibility than they wanted.
 
-And you need to understand what motivates your employee, whether it is exposure to other teams or  projects, visibility, recognition, etc. And work with them to fulfill those motivations and collaborate with you on what a successful tour of duty looks like. 
+And you need to understand what motivates your employee, whether it is exposure to other teams or projects, visibility, recognition, etc. And work with them to fulfill those motivations and collaborate with you on what a successful tour of duty looks like.
 
 \[Ed.: I've had cases where a high performer worked for me and I introduced them to others for interviews. My philosophy is you should be talking with others all the time, unless you're in a closed industry where talking to them might explode your reputation. You need to know what your options are and it's a continuous process.\]
 
@@ -175,23 +160,21 @@ The answer to "How do I keep a high performer?" is similar as "How do I attract 
 
 Success for your team member means they are performing at their best, they feel like their needs are satisfied, and they remain for some period of time. And then you have to reinvent and do it constantly. Be in a service leader mentality, deeply trying to understand what that person believes they want and figuring out how best to give it to them.
 
-
-
 [**How do I know if I have set unrealistic expectations for my team?**](https://www.pscp.tv/w/1LyxBaAXnDOJN)\*\*\*\*
 
-Snowflake didn't get to be [worth $60 billion](https://www.forbes.com/sites/greatspeculations/2020/09/29/snowflake-looks-like-a-risky-bet-at-a-60-billion-plus-valuation/#26d98e75f406) by sequencing one reasonable expectation after another. And yet, everyone has had experiences where someone asked you to do more than what was possible. 
+Snowflake didn't get to be [worth $60 billion](https://www.forbes.com/sites/greatspeculations/2020/09/29/snowflake-looks-like-a-risky-bet-at-a-60-billion-plus-valuation/#26d98e75f406) by sequencing one reasonable expectation after another. And yet, everyone has had experiences where someone asked you to do more than what was possible.
 
-[Bernard Shaw said](https://www.goodreads.com/quotes/536961-the-reasonable-man-adapts-himself-to-the-world-the-unreasonable), “The reasonable man adapts himself to the world: the unreasonable one persists in trying to adapt the world to himself. Therefore all progress depends on the unreasonable man" \[or woman or non-binary person\]. 
+[Bernard Shaw said](https://www.goodreads.com/quotes/536961-the-reasonable-man-adapts-himself-to-the-world-the-unreasonable), “The reasonable man adapts himself to the world: the unreasonable one persists in trying to adapt the world to himself. Therefore all progress depends on the unreasonable man" \[or woman or non-binary person\].
 
-In essence this is true: most people worry too much about being realistic and not enough about progress. But as with many things, you have to think about  timing and dosage. 
+In essence this is true: most people worry too much about being realistic and not enough about progress. But as with many things, you have to think about timing and dosage.
 
-Think about how you would answer the question, "How do I know if I've spoken too loudly in a meeting?" You would look for cues from your environment and practice – and you can use the same approach here.
+Think about how you would answer the question, "How do I know if I've spoken too loudly in a meeting?" You would look for cues from your environment and practice – and you can use the same approach here.
 
 Make yourself slightly uncomfortable by pushing a little harder with your expectations and see if it works. And if it works, build on it. Ultimately, if you've set expectations that are too hard, something will have to give – the confidence of the team, their sanity, or you'll have to invent your way out.
 
 Kieran Snyder, CEO of Textio \(in which Bloomberg Beta is a proud investor\), has [shared](https://twitter.com/KieranSnyder/status/1308128961730236416) the importance of setting working models for managing up, down, and over, to achieve your main accountability as a manager: Delivering high-impact work on time and growing people in the process. Think about what your direct reports expect and what they are capable of.
 
-You have to will it to happen _and_ have the skill and practice to make it happen. Often the people with the least realistic expectations are the most experienced people, and they know exactly what they're pushing for and whether it's okay or not okay. If you missed the number this quarter, is everything going to fall apart or not? 
+You have to will it to happen _and_ have the skill and practice to make it happen. Often the people with the least realistic expectations are the most experienced people, and they know exactly what they're pushing for and whether it's okay or not okay. If you missed the number this quarter, is everything going to fall apart or not?
 
 Practice being unreasonable because it's a \(useful\) skill.
 
@@ -207,21 +190,19 @@ If you actually want somebody to change, the first thing to do is to **try to un
 
 **Get permission to give feedback.** Like a vampire entering the house, you need an invitation to enter.
 
-**Give feedback -- and focus, entirely if possible, on positive feedback when they move in the direction you want.** Think about [the animal trainer model](https://www.nytimes.com/2019/10/11/style/modern-love-what-shamu-taught-me-happy-marriage.html), rewarding people when they do what you want. The reward can be small -- a thank you in Slack, or a thumbs up text. \[Ed.: We use [Bonusly](https://bonus.ly), in which we're proud investors, for continuous encouragement of our own team at [Bloomberg Beta](http://bloombergbeta.com).\] 
+**Give feedback -- and focus, entirely if possible, on positive feedback when they move in the direction you want.** Think about [the animal trainer model](https://www.nytimes.com/2019/10/11/style/modern-love-what-shamu-taught-me-happy-marriage.html), rewarding people when they do what you want. The reward can be small -- a thank you in Slack, or a thumbs up text. \[Ed.: We use [Bonusly](https://bonus.ly), in which we're proud investors, for continuous encouragement of our own team at [Bloomberg Beta](http://bloombergbeta.com).\]
 
 **Give that positive feedback consistently and as often as possible.** If the behavior is negative \(i.e., not what you want\), ignore it unless it's too material to be quiet -- e.g., it violates your values or it's catastrophic. Try to frame everything as a positive, where possible.
 
-It's helpful to offer alternatives \("What if we tried doing it this other way?"\) and point to positive examples as much as possible. 
+It's helpful to offer alternatives \("What if we tried doing it this other way?"\) and point to positive examples as much as possible.
 
-Be mindful of the other person's "learning language," i.e., what is their best way to receive information. Some people like concrete examples, others learn visually, some like conversation and others prefer written communication. Experiment and be aware of how your feedback lands. 
+Be mindful of the other person's "learning language," i.e., what is their best way to receive information. Some people like concrete examples, others learn visually, some like conversation and others prefer written communication. Experiment and be aware of how your feedback lands.
 
 **Every so often to really get people to change, you need to exercise power.** Sometimes the big stick of the bosses watching can matter, but it's rare.
 
-And what if you want not just a person to change, but a work product to change? In this case, sometimes you just have to change the work product yourself or ask for the specific change you want. 
+And what if you want not just a person to change, but a work product to change? In this case, sometimes you just have to change the work product yourself or ask for the specific change you want.
 
-**It's hard to say, ultimately, how much people really can change.** People do grow and evolve, though oftentimes our sadness at work stems from our expectation that somebody might evolve -- when really we need to find another solution.  This is why understanding people is so important, because people can't always be changed through the magic of your word.
-
-
+**It's hard to say, ultimately, how much people really can change.** People do grow and evolve, though oftentimes our sadness at work stems from our expectation that somebody might evolve -- when really we need to find another solution. This is why understanding people is so important, because people can't always be changed through the magic of your word.
 
 \*\*\*\*[**What do I do when I'm worried someone who works for me should be working harder?**](https://www.pscp.tv/w/1RDxlrREDYkGL)\*\*\*\*
 
@@ -235,31 +216,27 @@ If you do find you want somebody to pick up their intensity or care or hours, fo
 
 Sometimes you have to diagnose the situation first. Get curious, saying "Hey, I have noticed that you have been working fewer hours than others," \(stick to the facts, not your characterization\). You never know when there's something temporary going on for someone, like an issue in their family, and they may open up. Then explain the effect on you of how they work. Once they see that their actions have an effect on you \(and others, if you lead the team and want to speak for others\), they might change.
 
-Ultimately this is a behavior that's often impossible to change, so don't waste too much time letting the person try to prove it. If it's not going to work, sometimes it's not going to work. 
+Ultimately this is a behavior that's often impossible to change, so don't waste too much time letting the person try to prove it. If it's not going to work, sometimes it's not going to work.
 
 Avoid: \(1\) Requests that are clearly just for "optics," for how hard someone _appears_ to be working without getting anything done. For example, saying, "Hey, the boss comes by everyday at nine and I want to see you there." \(2\) Getting passive aggressive, a common thing many managers do. Start out with yourself and figure out why, then everything will follow from there.
-
-
 
 [**What do I do with employees who overvalue themselves?**](https://www.pscp.tv/w/1eaJbzAXqqXJX)\*\*\*\*
 
 "Overvaluing" can mean many things: a person's ego being too big, them wanting to be involved in choices that you don't think they need to be involved, or wanting more money than you think they're worth, or a bigger title or public profile. \(This frequently happens with early startup employees who were in on everything at the beginning, but then the company grows and circumstances change.\)
 
-The solution depends on which kind of overvaluing you are solving.   
-  
+The solution depends on which kind of overvaluing you are solving.
+
 If the issue is around ego, unpack the "story" from the behavior: sometimes the fact they privately overvalue themselves is not a problem, even if it bugs you. Solve for the behavior. If they overvalue themselves on money, you might need to say, "You know what? We need to fire this person, we're paying them too much." If they overvalue themselves on decision-making, you might need to have an honest talk and say, "You can't be in all these decisions anymore." And if it works out, it works out, and if it doesn't, it doesn't. But overvaluing is not one problem, it's many.
 
+## Reviewing performance \(yours and others'\)
 
+### [What is a 360 review and how do I conduct one?](https://www.pscp.tv/w/cY20DDFsWktwWXhYSnhvam58MXlvS01hV3liUGRLUW7n8moaoREHEEJkpMfSNJrLnw0y7X6qnde6lAnu81DD)
 
-### Reviewing performance \(yours and others'\)
+A 360 \(degree\) review is a tool for capturing feedback where the source of the feedback can include people inside and outside the organization -- in other words, unlike a traditional review \(just the boss\) or a 180 review \(just the peers and those who work for the person being reviewed\).
 
-#### [What is a 360 review and how do I conduct one?](https://www.pscp.tv/w/cY20DDFsWktwWXhYSnhvam58MXlvS01hV3liUGRLUW7n8moaoREHEEJkpMfSNJrLnw0y7X6qnde6lAnu81DD)
+To administer a 360 review, some companies hire a vendor, or an outside consultant to do it, so that reviewers know it's not somebody in the company. If it's a small company, it might need to be the person themselves receiving it -- ideally it's somebody else.
 
-A 360 \(degree\) review is a tool for capturing feedback where the source of the feedback can include people inside and outside the organization -- in other words, unlike a traditional review \(just the boss\) or a 180 review \(just the peers and those who work for the person being reviewed\). 
-
-To administer a 360 review, some companies hire a vendor, or an outside consultant to do it, so that reviewers know it's not somebody in the company. If it's a small company, it might need to be the person themselves receiving it -- ideally it's somebody else. 
-
-A 360 review starts with a set a list of reviewers. If it's the CEO being reviewed, that last can include everybody in the company. If it's a person who leads a team, it might be their team and peers in the organization. 
+A 360 review starts with a set a list of reviewers. If it's the CEO being reviewed, that last can include everybody in the company. If it's a person who leads a team, it might be their team and peers in the organization.
 
 And then you collect feedback from this list of reviewers: First, you communicate to the reviewers why you're doing a 360 review. Maybe it's because the person being reviewed wants to grow as a leader. \(That's why you might do a 360 review on yourself.\) Maybe it's about the fact that the company values open communication.
 
@@ -272,8 +249,6 @@ You can find more elaborate versions of a 360 review: Sometimes reviewers comple
 The manager of the person being reviewed usually presents the feedback, though sometimes the administrator of the 360 review presents it. The 360 review can be part of an official performance review, or a separate process. Organizations use 360 reviews both for driving professional growth and/or for evaluation.
 
 Some recipients share their 360 reviews with their teams, or with the organization as a whole. This demonstrates that the reviewers' input didn't end up in a black hole, and can encourage future feedback because reviewers see the response to their feedback. Many reviewers appreciate hearing when the next 360 review will take place \(annually?\), to create a sense of continuity.
-
-
 
 [**What do you do when a junior employee comes to you with critical feedback about a more senior employee, and asks you to keep it confidential?**](https://www.pscp.tv/roybahat/1mnGelXLEaQKX?t=28m53s)\*\*\*\*
 

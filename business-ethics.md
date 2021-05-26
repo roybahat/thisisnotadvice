@@ -1,4 +1,4 @@
-# Ethics
+# Making ethical choices
 
 #### [How can my company do good in the world and succeed in business at the same time? ](https://www.pscp.tv/roybahat/1YqGoRYQEjEKv)
 
