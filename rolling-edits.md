@@ -126,6 +126,8 @@ If you just aren’t sure how someone will perceive the Calendly link, you can a
 
 If you’re solving for your own convenience, sending a Calendly link is a great option. If you want to solve for the convenience of others, you may want to consider giving them the option to use Calendly or a more traditional method.
 
+_\[Contributed in part by: Minn Kim, Investor, Bloomberg Beta\]_
+
 **+++**
 
 **DAY 97**
