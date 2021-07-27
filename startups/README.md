@@ -52,6 +52,82 @@ Most of the time, the co-founding teams that work the best have pre-existing his
 
 
 
+
+
+#### [I want to be a technical co-founder of a startup -- how do I find a co-founder?](https://www.pscp.tv/w/1MnxndRgRzXGO) I think I need ideas and someone who has business experience.
+
+The best co-founding teams tend to already know each other well. Startups are such a trust-driven, pressured environment that if you already have a bond, then it's so much easier than an "instateam." That's one of the reasons co-founder dating is such a difficult concept, and there are so many wife-husband, sister-brother, or best friend teams.
+
+Do you even need a co-founder? You can practice starting a company while you search for one, and maybe discover you don't need a co-founder at all. Starting companies is a trade, an occupation. It's not magical chemistry where you take the magical idea and the magic skills and you can mix them all up and then _--_ _bam_, something great happens. Like being a chef or an architect, if you practice at it, you get better at it. 
+
+The best way to have ideas is by trying to have lots of ideas, working on them, and running into walls over and over. 
+
+A lot of the time you have an inkling of an idea, [there are so many ways that you can test it](http://theleanstartup.com/) -- as simply as asking 20 of your friends, "Is this interesting?" Make a Google form and ask a hundred people. By doing side projects on your own, you may test whether you even need a co-founder. If you do need a co-founder, or if you even just want one because you feel lonely -- that's good to learn.
+
+**Now practical tips on how to find a co-founder:** 
+
+Say in public some of the ideas you're interested in. Twitter is great for this. See who's drawn to you and work with them. Hack with them on some stuff, make some things, see where it goes.
+
+Who are the most talented people with whom you have ever worked or wanted to work? What are the interests that you share that you want to work on together? That respect, more than some resume assessment, is the glue that can make a great company. 
+
+You start working with somebody and, if every week you're slightly more committed to working with them than you were the week before, great. \[Ed.: My co-founder at [the startup we started](https://www.kickstarter.com/projects/ouya/ouya-a-new-kind-of-video-game-console), used to say that success is if every week you're doing better than the week before. Deceptively simple. True.\] You don't need a big "let's talk about the status of our relationship" moment. \(Though at some point it helps to [talk about your expectations](https://www.amazon.com/Partnership-Charter-Start-Right-Business/dp/0738208981).\)
+
+It's like hiring for anything else, with the exception that it's hard to fire a co-founder. It's painful. So do more diligence, proportionately to that. Work with them for a month, talk to lots of people who know them, go hang out with their family, eat dinners together. If you actually like each other, it can work much better.
+
+These tips are all based on this philosophy of: teams that know each other well tend to work out best, starting companies is a trade you can practice, and always solving for quality.
+
+#### 
+
+
+
+[**How much does my company name matter?**](https://www.pscp.tv/w/1jMKgXEmvlqGL)\*\*\*\*
+
+When it comes to naming, there is a basic "test suite" to go through:
+
+> Whether you're good or bad at naming, eventually you'll need to get your company's .com URL, so you need to choose a name to get things moving.
+
+> And you need to like the name. If it doesn't feel good to you every time you say it, then you're going to be carrying that discomfort for a long time.
+
+> The name shouldn't have any obvious fatal flaws. There have been company names that were anagrams for swear words. If you became wildly successful, that could end up being a shackle.
+
+Also recognize that often names evolve. Justin.tv became Twitch, eShares became Carta. So don't agonize over it too much. Only stress to the degree your customers will stress – if they won't stress that much over your name, you shouldn't stress that much.
+
+\[Ed.: At the company I started, we agonized over the name. We came up with the trick that if you had a numeral in the name, then it was easier to get the .com. But then the design team we hired to work with us presented a better name, so we changed it.\] 
+
+When you're naming a company, it's easy to stew over phonetic questions like, "Can it be spelled easily? Can it not?" Depending on the context, these things can be overcome. The least obvious question is, "How much do you love your company name?" Because that name may walk with you for a long time. So you might as well love it.
+
+#### 
+
+#### [How valuable is your IP in a startup's early days?](https://www.pscp.tv/w/1BRKjQZvyOWxw)
+
+Most people tend to think too much about whether some startup idea \(or early product\) would be easy to clone. Most _wildly successful_  startups would be easy to clone \(or would have been in their earliest days\). Would Airbnb not have been easy to clone in the beginning? Most startups lack defensible IP in that traditional sense. It's usually about the cost benefit of copying a startup, or the skill required to bring the finer details to life. [It's more like a movie than like "technology."](https://blog.markgrowth.com/early-startup-pitches-are-like-movie-pitches-not-business-pitches-d6ab3754758a?gi=af377827c35d)
+
+
+
+#### [Should you incorporate as a B-Corp or Public Benefit Corporation?](https://www.pscp.tv/w/ccFBcDFsWktwWXhYSnhvam58MXlwS2R3eldZbnF4V3CASjaVNSRTgV_0VkAaxMOh-BJobvYeRGgzfto422xz)
+
+There are now alternative corporate forms to a standard corporation or LLC that intend to induce companies to have more of a positive impact on the world. They do that through a combination of mechanisms. Some of them are government standards. [B Corporation](https://bloombergbeta.zoom.us/j/92162247960) is a certification from a nonprofit. \(If you know about building design, the mechanism is similar to the LEED certification for environmentally-friendly design.\)
+
+**Do these mechanisms create a company that, in fact, "makes more good?"** There's no structure that can _guarantee_ making a better company. These new structures give you a basis as a company to say to your shareholders, "I am choosing to optimize for something other than shareholder value. And therefore, if you believe I'm being a poor fiduciary of the company because I'm not building shareholder value, I am taking away a basis for you to sue me." It's unclear if that power has ever been tested; in theory, that's one benefit. 
+
+The idea that being forced to deliver shareholder value causes bad corporate behavior might be based on a mistaken assumption. If you ask a company solving for shareholder value to do good, they could say, "What if I'm just solving for shareholder value, just over the long term? If it's good for business to be good for the environment and good for workers, isn't this just a question of time horizons?"
+
+If the benefit of these structures isn't delivered through some "guarantee of goodness" that follows from the corporate form maybe the rationale is that companies that try to do good, in fact do good, and these structures encourage that? 
+
+What does drive companies to do good over the long term? When companies are attempting to solve for short term profits, they can often cause harm. What prevents them from doing that? One solve is to ahve shareholders who care about the long term. \(Matt Levine, the Bloomberg newsletter writer, [pointed out ](https://www.bloomberg.com/opinion/articles/2020-05-27/all-the-stocks-are-the-same-now?sref=OJIk8nu4)that in this moment post-Covid-19 where the market has remained steady, we may be seeing markets valuing the long term and "looking through" next quarter's numbers.\) 
+
+The right incentives can ensure companies do the right thing in the long-term. For example, a CEO who wants to do the right thing and has power can bring this goodness to life. While unusually powerful company CEO's \(e.g., with two class share structures\) can cause harm by doing things without fear of market repercussions or board removal, they can also do a lot of good. 
+
+Can these new corporate forms be helpful? Of course, as can, e.g., conducting a planning process that makes you do more good. 
+
+**Is there some other reason to adopt one of these structures?** One frequent critiques is that these things are just [marketing](https://hbr.org/2016/06/why-companies-are-becoming-b-corporations). It could be a positive symbol to employees and others which communicates, "Hey, our company takes this seriously. We're willing to go through a process that validates our willingness to do good."
+
+There are so many decisions in the life of a start-up that are one way doors, or costly to reverse. Your choice of corporate form is one of those costly-to-reverse choices. It's best done with a tremendous amount of seriousness and contemplation. If you want to understand this better, here's a [practical guide](https://www.notion.so/Should-I-incorporate-as-a-benefit-corporation-48be30ea5f53441c893d0b73119cf67f). 
+
+
+
+### Sales
+
 [**How do I know when to start charging for my product?**](https://www.pscp.tv/w/1mnxelpqyLaJX)
 
 You should start charging for your product sooner than you may think. The only reason to wait to charge is when the product will be much more valuable to _each_ customer if you wait -- as may happen, for example, in companies with a network effect. \(In that case, you may waste valuable time trying to charge customers when the current value fails to tell you much about the eventual value.\)
@@ -94,23 +170,35 @@ When deciding what to charge for your product, it is important to recognize how 
 
 _\[Contributed in part by_ [_Alex Cohen, Founder, CommandDot_](https://twitter.com/anothercohen)_\]_
 
+\_\_
+
+[**How do I get my enterprise customer's attention when my startup lacks brand recognition?**](https://www.pscp.tv/w/1YqJDpgyeEaJV)
+
+Ask yourself what customer you're trying to get and [why that customer, specifically](https://also.roybahat.com/picking-your-first-customers-the-gradient-of-influence-47858b90adfd) -- clarity can create a reason to connect with a customer.
+
+Once you've identified a possible target customer, you may be able to employ the techniques that [Joseph Freed](https://twitter.com/josephfreed79?lang=en) used when starting [Cultivate](https://cultivate.com/) to get customers' attention: 1\) networking at conferences and 2\) "focusing on logos."
+
+When choosing a conference to go to, the nichier and nerdier, the better. You may try to bond with a representative of your customer who attends \(or speaks at\) that conference. With big conferences, the speaker gets mobbed by a throng of folks, so a meaningful conversation is just not possible. The best conferences for connecting with customers are smaller and focused on practitioners.
+
+At the conference, you can try to identify the specific buyers who might be interested in your product. If there's a person from a respected enterprise who is speaking, you can try to talk to them after their presentation, saying something like, "Hey, I loved your talk. I'm co-founder of a startup and we're doing some of the things that you're trying to think about." Your goal at this point is really to get advice–when you are at this stage, gaining informal insight \(which you can then incorporate or repeat to customers\) is just as valuable as gaining customers.
+
+The majority of people are going to say no, but because the speakers are generally more receptive, your hit rate will probably be higher.
+
+\[Ed.: I've been on the other side of this situation, as the speaker at a conference, and after speaking you find yourself surrounded by people who are trying to sell you something. Try to approach the people that speak about topics that are related to what you do.\]
+
+Focus on getting customers who are recognizable, either individually or as a group \(e.g., "small graphic design agencies"\) to other customers. [Seek customers who are admired by your potential customers](https://also.roybahat.com/picking-your-first-customers-the-gradient-of-influence-47858b90adfd). People at big enterprises are more likely to buy when they know other credible companies have bought your product.
+
+One way to get these early logos is to be involved with incubators and accelerators from large enterprises. A lot of these programs have no strings attached. You show up, get advice, and then when you email people you can say that you are associated with that enterprise. When people see that you worked with that enterprise, it signals to them that you know how to work and it shows who your target is.
+
+Getting an enterprise’s attention can be particularly difficult when you’re just starting out, but getting creative at conferences and with well-known companies via accelerators and incubators can help you get in the door.
+
+_\[Contributed in part by_ [_Joseph Freed, CEO of Cultivate_](https://twitter.com/josephfreed79?lang=en)_\]_
+
 \*\*\*\*
 
-[**How much does my company name matter?**](https://www.pscp.tv/w/1jMKgXEmvlqGL)\*\*\*\*
 
-When it comes to naming, there is a basic "test suite" to go through:
 
-> Whether you're good or bad at naming, eventually you'll need to get your company's .com URL, so you need to choose a name to get things moving.
-
-> And you need to like the name. If it doesn't feel good to you every time you say it, then you're going to be carrying that discomfort for a long time.
-
-> The name shouldn't have any obvious fatal flaws. There have been company names that were anagrams for swear words. If you became wildly successful, that could end up being a shackle.
-
-Also recognize that often names evolve. Justin.tv became Twitch, eShares became Carta. So don't agonize over it too much. Only stress to the degree your customers will stress – if they won't stress that much over your name, you shouldn't stress that much.
-
-\[Ed.: At the company I started, we agonized over the name. We came up with the trick that if you had a numeral in the name, then it was easier to get the .com. But then the design team we hired to work with us presented a better name, so we changed it.\] 
-
-When you're naming a company, it's easy to stew over phonetic questions like, "Can it be spelled easily? Can it not?" Depending on the context, these things can be overcome. The least obvious question is, "How much do you love your company name?" Because that name may walk with you for a long time. So you might as well love it.
+### Working for a startup, as a founder or otherwise
 
 
 
@@ -170,60 +258,6 @@ With co-founders, there are a lot of the same considerations, but in the early d
 
 
 
-#### [I want to be a technical co-founder of a startup -- how do I find a co-founder?](https://www.pscp.tv/w/1MnxndRgRzXGO) I think I need ideas and someone who has business experience.
-
-The best co-founding teams tend to already know each other well. Startups are such a trust-driven, pressured environment that if you already have a bond, then it's so much easier than an "instateam." That's one of the reasons co-founder dating is such a difficult concept, and there are so many wife-husband, sister-brother, or best friend teams.
-
-Do you even need a co-founder? You can practice starting a company while you search for one, and maybe discover you don't need a co-founder at all. Starting companies is a trade, an occupation. It's not magical chemistry where you take the magical idea and the magic skills and you can mix them all up and then _--_ _bam_, something great happens. Like being a chef or an architect, if you practice at it, you get better at it. 
-
-The best way to have ideas is by trying to have lots of ideas, working on them, and running into walls over and over. 
-
-A lot of the time you have an inkling of an idea, [there are so many ways that you can test it](http://theleanstartup.com/) -- as simply as asking 20 of your friends, "Is this interesting?" Make a Google form and ask a hundred people. By doing side projects on your own, you may test whether you even need a co-founder. If you do need a co-founder, or if you even just want one because you feel lonely -- that's good to learn.
-
-**Now practical tips on how to find a co-founder:** 
-
-Say in public some of the ideas you're interested in. Twitter is great for this. See who's drawn to you and work with them. Hack with them on some stuff, make some things, see where it goes.
-
-Who are the most talented people with whom you have ever worked or wanted to work? What are the interests that you share that you want to work on together? That respect, more than some resume assessment, is the glue that can make a great company. 
-
-You start working with somebody and, if every week you're slightly more committed to working with them than you were the week before, great. \[Ed.: My co-founder at [the startup we started](https://www.kickstarter.com/projects/ouya/ouya-a-new-kind-of-video-game-console), used to say that success is if every week you're doing better than the week before. Deceptively simple. True.\] You don't need a big "let's talk about the status of our relationship" moment. \(Though at some point it helps to [talk about your expectations](https://www.amazon.com/Partnership-Charter-Start-Right-Business/dp/0738208981).\)
-
-It's like hiring for anything else, with the exception that it's hard to fire a co-founder. It's painful. So do more diligence, proportionately to that. Work with them for a month, talk to lots of people who know them, go hang out with their family, eat dinners together. If you actually like each other, it can work much better.
-
-These tips are all based on this philosophy of: teams that know each other well tend to work out best, starting companies is a trade you can practice, and always solving for quality.
-
-#### 
-
-#### [How valuable is your IP in a startup's early days?](https://www.pscp.tv/w/1BRKjQZvyOWxw)
-
-Most people tend to think too much about whether some startup idea \(or early product\) would be easy to clone. Most _wildly successful_  startups would be easy to clone \(or would have been in their earliest days\). Would Airbnb not have been easy to clone in the beginning? Most startups lack defensible IP in that traditional sense. It's usually about the cost benefit of copying a startup, or the skill required to bring the finer details to life. [It's more like a movie than like "technology."](https://blog.markgrowth.com/early-startup-pitches-are-like-movie-pitches-not-business-pitches-d6ab3754758a?gi=af377827c35d)
-
-
-
-#### [Should you incorporate as a B-Corp or Public Benefit Corporation?](https://www.pscp.tv/w/ccFBcDFsWktwWXhYSnhvam58MXlwS2R3eldZbnF4V3CASjaVNSRTgV_0VkAaxMOh-BJobvYeRGgzfto422xz)
-
-There are now alternative corporate forms to a standard corporation or LLC that intend to induce companies to have more of a positive impact on the world. They do that through a combination of mechanisms. Some of them are government standards. [B Corporation](https://bloombergbeta.zoom.us/j/92162247960) is a certification from a nonprofit. \(If you know about building design, the mechanism is similar to the LEED certification for environmentally-friendly design.\)
-
-**Do these mechanisms create a company that, in fact, "makes more good?"** There's no structure that can _guarantee_ making a better company. These new structures give you a basis as a company to say to your shareholders, "I am choosing to optimize for something other than shareholder value. And therefore, if you believe I'm being a poor fiduciary of the company because I'm not building shareholder value, I am taking away a basis for you to sue me." It's unclear if that power has ever been tested; in theory, that's one benefit. 
-
-The idea that being forced to deliver shareholder value causes bad corporate behavior might be based on a mistaken assumption. If you ask a company solving for shareholder value to do good, they could say, "What if I'm just solving for shareholder value, just over the long term? If it's good for business to be good for the environment and good for workers, isn't this just a question of time horizons?"
-
-If the benefit of these structures isn't delivered through some "guarantee of goodness" that follows from the corporate form maybe the rationale is that companies that try to do good, in fact do good, and these structures encourage that? 
-
-What does drive companies to do good over the long term? When companies are attempting to solve for short term profits, they can often cause harm. What prevents them from doing that? One solve is to ahve shareholders who care about the long term. \(Matt Levine, the Bloomberg newsletter writer, [pointed out ](https://www.bloomberg.com/opinion/articles/2020-05-27/all-the-stocks-are-the-same-now?sref=OJIk8nu4)that in this moment post-Covid-19 where the market has remained steady, we may be seeing markets valuing the long term and "looking through" next quarter's numbers.\) 
-
-The right incentives can ensure companies do the right thing in the long-term. For example, a CEO who wants to do the right thing and has power can bring this goodness to life. While unusually powerful company CEO's \(e.g., with two class share structures\) can cause harm by doing things without fear of market repercussions or board removal, they can also do a lot of good. 
-
-Can these new corporate forms be helpful? Of course, as can, e.g., conducting a planning process that makes you do more good. 
-
-**Is there some other reason to adopt one of these structures?** One frequent critiques is that these things are just [marketing](https://hbr.org/2016/06/why-companies-are-becoming-b-corporations). It could be a positive symbol to employees and others which communicates, "Hey, our company takes this seriously. We're willing to go through a process that validates our willingness to do good."
-
-There are so many decisions in the life of a start-up that are one way doors, or costly to reverse. Your choice of corporate form is one of those costly-to-reverse choices. It's best done with a tremendous amount of seriousness and contemplation. If you want to understand this better, here's a [practical guide](https://www.notion.so/Should-I-incorporate-as-a-benefit-corporation-48be30ea5f53441c893d0b73119cf67f). 
-
-
-
-### Working for a startup
-
 [**A startup founder asked me for help with a project. How do I ask to get paid for it?**](https://www.pscp.tv/w/1PlJQNPYVzzxE)\*\*\*\*
 
 When helping startups with projects, you can err in either direction: 1\) focusing too much on getting paid, or 2\) or constantly doing favors and never getting paid. There are also different ways of getting paid: sometimes you get paid in cash, sometimes you can get paid in equity. Sometimes you can get "paid" in a commitment to work together on something else, or a soft understanding. Only you know how important it is to you to get paid, and whether you value cash or something else.
@@ -269,6 +303,10 @@ If you're in a big organization, that organization might have policies about out
 The advisor relationship can vary a lot. When you sign an advisor agreement, you typically get equity and you promise to provide certain services or not to compete. And equity can vary a lot: an early-stage startup might give you 2% to be an advisor on the very high end, but 10 basis points or a quarter of a point is much more common. 
 
 The single most common thing that you do as an advisor is you make yourself available if the company has questions. The cadence will vary – once a week, once a month – and you can determine that with the team based on their needs. Know what you want to get out of it and what you're willing to give.
+
+
+
+
 
 
 

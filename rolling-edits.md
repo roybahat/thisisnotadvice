@@ -1,40 +1,10 @@
 # / Rolling edits
 
-**DAY 93**
-
-
-
-**+++**
-
-**DAY 94**
-
-
-
-**+++**
+\*\*\*\*
 
 **DAY 95**
 
-\*\*\*\*[**How do I get my enterprise customer's attention when my startup lacks brand recognition?**](https://www.pscp.tv/w/1YqJDpgyeEaJV)\*\*\*\*
 
-When trying to get your enterprise customer’s attention, you may be able to employ the techniques that [Joseph Freed](https://twitter.com/josephfreed79?lang=en) used when starting [Cultivate](https://cultivate.com/): 1\) networking at conferences and 2\) focusing on logos. When your startup lacks brand recognition, it can be difficult to get customers to engage with you, but there are ways to get around this.
-
-When choosing a conference to go to, the smaller and the nerdier, the better. With big companies and conferences, the speaker is surrounded by a throng of folks and having a meaningful conversation is just not possible. The best conferences are smaller and focused on practitioners.
-
-At the conference, you can try to identify the specific buyers who might be interested in your product. If there's a person from a respected enterprise who is speaking, you can try to talk to them after their presentation, saying something like, "Hey, I loved your talk. I'm co-founder of a startup and we're doing some of the things that you're trying to think about." Your goal at this point is really to get advice–when you are at this stage, gaining advisors is just as valuable as gaining customers.
-
-Talking to speakers at conferences can be especially beneficial as they are primed to have these conversations–they’re already thought leaders. This isn’t to say that you will have a 100% success rate; the majority of people are going to say no, but because the speakers are generally more receptive, your hit rate will probably be higher.
-
-\[Ed.: I've been on the other side of this situation, as the speaker at a conference, and after speaking you find yourself surrounded by people who are trying to sell you something. What is key here is to try and approach the people that speak about topics that are related to what you do.\]
-
-Another area of focus for getting enterprise customers is to focus on getting credible logos. If you are trying to sell to enterprise people, you need logos because they’re more likely to buy when they know other credible companies have bought your product.
-
-One way to get these early logos and pre-customer logos is to be involved with incubators and accelerators from large enterprises. A lot of these programs have no strings attached. You show up, get advice, and then when you email people you can say that you are associated with that enterprise.
-
-When people see that you worked with that enterprise, it signals to them that you know how to work and it shows who your target is.
-
-Getting an enterprise’s attention can be particularly difficult when you’re just starting out, but getting creative at conferences and with well-known companies via accelerators and incubators can help you get in the door.
-
-_\[Contributed in part by_ [_Joseph Freed, CEO of Cultivate_](https://twitter.com/josephfreed79?lang=en)_\]_
 
 **+++**
 
