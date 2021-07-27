@@ -50,35 +50,7 @@ How to figure out if you do need a co-founder: **do you have a skill you need fo
 
 Most of the time, the co-founding teams that work the best have pre-existing history with each other, where they've had some base of experiences on which to draw, to trust each other.
 
-
-
-
-
-#### [I want to be a technical co-founder of a startup -- how do I find a co-founder?](https://www.pscp.tv/w/1MnxndRgRzXGO) I think I need ideas and someone who has business experience.
-
-The best co-founding teams tend to already know each other well. Startups are such a trust-driven, pressured environment that if you already have a bond, then it's so much easier than an "instateam." That's one of the reasons co-founder dating is such a difficult concept, and there are so many wife-husband, sister-brother, or best friend teams.
-
-Do you even need a co-founder? You can practice starting a company while you search for one, and maybe discover you don't need a co-founder at all. Starting companies is a trade, an occupation. It's not magical chemistry where you take the magical idea and the magic skills and you can mix them all up and then _--_ _bam_, something great happens. Like being a chef or an architect, if you practice at it, you get better at it. 
-
-The best way to have ideas is by trying to have lots of ideas, working on them, and running into walls over and over. 
-
-A lot of the time you have an inkling of an idea, [there are so many ways that you can test it](http://theleanstartup.com/) -- as simply as asking 20 of your friends, "Is this interesting?" Make a Google form and ask a hundred people. By doing side projects on your own, you may test whether you even need a co-founder. If you do need a co-founder, or if you even just want one because you feel lonely -- that's good to learn.
-
-**Now practical tips on how to find a co-founder:** 
-
-Say in public some of the ideas you're interested in. Twitter is great for this. See who's drawn to you and work with them. Hack with them on some stuff, make some things, see where it goes.
-
-Who are the most talented people with whom you have ever worked or wanted to work? What are the interests that you share that you want to work on together? That respect, more than some resume assessment, is the glue that can make a great company. 
-
-You start working with somebody and, if every week you're slightly more committed to working with them than you were the week before, great. \[Ed.: My co-founder at [the startup we started](https://www.kickstarter.com/projects/ouya/ouya-a-new-kind-of-video-game-console), used to say that success is if every week you're doing better than the week before. Deceptively simple. True.\] You don't need a big "let's talk about the status of our relationship" moment. \(Though at some point it helps to [talk about your expectations](https://www.amazon.com/Partnership-Charter-Start-Right-Business/dp/0738208981).\)
-
-It's like hiring for anything else, with the exception that it's hard to fire a co-founder. It's painful. So do more diligence, proportionately to that. Work with them for a month, talk to lots of people who know them, go hang out with their family, eat dinners together. If you actually like each other, it can work much better.
-
-These tips are all based on this philosophy of: teams that know each other well tend to work out best, starting companies is a trade you can practice, and always solving for quality.
-
-#### 
-
-
+\*\*\*\*
 
 [**How much does my company name matter?**](https://www.pscp.tv/w/1jMKgXEmvlqGL)\*\*\*\*
 
@@ -95,110 +67,6 @@ Also recognize that often names evolve. Justin.tv became Twitch, eShares became 
 \[Ed.: At the company I started, we agonized over the name. We came up with the trick that if you had a numeral in the name, then it was easier to get the .com. But then the design team we hired to work with us presented a better name, so we changed it.\] 
 
 When you're naming a company, it's easy to stew over phonetic questions like, "Can it be spelled easily? Can it not?" Depending on the context, these things can be overcome. The least obvious question is, "How much do you love your company name?" Because that name may walk with you for a long time. So you might as well love it.
-
-#### 
-
-#### [How valuable is your IP in a startup's early days?](https://www.pscp.tv/w/1BRKjQZvyOWxw)
-
-Most people tend to think too much about whether some startup idea \(or early product\) would be easy to clone. Most _wildly successful_  startups would be easy to clone \(or would have been in their earliest days\). Would Airbnb not have been easy to clone in the beginning? Most startups lack defensible IP in that traditional sense. It's usually about the cost benefit of copying a startup, or the skill required to bring the finer details to life. [It's more like a movie than like "technology."](https://blog.markgrowth.com/early-startup-pitches-are-like-movie-pitches-not-business-pitches-d6ab3754758a?gi=af377827c35d)
-
-
-
-#### [Should you incorporate as a B-Corp or Public Benefit Corporation?](https://www.pscp.tv/w/ccFBcDFsWktwWXhYSnhvam58MXlwS2R3eldZbnF4V3CASjaVNSRTgV_0VkAaxMOh-BJobvYeRGgzfto422xz)
-
-There are now alternative corporate forms to a standard corporation or LLC that intend to induce companies to have more of a positive impact on the world. They do that through a combination of mechanisms. Some of them are government standards. [B Corporation](https://bloombergbeta.zoom.us/j/92162247960) is a certification from a nonprofit. \(If you know about building design, the mechanism is similar to the LEED certification for environmentally-friendly design.\)
-
-**Do these mechanisms create a company that, in fact, "makes more good?"** There's no structure that can _guarantee_ making a better company. These new structures give you a basis as a company to say to your shareholders, "I am choosing to optimize for something other than shareholder value. And therefore, if you believe I'm being a poor fiduciary of the company because I'm not building shareholder value, I am taking away a basis for you to sue me." It's unclear if that power has ever been tested; in theory, that's one benefit. 
-
-The idea that being forced to deliver shareholder value causes bad corporate behavior might be based on a mistaken assumption. If you ask a company solving for shareholder value to do good, they could say, "What if I'm just solving for shareholder value, just over the long term? If it's good for business to be good for the environment and good for workers, isn't this just a question of time horizons?"
-
-If the benefit of these structures isn't delivered through some "guarantee of goodness" that follows from the corporate form maybe the rationale is that companies that try to do good, in fact do good, and these structures encourage that? 
-
-What does drive companies to do good over the long term? When companies are attempting to solve for short term profits, they can often cause harm. What prevents them from doing that? One solve is to ahve shareholders who care about the long term. \(Matt Levine, the Bloomberg newsletter writer, [pointed out ](https://www.bloomberg.com/opinion/articles/2020-05-27/all-the-stocks-are-the-same-now?sref=OJIk8nu4)that in this moment post-Covid-19 where the market has remained steady, we may be seeing markets valuing the long term and "looking through" next quarter's numbers.\) 
-
-The right incentives can ensure companies do the right thing in the long-term. For example, a CEO who wants to do the right thing and has power can bring this goodness to life. While unusually powerful company CEO's \(e.g., with two class share structures\) can cause harm by doing things without fear of market repercussions or board removal, they can also do a lot of good. 
-
-Can these new corporate forms be helpful? Of course, as can, e.g., conducting a planning process that makes you do more good. 
-
-**Is there some other reason to adopt one of these structures?** One frequent critiques is that these things are just [marketing](https://hbr.org/2016/06/why-companies-are-becoming-b-corporations). It could be a positive symbol to employees and others which communicates, "Hey, our company takes this seriously. We're willing to go through a process that validates our willingness to do good."
-
-There are so many decisions in the life of a start-up that are one way doors, or costly to reverse. Your choice of corporate form is one of those costly-to-reverse choices. It's best done with a tremendous amount of seriousness and contemplation. If you want to understand this better, here's a [practical guide](https://www.notion.so/Should-I-incorporate-as-a-benefit-corporation-48be30ea5f53441c893d0b73119cf67f). 
-
-
-
-### Sales
-
-[**How do I know when to start charging for my product?**](https://www.pscp.tv/w/1mnxelpqyLaJX)
-
-You should start charging for your product sooner than you may think. The only reason to wait to charge is when the product will be much more valuable to _each_ customer if you wait -- as may happen, for example, in companies with a network effect. \(In that case, you may waste valuable time trying to charge customers when the current value fails to tell you much about the eventual value.\)
-
-It can feel uncomfortable to charge early on, when you feel a type of "founders' guilt." You may doubt your product is good enough to charge people for it. The psychological temptation of founders and investors is to undercharge. Investors often believe Economics 101 holds, which is that if you price less, you'll grow faster, but this is not always true in the early stages. Many founders also believe that if they charge, they'll slow their growth. That depends on the nature of the service. There are plenty of cases where customers value something more because they pay for it.
-
-One advantage of pricing early is that it can serve as a proxy for determining if someone's getting value out of the product. When people pay for your product, it proves that they view the product as valuable enough to warrant spending their money..
-
-Another advantage is that it highlights the people who are truly interested in the product from the beginning, so you know who to prioritize from day one rather than having a whole bunch of freeloaders and people who want access to something early but will never convert to paying users.
-
-The number of people who are willing to pay can also help you to identify if your pricing is right. You can experiment with dropping or raising the price and observe if your conversions increase or decrease. The choice to price allows you to get the evidence to figure out your place in the market..
-
-Many companies offer free trials for their services, and the people using their services never get off the free plans. Consider taking the opposite approach: decide that, if your product provides value to people, they should be paying for it–and they should be paying for it from the beginning. If your customers don't feel like they're getting value, you can stop charging them and work with them to get a refund because the software is not for them.
-
-Although there are benefits to charging from early on, there are still consequences to charging too early. One way to figure out when to start charging is to use a two-phase approach. The first phase is pressure testing, where you get something into the market and see how well people respond to it. After you have tested if there is an interest in a product, you can move on to phase two, which is pressure testing pricing.
-
-During this phase, you would focus on two things: 1\) building a sticky, addictive product that people will use daily or weekly, and 2\) proving that the product is valuable and people will pay for it.
-
-Oftentimes, asking people for pricing is not going to lead to the best result of where your pricing should be. There are various ways around this. One way could be to run various Twitter polls which ask questions like- ‘how much does your company let you expense per person, without approval or having to submit some sort of expense report?’ The responses to questions like these can give you an idea of how much the average person could afford to pay for your product.
-
-Another benefit to charging for your product is the connotations a paid product has for some people. Many customers appreciate paying for a product rather than being on a free version or trial, as it often means that they will get a better response and more assistance. Sometimes you get what you pay for, and many people recognize this and won’t mind paying for your quality product.
-
-_\[Contributed in part by_ [_Alex Cohen, Founder, CommandDot_](https://twitter.com/anothercohen)_\]_
-
-#### 
-
-#### [How much should I charge for my product?](https://www.pscp.tv/w/1mnxelpqyLaJX)
-
-One of the reasons pricing is so hard for people is that it involves making many choices at once. Questions about what your long-term business model is and how much profit you will make can be answered by getting evidence that your product is actually useful to someone.
-
-A general rule of thumb for deciding what the price should be is to take whatever you think is right and double it. A lot of SaaS founders miss out on the opportunity to grow their income because they price too low. Rahul Vohra from Superhuman, has [shared](https://www.youtube.com/watch?v=JCiMqVC6Dok) interesting perspectives on pricing, noting that you should ask your users what they're willing to pay and what would be too much. From this line of questioning, you can find a middle ground on a price point that offers your customers value but still lets you grow as a business. If you look at other products and see what people are charging, you can say, let's double it and build a premium brand.
-
-Your price choice is a big part of your brand. In most cases, the price of your product is malleable and can be changed over time because you're selling to a lot of end users. If you get the first thousand people wrong, you still have many others. \(Though you might also beware, if you have only a few buyers in your market, discounting your early offering. That "just for the first few customers" discount can often stick and become your price because customers ask each other what they paid.\)
-
-A great pricing strategy can benefit your company, but if the pricing strategy is the only thing that allows you to be successful, you should build a better product.
-
-Another way to decide on pricing is to assess the product’s value in terms of the time it saves customers. If your customer makes $50 an hour and your product saves them four hours a month, is it worth it to spend $25 to save $200? Most customers would be more than willing to spend $25 a month on something that could potentially save them hundreds to millions of dollars.
-
-When deciding what to charge for your product, it is important to recognize how valuable your product is. Figuring out what your product is worth will allow you to determine how much a customer would be willing to pay for it. There are various ways to figure out what this number is, but asking the right questions and assessing how people respond to your pricing are good ways to start.
-
-_\[Contributed in part by_ [_Alex Cohen, Founder, CommandDot_](https://twitter.com/anothercohen)_\]_
-
-\_\_
-
-[**How do I get my enterprise customer's attention when my startup lacks brand recognition?**](https://www.pscp.tv/w/1YqJDpgyeEaJV)
-
-Ask yourself what customer you're trying to get and [why that customer, specifically](https://also.roybahat.com/picking-your-first-customers-the-gradient-of-influence-47858b90adfd) -- clarity can create a reason to connect with a customer.
-
-Once you've identified a possible target customer, you may be able to employ the techniques that [Joseph Freed](https://twitter.com/josephfreed79?lang=en) used when starting [Cultivate](https://cultivate.com/) to get customers' attention: 1\) networking at conferences and 2\) "focusing on logos."
-
-When choosing a conference to go to, the nichier and nerdier, the better. You may try to bond with a representative of your customer who attends \(or speaks at\) that conference. With big conferences, the speaker gets mobbed by a throng of folks, so a meaningful conversation is just not possible. The best conferences for connecting with customers are smaller and focused on practitioners.
-
-At the conference, you can try to identify the specific buyers who might be interested in your product. If there's a person from a respected enterprise who is speaking, you can try to talk to them after their presentation, saying something like, "Hey, I loved your talk. I'm co-founder of a startup and we're doing some of the things that you're trying to think about." Your goal at this point is really to get advice–when you are at this stage, gaining informal insight \(which you can then incorporate or repeat to customers\) is just as valuable as gaining customers.
-
-The majority of people are going to say no, but because the speakers are generally more receptive, your hit rate will probably be higher.
-
-\[Ed.: I've been on the other side of this situation, as the speaker at a conference, and after speaking you find yourself surrounded by people who are trying to sell you something. Try to approach the people that speak about topics that are related to what you do.\]
-
-Focus on getting customers who are recognizable, either individually or as a group \(e.g., "small graphic design agencies"\) to other customers. [Seek customers who are admired by your potential customers](https://also.roybahat.com/picking-your-first-customers-the-gradient-of-influence-47858b90adfd). People at big enterprises are more likely to buy when they know other credible companies have bought your product.
-
-One way to get these early logos is to be involved with incubators and accelerators from large enterprises. A lot of these programs have no strings attached. You show up, get advice, and then when you email people you can say that you are associated with that enterprise. When people see that you worked with that enterprise, it signals to them that you know how to work and it shows who your target is.
-
-Getting an enterprise’s attention can be particularly difficult when you’re just starting out, but getting creative at conferences and with well-known companies via accelerators and incubators can help you get in the door.
-
-_\[Contributed in part by_ [_Joseph Freed, CEO of Cultivate_](https://twitter.com/josephfreed79?lang=en)_\]_
-
-\*\*\*\*
-
-
-
-### Working for a startup, as a founder or otherwise
 
 
 
@@ -258,6 +126,60 @@ With co-founders, there are a lot of the same considerations, but in the early d
 
 
 
+#### [I want to be a technical co-founder of a startup -- how do I find a co-founder?](https://www.pscp.tv/w/1MnxndRgRzXGO) I think I need ideas and someone who has business experience.
+
+The best co-founding teams tend to already know each other well. Startups are such a trust-driven, pressured environment that if you already have a bond, then it's so much easier than an "instateam." That's one of the reasons co-founder dating is such a difficult concept, and there are so many wife-husband, sister-brother, or best friend teams.
+
+Do you even need a co-founder? You can practice starting a company while you search for one, and maybe discover you don't need a co-founder at all. Starting companies is a trade, an occupation. It's not magical chemistry where you take the magical idea and the magic skills and you can mix them all up and then _--_ _bam_, something great happens. Like being a chef or an architect, if you practice at it, you get better at it. 
+
+The best way to have ideas is by trying to have lots of ideas, working on them, and running into walls over and over. 
+
+A lot of the time you have an inkling of an idea, [there are so many ways that you can test it](http://theleanstartup.com/) -- as simply as asking 20 of your friends, "Is this interesting?" Make a Google form and ask a hundred people. By doing side projects on your own, you may test whether you even need a co-founder. If you do need a co-founder, or if you even just want one because you feel lonely -- that's good to learn.
+
+**Now practical tips on how to find a co-founder:** 
+
+Say in public some of the ideas you're interested in. Twitter is great for this. See who's drawn to you and work with them. Hack with them on some stuff, make some things, see where it goes.
+
+Who are the most talented people with whom you have ever worked or wanted to work? What are the interests that you share that you want to work on together? That respect, more than some resume assessment, is the glue that can make a great company. 
+
+You start working with somebody and, if every week you're slightly more committed to working with them than you were the week before, great. \[Ed.: My co-founder at [the startup we started](https://www.kickstarter.com/projects/ouya/ouya-a-new-kind-of-video-game-console), used to say that success is if every week you're doing better than the week before. Deceptively simple. True.\] You don't need a big "let's talk about the status of our relationship" moment. \(Though at some point it helps to [talk about your expectations](https://www.amazon.com/Partnership-Charter-Start-Right-Business/dp/0738208981).\)
+
+It's like hiring for anything else, with the exception that it's hard to fire a co-founder. It's painful. So do more diligence, proportionately to that. Work with them for a month, talk to lots of people who know them, go hang out with their family, eat dinners together. If you actually like each other, it can work much better.
+
+These tips are all based on this philosophy of: teams that know each other well tend to work out best, starting companies is a trade you can practice, and always solving for quality.
+
+#### 
+
+#### [How valuable is your IP in a startup's early days?](https://www.pscp.tv/w/1BRKjQZvyOWxw)
+
+Most people tend to think too much about whether some startup idea \(or early product\) would be easy to clone. Most _wildly successful_  startups would be easy to clone \(or would have been in their earliest days\). Would Airbnb not have been easy to clone in the beginning? Most startups lack defensible IP in that traditional sense. It's usually about the cost benefit of copying a startup, or the skill required to bring the finer details to life. [It's more like a movie than like "technology."](https://blog.markgrowth.com/early-startup-pitches-are-like-movie-pitches-not-business-pitches-d6ab3754758a?gi=af377827c35d)
+
+
+
+#### [Should you incorporate as a B-Corp or Public Benefit Corporation?](https://www.pscp.tv/w/ccFBcDFsWktwWXhYSnhvam58MXlwS2R3eldZbnF4V3CASjaVNSRTgV_0VkAaxMOh-BJobvYeRGgzfto422xz)
+
+There are now alternative corporate forms to a standard corporation or LLC that intend to induce companies to have more of a positive impact on the world. They do that through a combination of mechanisms. Some of them are government standards. [B Corporation](https://bloombergbeta.zoom.us/j/92162247960) is a certification from a nonprofit. \(If you know about building design, the mechanism is similar to the LEED certification for environmentally-friendly design.\)
+
+**Do these mechanisms create a company that, in fact, "makes more good?"** There's no structure that can _guarantee_ making a better company. These new structures give you a basis as a company to say to your shareholders, "I am choosing to optimize for something other than shareholder value. And therefore, if you believe I'm being a poor fiduciary of the company because I'm not building shareholder value, I am taking away a basis for you to sue me." It's unclear if that power has ever been tested; in theory, that's one benefit. 
+
+The idea that being forced to deliver shareholder value causes bad corporate behavior might be based on a mistaken assumption. If you ask a company solving for shareholder value to do good, they could say, "What if I'm just solving for shareholder value, just over the long term? If it's good for business to be good for the environment and good for workers, isn't this just a question of time horizons?"
+
+If the benefit of these structures isn't delivered through some "guarantee of goodness" that follows from the corporate form maybe the rationale is that companies that try to do good, in fact do good, and these structures encourage that? 
+
+What does drive companies to do good over the long term? When companies are attempting to solve for short term profits, they can often cause harm. What prevents them from doing that? One solve is to ahve shareholders who care about the long term. \(Matt Levine, the Bloomberg newsletter writer, [pointed out ](https://www.bloomberg.com/opinion/articles/2020-05-27/all-the-stocks-are-the-same-now?sref=OJIk8nu4)that in this moment post-Covid-19 where the market has remained steady, we may be seeing markets valuing the long term and "looking through" next quarter's numbers.\) 
+
+The right incentives can ensure companies do the right thing in the long-term. For example, a CEO who wants to do the right thing and has power can bring this goodness to life. While unusually powerful company CEO's \(e.g., with two class share structures\) can cause harm by doing things without fear of market repercussions or board removal, they can also do a lot of good. 
+
+Can these new corporate forms be helpful? Of course, as can, e.g., conducting a planning process that makes you do more good. 
+
+**Is there some other reason to adopt one of these structures?** One frequent critiques is that these things are just [marketing](https://hbr.org/2016/06/why-companies-are-becoming-b-corporations). It could be a positive symbol to employees and others which communicates, "Hey, our company takes this seriously. We're willing to go through a process that validates our willingness to do good."
+
+There are so many decisions in the life of a start-up that are one way doors, or costly to reverse. Your choice of corporate form is one of those costly-to-reverse choices. It's best done with a tremendous amount of seriousness and contemplation. If you want to understand this better, here's a [practical guide](https://www.notion.so/Should-I-incorporate-as-a-benefit-corporation-48be30ea5f53441c893d0b73119cf67f). 
+
+
+
+### Working for a startup
+
 [**A startup founder asked me for help with a project. How do I ask to get paid for it?**](https://www.pscp.tv/w/1PlJQNPYVzzxE)\*\*\*\*
 
 When helping startups with projects, you can err in either direction: 1\) focusing too much on getting paid, or 2\) or constantly doing favors and never getting paid. There are also different ways of getting paid: sometimes you get paid in cash, sometimes you can get paid in equity. Sometimes you can get "paid" in a commitment to work together on something else, or a soft understanding. Only you know how important it is to you to get paid, and whether you value cash or something else.
@@ -306,29 +228,7 @@ The single most common thing that you do as an advisor is you make yourself avai
 
 
 
-
-
-
-
 ### Investment
-
-[**I'm starting a company. Should I actually take money from my friends and family?**](https://www.pscp.tv/w/1YqKDpgOEMLKV)
-
-Asking your friends and family for money can be a good idea, as long as you are completely transparent about the process and you prioritize your relationships.
-
-The answer to whether to take money from friends is family will be different for everyone. \[Ed.: Asking my mom for money was both necessary and incredibly difficult. I knew that my mom didn’t have a lot of money to invest in startups, but we really needed the money. Later, being able to pay her back with five times what she gave me was one of the most joyous moments of the whole startup experience for me.\]
-
-Which do you value more, the relationship between you and the person you might ask, or the startup? Assuming that the relationship is more valuable than the thing you want to create, choose the approach that will conserve your relationship. If you are honest about the fact that there’s a good chance you’re going to lose the money they lend you, then losing that money probably won't cost you the relationship. What’s important is honesty.
-
-Asking people who you know for money can be an uncomfortable experience, and it can serve as a litmus test of how far you are willing to go for your startup venture. There are many other moments in the life of a startup that may make you similarly uncomfortable, and this situation can serve as a good opportunity to evaluate how much you are willing to put yourself on the line in the future.
-
-Like many things in life, there are limitations to what you can reasonably ask from a person. What is reasonable varies drastically from person to person and it depends on your life circumstances. \[Ed.: My college roommates were capable of writing a $10,000 check and could raise $100,000. I was fortunate that this was the case and I recognize that this isn’t the case for everyone.\] What you ask from your friends and family has to be scaled to what your personal network can do.
-
-One benefit to asking and receiving money from your friends and family is that it gives you an opportunity to build a coalition of people who know and trust you–and who can support you. In this way, asking for money can be empowering.
-
-Asking those who are close to you for money can be a difficult thing to do, but if you are courageous enough to do it, you can reap the benefits later.
-
-
 
 #### [How do I know if an angel investor is a legitimate candidate to invest, or just pulling a bait-and-switch?](https://www.pscp.tv/w/1OdJrqBLWyPGX)
 
@@ -418,25 +318,31 @@ And relevant for some businesses, but not all, think about "What will you do abo
 
 In a sense, all of cloud software is a "near clone" of enterprise software. It's the same thing, but it works slightly faster and you don't need to buy it in a certain way, and you can log in from anywhere, etc. Just being a slightly less expensive SaaS option isn't enough. In general, unless you're dramatically increasing the size of the market, you're going to have a capped ceiling. So the companies that say, "We do X, only less expensively than the current company," tend not to work well. 
 
+#### [How can I get a job in venture capital?](https://www.pscp.tv/w/ccPx_zFsWktwWXhYSnhvam58MWdxeHZhd25QZUJKQgKWP6VmP8UcsP6cuEXwLSWDxMUBRL3CSMbz0r9XqJdY)
+
+**Do you really know what venture capital is all about?** Many people have misconceptions. For example, if you want to be a successful venture capital investor, it isn't obvious that the best way to start is by trying to be a \(junior\) venture capital investors. The very best VCs, tend to be people who had some significant professional life experience -- starting a company, being a respected Wall Street analyst, etc.
+
+Many aspiring VC's believe that being an investor is mostly about giving advice to founders. "I love giving entrepreneurs advice!" It's different when they're your friends. **Founders often merely tolerate receiving the advice of VCs. They placate their investors to get what they really want, which is money.** \(One reason for this is the vast majority of VC advice is inane.\)
+
+Early-stage venture capital is different from investing in public markets, where you contemplate big-picture trends, analyze numbers, and make seasoned judgments based on data. A better comparison is to an [A&R person in the music business](https://en.wikipedia.org/wiki/Artists_and_repertoire). Your job is to discover new acts, exercise taste on whether or not you want to work with them. Your job is to cultivate them and help them be successful and, ultimately, serve them. Given that, like what does an A&R person _do_? There are some fun parts. You go to parties and talk to people. You're thinking about music you love. However, much of it is grunt work. Who should we invite to this event? How do we organize a CRM to make sure we've been in touch with people? 
+
+**If you do want a job in VC, here are some thoughts on how to get one:**
+
+Focus less on making a case about yourself \("I'm really thoughtful about technology!"\) and more on demonstrating you are a startup junkie. For example, a candidate who says "I love this one company in your portfolio but I'm curious how you thought about this other thing" is favored over a candidate simply saying " I am great at \[X\]." Venture capital is an occupation where the junkie bar is high.  
+
+If you lack a network of people who know VCs who can vouch for you \(and almost nobody has this network\), then you have to figure out how to reduce the risk to the person hiring you. You can reduce the risk by showing them you've "done the work" or volunteering to do a project. A candidate who has done a little bit of research and been thoughtful in their outreach and done more than a cut and paste stands out. In a sense, it's similar to apply for a job in VC or be a founder asking to get funding. 
+
+The venture capital industry can be opaque. There are ways you can learn about it -- many VC's have an active presence on Twitter. Bloomberg Beta's [manual](https://github.com/Bloomberg-Beta/Manual) is online. There are also many investors who do regularly write content online -- if you write some, that's another way for you to stand out. 
 
 
-[**I got into Y Combinator. Do I do it?**](https://www.pscp.tv/w/1kvJpevnAVwxE)
 
-Deciding whether to do [Y Combinator](https://www.ycombinator.com/) \(YC\) depends on your goals and if YC will be of value to you. Often it is worth it, but it's expensive \(YC requires an ownership stake of 7%\). Seven percent may not sound like much in the beginning, but as you get bigger, you will realize that it's a lot. Like all things, this price may be worth it in terms of value that YC delivers.
+[**To be successful as a VC, is it more about deciding what to invest in, or hustling to get an investment, or negotiating well? Or something else?**](https://www.pscp.tv/roybahat/1mnGelXLEaQKX?t=18m40s)\*\*\*\*
 
-People who can get the most value from YC are founders who lack a network of other founders, or founders who need a moment to focus and would benefit from having to put something together so they can present at the finale of the accelerator -- "demo day." YC gives founders a wonderful community and an opportunity to develop what they're doing. With YC, you may end up working with a partner or other founders that can give advice that could be transformative for your business. If your early customers are other startups, then YC can be especially useful as it introduces you to many potential customers.
+To know whether  you have been successful as a VC, you need a consistent track record of backing. Sometimes these are multi-decade relationships with the very best founders in the world. Bill Gurley has [said](https://www.geekwire.com/2013/dozen-learned-bill-gurley-investing-business/) VCs are a business of grand slams, i.e., if your idea is not something that can generate $100 million in revenue, you may not want to take venture capital. It's actually even harder than that: It is a game where your success is measured by the tape-measure distance of your single longest home run. For a VC, sometimes even a grand slam isn't enough.
 
-The people who may not get value from YC are the people who just want to do it for the name and the validation, or a "boost to their fundraising." There is no arguing that there is value in a name, but a name is more of an added benefit than a reason to do it. Seven percent is a steep price for a name.
+The skills depend on the stage of company in which you invest. If you're a late-stage investor, picking and pricing correctly are probably the most important things. Your universe is knowable in terms of which companies are out there. If you're the earliest-stage investor like Bloomberg Beta, sourcing \(i.e., seeing the companies in the first place\) might be most important. Your biggest misses can be "dark deal flow,", i.e., when a company goes straight to an investor because they had a preexisting relationship, so you never heard about them. \[Ed.: There are thousands of those deals all the time and missing them makes me paranoid. At Bloomberg Beta we believe if we serve founders well, everything else will follow. Founders ask other founders which investors to work with. So if you serve founders well, you're more likely to win. How do you see deals in the first place? Oftentimes from founders in whom you have invested.\]
 
-For those who do find value in YC, that value will last long after YC. YC is not a full-time thing, but the community that you become a part of through YC lasts: being in Bookface, YC's internal social network, lasts and the reputation benefit lasts.
-
-YC classes are fairly big and this size _might_ mean that you don’t get to work with the kind of founders or partners that would be helpful to you. Despite the large class size, there still remains an under-representation of certain types of founders, so you should keep in mind that while you're joining a community of founders, that community is not going to be representative of all tech founders.
-
-While YC has a lot to offer, there are a number of other great accelerators. Each accelerator has its own set of relationships and customer specialties and can help you with different things, from customer introductions to helping you figure out how to enter the market. Try to have an idea of what you’re looking for in an accelerator program is a good place to start.
-
-If you’re looking at these other lesser-known accelerator programs, you may be asking yourself, "How do I know if an accelerator is good?" There are definitely bad accelerators out there, which won’t support you or benefit you. Find out what is the best company that has gone through the accelerator. If you can’t figure out who that is, then you should probably proceed with caution.
-
-Whether you should do YC or not depends entirely on your specific needs. YC can be very valuable to people who need to connect with other startups and founders, and those who need some direction.
+[Skill in negotiating, "getting cute" with contractual terms, is almost never the most important skill](https://marker.medium.com/dear-first-time-angel-investor-c6af249a694b). We win, in venture-backed startups, by having huge successes, not by wringing an extra 10% out of the ones that struggle \(which is usually when the kinds of contractual terms that you negotiate in an investment end up mattering\).
 
 
 

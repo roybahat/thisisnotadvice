@@ -26,6 +26,22 @@ If you have multiple asks of the recipient, sometimes the better thing to do is 
 
 This depends, again, on context. For some emailers, email is a "command line" -- they want everything to be a sentence long and just act on it. This is common among traders. There are other professional cultures where all emails are basically electronic letters. They say, "Dear Roy," they have paragraphs, they go on and on, blah, blah, blah. And, in that context, it's appropriate to include multiple asks in the same email.
 
+[**In arranging a meeting, when is it OK to send someone a scheduling link like Calendly instead of proposing times or connecting them with an administrative assistant?**](https://www.pscp.tv/w/1djxXorXEOEJZ)
+
+Think about the person to whom you’re sending a link, how they might feel about it, and whether their convenience is more important to you than your own.
+
+Although some people might appreciate getting a scheduling link, others will see it as an inconvenience \(although few people will admit to hating Calendly, Doodle, or Mixmax links when asked\). \[Ed.: when I receive a Calendly link, I'm fortunate because I have administrative support. If I didn’t have the assistance, I think dealing with Calendly would be a lot more difficult.\]
+
+When deciding to send a Calendly link, consider why you're sending it. If you are solving for your own convenience, then Calendly is magnificent. If you're solving for the convenience of the other person, then it depends on how the receiver will interpret it. If the person to whom you're sending the link is somebody who is familiar with these types of tools and you get a sense that they're tech savvy, then they would probably appreciate the Calendly link. Many people in the working world may not be as knowledgeable about tools like Calendly and, for them, navigating an unfamiliar tool may be a burden. If the relationship is important to you, and you don’t know the person well, you may not want to ask them to do work by clicking through to some tool.
+
+Post-Covid, the acceptance of tools like Calendly may have changed. More people are online and trying to find time. Many more people might feel scheduling tools save them time, and that they are faster than having to email back and forth."
+
+If you just aren’t sure how someone will perceive the Calendly link, you can always give them the option to use it or not. You could say, “Would you be free next Tuesday at three? If that doesn't work for you, let me know when it might, or if you prefer, you can just click here.”
+
+If you’re solving for your own convenience, sending a Calendly link is a great option. If you want to solve for the convenience of others, you may want to consider giving them the option to use Calendly or a more traditional method.
+
+_\[Contributed in part by: Minn Kim, Investor, Bloomberg Beta\]_
+
 
 
 ### Building relationships
