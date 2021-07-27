@@ -8,23 +8,7 @@
 
 **DAY 94**
 
-\*\*\*\*[**I got into YC. Do I do it?**](https://www.pscp.tv/w/1kvJpevnAVwxE)\*\*\*\*
 
-Deciding whether to do [Y Combinator](https://www.ycombinator.com/) \(YC\) depends on what your goals are and if YC will be of value to you. Often it is worth it, but it's expensive \(YC requires a return of seven percent when the investment converts\). Seven percent may not sound like much in the beginning, but as you get bigger, you will realize that it's a lot. Like all things, this loss may be worth it in terms of value that YC delivers.
-
-People who can get value from YC are founders who lack a network of other founders, or founders who need a moment to focus and would benefit from having to put something together so they can present at demo day. YC gives you a wonderful community of founders and an opportunity to develop what you're doing. With YC, you may end up working with a partner or other founders that can give advice that could be transformative for your business. If your early customers are other startups, then YC can be especially useful as it introduces you to many potential customers.
-
-The people who may not get value from YC are the people who just want to do it for the name and the validation. There is no arguing that there is value in a name, but a name is more of an added benefit than a reason to do it. Seven percent is a steep price for a name.
-
-For those who do find value in YC, that value will last long after YC. YC is not a full-time thing, but the community that you become a part of through YC lasts forever: being in Bookface, YC's internal social network, lasts forever and the reputation benefit lasts forever.
-
-One thing to consider is the fact that YC classes are fairly big and this size _might_ mean that you don’t get to work with the kind of founders or partners that would be helpful to you. Despite the large class size, there still remains an under-representation of certain types of founders, so you should keep in mind that while you're joining a community of founders, that community is not going to be representative of all tech founders.
-
-While YC has a lot to offer, there are a number of other accelerators that are also great. Each accelerator has its own set of relationships and customer specialties and can help you with different things, from customer introductions to helping you figure out how to enter the market. Because of the wide range of accelerator options available, having an idea of what you’re looking for in an accelerator program is a good place to start.
-
-If you’re looking at these other lesser-known accelerator programs, you may be asking yourself, "How do I know if an accelerator is good?" There are definitely bad accelerators out there, which won’t support you or benefit you. Something that can help you determine if the accelerator is good is to find out what is the best company that has gone through the accelerator. If you can’t figure out who that is, then you should probably proceed with caution.
-
-Whether you should do YC or not depends entirely on your specific needs. YC can be very valuable to people who need to connect with other startups and founders, and those who need some direction.
 
 **+++**
 

@@ -380,31 +380,25 @@ And relevant for some businesses, but not all, think about "What will you do abo
 
 In a sense, all of cloud software is a "near clone" of enterprise software. It's the same thing, but it works slightly faster and you don't need to buy it in a certain way, and you can log in from anywhere, etc. Just being a slightly less expensive SaaS option isn't enough. In general, unless you're dramatically increasing the size of the market, you're going to have a capped ceiling. So the companies that say, "We do X, only less expensively than the current company," tend not to work well. 
 
-#### [How can I get a job in venture capital?](https://www.pscp.tv/w/ccPx_zFsWktwWXhYSnhvam58MWdxeHZhd25QZUJKQgKWP6VmP8UcsP6cuEXwLSWDxMUBRL3CSMbz0r9XqJdY)
-
-**Do you really know what venture capital is all about?** Many people have misconceptions. For example, if you want to be a successful venture capital investor, it isn't obvious that the best way to start is by trying to be a \(junior\) venture capital investors. The very best VCs, tend to be people who had some significant professional life experience -- starting a company, being a respected Wall Street analyst, etc.
-
-Many aspiring VC's believe that being an investor is mostly about giving advice to founders. "I love giving entrepreneurs advice!" It's different when they're your friends. **Founders often merely tolerate receiving the advice of VCs. They placate their investors to get what they really want, which is money.** \(One reason for this is the vast majority of VC advice is inane.\)
-
-Early-stage venture capital is different from investing in public markets, where you contemplate big-picture trends, analyze numbers, and make seasoned judgments based on data. A better comparison is to an [A&R person in the music business](https://en.wikipedia.org/wiki/Artists_and_repertoire). Your job is to discover new acts, exercise taste on whether or not you want to work with them. Your job is to cultivate them and help them be successful and, ultimately, serve them. Given that, like what does an A&R person _do_? There are some fun parts. You go to parties and talk to people. You're thinking about music you love. However, much of it is grunt work. Who should we invite to this event? How do we organize a CRM to make sure we've been in touch with people? 
-
-**If you do want a job in VC, here are some thoughts on how to get one:**
-
-Focus less on making a case about yourself \("I'm really thoughtful about technology!"\) and more on demonstrating you are a startup junkie. For example, a candidate who says "I love this one company in your portfolio but I'm curious how you thought about this other thing" is favored over a candidate simply saying " I am great at \[X\]." Venture capital is an occupation where the junkie bar is high.  
-
-If you lack a network of people who know VCs who can vouch for you \(and almost nobody has this network\), then you have to figure out how to reduce the risk to the person hiring you. You can reduce the risk by showing them you've "done the work" or volunteering to do a project. A candidate who has done a little bit of research and been thoughtful in their outreach and done more than a cut and paste stands out. In a sense, it's similar to apply for a job in VC or be a founder asking to get funding. 
-
-The venture capital industry can be opaque. There are ways you can learn about it -- many VC's have an active presence on Twitter. Bloomberg Beta's [manual](https://github.com/Bloomberg-Beta/Manual) is online. There are also many investors who do regularly write content online -- if you write some, that's another way for you to stand out. 
 
 
+[**I got into Y Combinator. Do I do it?**](https://www.pscp.tv/w/1kvJpevnAVwxE)
 
-[**To be successful as a VC, is it more about deciding what to invest in, or hustling to get an investment, or negotiating well? Or something else?**](https://www.pscp.tv/roybahat/1mnGelXLEaQKX?t=18m40s)\*\*\*\*
+Deciding whether to do [Y Combinator](https://www.ycombinator.com/) \(YC\) depends on your goals and if YC will be of value to you. Often it is worth it, but it's expensive \(YC requires an ownership stake of 7%\). Seven percent may not sound like much in the beginning, but as you get bigger, you will realize that it's a lot. Like all things, this price may be worth it in terms of value that YC delivers.
 
-To know whether  you have been successful as a VC, you need a consistent track record of backing. Sometimes these are multi-decade relationships with the very best founders in the world. Bill Gurley has [said](https://www.geekwire.com/2013/dozen-learned-bill-gurley-investing-business/) VCs are a business of grand slams, i.e., if your idea is not something that can generate $100 million in revenue, you may not want to take venture capital. It's actually even harder than that: It is a game where your success is measured by the tape-measure distance of your single longest home run. For a VC, sometimes even a grand slam isn't enough.
+People who can get the most value from YC are founders who lack a network of other founders, or founders who need a moment to focus and would benefit from having to put something together so they can present at the finale of the accelerator -- "demo day." YC gives founders a wonderful community and an opportunity to develop what they're doing. With YC, you may end up working with a partner or other founders that can give advice that could be transformative for your business. If your early customers are other startups, then YC can be especially useful as it introduces you to many potential customers.
 
-The skills depend on the stage of company in which you invest. If you're a late-stage investor, picking and pricing correctly are probably the most important things. Your universe is knowable in terms of which companies are out there. If you're the earliest-stage investor like Bloomberg Beta, sourcing \(i.e., seeing the companies in the first place\) might be most important. Your biggest misses can be "dark deal flow,", i.e., when a company goes straight to an investor because they had a preexisting relationship, so you never heard about them. \[Ed.: There are thousands of those deals all the time and missing them makes me paranoid. At Bloomberg Beta we believe if we serve founders well, everything else will follow. Founders ask other founders which investors to work with. So if you serve founders well, you're more likely to win. How do you see deals in the first place? Oftentimes from founders in whom you have invested.\]
+The people who may not get value from YC are the people who just want to do it for the name and the validation, or a "boost to their fundraising." There is no arguing that there is value in a name, but a name is more of an added benefit than a reason to do it. Seven percent is a steep price for a name.
 
-[Skill in negotiating, "getting cute" with contractual terms, is almost never the most important skill](https://marker.medium.com/dear-first-time-angel-investor-c6af249a694b). We win, in venture-backed startups, by having huge successes, not by wringing an extra 10% out of the ones that struggle \(which is usually when the kinds of contractual terms that you negotiate in an investment end up mattering\).
+For those who do find value in YC, that value will last long after YC. YC is not a full-time thing, but the community that you become a part of through YC lasts: being in Bookface, YC's internal social network, lasts and the reputation benefit lasts.
+
+YC classes are fairly big and this size _might_ mean that you don’t get to work with the kind of founders or partners that would be helpful to you. Despite the large class size, there still remains an under-representation of certain types of founders, so you should keep in mind that while you're joining a community of founders, that community is not going to be representative of all tech founders.
+
+While YC has a lot to offer, there are a number of other great accelerators. Each accelerator has its own set of relationships and customer specialties and can help you with different things, from customer introductions to helping you figure out how to enter the market. Try to have an idea of what you’re looking for in an accelerator program is a good place to start.
+
+If you’re looking at these other lesser-known accelerator programs, you may be asking yourself, "How do I know if an accelerator is good?" There are definitely bad accelerators out there, which won’t support you or benefit you. Find out what is the best company that has gone through the accelerator. If you can’t figure out who that is, then you should probably proceed with caution.
+
+Whether you should do YC or not depends entirely on your specific needs. YC can be very valuable to people who need to connect with other startups and founders, and those who need some direction.
 
 
 
