@@ -1,64 +1,8 @@
 # / Rolling edits
 
-**DAY 92**
-
-[**I'm a first time founder. How do I know when to start charging for my product?**](https://www.pscp.tv/w/1mnxelpqyLaJX)
-
-There are many benefits to charging for your product, and when deciding what to charge, it's useful to spend some time thinking about how valuable a customer will find it.
-
-Many SaaS companies offer free trials for their services, and the people using their services never get off the free plans because they’re so great. Think about taking the opposite approach where you decide that if your product provides value to people, they should be paying for it–and they should be paying for it from the beginning. If your customers don't feel like they're getting value, you can stop charging them and work with them to get a refund because the software is not for them.
-
-The fundamental belief is that if the software is great for a person, they'll pay for it. They won't feel bad about it, and they'll feel like they're spending their money on something that's valuable and saves them time.
-
-One of the reasons pricing is so hard for people is that it involves making many choices at once. Questions about what your long-term business model is and how much profit you will make can be answered by getting evidence that your product is actually useful to someone.
-
-It can feel very uncomfortable to charge early on when you feel a type of founders' guilt. You may be doubtful that your product is good enough to charge people for it and you may think it’s too early. The psychological temptation of founders and investors is to undercharge. Investors have the same idea that Economics 101 holds, which is that if you price less, you'll grow faster, but this is not always true in the early stages.
-
-One advantage of pricing early is that it can serve as a proxy for determining if someone's getting value out of the product. When people pay for your product, it proves that they view the product as valuable enough to warrant spending their money..
-
-Another advantage is that it highlights the people who are truly interested in the product from the beginning, so you know who to prioritize from day one rather than having a whole bunch of freeloaders and people who want access to something early but will never convert to paying users.
-
-The number of people who are willing to pay can also help you to identify if your pricing is right. You can experiment with dropping or raising the price and observe if your conversions increase or decrease. The choice to price allows you to get the evidence to figure out your place in the market..
-
-A general rule of thumb for deciding what the price should be is to take whatever you think is right and double it. A lot of SaaS founders miss out on the opportunity to grow their income because they price too low. Rahul Vohra from Superhuman, has [shared](https://www.youtube.com/watch?v=JCiMqVC6Dok) interesting perspectives on pricing, noting that you should ask your _users_ what they're willing to pay and what would be too much. From this line of questioning, you can find a middle ground on a price point that offers your customers value but still lets you grow as a business. If you look at other products and see what people are charging, you can say, let's double it and build a premium brand.
-
-Your price choice is a big part of your brand. In most cases, the price of your product is quite malleable and can be changed over time because you're selling to a lot of end users. If you get the first thousand people wrong, you still have many others..
-
-Although there are benefits to charging from early on, there are still consequences to charging too early. One way to figure out when to start charging is to use a two-phase approach. The first phase is pressure testing, where you get something into the market and see how well people respond to it. After you have tested if there is an interest in a product, you can move on to phase two, which is pressure testing pricing.
-
-During this phase, you would focus on two things: 1\) building a sticky, addictive product that people will use daily or weekly, and 2\) proving that the product is valuable and people will pay for it.
-
-Oftentimes, asking people for pricing is not going to lead to the best result of where your pricing should be. There are various ways around this. One way could be to run various Twitter polls which ask questions like- ‘how much does your company let you expense per person, without approval or having to submit some sort of expense report?’ The responses to questions like these can give you an idea of how much the average person could afford to pay for your product.
-
-Another benefit to charging for your product is the connotations a paid product has for some people. Many customers appreciate paying for a product rather than being on a free version or trial, as it often means that they will get a better response and more assistance. Sometimes you get what you pay for, and many people recognize this and won’t mind paying for your quality product.
-
-A great pricing strategy can really benefit your company, but if the pricing strategy is the only thing that allows you to be successful, you should have built a better product.
-
-Another way to decide on pricing is to assess the product’s value in terms of the time it saves customers. If your customer makes $50 an hour and your product saves them four hours a month, is it worth it to spend $25 to save $200? Most customers would be more than willing to spend $25 a month on something that could potentially save them hundreds to millions of dollars.
-
-When deciding what to charge for your product, it is important to recognize how valuable your product is. Figuring out what your product is worth will allow you to determine how much a customer would be willing to pay for it. There are various ways to figure out what this number is, but asking the right questions and assessing how people respond to your pricing are good ways to start.
-
-_\[Contributed in part by_ [_Alex Cohen, Founder, CommandDot_](https://twitter.com/anothercohen)_\]_
-
-**+++**
-
 **DAY 93**
 
-[**I'm starting a company. Should I actually take money from my friends and family?**](https://www.pscp.tv/w/1YqKDpgOEMLKV)\*\*\*\*
 
-Asking your friends and family for money can be a good idea, as long as you are completely transparent about the process and you prioritize your relationships.
-
-The answer to whether to take money from friends is family will be different for everyone. \[Ed.: Asking my mom for money was both necessary and incredibly difficult. I knew that my mom didn’t have a lot of money to invest in startups, but we really needed the money. Later, being able to pay her back with five times what she gave me was one of the most joyous moments of the whole startup experience for me\].
-
-A useful question to ask when trying to decide if you should ask someone for money is: which do you value more, the relationship between you and the person you might ask, or the startup? Assuming that the relationship is more valuable than the thing you want to create, choose the approach that will conserve your relationship. If you are honest about the fact that there’s a good chance you’re going to lose the money they lend you, then losing that money probably won't cost you the relationship. What’s important is honesty.
-
-Asking people who you know for money can be a very uncomfortable experience, and it can serve as a litmus test of how far you are willing to go for your startup venture. There are many things that may make you similarly uncomfortable, and this situation can serve as a good opportunity to evaluate how much you are willing to put yourself on the line.
-
-Like many things in life, there are limitations to what you can reasonably ask a person for. What is reasonable varies drastically from person to person and it depends on your life circumstances. \[Ed.: My college roommates were capable of writing a $10,000 check and had friends who could raise $100,000. I was very fortunate that this was the case and I recognize that this isn’t the case for everyone.\] What you ask from your friends and family has to be scaled to what your personal network can do.
-
-One benefit to asking and receiving money from your friends and family is that it gives you an opportunity to build a coalition of people who know and trust you–and who can support you. In this way, asking for money can be empowering.
-
-Asking those who are close to you for money can be a very difficult thing to do, but if you are courageous enough to do it, you can reap the benefits later.
 
 **+++**
 

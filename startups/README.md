@@ -50,6 +50,50 @@ How to figure out if you do need a co-founder: **do you have a skill you need fo
 
 Most of the time, the co-founding teams that work the best have pre-existing history with each other, where they've had some base of experiences on which to draw, to trust each other.
 
+
+
+[**How do I know when to start charging for my product?**](https://www.pscp.tv/w/1mnxelpqyLaJX)
+
+You should start charging for your product sooner than you may think. The only reason to wait to charge is when the product will be much more valuable to _each_ customer if you wait -- as may happen, for example, in companies with a network effect. \(In that case, you may waste valuable time trying to charge customers when the current value fails to tell you much about the eventual value.\)
+
+It can feel uncomfortable to charge early on, when you feel a type of "founders' guilt." You may doubt your product is good enough to charge people for it. The psychological temptation of founders and investors is to undercharge. Investors often believe Economics 101 holds, which is that if you price less, you'll grow faster, but this is not always true in the early stages. Many founders also believe that if they charge, they'll slow their growth. That depends on the nature of the service. There are plenty of cases where customers value something more because they pay for it.
+
+One advantage of pricing early is that it can serve as a proxy for determining if someone's getting value out of the product. When people pay for your product, it proves that they view the product as valuable enough to warrant spending their money..
+
+Another advantage is that it highlights the people who are truly interested in the product from the beginning, so you know who to prioritize from day one rather than having a whole bunch of freeloaders and people who want access to something early but will never convert to paying users.
+
+The number of people who are willing to pay can also help you to identify if your pricing is right. You can experiment with dropping or raising the price and observe if your conversions increase or decrease. The choice to price allows you to get the evidence to figure out your place in the market..
+
+Many companies offer free trials for their services, and the people using their services never get off the free plans. Consider taking the opposite approach: decide that, if your product provides value to people, they should be paying for it–and they should be paying for it from the beginning. If your customers don't feel like they're getting value, you can stop charging them and work with them to get a refund because the software is not for them.
+
+Although there are benefits to charging from early on, there are still consequences to charging too early. One way to figure out when to start charging is to use a two-phase approach. The first phase is pressure testing, where you get something into the market and see how well people respond to it. After you have tested if there is an interest in a product, you can move on to phase two, which is pressure testing pricing.
+
+During this phase, you would focus on two things: 1\) building a sticky, addictive product that people will use daily or weekly, and 2\) proving that the product is valuable and people will pay for it.
+
+Oftentimes, asking people for pricing is not going to lead to the best result of where your pricing should be. There are various ways around this. One way could be to run various Twitter polls which ask questions like- ‘how much does your company let you expense per person, without approval or having to submit some sort of expense report?’ The responses to questions like these can give you an idea of how much the average person could afford to pay for your product.
+
+Another benefit to charging for your product is the connotations a paid product has for some people. Many customers appreciate paying for a product rather than being on a free version or trial, as it often means that they will get a better response and more assistance. Sometimes you get what you pay for, and many people recognize this and won’t mind paying for your quality product.
+
+_\[Contributed in part by_ [_Alex Cohen, Founder, CommandDot_](https://twitter.com/anothercohen)_\]_
+
+#### 
+
+#### [How much should I charge for my product?](https://www.pscp.tv/w/1mnxelpqyLaJX)
+
+One of the reasons pricing is so hard for people is that it involves making many choices at once. Questions about what your long-term business model is and how much profit you will make can be answered by getting evidence that your product is actually useful to someone.
+
+A general rule of thumb for deciding what the price should be is to take whatever you think is right and double it. A lot of SaaS founders miss out on the opportunity to grow their income because they price too low. Rahul Vohra from Superhuman, has [shared](https://www.youtube.com/watch?v=JCiMqVC6Dok) interesting perspectives on pricing, noting that you should ask your users what they're willing to pay and what would be too much. From this line of questioning, you can find a middle ground on a price point that offers your customers value but still lets you grow as a business. If you look at other products and see what people are charging, you can say, let's double it and build a premium brand.
+
+Your price choice is a big part of your brand. In most cases, the price of your product is malleable and can be changed over time because you're selling to a lot of end users. If you get the first thousand people wrong, you still have many others. \(Though you might also beware, if you have only a few buyers in your market, discounting your early offering. That "just for the first few customers" discount can often stick and become your price because customers ask each other what they paid.\)
+
+A great pricing strategy can benefit your company, but if the pricing strategy is the only thing that allows you to be successful, you should build a better product.
+
+Another way to decide on pricing is to assess the product’s value in terms of the time it saves customers. If your customer makes $50 an hour and your product saves them four hours a month, is it worth it to spend $25 to save $200? Most customers would be more than willing to spend $25 a month on something that could potentially save them hundreds to millions of dollars.
+
+When deciding what to charge for your product, it is important to recognize how valuable your product is. Figuring out what your product is worth will allow you to determine how much a customer would be willing to pay for it. There are various ways to figure out what this number is, but asking the right questions and assessing how people respond to your pricing are good ways to start.
+
+_\[Contributed in part by_ [_Alex Cohen, Founder, CommandDot_](https://twitter.com/anothercohen)_\]_
+
 \*\*\*\*
 
 [**How much does my company name matter?**](https://www.pscp.tv/w/1jMKgXEmvlqGL)\*\*\*\*
@@ -229,6 +273,24 @@ The single most common thing that you do as an advisor is you make yourself avai
 
 
 ### Investment
+
+[**I'm starting a company. Should I actually take money from my friends and family?**](https://www.pscp.tv/w/1YqKDpgOEMLKV)
+
+Asking your friends and family for money can be a good idea, as long as you are completely transparent about the process and you prioritize your relationships.
+
+The answer to whether to take money from friends is family will be different for everyone. \[Ed.: Asking my mom for money was both necessary and incredibly difficult. I knew that my mom didn’t have a lot of money to invest in startups, but we really needed the money. Later, being able to pay her back with five times what she gave me was one of the most joyous moments of the whole startup experience for me.\]
+
+Which do you value more, the relationship between you and the person you might ask, or the startup? Assuming that the relationship is more valuable than the thing you want to create, choose the approach that will conserve your relationship. If you are honest about the fact that there’s a good chance you’re going to lose the money they lend you, then losing that money probably won't cost you the relationship. What’s important is honesty.
+
+Asking people who you know for money can be an uncomfortable experience, and it can serve as a litmus test of how far you are willing to go for your startup venture. There are many other moments in the life of a startup that may make you similarly uncomfortable, and this situation can serve as a good opportunity to evaluate how much you are willing to put yourself on the line in the future.
+
+Like many things in life, there are limitations to what you can reasonably ask from a person. What is reasonable varies drastically from person to person and it depends on your life circumstances. \[Ed.: My college roommates were capable of writing a $10,000 check and could raise $100,000. I was fortunate that this was the case and I recognize that this isn’t the case for everyone.\] What you ask from your friends and family has to be scaled to what your personal network can do.
+
+One benefit to asking and receiving money from your friends and family is that it gives you an opportunity to build a coalition of people who know and trust you–and who can support you. In this way, asking for money can be empowering.
+
+Asking those who are close to you for money can be a difficult thing to do, but if you are courageous enough to do it, you can reap the benefits later.
+
+
 
 #### [How do I know if an angel investor is a legitimate candidate to invest, or just pulling a bait-and-switch?](https://www.pscp.tv/w/1OdJrqBLWyPGX)
 
