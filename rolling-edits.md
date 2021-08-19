@@ -1,6 +1,6 @@
 # / Rolling edits
 
-**+++++++++++++++++BELOW NOT YET EDITED+++++++++++++++++++++++++++++**
+**++++++++++++++BELOW DRAFTED BY COPY EDITOR JESSICA PALMER ++++++++++++++++**
 
 **DAY 98**
 
@@ -200,163 +200,141 @@ _\[Contributed in part by_ [_Minn Kim, former  principal at Bloomberg Beta_](htt
 
 [**I'm an early-stage founder. When is it ok to build a second product?**](https://www.pscp.tv/w/1dRJZNzBzZXJB)
 
-If you want to build a second product, you should ideally be able to hire someone who will be able to manage the first product. You may be able to skip this step in the experimental stages of product-building, but once you have committed to building it, focus is key and you should avoid splitting your attention.  
+If you want to build a second product, you should ideally be able to hire someone who will be able to manage the first product. You may be able to skip this step in the experimental stages of product-building, but once you have committed to building it, focus is key and you should avoid splitting your attention.
 
+ Most people try to build their second product too soon. Of course, this depends on what that second product is: is it a whole new line of business with a different revenue stream? Or is it just a new feature that is being added to your current product for the existing customers?  We will go ahead and assume that you’re asking about a second product that is a new value exchange with your current customers for which you will charge separately. 
 
- Most people try to build their second product too soon. Of course, this depends on what that second product is: is it a whole new line of business with a different revenue stream? Or is it just a new feature that is being added to your current product for the existing customers?  We will go ahead and assume that you’re asking about a second product that is a new value exchange with your current customers for which you will charge separately.   
-
-
-It is generally OK to build a second product if you know you can hire somebody into the company who can manage the first product. The person you hire should be capable of being the primary manager and should ideally have the experience that proves they can manage the product as well as you \(the founder\) have been.  
-
+It is generally OK to build a second product if you know you can hire somebody into the company who can manage the first product. The person you hire should be capable of being the primary manager and should ideally have the experience that proves they can manage the product as well as you \(the founder\) have been.
 
 Usually in the beginning, the most important factor is the primary manager of the early product. For this reason, split attention rarely works out. A person will usually make the choice to split their attention after their first product has entered the market. 
 
-What is important to remember is, even if your first product is in the market and doing well, you can’t afford to pay zero attention to it. If you’re at the point where your first product has been on the market for some time and is doing well, you probably have the bandwidth to do a second product, but having someone who can manage that first product is important.   
-
+What is important to remember is, even if your first product is in the market and doing well, you can’t afford to pay zero attention to it. If you’re at the point where your first product has been on the market for some time and is doing well, you probably have the bandwidth to do a second product, but having someone who can manage that first product is important. 
 
 When you decide to build the second product, you open that workstream, and gaining back your focus can be a struggle. Of course,  it doesn't have to be this way and you can have an exit plan for when you want to stop but for many people, stepping on the brakes after you have committed to a second product is challenging.
 
-For this reason, it is helpful not to commit right away if you have doubts that you will be able to focus on it. Typically, a new product won't simply form out of the blue, it will start as a process of testing and experimenting.  Beginning to do that testing is obviously different from fully committing. You can do the testing stage before you're ready to commit, but when you are ready to commit you need to have the ability to manage focus.  
+For this reason, it is helpful not to commit right away if you have doubts that you will be able to focus on it. Typically, a new product won't simply form out of the blue, it will start as a process of testing and experimenting.  Beginning to do that testing is obviously different from fully committing. You can do the testing stage before you're ready to commit, but when you are ready to commit you need to have the ability to manage focus.
 
-
-The litmus test for if you can build a second product is if you can hire someone who can efficiently manage the first product. Managing your focus may not be a problem when you are in the experimenting stage of product-building, but once you have committed to that product, focus is essential.  
-****
+The litmus test for if you can build a second product is if you can hire someone who can efficiently manage the first product. Managing your focus may not be a problem when you are in the experimenting stage of product-building, but once you have committed to that product, focus is essential.
 
 _\[Contributed in part by_ [_Minn Kim, former  principal at Bloomberg Beta_](https://twitter.com/minney_cat)_\]_
 
+_+++_
+
 **Day 106**
 
-[**"I'm an early-stage startup founder. How much do I pay myself?"**](https://www.pscp.tv/w/1lDxLpdobnwxm)  
-****
+[**"I'm an early-stage startup founder. How much do I pay myself?"**](https://www.pscp.tv/w/1lDxLpdobnwxm)
 
-**When trying to figure out what to pay yourself, consider what salary would be sustainable for you and what salary would be fair.**
+When trying to figure out what to pay yourself, consider what salary would be sustainable for you and what salary would be fair.
 
-**Early founders tend to underpay themselves. \[Ed.: This is a tough question because of course, as a white man, I'm going to have attitudes toward money and the availability of money which are not the same for other people of  different backgrounds.\]**
+Early founders tend to underpay themselves. \[Ed.: This is a tough question because of course, as a white man, I'm going to have attitudes toward money and the availability of money which are not the same for other people of  different backgrounds.\]
 
-**If you’re looking for a number, then that can be anywhere from $0 to upwards of $125k. The number varies drastically depending on your needs. Your needs are what is important for the first principle of what to pay yourself. The first principle is: if your company can afford it, pay yourself enough so that you can do the job sustainably. Sustainably means that you can do the job without fear of what the effect of that salary will be on your life and you don’t need to increase the salary to be less fearful. Even if it's not the salary you would get a job where you weren’t a starting company, the salary should ideally be sustainable.**  
+If you’re looking for a number, then that can be anywhere from $0 to upwards of $125k. The number varies drastically depending on your needs. Your needs are what is important for the first principle of what to pay yourself. The first principle is: if your company can afford it, pay yourself enough so that you can do the job sustainably. Sustainably means that you can do the job without fear of what the effect of that salary will be on your life and you don’t need to increase the salary to be less fearful. Even if it's not the salary you would get a job where you weren’t a starting company, the salary should ideally be sustainable.
 
+This principle seems pretty obvious, of course, you should pay yourself enough to survive, and yet, many founders still underpay themselves. Why is this?
 
-**This principle seems pretty obvious, of course, you should pay yourself enough to survive, and yet, many founders still underpay themselves. Why is this?**
+The first thing is the startup may just not have money to pay them. In this case, founders can get back paid if they need to, in order to eliminate the distraction of money when they first get funded by investors.
 
-**The first thing is the startup may just not have money to pay them. In this case, founders can get back paid if they need to, in order to eliminate the distraction of money when they first get funded by investors.**
+If your business isn't going to be funded by investors and you just can't afford it, then you’re going to have to wait until you can afford it. This is easier said than done as sometimes you simply can't wait. 
 
-**If your business isn't going to be funded by investors and you just can't afford it, then you’re going to have to wait until you can afford it. This is easier said than done as sometimes you simply can't wait.** 
+Something that can prevent people from paying themselves a sustainable salary is a belief that their investors or backers will be unhappy with them if they take too much. This is especially true for people who are new to the startup ecosystem who may be fearful about voicing what it is that they need.  The answer to this potential problem is communication. 
 
-**Something that can prevent people from paying themselves a sustainable salary is a belief that their investors or backers will be unhappy with them if they take too much. This is especially true for people who are new to the startup ecosystem who may be fearful about voicing what it is that they need.  The answer to this potential problem is communication.** 
+\[Ed.: I started a company with a woman who was, at that time, the sole provider for a family of two kids. Her needs were different than that of other founders because of her life circumstances.
 
-**\[Ed.: I started a company with a woman who was, at that time, the sole provider for a family of two kids. Her needs were different than that of other founders because of her life circumstances.**
+She and I were able to have a conversation about this with investors and although it didn’t always turn out the way we wanted, it allowed us to get closer to the result.\] 
 
-**She and I were able to have a conversation about this with investors and although it didn’t always turn out the way we wanted, it allowed us to get closer to the result.\]**   
+The second principle is fairness. Fairness being that if every other startup founder who was appointed at a certain stage is making X, then maybe you should also make X. Many founders say, "Well, I don't need to make the money and therefore let's put it back in the business." Choosing to invest your salary into the business is your choice.
 
+Many firms \(Bloomberg Beta included\) will help founders figure out what the pay benchmark is for a founder or other executives at their level. 
 
-**The second principle is fairness. Fairness being that if every other startup founder who was appointed at a certain stage is making X, then maybe you should also make X. Many founders say, "Well, I don't need to make the money and therefore let's put it back in the business." Choosing to invest your salary into the business is your choice.**
+Although many founders underpay themselves, for most it is important that their salary is both sustainable and fair. If you are worried that your investors may disagree with the size of your salary, be honest about your needs and your life circumstances.
 
-**Many firms \(Bloomberg Beta included\) will help founders figure out what the pay benchmark is for a founder or other executives at their level.** 
+_\[Contributed in part by_ [_Minn Kim, former  principal at Bloomberg Beta_](https://twitter.com/minney_cat)_\]_
 
-**Although many founders underpay themselves, for most it is important that their salary is both sustainable and fair. If you are worried that your investors may disagree with the size of your salary, be honest about your needs and your life circumstances.**
++++
 
-**Day 107**
+Day 107
 
-[**How do I set new expectations with my teammates as a WFH parent?**](https://www.pscp.tv/w/1DXGyRgWmLgJM)  
-****
+[**How do I set new expectations with my teammates as a WFH parent?**](https://www.pscp.tv/w/1DXGyRgWmLgJM)\*\*\*\*
 
-**When setting new expectations, you are going to want to have a transparent conversation with your manager that not only outlines your problem or makes requests but also supplies a solution or a plan of action for the way forward.**  
+When setting new expectations, you are going to want to have a transparent conversation with your manager that not only outlines your problem or makes requests but also supplies a solution or a plan of action for the way forward.
 
+Your managers aren’t following a rule book. They have to work on a case-by-case basis to create almost individual rule books for their individual employees. In order for them to make your rule book, they’re going to need to know about your needs, which you can fill them in on with a conversation.
 
-**Your managers aren’t following a rule book. They have to work on a case-by-case basis to create almost individual rule books for their individual employees. In order for them to make your rule book, they’re going to need to know about your needs, which you can fill them in on with a conversation.**
+Up until now, you may have been having short-term conversations with your manager about how you would get through the week. If this is the case, approaching your manager won’t be too hard, but now the conversation needs to steer in the direction of long-term planning.
 
-**Up until now, you may have been having short-term conversations with your manager about how you would get through the week. If this is the case, approaching your manager won’t be too hard, but now the conversation needs to steer in the direction of long-term planning.**  
+If you need to set new expectations because there are issues, you should definitely raise these issues, but you should also try to propose a solution. Try to come to the conversation prepared with a plan that works for your childcare needs whilst allowing you to honour your work responsibilities. 
 
+The more specific your plan is, the better. If you know you have to attend to your child every day at 11:00 AM, tell them that you are unable to be online during those hours and explain how you will restructure your day so that your team can contact you during other specific hours.
 
-**If you need to set new expectations because there are issues, you should definitely raise these issues, but you should also try to propose a solution. Try to come to the conversation prepared with a plan that works for your childcare needs whilst allowing you to honour your work responsibilities.**   
+\[Ed.: When I was a management consultant, the junior people on the team had an issue where you couldn't really reliably predict when your workday would be over. If you wanted to go have dinner with a friend or something, you couldn't do it. But then one day someone I worked with said, "Next Thursday I've got a date at 8 PM." And so everyone just worked around the obstacle that he put there.\]
 
+You should aim to be as transparent with your manager as possible. Although the pandemic has generally made people aware of the chaos and struggles that they and others face, your teammates and managers don't have a full picture of what's going on in your world. In order for them to be able to set up your success, you need to give them a clear picture of what your life is like. 
 
-**The more specific your plan is, the better. If you know you have to attend to your child every day at 11:00 AM, tell them that you are unable to be online during those hours and explain how you will restructure your day so that your team can contact you during other specific hours.**  
+One thing to consider is the fact that conversations like the ones described above may need to happen again as your needs change. When asking for things, there are timing and dosage components. You may say, "I need X," but then a month later something changes and X needs to change too. For everyone, but especially for parents, not all of your requests are set in stone because you yourself are making it up as you go along.
 
+A lot of managers will hear you out because they know that at the end of the day if you are unable to work, the team and company will suffer too.
 
-**\[Ed.: When I was a management consultant, the junior people on the team had an issue where you couldn't really reliably predict when your workday would be over. If you wanted to go have dinner with a friend or something, you couldn't do it. But then one day someone I worked with said, "Next Thursday I've got a date at 8 PM." And so everyone just worked around the obstacle that he put there.\]**  
+Research shows that if managers don't take the time to figure out a way to keep their employees in the workforce and keep them happy and productive, they will lose huge amounts of money as the cost of retraining, and rehiring people to replace those they’ve lost is vast.
 
+_\[Contributed in part by_ [_Caroline Fairchild_](https://www.linkedin.com/in/carolinefairchild?trk=author_mini-profile_title)_, Editor at large for_ [_LinkedInNews_](https://www.linkedin.com/showcase/linkedin-news) _and host of LinkedIn News Live.\]_
 
-**You should aim to be as transparent with your manager as possible. Although the pandemic has generally made people aware of the chaos and struggles that they and others face, your teammates and managers don't have a full picture of what's going on in your world. In order for them to be able to set up your success, you need to give them a clear picture of what your life is like.**   
-
-
-**One thing to consider is the fact that conversations like the ones described above may need to happen again as your needs change. When asking for things, there are timing and dosage components. You may say, "I need X," but then a month later something changes and X needs to change too. For everyone, but especially for parents, not all of your requests are set in stone because you yourself are making it up as you go along.**  
-
-
-**A lot of managers will hear you out because they know that at the end of the day if you are unable to work, the team and company will suffer too.**
-
-**Research shows that if managers don't take the time to figure out a way to keep their employees in the workforce and keep them happy and productive, they will lose huge amounts of money as the cost of retraining, and rehiring people to replace those they’ve lost is vast.**  
-
-
-**\[Contributed in part by** [**Caroline Fairchild**](https://www.linkedin.com/in/carolinefairchild?trk=author_mini-profile_title)**, Editor at large for** [**LinkedInNews**](https://www.linkedin.com/showcase/linkedin-news) **and host of LinkedIn News Live.\]**  
-
++++
 
 **Day 108**
 
-[**How do I know if I'm being underpaid?**](https://www.pscp.tv/w/1MYGNmbvWlRKw)  
-****
+[**How do I know if I'm being underpaid?**](https://www.pscp.tv/w/1MYGNmbvWlRKw)
 
-**\[Ed.: At Compaas, they spend most of their time talking to businesses about how they can be better at how they pay people, make better choices, better decisions, measure things well, and have good raise processes that are fair\]**  
+\[Ed.: At Compaas, they spend most of their time talking to businesses about how they can be better at how they pay people, make better choices, better decisions, measure things well, and have good raise processes that are fair\]
 
+When you are trying to determine if you are being underpaid, it is useful to compare your salary to people from the same organization’s salary. If no one in the company has a similar role, try to have a conversation about your pay with your leaders.
 
-**When you are trying to determine if you are being underpaid, it is useful to compare your salary to people from the same organization’s salary. If no one in the company has a similar role, try to have a conversation about your pay with your leaders.**  
+The way people traditionally look at it is, how am I being paid compared to how much I could get somewhere else? That's how you're being paid according to what is loosely referred to as the ‘market.’ Unfortunately, this isn’t always useful as the ‘market’ is a very broad thing and companies within it vary greatly. A more useful comparison is how much are you being paid compared to other people in the same organization. If you are earning less than other people in the market, but this is true for everyone at the company, then your company isn’t underpaying you-- they’re just paying you badly. 
 
+If you’re going to figure out if you are being paid similarly to your coworkers, you are going to need to find out how much they earn. This can be done by having a simple conversation. You have the legal right to talk about your pay with your colleagues. This is easier said than done as talking about your salary can be awkward and difficult for many.
 
-**The way people traditionally look at it is, how am I being paid compared to how much I could get somewhere else? That's how you're being paid according to what is loosely referred to as the ‘market.’ Unfortunately, this isn’t always useful as the ‘market’ is a very broad thing and companies within it vary greatly. A more useful comparison is how much are you being paid compared to other people in the same organization. If you are earning less than other people in the market, but this is true for everyone at the company, then your company isn’t underpaying you-- they’re just paying you badly.**   
+If you have identified someone that you trust to tell you how much they earn, you may want to say something like, "I expected my bonus to be more like x% and it was less. How are you feeling about it?” and go from there. Using language that shows self-ownership and explains what you are feeling and experiencing can be helpful.
 
+Asking someone what they are earning may not be an option if you're at a tiny company or you are the only one in your role. If you don't have an internal comparable, what do you do?
 
-**If you’re going to figure out if you are being paid similarly to your coworkers, you are going to need to find out how much they earn. This can be done by having a simple conversation. You have the legal right to talk about your pay with your colleagues. This is easier said than done as talking about your salary can be awkward and difficult for many.**
+No matter what you do or who you work for, you should be able to have a conversation with your leadership about how they are setting compensation. Pay transparency should exist where every employee knows why they make what they make and how they can make more. This is something that can be done at any size company. 
 
-**If you have identified someone that you trust to tell you how much they earn, you may want to say something like, "I expected my bonus to be more like x% and it was less. How are you feeling about it?” and go from there. Using language that shows self-ownership and explains what you are feeling and experiencing can be helpful.**  
+Obviously, this is an ideal and there are going to be some managers who are awkward about talking about salaries or companies who are unwilling to tell you anything. In this case, you are just going to have to make choices based on what you have. This sounds harsh, but sometimes leaving the company or getting help from outside sources is the best thing for you. Nobody is going to advocate for you as well as you can, so try to get your people around you, and don't be afraid to ask the people who are going to be open with you and care about you for help.
 
+Although the major activity here is comparing your salary to other people’s salary, there are some things you can do before you even start earning that salary. Before you get the job, or before you even get offered the job, you have the right \(in California and other states\) to ask how much a job pays. You can ask this question at any point in the pre-hire process. There are a lot of ways companies can tap dance around this and avoid bringing it up with candidates but you can directly ask, “What is the pay range for this job?”
 
-**Asking someone what they are earning may not be an option if you're at a tiny company or you are the only one in your role. If you don't have an internal comparable, what do you do?**
+If you want to know if you are being underpaid, try to find out how much your company is paying other people in your position and compare your salary to theirs. If you are unable to make this comparison, attempt to have a transparent conversation with your leaders about your pay.
 
-**No matter what you do or who you work for, you should be able to have a conversation with your leadership about how they are setting compensation. Pay transparency should exist where every employee knows why they make what they make and how they can make more. This is something that can be done at any size company.** 
+_\[Contributed in part by_ [_Bethanye McKinney Blount_](https://www.linkedin.com/in/bethanye)_, CEO of_ [_Compaas_](https://www.compa.as/about-compaas)_._ 
 
-**Obviously, this is an ideal and there are going to be some managers who are awkward about talking about salaries or companies who are unwilling to tell you anything. In this case, you are just going to have to make choices based on what you have. This sounds harsh, but sometimes leaving the company or getting help from outside sources is the best thing for you. Nobody is going to advocate for you as well as you can, so try to get your people around you, and don't be afraid to ask the people who are going to be open with you and care about you for help.**  
+_Bethanye shared that at Compaas, they spend most of their time talking to businesses about how they can be better at how they pay people, make better choices, better decisions, measure things well, and have good raise processes that are fair\]_
 
-
-**Although the major activity here is comparing your salary to other people’s salary, there are some things you can do before you even start earning that salary. Before you get the job, or before you even get offered the job, you have the right \(in California and other states\) to ask how much a job pays. You can ask this question at any point in the pre-hire process. There are a lot of ways companies can tap dance around this and avoid bringing it up with candidates but you can directly ask, “What is the pay range for this job?”**  
-
-
-**If you want to know if you are being underpaid, try to find out how much your company is paying other people in your position and compare your salary to theirs. If you are unable to make this comparison, attempt to have a transparent conversation with your leaders about your pay.**  
-
-
-**\[Contributed in part by** [**Bethanye McKinney Blount**](https://www.linkedin.com/in/bethanye)**, CEO of** [**Compaas**](https://www.compa.as/about-compaas)**.** 
-
-**Bethanye shared that at Compaas, they spend most of their time talking to businesses about how they can be better at how they pay people, make better choices, better decisions, measure things well, and have good raise processes that are fair\]**  
-
+_+++_
 
 **DAY 109**
 
-[**Do I take a lower salary for a job I really want?**](https://www.pscp.tv/w/1lDxLpZNePZxm)  
-****
+[**Do I take a lower salary for a job I really want?**](https://www.pscp.tv/w/1lDxLpZNePZxm)
 
-**If you are asked in an interview how much you expect to be paid, the number you supply is as important as how concrete the answer is. If you later believe that the company was unhappy with your answer, you should consider taking an intermediate step, like asking for more information, before you negotiate against yourself.**  
+If you are asked in an interview how much you expect to be paid, the number you supply is as important as how concrete the answer is. If you later believe that the company was unhappy with your answer, you should consider taking an intermediate step, like asking for more information, before you negotiate against yourself.
 
+You may find yourself in the same boat as the woman who asked this question. She was interviewed for a job that she was very qualified for and it sounded like the company was really excited to hire her. During the interview, they asked her what her expectations were around compensation. She had already known going in what the range was, because it had been posted on their website.
 
-**You may find yourself in the same boat as the woman who asked this question. She was interviewed for a job that she was very qualified for and it sounded like the company was really excited to hire her. During the interview, they asked her what her expectations were around compensation. She had already known going in what the range was, because it had been posted on their website.**
+She named her expectations around the higher end and then didn’t hear back from them over the next few days. She then noticed that the page had updated the pay range on their website. She now wondered, "Oh, am I not going to get hired because I'm too expensive?" In that case, should I go back and say, "I'd be willing to take a lower compensation."
 
-**She named her expectations around the higher end and then didn’t hear back from them over the next few days. She then noticed that the page had updated the pay range on their website. She now wondered, "Oh, am I not going to get hired because I'm too expensive?" In that case, should I go back and say, "I'd be willing to take a lower compensation."**  
+When faced with the question of expected compensation, many people end up contemplating negotiating against themselves. The reason that people usually do this is fear. They're afraid that if they don't do this, they might not get the job. However, here's almost always an intermediate step.
 
+An example of an intermediate step is not accepting the lower salary at the first time. Instead, you could get some information first. The woman could have gotten information by calling the person and saying, "Hey, I know I said X and the posted range on the job was this, and then I noticed you guys changed the range. What happened?", and then they might have given her some new information that could have helped her to decide. 
 
-**When faced with the question of expected compensation, many people end up contemplating negotiating against themselves. The reason that people usually do this is fear. They're afraid that if they don't do this, they might not get the job. However, here's almost always an intermediate step.**  
+When answering that question of “How much do you want to be paid?” it isn’t only about the ask, it's also about the music with which you deliver it, ie. the concreteness. In general, when you make an ask, there is usually a headline of the ask \(what you are asking\) and then there is the concreteness of the ask \(how you’re asking\). What I mean by that is there's a huge difference between, “I would like to be paid $100,000 a year, take it or leave it,” versus, “I'd like to be paid $100,000 a year, but I understand that you've got to be fair and find comparables, I am willing to discuss it.” The former is set in concrete, whilst the latter is set in feathers. In between, there are a thousand hardnesses that you can choose from that will give the company openness to come back to you.
 
+When negotiating your salary after you have stated your expected compensation, there is usually an intermediate step you can take before you have to go back and change your answer to how much you would like to be paid. The salary that you ask for is just as important as how you ask for it if you want the company to consider you.
 
-**An example of an intermediate step is not accepting the lower salary at the first time. Instead, you could get some information first. The woman could have gotten information by calling the person and saying, "Hey, I know I said X and the posted range on the job was this, and then I noticed you guys changed the range. What happened?", and then they might have given her some new information that could have helped her to decide.**   
+_Contributed in part by_ [_Minn Kim, former  principal at Bloomberg Beta_](https://twitter.com/minney_cat)_\]_
 
-
-**When answering that question of “How much do you want to be paid?” it isn’t only about the ask, it's also about the music with which you deliver it, ie. the concreteness. In general, when you make an ask, there is usually a headline of the ask \(what you are asking\) and then there is the concreteness of the ask \(how you’re asking\). What I mean by that is there's a huge difference between, “I would like to be paid $100,000 a year, take it or leave it,” versus, “I'd like to be paid $100,000 a year, but I understand that you've got to be fair and find comparables, I am willing to discuss it.” The former is set in concrete, whilst the latter is set in feathers. In between, there are a thousand hardnesses that you can choose from that will give the company openness to come back to you.**  
-
-
-**When negotiating your salary after you have stated your expected compensation, there is usually an intermediate step you can take before you have to go back and change your answer to how much you would like to be paid. The salary that you ask for is just as important as how you ask for it if you want the company to consider you.**  
-
++++
 
 **DAY 110**
 
-[**When should I do user testing versus just shipping?**](https://www.pscp.tv/w/1MYGNmWvyPNKw)  
-****
+[**When should I do user testing versus just shipping?**](https://www.pscp.tv/w/1MYGNmWvyPNKw)
 
 **One way to determine if you should do user testing rather than just shipping is to measure the risks and the unknowns. The higher the stakes and the more uncertainty there is around whatever you're doing, the more important it is to find shortcuts to put your stuff in front of customers. You probably want to get your products to customers before you spend many months or dollars trying to build the real thing.**   
 
