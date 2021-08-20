@@ -414,67 +414,59 @@ Corporate development reaching out can lead to success if the company that might
 
 Before going ahead with the acquisition process, you should check in with yourself and see how you feel about it, figure out what company wants to buy and if they are legitimate, and find out who is asking and if they are truly interested or just doing research.
 
-_\[Contributed in part by_ [_Minn Kim, former  principal at Bloomberg Beta_](https://twitter.com/minney_cat)_\]_  
-****
+_\[Contributed in part by_ [_Minn Kim, former  principal at Bloomberg Beta_](https://twitter.com/minney_cat)_\]_
+
+**+++**
 
 **DAY 114**
 
 [**I'm an exec at a company undergoing an acquisition. Should I stay?**](https://www.pscp.tv/w/1DXxyRPmVLVKM)
 
-**If you are an exec at a company undergoing an acquisition, you may be unable to stay, even if you want to. In preparation for this, you should try to look after your mental health and consider your other prospects.**   
+If you are an exec at a company undergoing an acquisition, you may be unable to stay, even if you want to. In preparation for this, you should try to look after your mental health and consider your other prospects. 
 
+There is no one-size-fits-all for how to proceed when you are in this position. The right choice is dependent on where you are in your career cycle and what's going on in your personal life. Some people may find that staying at the acquiring company is a feasible option, and it comes with pros, like spending more time with your kids, but for others, there really may not be a place for you in the company afterward.
 
-**There is no one-size-fits-all for how to proceed when you are in this position. The right choice is dependent on where you are in your career cycle and what's going on in your personal life. Some people may find that staying at the acquiring company is a feasible option, and it comes with pros, like spending more time with your kids, but for others, there really may not be a place for you in the company afterward.**  
+Firstly, you should realize that the decision is probably not going to be up to you. This is a really hard thing to come to terms with if you have been in a founder or leadership role at a startup company. Until this point, you have probably been a large part of what has made the company successful, so imagining the company without you can be tough.
 
+If you are someone who has thrown themselves into their work and has been unable to see themselves doing anything else for quite some time, surrendering your control during an acquisition is going to be very difficult. In anticipation of this, you should try to prioritize your mental health and do a few ‘selfish’ things. If you've made a lot of sacrifices for your company, now may be the time to focus on yourself a bit more.
 
-**Firstly, you should realize that the decision is probably not going to be up to you. This is a really hard thing to come to terms with if you have been in a founder or leadership role at a startup company. Until this point, you have probably been a large part of what has made the company successful, so imagining the company without you can be tough.**  
+Something vital to think about is what you will do if you don't \(or can't\) stay. Try to think about what you want to do and whether it's what the company is doing. You can also think about what you would be doing if you weren’t at the company. If the acquisition might mean that you won’t be working with the company anymore, try and imagine what you will do instead and begin to prepare yourself for this change. For those who see their company as their baby, leaving it can feel devastating, but it can also be a great opportunity to return to something you were once passionate about. \[Ed.: For Lucy, the acquisition of Crowdskout, where she had been the chief strategy officer for five years, gave her the opportunity to return to her roots in advocacy. In 2019, she threw herself into working on the Never Trump movement.\]
 
+If you aren't able to stay at your company after the acquisition, try to look after yourself and your mental health and think about what you could do instead.
 
-**If you are someone who has thrown themselves into their work and has been unable to see themselves doing anything else for quite some time, surrendering your control during an acquisition is going to be very difficult. In anticipation of this, you should try to prioritize your mental health and do a few ‘selfish’ things. If you've made a lot of sacrifices for your company, now may be the time to focus on yourself a bit more.**  
+_\[Contributed in part by_ [_Lucy Caldwell_](https://twitter.com/lucymcaldwell)_, founder of_ [_Mockingbird Lab_](https://mockingbirdlab.com)_, previous chief strategy officer at_ [_Crowdskout_](https://crowdskout.com)_, and campaign manager.\]_
 
-
-**Something vital to think about is what you will do if you don't \(or can't\) stay. Try to think about what you want to do and whether it's what the company is doing. You can also think about what you would be doing if you weren’t at the company. If the acquisition might mean that you won’t be working with the company anymore, try and imagine what you will do instead and begin to prepare yourself for this change. For those who see their company as their baby, leaving it can feel devastating, but it can also be a great opportunity to return to something you were once passionate about. \[Ed.: For Lucy, the acquisition of Crowdskout, where she had been the chief strategy officer for five years, gave her the opportunity to return to her roots in advocacy. In 2019, she threw herself into working on the Never Trump movement.\]**  
-
-
-**If you aren't able to stay at your company after the acquisition, try to look after yourself and your mental health and think about what you could do instead.**  
-
-
-**\[Contributed in part by** [**Lucy Caldwell**](https://twitter.com/lucymcaldwell)**, founder of** [**Mockingbird Lab**](https://mockingbirdlab.com)**, previous chief strategy officer at** [**Crowdskout**](https://crowdskout.com)**, and campaign manager.\]**  
-
+**+++**
 
 **DAY 115** 
 
-[**Are there projects I can undertake while in school to actually prepare me for work in a given field?**](https://www.pscp.tv/w/1yNxaWyoYalGj)  
-****
+[**Are there projects I can undertake while in school to actually prepare me for work in a given field?**](https://www.pscp.tv/w/1yNxaWyoYalGj)
 
-**Working with people, or an organization, who you admire and can learn from can help you develop your perspective and explore how you can apply your point of view to the world.**  
+Working with people, or an organization, who you admire and can learn from can help you develop your perspective and explore how you can apply your point of view to the world.
 
+ \[Ed.: This question came up when I was speaking in an NYU course that Josh Shapiro teaches about the future of work. One of the students, Kimberly Chung, asked about her particular interests, which are around advocacy in the Asian-American community and the intersection of that with urban studies.\]
 
- **\[Ed.: This question came up when I was speaking in an NYU course that Josh Shapiro teaches about the future of work. One of the students, Kimberly Chung, asked about her particular interests, which are around advocacy in the Asian-American community and the intersection of that with urban studies.\]**  
+The old way of thinking about it was, go and get an internship at a place that an employer might recognize. This is still a valid thing to do. It’s a little bit harder during the school year, and maybe even harder now, during COVID. You could also take part in extracurricular activities that are either some big thing on campus or feel particularly attuned to some interest.
 
+\[Ed.: Those clubs on campus always seemed a little weird to me. The investment banking club? Come on, do you really want to be in the investment banking club? Sorry if you're in the investment banking club.\]
 
-**The old way of thinking about it was, go and get an internship at a place that an employer might recognize. This is still a valid thing to do. It’s a little bit harder during the school year, and maybe even harder now, during COVID. You could also take part in extracurricular activities that are either some big thing on campus or feel particularly attuned to some interest.**  
+ The big thing that's changed in today’s world is that you don't need a seat at an organization's table to learn about what happens in a particular area or even to begin to contribute value. Instead, what you can look for are opportunities that will allow you to develop your own point of view. If someone came up to you and said, "Hey, you're interested in advocacy in the Asian-American community. Well, what should happen in cities with Asian-American populations?"
 
+If you already have a point of view during your school years, well then, that's amazing! The next question is then, "How do you bring your point of view to life?" If you are missing some key skills needed to bring it to life, then go ahead and do a project and get that skill. If you don't yet have a point of view, or if you're not particularly confident in your point of view, then your next question is, "Okay, what projects can I undertake outside of the coursework in order to build a point of view on this domain that I think I care about?"
 
-**\[Ed.: Those clubs on campus always seemed a little weird to me. The investment banking club? Come on, do you really want to be in the investment banking club? Sorry if you're in the investment banking club.\]**  
+Something you can do to develop your point of view is find somebody, a person and/or organization that goes about things in a way that you admire and wish to learn from. Once you have found this person or group, try to figure out how you could be useful to them. You could cold reach out to them, even beg somebody you know who might know them, and say, "Hey, I've noticed what you're doing about X. I've been researching it, and I’d like to be helpful. Here's something I can do for you."
 
+Finding something that allows you to learn and gain knowledge can significantly benefit you later. Affiliation with any organization is something you can probably turn into a discussion point on your resume or LinkedIn when trying to get a job. If the thing you have to solve is learning, then find somebody you admire and learn that thing. Easier said than done, but it’s researching first and then generating opportunities for yourself.
 
- **The big thing that's changed in today’s world is that you don't need a seat at an organization's table to learn about what happens in a particular area or even to begin to contribute value. Instead, what you can look for are opportunities that will allow you to develop your own point of view. If someone came up to you and said, "Hey, you're interested in advocacy in the Asian-American community. Well, what should happen in cities with Asian-American populations?"**
+The internet presents itself as a good platform for collaboration and connecting with people. You may find a Reddit thread that you like or a random blog or Twitter profile that you think is really interesting. You can then start with what the person reads and likes and go from there.
 
-**If you already have a point of view during your school years, well then, that's amazing! The next question is then, "How do you bring your point of view to life?" If you are missing some key skills needed to bring it to life, then go ahead and do a project and get that skill. If you don't yet have a point of view, or if you're not particularly confident in your point of view, then your next question is, "Okay, what projects can I undertake outside of the coursework in order to build a point of view on this domain that I think I care about?"**
+Although the internet offers a great opportunity to get in touch with these people and have greater access to them, try to avoid falling into the trap where you believe the most visible people are the ones from whom you can learn the most. This isn’t necessarily the case, as these people are more visible simply because they promote themselves more. Often it is the people who have fewer followers who are the most eager to have collaborators.
 
-**Something you can do to develop your point of view is find somebody, a person and/or organization that goes about things in a way that you admire and wish to learn from. Once you have found this person or group, try to figure out how you could be useful to them. You could cold reach out to them, even beg somebody you know who might know them, and say, "Hey, I've noticed what you're doing about X. I've been researching it, and I’d like to be helpful. Here's something I can do for you."**
+If you would like to prepare yourself for a particular field during school, try to find people or an organization with knowledge that applies to that field. Gaining knowledge and learning more about something can help you develop your point of view and can be a discussion point on your resume when you’re trying to find a job.
 
-**Finding something that allows you to learn and gain knowledge can significantly benefit you later. Affiliation with any organization is something you can probably turn into a discussion point on your resume or LinkedIn when trying to get a job. If the thing you have to solve is learning, then find somebody you admire and learn that thing. Easier said than done, but it’s researching first and then generating opportunities for yourself.**  
+_\[Contributed in part by_ [_Minn Kim, former  principal at Bloomberg Beta_](https://twitter.com/minney_cat)_\]_
 
-
-**The internet presents itself as a good platform for collaboration and connecting with people. You may find a Reddit thread that you like or a random blog or Twitter profile that you think is really interesting. You can then start with what the person reads and likes and go from there.**
-
-**Although the internet offers a great opportunity to get in touch with these people and have greater access to them, try to avoid falling into the trap where you believe the most visible people are the ones from whom you can learn the most. This isn’t necessarily the case, as these people are more visible simply because they promote themselves more. Often it is the people who have fewer followers who are the most eager to have collaborators.**  
-
-
-**If you would like to prepare yourself for a particular field during school, try to find people or an organization with knowledge that applies to that field. Gaining knowledge and learning more about something can help you develop your point of view and can be a discussion point on your resume when you’re trying to find a job.**  
-
+**+++**
 
 **DAY 116**
 
