@@ -328,7 +328,7 @@ When answering that question of “How much do you want to be paid?” it isn’
 
 When negotiating your salary after you have stated your expected compensation, there is usually an intermediate step you can take before you have to go back and change your answer to how much you would like to be paid. The salary that you ask for is just as important as how you ask for it if you want the company to consider you.
 
-_Contributed in part by_ [_Minn Kim, former  principal at Bloomberg Beta_](https://twitter.com/minney_cat)_\]_
+_\[Contributed in part by_ [_Minn Kim, former  principal at Bloomberg Beta_](https://twitter.com/minney_cat)_\]_
 
 +++
 
@@ -336,100 +336,86 @@ _Contributed in part by_ [_Minn Kim, former  principal at Bloomberg Beta_](https
 
 [**When should I do user testing versus just shipping?**](https://www.pscp.tv/w/1MYGNmWvyPNKw)
 
-**One way to determine if you should do user testing rather than just shipping is to measure the risks and the unknowns. The higher the stakes and the more uncertainty there is around whatever you're doing, the more important it is to find shortcuts to put your stuff in front of customers. You probably want to get your products to customers before you spend many months or dollars trying to build the real thing.**   
+One way to determine if you should do user testing rather than just shipping is to measure the risks and the unknowns. The higher the stakes and the more uncertainty there is around whatever you're doing, the more important it is to find shortcuts to put your stuff in front of customers. You probably want to get your products to customers before you spend many months or dollars trying to build the real thing. 
 
+Often, user research gets a bad name because the conventional approach is often something like, "Let's just go out and talk to our users and try to understand them." Which is obviously important, but it doesn't get you much closer to what you're trying to do. Or it may be something like, "Let's go and look at how our users are already interacting with our product. And let's look for problems or opportunities." There’s actually a big gap in the middle, which is, before you're ready to build something, but after you have had enough conversations to validate that there's an opportunity in the market for your product, you can take shortcuts in order to build a realistic prototype and put it in front of customers. 
 
-**Often, user research gets a bad name because the conventional approach is often something like, "Let's just go out and talk to our users and try to understand them." Which is obviously important, but it doesn't get you much closer to what you're trying to do. Or it may be something like, "Let's go and look at how our users are already interacting with our product. And let's look for problems or opportunities." There’s actually a big gap in the middle, which is, before you're ready to build something, but after you have had enough conversations to validate that there's an opportunity in the market for your product, you can take shortcuts in order to build a realistic prototype and put it in front of customers.**   
+\[Ed.: John Zeratzky put this to good use when he worked with Slack. Slack had been live for about 12 months and although they had a graph that was going up into the right, it didn't show the fact that most of their early customers were other tech companies who already knew that their product was useful. Because of this, Slack was interested in gaining customers from other business areas outside of the tech field.
 
+They had come up with a new approach to how they were going to market so they decided to run a [Design Sprint](https://www.gv.com/sprint/). Because the stakes were high and it would take months to build the things they needed, it was important that they got it right before they launched.
 
-**\[Ed.: John put this to good use when he worked with Slack. Slack had been live for about 12 months and although they had a graph that was going up into the right, it didn't show the fact that most of their early customers were other tech companies who already knew that their product was useful. Because of this, Slack was interested in gaining customers from other business areas outside of the tech field.**  
+John spent a couple of weeks working with Slack, prototyping what the market would be like. They mocked up ads that were in magazines and had people go through onboarding. Through this process, John and his team were able to invalidate Slack’s clever onboarding solution, despite it being very sophisticated.  They also found the solution that was most likely to work: standard tool tips that showed you how to use the product when you started Slack for the first time. \]
 
+Another thing that is important is how many assumptions or unknowns are there at the customer interface? This isn’t referring to the UI, but rather how many of the risks of what you are doing are because of what people will think or do when they learn about it.
 
-**They had come up with a new approach to how they were going to market so they decided to run a** [**Design Sprint**](https://www.gv.com/sprint/)**. Because the stakes were high and it would take months to build the things they needed, it was important that they got it right before they launched.**
+There's a myth regarding user research being about proving that the product will work. What it really is is spending time on certain techniques to save yourself a lot of time in the future if you’ve built something that won't work.
 
-**John spent a couple of weeks working with Slack, prototyping what the market would be like. They mocked up ads that were in magazines and had people go through onboarding. Through this process, John and his team were able to invalidate Slack’s clever onboarding solution, despite it being very sophisticated.  They also found the solution that was most likely to work: standard tool tips that showed you how to use the product when you started Slack for the first time. \]**
+Something that everybody should consider doing during a Design Sprint is a set of realistic mock-ups, either of the product itself or the marketing for that product. This is a really cool hack because you can usually prototype the marketing faster than you can prototype the thing. You can do this using something like [InVision](https://www.invisionapp.com), [Marvel](https://marvelapp.com), or even [Figma](https://www.figma.com).  Once you have this, you should go out and find five dream customers who fit your perfect profile.  Go and put your thing in front of them and see if the lights light up. 
 
-**Another thing that is important is how many assumptions or unknowns are there at the customer interface? This isn’t referring to the UI, but rather how many of the risks of what you are doing are because of what people will think or do when they learn about it.**  
+If they don't, there's probably some issues and you need to go back to the drawing board. You can do all of this in just a couple of days whilst ignoring all of the really hard technical stuff like, How youre going to build it, or is it going to scale. You can temporarily ignore all those things and just focus on the customer interface.
 
+_\[Contributed in part by_ [_John Zeratsky_](https://twitter.com/jazer)_,_ [_designer, author and former partner at GV._](https://johnzeratsky.com)_\]_
 
-**There's a myth regarding user research being about proving that the product will work. What it really is is spending time on certain techniques to save yourself a lot of time in the future if you’ve built something that won't work.**  
-
-
-**Something that everybody should consider doing during a Design Sprint is a set of realistic mock-ups, either of the product itself or the marketing for that product. This is a really cool hack because you can usually prototype the marketing faster than you can prototype the thing. You can do this using something like** [**InVision**](https://www.invisionapp.com)**,** [**Marvel**](https://marvelapp.com)**, or even** [**Figma**](https://www.figma.com)**.  Once you have this, you should go out and find five dream customers who fit your perfect profile.  Go and put your thing in front of them and see if the lights light up.** 
-
-**If they don't, there's probably some issues and you need to go back to the drawing board. You can do all of this in just a couple of days whilst ignoring all of the really hard technical stuff like, How youre going to build it, or is it going to scale. You can temporarily ignore all those things and just focus on the customer interface.**  
-
-
-**\[Contributed in part by** [**John Zeratsky**](https://twitter.com/jazer)**,** [**designer, author and former partner at GV.**](https://johnzeratsky.com)**\]**  
-
+**+++**
 
 **DAY 111**
 
 [**What do I do if my co-founder and I disagree on our company vision?**](https://www.pscp.tv/w/1LyGBdvwvoExN)
 
-**If you and your cofounder cannot agree on your company’s vision, try to have a conversation where you determine exactly what you don’t agree on.**  
+If you and your cofounder cannot agree on your company’s vision, try to have a conversation where you determine exactly what you don’t agree on.
 
+You often hear that people break up a band, or a group, due to ‘creative differences.’ Sometimes you hear that these ‘creative differences’ are a disagreement about a particular thing. Usually, this disagreement is actually about something else. The reason it's almost always about something else is that co-founder relationships are so multi-faceted and complex. They're personal and intense; they’re about money, your workday, your family life, and your social life. Because your relationship with your co-founder extends to so many aspects of your life, some of these aspects are bound to be hard to talk about. Naturally, we would rather talk about the things that we are comfortable talking about, and so we have arguments about these things. 
 
-**You often hear that people break up a band, or a group, due to ‘creative differences.’ Sometimes you hear that these ‘creative differences’ are a disagreement about a particular thing. Usually, this disagreement is actually about something else. The reason it's almost always about something else is that co-founder relationships are so multi-faceted and complex. They're personal and intense; they’re about money, your workday, your family life, and your social life. Because your relationship with your co-founder extends to so many aspects of your life, some of these aspects are bound to be hard to talk about. Naturally, we would rather talk about the things that we are comfortable talking about, and so we have arguments about these things.**   
+The first thing to do is figure out what you really have differences over. This is especially important if what you are arguing about is your ‘vision,’ as your vision is particularly amorphous and ambiguous. Is it really over what you think it is? Having an open conversation about how you and your co-founder are feeling can be helpful to discover what you are disagreeing on. Even if your views on what the company should do to succeed differ greatly, you should still try to work something out and see the best in each other.
 
+Ultimately, there can only be one set of actions that the company takes. You may be faced with deciding on this set of actions and trying to figure out who has the power. If one of you can't convince the other to see it their way, then you may settle it by going with who has more equity, or you may choose to push the other person out. This is an example of a case where a simple disagreement can quickly escalate through a series of actions that can culminate in pushing the other person out.
 
-**The first thing to do is figure out what you really have differences over. This is especially important if what you are arguing about is your ‘vision,’ as your vision is particularly amorphous and ambiguous. Is it really over what you think it is? Having an open conversation about how you and your co-founder are feeling can be helpful to discover what you are disagreeing on. Even if your views on what the company should do to succeed differ greatly, you should still try to work something out and see the best in each other.**  
+Sometimes when you are in disagreement with your co-founder, the thing you think you disagree on isn't the real issue. Figuring out the real problem is key to resolving the matter or deciding to escalate it.
 
+_\[Contributed in part by_ [_Minn Kim, former  principal at Bloomberg Beta_](https://twitter.com/minney_cat)_\]_
 
-**Ultimately, there can only be one set of actions that the company takes. You may be faced with deciding on this set of actions and trying to figure out who has the power. If one of you can't convince the other to see it their way, then you may settle it by going with who has more equity, or you may choose to push the other person out. This is an example of a case where a simple disagreement can quickly escalate through a series of actions that can culminate in pushing the other person out.**  
-
-
-**Sometimes when you are in disagreement with your co-founder, the thing you think you disagree on isn't the real issue. Figuring out the real problem is key to resolving the matter or deciding to escalate it.**  
-
+**+++**
 
 **DAY 112**
 
-[**How much do the holidays matter in timing my fundraise?**](https://www.pscp.tv/w/1dRKZNwelBDKB)  
-****
+[**How much do the holidays matter in timing my fundraise?**](https://www.pscp.tv/w/1dRKZNwelBDKB)
 
-**Although the holidays affected fundraising in the past, it is no longer a big issue, especially for early-stage founders.**  
+Although the holidays affected fundraising in the past, it is no longer a big issue, especially for early-stage founders.
 
+In the past, it mattered a lot. When there were only a few fancy VC firms that looked like law firms, thighs would really slow down on holidays or when they took leave from the office. There definitely used to be truth behind the traditional advice that annual timing mattered.
 
-**In the past, it mattered a lot. When there were only a few fancy VC firms that looked like law firms, thighs would really slow down on holidays or when they took leave from the office. There definitely used to be truth behind the traditional advice that annual timing mattered.**  
+Now though, if you're an early-stage founder and you're raising your first institutional money, it doesnt really matter. For you, it is better to raise as soon as you can get money from trustworthy people. Don’t stress about the calendar and rather take the money or seek the money from people on fair terms wherever you can.
 
+If you are in the early stage, the investor’s part probably won’t take months. It will take mere days or weeks. And so holidays won’t make as much of a difference because even if you started last week and Thanksgiving is this week, that week isn't going to make or break a huge difference.
 
-**Now though, if you're an early-stage founder and you're raising your first institutional money, it doesnt really matter. For you, it is better to raise as soon as you can get money from trustworthy people. Don’t stress about the calendar and rather take the money or seek the money from people on fair terms wherever you can.**  
+If you are an early-stage founder, don’t worry about your fundraising being over the holidays and rather focus on getting money from people you trust.
 
+_\[Contributed in part by_ [_Minn Kim, former  principal at Bloomberg Beta_](https://twitter.com/minney_cat)_\]_
 
-**If you are in the early stage, the investor’s part probably won’t take months. It will take mere days or weeks. And so holidays won’t make as much of a difference because even if you started last week and Thanksgiving is this week, that week isn't going to make or break a huge difference.**  
-
-
-**If you are an early-stage founder, don’t worry about your fundraising being over the holidays and rather focus on getting money from people you trust.**  
-
+**+++**
 
 **DAY 113**
 
-[**Someone wants to buy my company. Should I engage?**](https://www.pscp.tv/w/1ypJdgzOmzaGW)  
+[**Someone wants to buy my company. Should I engage?**](https://www.pscp.tv/w/1ypJdgzOmzaGW)
+
+If you’re approached by someone who wants to buy your company, you should determine how you feel about it, what company wants to buy, and who is reaching out to you.
+
+The first question is just asking yourself where are you on this? The answer is often that there is a price at which you could be bought, but you are unsure. Figuring out whether the acquisition interest is substantial enough to be worth exploring is part of the game.
+
+The next question is, who is the company? Oftentimes, the interest is from a company you haven't heard of before. If you haven't heard of them and you can't find things about them online, that's a really bad sign. Now it doesn't necessarily mean you shouldn't engage, but it does mean you need to compensate for it by making them pre-qualify their interest.
+
+The last thing is, who is reaching out? Big companies often have a corporate development team that does nothing all day but say, “Hey, we'd like to talk to you about a potential acquisition.” This person may just be talking to you because they are trying to make an acquisition slide and they are talking to not only you, but numerous people who occupy a similar space in the market. Hearing that someone wants to talk to you about acquisition may tempt you to drop everything to have that discussion, but keep in mind that the person on the phone may just be executing orders in corporate development. 
+
+Not only is the who important, but also the why. Why is this person reaching out to me? If this person is in corporate development, then they're probably either doing some form of research, or somebody specifically asked them to reach out to you. If they’re just doing research, you may want to think twice before spending too much time developing a relationship with corporate development. There aren't many people who would say that they are grateful they built a relationship with corporate development, as it usually isn't that helpful when trying to get acquired.
+
+To figure out if they're asking on behalf of somebody, you can get on the phone, or email, and ask, was this something that a specific person or business unit was interested in? If you are a small, busy startup, you don't want to waste your time and so determining if the person asking is truly interested is critical.
+
+Corporate development reaching out can lead to success if the company that might be acquired uses it as an opportunity to create a business relationship with the right executive at the company. You can go and say something like, “Well it'd be great to meet with your head of customer success and talk about how we might work together.” You often find that a commercial partnership is a more valuable way to work together than acquisition.
+
+Before going ahead with the acquisition process, you should check in with yourself and see how you feel about it, figure out what company wants to buy and if they are legitimate, and find out who is asking and if they are truly interested or just doing research.
+
+_\[Contributed in part by_ [_Minn Kim, former  principal at Bloomberg Beta_](https://twitter.com/minney_cat)_\]_  
 ****
-
-**If you’re approached by someone who wants to buy your company, you should determine how you feel about it, what company wants to buy, and who is reaching out to you.**  
-
-
-**The first question is just asking yourself where are you on this? The answer is often that there is a price at which you could be bought, but you are unsure. Figuring out whether the acquisition interest is substantial enough to be worth exploring is part of the game.**  
-
-
-**The next question is, who is the company? Oftentimes, the interest is from a company you haven't heard of before. If you haven't heard of them and you can't find things about them online, that's a really bad sign. Now it doesn't necessarily mean you shouldn't engage, but it does mean you need to compensate for it by making them pre-qualify their interest.**  
-
-
-**The last thing is, who is reaching out? Big companies often have a corporate development team that does nothing all day but say, “Hey, we'd like to talk to you about a potential acquisition.” This person may just be talking to you because they are trying to make an acquisition slide and they are talking to not only you, but numerous people who occupy a similar space in the market. Hearing that someone wants to talk to you about acquisition may tempt you to drop everything to have that discussion, but keep in mind that the person on the phone may just be executing orders in corporate development.**   
-
-
-**Not only is the who important, but also the why. Why is this person reaching out to me? If this person is in corporate development, then they're probably either doing some form of research, or somebody specifically asked them to reach out to you. If they’re just doing research, you may want to think twice before spending too much time developing a relationship with corporate development. There aren't many people who would say that they are grateful they built a relationship with corporate development, as it usually isn't that helpful when trying to get acquired.**  
-
-
-**To figure out if they're asking on behalf of somebody, you can get on the phone, or email, and ask, was this something that a specific person or business unit was interested in? If you are a small, busy startup, you don't want to waste your time and so determining if the person asking is truly interested is critical.**  
-
-
-**Corporate development reaching out can lead to success if the company that might be acquired uses it as an opportunity to create a business relationship with the right executive at the company. You can go and say something like, “Well it'd be great to meet with your head of customer success and talk about how we might work together.” You often find that a commercial partnership is a more valuable way to work together than acquisition.**  
-
-
-**Before going ahead with the acquisition process, you should check in with yourself and see how you feel about it, figure out what company wants to buy and if they are legitimate, and find out who is asking and if they are truly interested or just doing research.**  
-
 
 **DAY 114**
 
