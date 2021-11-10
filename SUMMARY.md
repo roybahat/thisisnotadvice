@@ -1,9 +1,9 @@
 # Table of contents
 
-* [\#thisisnotadvice about work](README.md)
-* [Managing yourself](unhappy-at-work/README.md)
-  * [Getting things done / productivity](unhappy-at-work/working-in-times-of-crisis.md)
-  * [Managing your reputation](unhappy-at-work/managing-your-reputation.md)
+* [#thisisnotadvice about work](README.md)
+* [Managing yourself](managing-yourself/README.md)
+  * [Getting things done / productivity](managing-yourself/working-in-times-of-crisis.md)
+  * [Managing your reputation](managing-yourself/managing-your-reputation.md)
 * [Changing jobs](applying-for-jobs.md)
 * [Working with others](working-with-others.md)
 * [Managing others](paying-someone.md)
@@ -16,4 +16,3 @@
 * [/ Cutting room floor](cutting-room-floor.md)
 * [/ Needs more content or research](needs-more-content-or-research.md)
 * [/ Style guide](notes-for-final-edit.md)
-
