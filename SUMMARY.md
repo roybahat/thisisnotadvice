@@ -9,5 +9,4 @@
 * [Managing others](paying-someone.md)
 * [Leading](leadership.md)
 * [Making ethical choices](business-ethics.md)
-* [Building startups](startups/README.md)
-  * [Investing](startups/venture-investing.md)
+* [Building startups](startups.md)

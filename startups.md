@@ -2,8 +2,6 @@
 
 _There may be no topic in the history of business with as much published advice as there is on startups. These questions are just a few that may matter. For a repository of many more, see resources like _[_Founder Library_](https://www.founderlibrary.com)_._
 
-__
-
 #### [**If I want to start a company, what's the very first thing I should do?**](https://www.pscp.tv/w/1vAxRryByyzxl)****
 
 There are many different ways up the startup mountain. The ["missionaries vs. mercenaries" concept](https://knowledge.wharton.upenn.edu/article/mercenaries-vs-missionaries-john-doerr-sees-two-kinds-of-internet-entrepreneurs/#:\~:text=Mercenaries%20are%20bosses%20of%20wolf,mentors%20or%20coaches%20of%20teams.\&text=Mercenaries%20are%20motivated%20by%20the,the%20desire%20to%20make%20meaning.%E2%80%9D) of who builds great ventures is nice, but some great founders were unfortunately just mercenaries. There are also people who say, "I'm going to start a company, I don't know about what," and while it's tempting to call them "wantrepreneurs," they sometimes do great things.&#x20;
@@ -13,8 +11,6 @@ While there are many ways up the mountain, [think about your "first useful thing
 A "first useful thing" is guessing the first thing that you can offer that will be valuable to someone. Surprisingly, many founders instead think about the 92 things they'll eventually do, or their long term vision. Long term vision is amazing, but just making something useful for a single person, that's the guess you need to make. In startups, it all starts with a guess.
 
 You don't need to be a "natural entrepreneur." It's similar to running – sure, some people are really good at running, but anybody can practice and get better. \[Ed.: in my career, I've started about 19 things, and only two of them were worth incorporating into an organization. Over time, I've gotten better at imagining things.] You can practice guessing and, like everything else, you can get better at it.
-
-
 
 [**How do I do the least amount of work to prove I have a good idea for a startup?**](https://www.pscp.tv/w/1yoKMXyMbYNxQ)
 
@@ -36,8 +32,6 @@ When trying to do as little work as possible, it is important to test if your pr
 
 _\[Contributed in part by:_ [_James Cham, Partner, Bloomberg Beta_](https://twitter.com/jamescham)_]_
 
-
-
 ****[**How do I tell my family and/or significant other that I want to start a company?**](https://www.pscp.tv/w/1ZkKzmkYaQLxv)****
 
 Starting a company is not a single moment, oftentimes you inch toward it. For some it looks like, "I had this Google Doc I shared with somebody about a thing I was thinking about... we should launch this feature and see if it works... oh wait, it has a lot of users... wait a minute, I think we have a company now."&#x20;
@@ -56,8 +50,6 @@ Some founders mistakenly think, "I'll manage my stress so my significant other, 
 
 So how do you tell your significant other or family that you want to start a company? Do it immediately, gradually, and with an understanding that you don't know what you don't know.&#x20;
 
-
-
 [**Should I have a co-founder?**](https://www.pscp.tv/w/1OyJAgpXlDbKb)****
 
 No, you shouldn't have a co-founder (...if you're asking yourself this question). If you're asking yourself _if_ you should have a co-founder, then you don't obviously need one, and it's not a rule that you need a co-founder. Co-founding teams can be great – Google did well with a co-founding team – but there used to be this myth around the VC world that there were no good companies with a solo founder. But then Jeff Bezos did pretty well ... then Elon Musk did pretty well ... then Katrina Lake did pretty well (even if she had [someone working with her](https://www.businessinsider.com/stitch-fix-forgotten-cofounder-2017-11) in the beginning).
@@ -71,10 +63,6 @@ In his [research on entrepreneurs](https://wsp.wharton.upenn.edu/book/the-unicor
 How to figure out if you do need a co-founder: **do you have a skill you need for the company, where the person to fill it is important enough that they need to be a co-founder for you to get the right talent? **In the case of Instagram, Kevin Systrom hacked up a prototype, but ultimately he needed a technical founder and brought in Mike Krieger to make things sing.&#x20;
 
 Most of the time, the co-founding teams that work the best have pre-existing history with each other, where they've had some base of experiences on which to draw, to trust each other.
-
-
-
-
 
 #### [I want to be a technical co-founder of a startup -- how do I find a co-founder?](https://www.pscp.tv/w/1MnxndRgRzXGO) I think I need ideas and someone who has business experience.
 
@@ -98,8 +86,6 @@ It's like hiring for anything else, with the exception that it's hard to fire a 
 
 These tips are all based on this philosophy of: teams that know each other well tend to work out best, starting companies is a trade you can practice, and always solving for quality.
 
-####
-
 
 
 [**How much does my company name matter?**](https://www.pscp.tv/w/1jMKgXEmvlqGL)****
@@ -118,13 +104,9 @@ Also recognize that often names evolve. Justin.tv became Twitch, eShares became 
 
 When you're naming a company, it's easy to stew over phonetic questions like, "Can it be spelled easily? Can it not?" Depending on the context, these things can be overcome. The least obvious question is, "How much do you love your company name?" Because that name may walk with you for a long time. So you might as well love it.
 
-####
-
 #### [How valuable is your IP in a startup's early days?](https://www.pscp.tv/w/1BRKjQZvyOWxw)
 
 Most people tend to think too much about whether some startup idea (or early product) would be easy to clone. Most _wildly successful _ startups would be easy to clone (or would have been in their earliest days). Would Airbnb not have been easy to clone in the beginning? Most startups lack defensible IP in that traditional sense. It's usually about the cost benefit of copying a startup, or the skill required to bring the finer details to life. [It's more like a movie than like "technology."](https://blog.markgrowth.com/early-startup-pitches-are-like-movie-pitches-not-business-pitches-d6ab3754758a?gi=af377827c35d)
-
-
 
 #### [Should you incorporate as a B-Corp or Public Benefit Corporation?](https://www.pscp.tv/w/ccFBcDFsWktwWXhYSnhvam58MXlwS2R3eldZbnF4V3CASjaVNSRTgV\_0VkAaxMOh-BJobvYeRGgzfto422xz)
 
@@ -145,8 +127,6 @@ Can these new corporate forms be helpful? Of course, as can, e.g., conducting a 
 **Is there some other reason to adopt one of these structures? **One frequent critiques is that these things are just [marketing](https://hbr.org/2016/06/why-companies-are-becoming-b-corporations). It could be a positive symbol to employees and others which communicates, "Hey, our company takes this seriously. We're willing to go through a process that validates our willingness to do good."
 
 There are so many decisions in the life of a start-up that are one way doors, or costly to reverse. Your choice of corporate form is one of those costly-to-reverse choices. It's best done with a tremendous amount of seriousness and contemplation. If you want to understand this better, here's a [practical guide](https://www.notion.so/Should-I-incorporate-as-a-benefit-corporation-48be30ea5f53441c893d0b73119cf67f).&#x20;
-
-
 
 ### Sales
 
@@ -174,7 +154,7 @@ Another benefit to charging for your product is the connotations a paid product 
 
 _\[Contributed in part by_ [_Alex Cohen, Founder, CommandDot_](https://twitter.com/anothercohen)_]_
 
-####
+
 
 #### [How much should I charge for my product?](https://www.pscp.tv/w/1mnxelpqyLaJX)
 
@@ -216,13 +196,7 @@ Getting an enterprise’s attention can be particularly difficult when you’re 
 
 _\[Contributed in part by_ [_Joseph Freed, CEO of Cultivate_](https://twitter.com/josephfreed79?lang=en)_]_
 
-****
-
-
-
 ### Working for a startup, as a founder or otherwise
-
-
 
 [**Do I need a coach?**](https://www.pscp.tv/w/1MnGndNmvBBxO)****
 
@@ -326,13 +300,35 @@ The advisor relationship can vary a lot. When you sign an advisor agreement, you
 
 The single most common thing that you do as an advisor is you make yourself available if the company has questions. The cadence will vary – once a week, once a month – and you can determine that with the team based on their needs. Know what you want to get out of it and what you're willing to give.
 
+[**Can I change my company name?**](https://www.pscp.tv/roybahat/1MnGndwoeZyxO)
+
+If you believe that changing your company name is the best thing for your business, the process of doing so is challenging and long, but still entirely possible.&#x20;
+
+\[Ed.: Spike is the founder of "Newfront", which was once called “Abe Insurance.” There are a number of reasons why you may want to change your name, but for Spike, the fact that many people thought Abe was an acronym and that he was associated with Shinzo Abe was reason enough.]
+
+There may not be one instance that makes you decide, “Okay, it’s time to change our company name.” But if there has been an accumulation of consumer conversations where your name was identified as something that they can’t relate to or deterred them in some way, you might want to consider changing it. \[For Spike, one of these conversations included a broker telling him that he would join their company in spite of their name.]
+
+If you decide that it is necessary to change your name, you might be tempted to delay the process for as long as possible. Like exercise, changing your name can become something that stays at the back of your mind. You know you need to do it, but you never get around to actually doing it.&#x20;
+
+There are many approaches you can take when trying to come up with a new name. You might choose to speak to someone who has experience with company names, who will ask you questions like, "Imagine how the name makes you feel." \[Ed.: Although this may work for some people, Spike believes that they spent too long doing this.] Alternatively, you could get creative and try combining words to create a name.&#x20;
+
+No matter what approach you take, if you are selling or working in an existing market, you will probably come to the realization that almost every name is already taken. This may not be a problem if you're in crypto, but if you, like Spike, are working in a well-developed market like insurance, you will see that in order to have something unique, you will have to make up a name that isn’t an existing word or something that you would usually think of.
+
+You may decide to change the name of the corporation or just your DBA, "doing business as" name. Your decision may be based on personal reasons, or legal reasons which sometimes require you to change the name of your corporation. Once you have picked the name for your corporation or DBA, the process of actually changing the name starts. If your company is already well-established and you are regulated by multiple states, have many licenses or have trading partners who you have legal relationships with, the process of changing your name can be a long and laborious one. \[Ed.: Spike’s law firm gave him a 2 page checklist to make the process easier. You can find it here.]
+
+You will see some things on the checklist that you probably would never have thought of. One of them is the fact that a lot of things are on payroll, especially if you have employees in multiple states. Something else to consider is if you are involved in a lawsuit, you will have to notify the courts of your name change.&#x20;
+
+Another thing that can make the process difficult is if those you work with have different processes for updating their contracts.&#x20;
+
+Once you have legally changed your name, you can begin to update your platform. This can be particularly challenging if you already have a complex product with your old name written all over it. An important aspect of this is securing a new domain. It isn’t always necessary to have a domain that matches your company’s name, but if it is for you, it might be best to secure it early so you don’t end up spending large sums of money buying it from someone.&#x20;
+
+The process of changing your company’s name is undoubtedly a hassle \[Ed.: one that lasted about 6 months for Spike], but it is something that can build value in the company in the long term.&#x20;
+
+_\[Contributed in part by: _[_Spike Lipkin, Co-Founder & CEO, Newfront Insurance_](https://www.linkedin.com/in/spike-lipkin/)_]_
 
 
 
-
-
-
-### Investment
+### Getting Investment
 
 [**I'm starting a company. Should I actually take money from my friends and family?**](https://www.pscp.tv/w/1YqKDpgOEMLKV)
 
@@ -482,31 +478,47 @@ You probably won’t care about your vesting period and equity shares unless you
 
 Sharing equity is not just about money, it also involves other factors. In order to cover these factors in your conversation, you can ask questions and figure out how everyone is feeling.
 
+__
+
+[**How do I need to think differently working as an investor vs. starting a company?**](https://www.pscp.tv/w/1dRKZZQMwjoKB)****
+
+\[Ed.: The below comes from [Conor Sen](https://www.linkedin.com/in/conor-sen-709140/), columnist at [Bloomberg Opinion](https://www.bloomberg.com/opinion/authors/ATA2uaN4m4A/conor-sen) and founder of Peachtree Creek Investments.]
+
+Founders often think, "How would an investor think about this?" And investors often have to get in the head of management.&#x20;
+
+As an investor, you think about what can go wrong. For example, if the economy slows and the housing market turns down, that might be bad for some company or industry; or what if my tech stock misses earnings and it gets a downgraded multiple... and the list goes on. You naturally have a negative mindset, or at least you always want to be thinking about the possible negative things that could happen.&#x20;
+
+As a founder, you can feel bogged down by all of the processes of starting your company – getting lawyers, getting registered, getting insurance and so on. But when you actually tell people, "Hey, I started a company," people around you are usually excited. It makes you understand the power of positive thinking, and you need that positivity when you're starting a company. As an investor, you don't think like that.
+
+The thing that positivity allows you to do is pick a few things that really matter and be proud of making them great. But not every founder has this mentality and that's okay. Founders need to understand that each company has a unique investor base that's optimally suited for that company. Think of two companies on the opposite end of the spectrum: 1) a company like Tesla, which is almost messianic in believing in this mythical figure as their leader, and 2) a cigarette company that's selling death on a stick, where as an investor says, "Just pay me the dividends and buy back the stock. I know you're doing a terrible thing, but I'm taking this money." Most companies fall somewhere in between and it's up to a CEO or an executive to know, "Why do people own my stock? Is it for dividends? For buybacks? To feel good?" If you have a mismatch, you will have a lot of problems.
+
+Often companies face the biggest issues when they transition from one phase of a life cycle to a new one. Newly public companies often are really bad at this transition. \[Ed.: Conor had a bad experience with Zillow, which he's owned eight or nine years ago. He thought, "Okay, I'm bullish on housing. Here's a site that lets you look at prices." The stock seemed pretty cheap because people were skeptical of IPOs at that point. There was one quarter where they did an acquisition of an apartment rental company and the company they bought represented a decent share of Zillow's revenue for advertising. On their earnings report, they said, "We missed revenue because we bought this company and they're not paying us money anymore because we own it." Then an investor simply said, "They missed revenue," and the stock went down 20%.] As a private company, you think, "We're building the future. No big deal." As a public company the reality is, "You missed earnings."
+
+Talk to investors at different stages to understand the perspectives from where you may be someday.  Seeking different perspectives can go such a long way to understanding how to run your professional life.
+
+#### [How can I get a job in venture capital?](https://www.pscp.tv/w/ccPx\_zFsWktwWXhYSnhvam58MWdxeHZhd25QZUJKQgKWP6VmP8UcsP6cuEXwLSWDxMUBRL3CSMbz0r9XqJdY)
+
+**Do you really know what venture capital is all about?** Many people have misconceptions. For example, if you want to be a successful venture capital investor, it isn't obvious that the best way to start is by trying to be a (junior) venture capital investors. The very best VCs, tend to be people who had some significant professional life experience -- starting a company, being a respected Wall Street analyst, etc.
+
+Many aspiring VC's believe that being an investor is mostly about giving advice to founders. "I love giving entrepreneurs advice!" It's different when they're your friends.** Founders often merely tolerate receiving the advice of VCs. They placate their investors to get what they really want, which is money.** (One reason for this is the vast majority of VC advice is inane.)
+
+Early-stage venture capital is different from investing in public markets, where you contemplate big-picture trends, analyze numbers, and make seasoned judgments based on data. A better comparison is to an [A\&R person in the music business](https://en.wikipedia.org/wiki/Artists\_and\_repertoire). Your job is to discover new acts, exercise taste on whether or not you want to work with them. Your job is to cultivate them and help them be successful and, ultimately, serve them. Given that, like what does an A\&R person_ do_? There are some fun parts. You go to parties and talk to people. You're thinking about music you love. However, much of it is grunt work. Who should we invite to this event? How do we organize a CRM to make sure we've been in touch with people?&#x20;
+
+**If you do want a job in VC, here are some thoughts on how to get one:**
+
+Focus less on making a case about yourself ("I'm really thoughtful about technology!") and more on demonstrating you are a startup junkie. For example, a candidate who says "I love this one company in your portfolio but I'm curious how you thought about this other thing" is favored over a candidate simply saying " I am great at \[X]." Venture capital is an occupation where the junkie bar is high. &#x20;
+
+If you lack a network of people who know VCs who can vouch for you (and almost nobody has this network), then you have to figure out how to reduce the risk to the person hiring you. You can reduce the risk by showing them you've "done the work" or volunteering to do a project. A candidate who has done a little bit of research and been thoughtful in their outreach and done more than a cut and paste stands out. In a sense, it's similar to apply for a job in VC or be a founder asking to get funding.&#x20;
+
+The venture capital industry can be opaque. There are ways you can learn about it -- many VC's have an active presence on Twitter. Bloomberg Beta's [manual](https://github.com/Bloomberg-Beta/Manual) is online. There are also many investors who do regularly write content online -- if you write some, that's another way for you to stand out.&#x20;
+
+[**To be successful as a VC, is it more about deciding what to invest in, or hustling to get an investment, or negotiating well? Or something else?**](https://www.pscp.tv/roybahat/1mnGelXLEaQKX?t=18m40s)****
+
+To know whether  you have been successful as a VC, you need a consistent track record of backing. Sometimes these are multi-decade relationships with the very best founders in the world. Bill Gurley has [said](https://www.geekwire.com/2013/dozen-learned-bill-gurley-investing-business/) VCs are a business of grand slams, i.e., if your idea is not something that can generate $100 million in revenue, you may not want to take venture capital. It's actually even harder than that: It is a game where your success is measured by the tape-measure distance of your single longest home run. For a VC, sometimes even a grand slam isn't enough.
+
+The skills depend on the stage of company in which you invest. If you're a late-stage investor, picking and pricing correctly are probably the most important things. Your universe is knowable in terms of which companies are out there. If you're the earliest-stage investor like Bloomberg Beta, sourcing (i.e., seeing the companies in the first place) might be most important. Your biggest misses can be "dark deal flow,", i.e., when a company goes straight to an investor because they had a preexisting relationship, so you never heard about them. \[Ed.: There are thousands of those deals all the time and missing them makes me paranoid. At Bloomberg Beta we believe if we serve founders well, everything else will follow. Founders ask other founders which investors to work with. So if you serve founders well, you're more likely to win. How do you see deals in the first place? Oftentimes from founders in whom you have invested.]
+
+[Skill in negotiating, "getting cute" with contractual terms, is almost never the most important skill](https://marker.medium.com/dear-first-time-angel-investor-c6af249a694b). We win, in venture-backed startups, by having huge successes, not by wringing an extra 10% out of the ones that struggle (which is usually when the kinds of contractual terms that you negotiate in an investment end up mattering).
 
 
-[**Can I change my company name?**](https://www.pscp.tv/roybahat/1MnGndwoeZyxO)
-
-If you believe that changing your company name is the best thing for your business, the process of doing so is challenging and long, but still entirely possible.&#x20;
-
-\[Ed.: Spike is the founder of "Newfront", which was once called “Abe Insurance.” There are a number of reasons why you may want to change your name, but for Spike, the fact that many people thought Abe was an acronym and that he was associated with Shinzo Abe was reason enough.]
-
-There may not be one instance that makes you decide, “Okay, it’s time to change our company name.” But if there has been an accumulation of consumer conversations where your name was identified as something that they can’t relate to or deterred them in some way, you might want to consider changing it. \[For Spike, one of these conversations included a broker telling him that he would join their company in spite of their name.]
-
-If you decide that it is necessary to change your name, you might be tempted to delay the process for as long as possible. Like exercise, changing your name can become something that stays at the back of your mind. You know you need to do it, but you never get around to actually doing it.&#x20;
-
-There are many approaches you can take when trying to come up with a new name. You might choose to speak to someone who has experience with company names, who will ask you questions like, "Imagine how the name makes you feel." \[Ed.: Although this may work for some people, Spike believes that they spent too long doing this.] Alternatively, you could get creative and try combining words to create a name.&#x20;
-
-No matter what approach you take, if you are selling or working in an existing market, you will probably come to the realization that almost every name is already taken. This may not be a problem if you're in crypto, but if you, like Spike, are working in a well-developed market like insurance, you will see that in order to have something unique, you will have to make up a name that isn’t an existing word or something that you would usually think of.
-
-You may decide to change the name of the corporation or just your DBA, "doing business as" name. Your decision may be based on personal reasons, or legal reasons which sometimes require you to change the name of your corporation. Once you have picked the name for your corporation or DBA, the process of actually changing the name starts. If your company is already well-established and you are regulated by multiple states, have many licenses or have trading partners who you have legal relationships with, the process of changing your name can be a long and laborious one. \[Ed.: Spike’s law firm gave him a 2 page checklist to make the process easier. You can find it here.]
-
-You will see some things on the checklist that you probably would never have thought of. One of them is the fact that a lot of things are on payroll, especially if you have employees in multiple states. Something else to consider is if you are involved in a lawsuit, you will have to notify the courts of your name change.&#x20;
-
-Another thing that can make the process difficult is if those you work with have different processes for updating their contracts.&#x20;
-
-Once you have legally changed your name, you can begin to update your platform. This can be particularly challenging if you already have a complex product with your old name written all over it. An important aspect of this is securing a new domain. It isn’t always necessary to have a domain that matches your company’s name, but if it is for you, it might be best to secure it early so you don’t end up spending large sums of money buying it from someone.&#x20;
-
-The process of changing your company’s name is undoubtedly a hassle \[Ed.: one that lasted about 6 months for Spike], but it is something that can build value in the company in the long term.&#x20;
-
-_\[Contributed in part by: _[_Spike Lipkin, Co-Founder & CEO, Newfront Insurance_](https://www.linkedin.com/in/spike-lipkin/)_]_
 
