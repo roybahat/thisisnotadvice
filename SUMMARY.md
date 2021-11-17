@@ -11,8 +11,3 @@
 * [Making ethical choices](business-ethics.md)
 * [Building startups](startups/README.md)
   * [Investing](startups/venture-investing.md)
-* [Odds and ends](odds-and-ends.md)
-* [/ Rolling edits](rolling-edits.md)
-* [/ Cutting room floor](cutting-room-floor.md)
-* [/ Needs more content or research](needs-more-content-or-research.md)
-* [/ Style guide](notes-for-final-edit.md)
