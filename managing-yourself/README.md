@@ -1,5 +1,7 @@
 # Managing yourself
 
+> I get questions all the time asking for advice about different situations at work. And "this is not advice" is where we answer them because you have to chart your own path…
+
 ### Learning
 
 #### [**How do I decide who to ask for advice?**](https://www.pscp.tv/w/1mrxmEneVBZxy)** **
