@@ -4,11 +4,7 @@ description: What should you think about when you're considering changing jobs?
 
 # Changing jobs
 
-```
-I get questions all the time asking for advice about different situations
- at work. And "this is not advice" is where we answer them because you 
- have to chart your own path…
-```
+> I get questions all the time asking for advice about different situations at work. And "this is not advice" is where we answer them because you have to chart your own path…
 
 Some careers are "LinkedIn tidy," a list of full-time jobs, one after another. [Other \_\_careers are more like a portfolio of activities](https://also.roybahat.com/your-career-is-a-mess-a8a58acd18fa) that shifts over time. Some careers combine both. Many of the answers here relate to a moment of transition, like switching full-time jobs, though they also apply to taking on a new project or entering a new phase in the portfolio of your career.
 
