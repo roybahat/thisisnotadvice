@@ -1,5 +1,7 @@
 # Leading
 
+> I get questions all the time asking for advice about different situations at work. And "this is not advice" is where we answer them because you have to chart your own path…
+
 ### Making decisions
 
 [**What do I do if my teammates disagree with how to handle a difficult situation?**](https://www.pscp.tv/roybahat/1PlKQNVnraNGE?t=6m54s)

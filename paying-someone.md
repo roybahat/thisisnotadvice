@@ -1,5 +1,7 @@
 # Managing others
 
+> I get questions all the time asking for advice about different situations at work. And "this is not advice" is where we answer them because you have to chart your own path…
+
 ## Firing
 
 [**When you get to the point that you're almost certain you're going to fire someone, should you put them on a performance plan to give them some warning?**](https://www.pscp.tv/roybahat/1mnGelXLEaQKX?t=25m9s)\*\*\*\*

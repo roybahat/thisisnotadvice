@@ -1,5 +1,7 @@
 # Working with others
 
+> I get questions all the time asking for advice about different situations at work. And "this is not advice" is where we answer them because you have to chart your own path…
+
 ### Email
 
 In many industries, the main way you communicate with people at work -- co-workers, partners, anyone -- is email. So while it's great to understand "workplace communication," arguably it's most important to understand email -- [Elon does](https://www.quora.com/What-makes-Elon-Musk-so-good-at-email-communication).

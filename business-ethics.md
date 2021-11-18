@@ -1,5 +1,7 @@
 # Making ethical choices
 
+> I get questions all the time asking for advice about different situations at work. And "this is not advice" is where we answer them because you have to chart your own path…
+
 #### [How can my company do good in the world and succeed in business at the same time? ](https://www.pscp.tv/roybahat/1YqGoRYQEjEKv)
 
 There was a time when people in business thought about [shareholder value](https://medium.com/@bgadbaw/if-they-use-it-it-must-be-useful-or-is-it-2ccb3f7e241e) as the ultimate aim -- and then many companies began to worry about doing less harm. Today, maybe the answer is that the purpose of business is purpose.&#x20;

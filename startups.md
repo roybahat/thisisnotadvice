@@ -1,5 +1,7 @@
 # Building startups
 
+> I get questions all the time asking for advice about different situations at work. And "this is not advice" is where we answer them because you have to chart your own path…
+
 _There may be no topic in the history of business with as much published advice as there is on startups. These questions are just a few that may matter. For a repository of many more, see resources like _[_Founder Library_](https://www.founderlibrary.com)_._
 
 #### [**If I want to start a company, what's the very first thing I should do?**](https://www.pscp.tv/w/1vAxRryByyzxl)****
