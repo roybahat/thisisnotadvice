@@ -228,7 +228,7 @@ The solution depends on which kind of overvaluing you are solving.
 
 If the issue is around ego, unpack the "story" from the behavior: sometimes the fact they privately overvalue themselves is not a problem, even if it bugs you. Solve for the behavior. If they overvalue themselves on money, you might need to say, "You know what? We need to fire this person, we're paying them too much." If they overvalue themselves on decision-making, you might need to have an honest talk and say, "You can't be in all these decisions anymore." And if it works out, it works out, and if it doesn't, it doesn't. But overvaluing is not one problem, it's many.
 
-## Reviewing performance (yours and others')
+## Reviewing performance
 
 ### [What is a 360 review and how do I conduct one?](https://www.pscp.tv/w/cY20DDFsWktwWXhYSnhvam58MXlvS01hV3liUGRLUW7n8moaoREHEEJkpMfSNJrLnw0y7X6qnde6lAnu81DD)
 
