@@ -1,7 +1,7 @@
 ---
 description: >-
-  What does it take to be a good leader? #thisisnotadvice is a community
-  reference guide to help people at work.
+  How can I become a better leader? #thisisnotadvice is a community reference
+  guide to help people at work.
 ---
 
 # Leading
