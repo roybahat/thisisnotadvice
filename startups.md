@@ -526,5 +526,9 @@ The skills depend on the stage of company in which you invest. If you're a late-
 
 [Skill in negotiating, "getting cute" with contractual terms, is almost never the most important skill](https://marker.medium.com/dear-first-time-angel-investor-c6af249a694b). We win, in venture-backed startups, by having huge successes, not by wringing an extra 10% out of the ones that struggle (which is usually when the kinds of contractual terms that you negotiate in an investment end up mattering).
 
+{% hint style="info" %}
+What are we missing? #thisisnotadvice is a community resource, to add your knowledge or suggest an edit, find us online [@bloombergbeta](https://twitter.com/bloombergbeta) and [@roybahat ](https://twitter.com/roybahat)or submit a pull request on [Github](https://github.com/roybahat/thisisnotadvice).
+{% endhint %}
+
 
 

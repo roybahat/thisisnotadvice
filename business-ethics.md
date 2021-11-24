@@ -72,4 +72,8 @@ There are moments in the world that call many of us to see the problems and wish
 
 \[Ed.: For emerging leaders in the tech industry, Bloomberg Beta has a community that we run with Stanford called [First Principles](https://pacscenter.stanford.edu/first-principles-forum/about/), where we learn together how to give philanthropically. Secondly, there is a leadership group called [The Council on Tech in Society](https://www.linkedin.com/company/council-on-technology-society/), where the primary focus is educating ourselves civically. Civic engagement requires a progression of learning, and groups like these can be incredibly useful for figuring out how you can help move the needle.]
 
+{% hint style="info" %}
+What are we missing? #thisisnotadvice is a community resource, to add your knowledge or suggest an edit, find us online [@bloombergbeta](https://twitter.com/bloombergbeta) and [@roybahat ](https://twitter.com/roybahat)or submit a pull request on [Github](https://github.com/roybahat/thisisnotadvice).
+{% endhint %}
+
 ****

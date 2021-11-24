@@ -228,7 +228,7 @@ The solution depends on which kind of overvaluing you are solving.
 
 If the issue is around ego, unpack the "story" from the behavior: sometimes the fact they privately overvalue themselves is not a problem, even if it bugs you. Solve for the behavior. If they overvalue themselves on money, you might need to say, "You know what? We need to fire this person, we're paying them too much." If they overvalue themselves on decision-making, you might need to have an honest talk and say, "You can't be in all these decisions anymore." And if it works out, it works out, and if it doesn't, it doesn't. But overvaluing is not one problem, it's many.
 
-## Reviewing performance (yours and others')
+## Reviewing performance
 
 ### [What is a 360 review and how do I conduct one?](https://www.pscp.tv/w/cY20DDFsWktwWXhYSnhvam58MXlvS01hV3liUGRLUW7n8moaoREHEEJkpMfSNJrLnw0y7X6qnde6lAnu81DD)
 
@@ -255,3 +255,7 @@ Some recipients share their 360 reviews with their teams, or with the organizati
 If you're the boss of both people, then this is straightforward: you can treat this information as input (assuming nobody broke a law or something like that). When you do a "180 review" or a "360 review," you collect input from lots of people and synthesize it and present it to the person as their manager. Think of this as a one-off instance of that.
 
 In the meantime, try to encourage the person to go deliver the feedback themselves and talk them through how to do it. The person delivering the feedback should feel empowered and not feel like they need you to be a conduit.
+
+{% hint style="info" %}
+What are we missing? #thisisnotadvice is a community resource, to add your knowledge or suggest an edit, find us online [@bloombergbeta](https://twitter.com/bloombergbeta) and [@roybahat ](https://twitter.com/roybahat)or submit a pull request on [Github](https://github.com/roybahat/thisisnotadvice).
+{% endhint %}

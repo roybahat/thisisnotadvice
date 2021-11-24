@@ -1,8 +1,5 @@
 ---
-description: >-
-  What should you think about when you're considering changing jobs?
-  #thisisnotadvice is a community reference guide, answering all the basic
-  questions on how to work.
+description: What should you think about when you're considering changing jobs?
 ---
 
 # Changing jobs
@@ -286,3 +283,7 @@ Job safety comes in the form of having other options, as opposed to protecting w
 A general principle, for all early-career jobs in tech -- including for career changers -- is to go to the fastest growing company you can possibly find. Usually that's a [mid-stage company](https://hunterwalk.com/2014/03/08/new-grads-midstage-startups-are-your-best-first-job-in-tech/): You're going to learn something there. The community is going to be a good group to know, because the very best people in tech often flock toward those companies.
 
 Once companies get big and public, they often slow down, they become more sclerotic and bureaucratic -- and you can't really learn as much because you're stuck in place. Your career progresses at many big companies by either waiting for people to leave or taking over their roles. At very, very early-stage companies, it's like striking flint and tinder. You're just hoping the fire is going to catch. And if it doesn't catch, you might not learn as much.
+
+{% hint style="info" %}
+What are we missing? #thisisnotadvice is a community resource, to add your knowledge or suggest an edit, find us online [@bloombergbeta](https://twitter.com/bloombergbeta) and [@roybahat ](https://twitter.com/roybahat)or submit a pull request on [Github](https://github.com/roybahat/thisisnotadvice).
+{% endhint %}

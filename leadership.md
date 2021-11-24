@@ -179,3 +179,7 @@ The organizations that do the best at anything, whether it's diversity and inclu
 You _will_ thrive and grow if you have people around the table who do not think like you. It might feel harder because people may not think the same way, and not be as easily – or quickly – aligned, but the ideas will be way more interesting.
 
 Note: Bloomberg Beta is an investor in MasterClass.
+
+{% hint style="info" %}
+What are we missing? #thisisnotadvice is a community resource, to add your knowledge or suggest an edit, find us online [@bloombergbeta](https://twitter.com/bloombergbeta) and [@roybahat ](https://twitter.com/roybahat)or submit a pull request on [Github](https://github.com/roybahat/thisisnotadvice).
+{% endhint %}

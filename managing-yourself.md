@@ -382,3 +382,8 @@ If you work at a big company, you need to know the rules of engagement for your 
 **Once you're speaking with the journalist, try to have one idea you want to get across** -- and have it be something that fits what they're writing about. This is another example of "it's about them, not about you." Share stories, examples, evidence that supports your idea. Let the journalist ask you a bunch of questions.
 
 Anticipate hard questions in advance -- a good journalist might try and catch you off guard. It's within their rights to do that -- they're trying to get at the truth. You can say "I don't feel comfortable talking about it." While journalists aren't there to puff you up or do you favors, if you understand how they work you can partner with them to get truth out there about what you're doing at work.
+
+{% hint style="info" %}
+What are we missing? #thisisnotadvice is a community resource, to add your knowledge or suggest an edit, find us online [@bloombergbeta](https://twitter.com/bloombergbeta) and [@roybahat ](https://twitter.com/roybahat)or submit a pull request on [Github](https://github.com/roybahat/thisisnotadvice).
+{% endhint %}
+
