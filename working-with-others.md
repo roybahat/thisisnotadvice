@@ -1,10 +1,8 @@
-# Working with others
+---
+description: '#thisisnotadvice is a community reference guide to help people at work.'
+---
 
-> ### **We all get asked advice about different situations at work. And "this is not advice" because you have to chart your own path. **
->
-> ****
->
-> ### **#thisisnotadvice is a reference guide, sharing experiences to help with those mundane – but critical – questions on how to thrive at work.**
+# Working with others
 
 ### Email
 
