@@ -1,5 +1,7 @@
 ---
-description: '#thisisnotadvice is a community reference guide to help people at work.'
+description: >-
+  What are we missing? Tell us your ideas... #thisisnotadvice is a community
+  reference guide to help people at work.
 ---
 
 # Contribute your own #thisisnotadvice

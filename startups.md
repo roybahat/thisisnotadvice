@@ -1,5 +1,7 @@
 ---
-description: '#thisisnotadvice is a community reference guide to help people at work.'
+description: >-
+  I'm helping build a startup, what do I need to know? #thisisnotadvice is a
+  community reference guide to help people at work.
 ---
 
 # Building startups

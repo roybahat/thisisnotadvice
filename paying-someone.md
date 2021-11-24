@@ -1,5 +1,7 @@
 ---
-description: '#thisisnotadvice is a community reference guide to help people at work.'
+description: >-
+  How can I get better at managing other people? #thisisnotadvice is a community
+  reference guide to help people at work.
 ---
 
 # Managing others

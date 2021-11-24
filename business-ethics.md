@@ -1,5 +1,7 @@
 ---
-description: '#thisisnotadvice is a community reference guide to help people at work.'
+description: >-
+  How can I make ethical choices in the workplace? #thisisnotadvice is a
+  community reference guide to help people at work.
 ---
 
 # Making ethical choices

@@ -1,5 +1,7 @@
 ---
-description: '#thisisnotadvice is a community reference guide to help people at work.'
+description: >-
+  How can I grow my career? #thisisnotadvice is a community reference guide to
+  help people at work.
 ---
 
 # Managing yourself
