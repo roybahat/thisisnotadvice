@@ -287,5 +287,5 @@ A general principle, for all early-career jobs in tech -- including for career c
 Once companies get big and public, they often slow down, they become more sclerotic and bureaucratic -- and you can't really learn as much because you're stuck in place. Your career progresses at many big companies by either waiting for people to leave or taking over their roles. At very, very early-stage companies, it's like striking flint and tinder. You're just hoping the fire is going to catch. And if it doesn't catch, you might not learn as much.
 
 {% hint style="info" %}
-What are we missing? #thisisnotadvice is a community resource, to add your knowledge or suggest an edit, find us online [@bloombergbeta](https://twitter.com/bloombergbeta) and [@roybahat ](https://twitter.com/roybahat)or submit a pull request on [Github](https://github.com/roybahat/thisisnotadvice).
+What are we missing? #thisisnotadvice is a community resource, to add your knowledge or suggest an edit, submit a pull request on [Github](https://github.com/roybahat/thisisnotadvice).
 {% endhint %}
