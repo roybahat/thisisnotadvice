@@ -24,7 +24,7 @@ The essence of being a good "spiral" is trying things out, because you can't fig
 
 As you explore your possibilities, [think about what you solve for in the meanwhile](https://also.roybahat.com/how-to-take-career-risks-when-the-safe-options-look-so-good-273b43cbdf0e). Are you solving for learning, chasing extraordinary people? Some people solve for options, or for money so that they can be free. All those things can be valid choices, but in the objective function of your career while you're exploring, having something to solve for is essential.
 
-[**How do I know when I'm applying for a job if I will enjoy it?**](https://www.pscp.tv/roybahat/1PlKQNVnraNGE?t=20m28s)\*\*\*\*
+[**How do I know when I'm applying for a job if I will enjoy it?**](https://www.pscp.tv/roybahat/1PlKQNVnraNGE?t=20m28s)
 
 \[Ed.: The below comes from [David Rogier](https://www.linkedin.com/in/drogier), founder and CEO of [MasterClass](https://www.masterclass.com).]
 
@@ -72,7 +72,7 @@ There's an emotional component when it comes to managing the uncertainty of the 
 
 _\[Contributed in part by_ [_Nitin Pachisia, Founding Partner, Unshackled Ventures_](https://twitter.com/immigreating?lang=en)_]_
 
-## Advancing within a company
+### Advancing within a company
 
 [**If I want to get promoted, how do I do it?**](https://www.pscp.tv/roybahat/1PlKQNVnraNGE?t=15m46s)
 
@@ -88,7 +88,7 @@ Sometimes getting a promotion is about more than your boss's choice. There can b
 
 People overthink getting promoted. And the best careers aren't usually a straight line of coordinator, senior coordinator, junior VP, senior VP. So take heart and look for the opportunities to jump ahead in an usual way.
 
-\*\*\*\*[**What happens when I don't get the promotion that I think I should have gotten?**](https://www.pscp.tv/roybahat/1PlKQNVnraNGE?t=18m48s)\*\*\*\*
+[**What happens when I don't get the promotion that I think I should have gotten?**](https://www.pscp.tv/roybahat/1PlKQNVnraNGE?t=18m48s)
 
 \[Ed.: At one point, I was hired to run a subsidiary of News Corp, IGN, a video game media company. My job was to run IGN, and at the beginning I was "vice president." At a big company, leveling can be complicated and also important in terms of your pay band. I had peers who were running less complicated businesses who had the role of president. Eventually I realized I had to right for that role if I wanted to get paid appropriately for my work.]
 
@@ -96,7 +96,7 @@ The process of getting a promotion can be so complicated, especially if you have
 
 \_\_
 
-\*\*\*\*[**I'm unsure if I want to switch careers. Should I?**](https://www.pscp.tv/w/1BRKjYLrqNwxw)\*\*\*\*
+[**I'm unsure if I want to switch careers. Should I?**](https://www.pscp.tv/w/1BRKjYLrqNwxw)
 
 **Do your homework to figure out what the possible new direction is** _**really**_ **like** (many people say they want to enter a profession based on how glamorous it seems to them, without actually realizing much of the day to day would be miserable for them). Meet the people who are doing what you want to do. It can be surprising how generous people can be with their time when you write a thoughtful email sharing your curiosity about their work or perspectives.
 
@@ -132,7 +132,7 @@ Might there be _someone_ important who will read your genuine resignation as if 
 
 \[Ed.: When I left IGN, which I had run, I resigned. I resigned because I failed to get done the thing I thought would be the important next step for our company -- a carve-out from our owner -- and felt I could take the organization no further under the current structure. I resigned because I failed to do something into which I had squeezed all my efforts. Figuring out exactly how to manage that took a trick. I played against a norm by avoiding a euphemism on my LinkedIn, and changing my title to say, "[Doing Nothing](https://also.roybahat.com/doing-nothing-36babe91aed0)." Because I was trying to make it very clear that was my intention, not just "spending more time with family."]
 
-## Getting a new role
+### Getting a new role
 
 [**Why won't anyone believe that I can apply my previous experience to a new role?**](https://www.pscp.tv/w/1DXxyAEDpzexM)\*\*\*\*
 
@@ -166,7 +166,7 @@ Oftentimes the reason people struggle to tell their story is because they have u
 
 Life is complicated, but stories are simple. If you can free yourself of the obligation to explain your whole life and just pick the part that seems honest to focus on, the person can always say, "Well, okay, what did you do from the ages of 22 to 25?" And then you can have a conversation about it. Starting with yourself and your own experience will help you start out strong.
 
-### \*\*\*\*[**I got offered a new job. How do I know if I want to take it?**](https://www.pscp.tv/w/1PlJQNojbXVxE)\*\*\*\*
+****[**I got offered a new job. How do I know if I want to take it?**](https://www.pscp.tv/w/1PlJQNojbXVxE)****
 
 Once you get a job offer, before you say yes, is there anything else you should do?
 
@@ -266,7 +266,7 @@ Sometimes even asking for double can get you paid much more than you'd otherwise
 
 If you feel fearful about asking for a bigger number than feels comfortable, that's natural. You get better at it with practice. Don't treat each negotiation as if it's your chance to show that you are the world's greatest dealmaker. Practice being a little more aggressive than feels comfortable to you and see how it goes.
 
-### [I might get laid off, what do I do? How do I prepare?](https://www.pscp.tv/roybahat/1djGXomaMkeKZ)
+****[**I might get laid off, what do I do? How do I prepare?**](https://www.pscp.tv/roybahat/1djGXomaMkeKZ)****
 
 **The first step is acknowledging, to yourself, the risk of losing your job.** Then you can face it. Often, the fear can be worse than the reality. Destigmatize it in your own mind, because if you face it without shame others who care about you (family, friends) will probably follow suit. (Of course every individual circumstance differs. Some people support a family member, or they struggle to get a job because of some bias against them in the hiring marketplace.)
 
@@ -286,7 +286,7 @@ Some people plan their career by trying to find the job that is safest -- to min
 
 Job safety comes in the form of having other options, as opposed to protecting what you're doing now. If you're living in fear of losing the job you have, it's really hard to perform well. It's really hard to be happy. Knowing your next best alternative is a form of power that can help you show up as yourself at work, and perform better.
 
-## Early career
+### Early career
 
 ### [If I want to work in tech, should I go to an early-stage company or a big company?](https://www.pscp.tv/w/1LyGBNojgnaGN)
 
