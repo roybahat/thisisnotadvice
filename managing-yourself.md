@@ -1,10 +1,10 @@
-# Managing yourself
+---
+description: >-
+  How can you be most effective at work? #thisisnotadvice is a community
+  reference guide, answering all the basic questions on how to work.
+---
 
-> ### **We all get asked advice about different situations at work. And "this is not advice" because you have to chart your own path. **
->
-> ****
->
-> ### **#thisisnotadvice is a reference guide, sharing experiences to help with those mundane – but critical – questions on how to thrive at work.**
+# Managing yourself
 
 ### Learning
 

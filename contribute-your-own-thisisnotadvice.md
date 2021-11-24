@@ -1,12 +1,10 @@
 # Contribute your own #thisisnotadvice
 
-> ### **We all get asked advice about different situations at work. And "this is not advice" because you have to chart your own path. **
->
-> ****
->
-> ### **#thisisnotadvice is a reference guide, sharing experiences to help with those mundane – but critical – questions on how to thrive at work.**
+## #thisisnotadvice started as a daily video, but now it also lives as a reference guide. Add questions and answers that you think might be relevant. If you prefer to discuss it live, we still do videos from time to time. \[Github pull request CTA] What are we missing?
 
 ## Below is a comprehensive list of our [#thisisnotadvice](https://twitter.com/search?q=%23thisisnotadvice\&src=typed\_query\&f=live) conversations, many of which have been transcribed and edited into this book for your reference. What are we missing? Do you have a fresh topic for us to cover, or for a requested edit to our existing content? Find us online (@bloombergbeta and @roybahat on Twitter) or visit us on Github to submit a pull request (link).
+
+##
 
 
 
