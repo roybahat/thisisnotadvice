@@ -65,8 +65,6 @@ Start by sticking to what you know -- often that's your personal story. It's har
 
 You also don't always have to have an opinion. Sometimes it's okay to just ask a question. Sometimes we feel we're just "supposed to know" what to do -- school teaches us that. It's okay not to know. It's okay to just say, "I have no idea."&#x20;
 
-
-
 #### [Why do I feel sad about work when everybody tells me that I should be happy?](https://www.pscp.tv/roybahat/1mrGmQMgvVWGy)
 
 There's privilege in even getting to ask yourself this question; it's no less real of a problem.&#x20;
@@ -87,8 +85,6 @@ You can embark on the quest of trying to figure out why you, specifically, are f
 
 **Develop a realistic perspective on how one handles sadness at work**. Some people think it's a thing you "fix." You tweak the settings of you're life, and then you're all set! It's not like that. It's more like a practice: addressing sadness requires constant care and feeding. Experiment with different techniques.
 
-
-
 #### [I feel jealous at work, like when someone got promoted ahead of me... and shame. What do I do?](https://twitter.com/roybahat/status/1268707645017346049)
 
 First, we all do have envy and shame. The [TED talk by Brene Brown on shame](https://www.youtube.com/watch?v=psN1DORYYV0) is about the _value_ shame can have. You need to work on yourself so you can show up for others. Often our bad behaviors we have at work, where we backbite someone or do something awful, are actually just because we're feeling terrible. Those negative behaviors often stem from our envy and shame.
@@ -102,8 +98,6 @@ You may be on the giving end of shame inadvertently when you brag (or humblebrag
 And the last thing: get help. Help could look like reading about it: what causes envy, what causes shame. Consider therapy -- if you have health insurance, often health insurance covers it. You may even want to go deeper. There's a week long program run by a nonprofit called the [Hoffman Institute](https://www.hoffmaninstitute.org/the-process/) that looks at what causes these triggers in us. And often, it's because somebody reminds us of an event as a kid that made us feel bad. So notice it, name it, and try to get some help and avoid causing it and others.&#x20;
 
 It's also helpful to remind yourself of what you can control. Recognize that whoever you envy, you have no idea what they're dealing with, either.
-
-
 
 #### [How do I share with my team that I'm struggling with my mental health?](https://www.pscp.tv/w/cdZTRjFsWktwWXhYSnhvam58MUJkR1luTFl2VllKWEMdTH4DB5iCLQCZoNXeZ0XGlyBXP1soJXqJKuJ-24AY)
 
@@ -120,8 +114,6 @@ The business culture around mental health is changing: there's now a way of talk
 **You can, as always, **[**start gradually**](https://also.roybahat.com/the-trust-thing-691791a4c6ca)**. **If you see someone else at work who has talked about it, maybe you go to them and you say, "Hey, I've noticed you've talked about your anxiety or your bipolar diagnosis. I might want to do the same." If you get professional help from, e.g., your therapist they might have ideas on how to talk about it.
 
 Eventually you may be in a position where you can talk openly with a team. You may be even in a position where you can talk openly with the world -- and then everybody knows.
-
-
 
 ### Productivity
 
@@ -142,8 +134,6 @@ Take an example of an unpredictable piece of work \[Ed. from my own work as a ve
 The trick is picking inputs that really matter to the outputs -- most of the time people end up measuring nonsense for the sake of measuring _something_.&#x20;
 
 Boundary setting is another way of creating predictability out of unpredictable days. Maybe you'll just say "I'll spend 90 minutes on this problem and see how far I get and let you know." [Deep Work](https://www.calnewport.com/books/deep-work/) offers a perspective on how to set boundaries for creative work. For another take, see the [Nap Ministry](https://www.instagram.com/thenapministry/?hl=en) -- an ode to rest as a form of self-care, which can help you show up to do your best work when you are ready.
-
-
 
 
 
@@ -183,8 +173,6 @@ When you come back, take the chance to reset your habits. Think about if there a
 
 When you go away, oftentimes you have insights about work; maybe you're reading something and it makes you think big thoughts. The former CEO and chairman of Citigroup, John Reed, wrote the ["memo from the beach,"](https://blog.citigroup.com/2012/09/citi-turns-200-focus-shifts-to-retail-banking) where he laid the groundwork for the launch of Citibank's ATM network, transforming the banking system. If you're going to send that kind of missive, hold it for a beat, send it once you get back (Reed may have written the memo on the beach, but in those days it's unlikely he sent it from there), and think on it. The bigger the shift, the less likely it is that it'll stick (in your mind) once you get back to reality. One of the worst things you can do, especially if you're a leader who has people take direction from you, is create whiplash. While you may have amazing new idea for a product, you're also unaware of everything going on while you're out. The bigger the insight, the more material the idea, the longer you should wait before you share it. Marination is helpful.
 
-
-
 ****[**What are ways to take time off during a pandemic?**](https://www.pscp.tv/w/1rmxPYrBvryKN)****
 
 **Start by expressing your intent to take time off**, ideally well in advance (a couple of months is usually plenty). If your vacation comes out of the blue because you're overwhelmed and need to pull the emergency stop cord, that's better than not taking vacation, but may throw your co-workers into disarray. The further in advance you telegraph your intent to take time off, especially during a pandemic, the better.
@@ -196,8 +184,6 @@ Think about what you want to spend your non-work time doing. Maybe you want to u
 Before the pandemic, vacation meant an automatic change in context because you stopped coming to the office. In a pandemic, you need to intentionally change your context. This could mean you're not going to open your laptop, or that you change your home screen on your phone because it's really beneficial to not be looking at your email app all the time. These changes in context, whether the physical environment or digital environment, can make a big difference.
 
 Consider vacations outdoors, like going camping if you can afford to do that. If you do stay at home, find a way to change your routine so it's different from "I'm still doing the same thing, just not at my laptop."
-
-
 
 ### **Coaching**
 
@@ -241,8 +227,6 @@ Next, if you're going to be effective, **you need to take care of yourself, putt
 
 **For many of us, sanity involves other people** – in both our personal lives and work lives. Set aside time just to connect with people. Dedicate a half hour to ask "How are you doing?" and treat it as more than a cursory, passing question. Maybe it's a meal together, or an activity. \[Ed.: At Bloomberg Beta, we're doing team activities like an origami class...] These modes of connection don't have to be expensive.&#x20;
 
-
-
 [**My company is remote for the rest of the year. Should I consider moving?**](https://www.pscp.tv/w/1mrGmElLnzgGy)****
 
 Once, _the_ single most important career choice you'd make was, arguably, where to live. (If you're fortunate enough to have that choice, consider yourself lucky!) Today, with many companies going remote, it's hard to say if this is the case anymore. \[Ed.: I am writing this in July 2020 during the Covid-19 pandemic when many companies have gone remote for the foreseeable future.]
@@ -260,6 +244,8 @@ Might you may want or _need_ to go back to the office? Where do you want to be w
 In some cases, your geography may still matter. Your new job may need you in a certain region.
 
 Remote work has led to a grand set of experiments as we all try to figure out our own priorities and what matters to each of us, and reorganize accordingly. We still don't know the right answers, and only you know the right answer for yourself.
+
+
 
 
 
@@ -310,8 +296,6 @@ Newsletters can be extremely useful, because their writers often curate news for
 You can also work to retain more of what you consume: [Tiago Forte](https://fortelabs.co/blog/) lays out a [framework](https://fortelabs.co/blog/basboverview/) for information that is useful, valuable and interesting, and finding where those circles overlap.&#x20;
 
 **If you miss some news, skip stressing about it.** Somebody may say, "Oh, you didn't hear about that?" And you can say, "Actually, no. I didn't." Have the strength to admit when you haven't read something and ask for more information. Your time is often more important than staying up to date on every last development in your industry.
-
-
 
 [**My company is growing. How do I keep track of what's going on?**](https://www.pscp.tv/w/1ynKOqDDjoQJR)****
 
@@ -365,8 +349,7 @@ You can make it even easier on yourself by being concrete. What did you contribu
 
 Recognize the goal of the brag, if there's a professional goal, and shape how you do it to support the goal. \[Ed.: I often brag on behalf of founders who we've invested in, to elevate their achievements, tagging [#proudinvestor](https://twitter.com/search?q=%23proudinvestor%20%40roybahat\&src=typed\_query\&f=live). Or I point to somebody on our team to direct the brag in a way that supports that goal.]
 
-Also think about how your brag is going to read. Sometimes it's going to read like bragging. **There can be a price to bragging, but you can't succeed without paying prices. **Ask if you are getting more value than the price that you paid. If your goal is to never be looked at askance, you'll never brag. And you will be fighting with one arm tied behind your back compared to all the people who can.\
-
+Also think about how your brag is going to read. Sometimes it's going to read like bragging. **There can be a price to bragging, but you can't succeed without paying prices. **Ask if you are getting more value than the price that you paid. If your goal is to never be looked at askance, you'll never brag. And you will be fighting with one arm tied behind your back compared to all the people who can.
 
 #### [I work at a company and am building a startup on the side. Should I be public about what I am doing?](https://www.pscp.tv/w/ccqLiTFsWktwWXhYSnhvam58MVBsSlFObFBEZHZ4RV4L2mx1WQ5LtJx8yyoqkHwNQCgJ1Xu\_UiCXhsGgYBKq)
 
@@ -381,8 +364,6 @@ You have to be savvy about how you do it. Try to be public a little bit at a tim
 \[Ed.: I run a venture capital fund that carries the name of a person who spent decades building his reputation. I respect that. I try to use judgment about when it would affect his reputation for me to express myself. I'll go to a communications person at my company and ask, "If I say this thing, will it cause issues?" And sometimes the answer is yes, it will cause issues, and I say it anyway, because it's that important. And sometimes the answer is, "Yes, it's going to cause issues," and I think twice.]&#x20;
 
 Too often people, when they're unsure how to handle a tricky situation like being public about their private projects, resort to absolutes. "Well, I should never say anything," or, "I should have an unambiguous right to say whatever I wish." The world just doesn't work that way. Develop the tradecraft of knowing when and how. Ask for feedback as you go.
-
-
 
 #### [What do I do if a journalist contacts me for an interview?](https://www.pscp.tv/w/cc0iNDFsWktwWXhYSnhvam58MXZBR1JyallxZGdHbH6AqBmFHNbaxRKDu7pG3HHksNtW0tO6kOmHzQIcq9E0)
 
