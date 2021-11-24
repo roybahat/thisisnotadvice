@@ -135,28 +135,6 @@ The trick is picking inputs that really matter to the outputs -- most of the tim
 
 Boundary setting is another way of creating predictability out of unpredictable days. Maybe you'll just say "I'll spend 90 minutes on this problem and see how far I get and let you know." [Deep Work](https://www.calnewport.com/books/deep-work/) offers a perspective on how to set boundaries for creative work. For another take, see the [Nap Ministry](https://www.instagram.com/thenapministry/?hl=en) -- an ode to rest as a form of self-care, which can help you show up to do your best work when you are ready.
 
-
-
-### Making a difference
-
-#### [How do I make a difference, professionally, during a time of crisis, like Covid-19?](https://twitter.com/roybahat/status/1262910654027042821)
-
-The first thing is acknowledge that this question assumes you have the privilege to focus on something beyond yourself, your survival, during a crisis. Appreciate your good fortune.
-
-Always begin where you have an ability to make a _particular _difference. It almost always starts with serving the people right around you. First, take care of yourself. Make sure you're healthy, and resting. Take care of your family, your friends. If there's some older person who's lonely, who's in your life, reach out to them because that direct service is something that only you can do because only you have the relationship with them.
-
-Second: volunteer for efforts that already exist. There are several for [Covid-19](https://helpwithcovid.com).&#x20;
-
-There's also a way to go deeper. Particularly for people who are searching for work or have a few free months. Imagine how you might think the world should be responding. Maybe in the case of Covid-19, you think there should be a marketplace for PPE, or you think there should be a public awareness campaign around wearing masks. Well, chances are somebody's already doing that.
-
-Ask yourself, "is there somebody who I admire or think I might admire and get to learn from, who is doing that, who I can reach out to right now?" Because those people need help. They're not posting the jobs. They're not going to call you and tap you on the shoulder. (Or if they do, you just got lucky.) They might deeply appreciate somebody saying, "I've got spare cycles. I know how to do this. I'm ready to help you." You might get to work closely with someone who, in a normal, professional setting, it might take you years to reach. Now here you are serving them. Special relationships are born, often, under special circumstances.
-
-Once you identify the person you admire who seems to be in the fight, reach out to them and say, "Hey, it seems you're doing X. I can help because \_\_\_\_. And I'll do it for free." That may be an amazing way to get involved during a crisis. You'd just be surprised at who is in deep need during a crisis, and will respond.
-
-A frequent thing people ask themselves: "Do I need to quit my job if I want to make a difference in a crisis?" You might... but it's not necessary that you do. Many people are able to help part-time.&#x20;
-
-
-
 ### Vacation
 
 ****[**What should I do my first day back from vacation?**](https://www.pscp.tv/w/1OyJAgAwZWeKb)****

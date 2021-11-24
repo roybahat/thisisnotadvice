@@ -6,6 +6,26 @@
 >
 > ### **#thisisnotadvice is a reference guide, sharing experiences to help with those mundane – but critical – questions on how to thrive at work.**
 
+### Making a difference
+
+#### [How do I make a difference, professionally, during a time of crisis, like Covid-19?](https://twitter.com/roybahat/status/1262910654027042821)
+
+The first thing is acknowledge that this question assumes you have the privilege to focus on something beyond yourself, your survival, during a crisis. Appreciate your good fortune.
+
+Always begin where you have an ability to make a _particular _difference. It almost always starts with serving the people right around you. First, take care of yourself. Make sure you're healthy, and resting. Take care of your family, your friends. If there's some older person who's lonely, who's in your life, reach out to them because that direct service is something that only you can do because only you have the relationship with them.
+
+Second: volunteer for efforts that already exist. There are several for [Covid-19](https://helpwithcovid.com).&#x20;
+
+There's also a way to go deeper. Particularly for people who are searching for work or have a few free months. Imagine how you might think the world should be responding. Maybe in the case of Covid-19, you think there should be a marketplace for PPE, or you think there should be a public awareness campaign around wearing masks. Well, chances are somebody's already doing that.
+
+Ask yourself, "is there somebody who I admire or think I might admire and get to learn from, who is doing that, who I can reach out to right now?" Because those people need help. They're not posting the jobs. They're not going to call you and tap you on the shoulder. (Or if they do, you just got lucky.) They might deeply appreciate somebody saying, "I've got spare cycles. I know how to do this. I'm ready to help you." You might get to work closely with someone who, in a normal, professional setting, it might take you years to reach. Now here you are serving them. Special relationships are born, often, under special circumstances.
+
+Once you identify the person you admire who seems to be in the fight, reach out to them and say, "Hey, it seems you're doing X. I can help because \_\_\_\_. And I'll do it for free." That may be an amazing way to get involved during a crisis. You'd just be surprised at who is in deep need during a crisis, and will respond.
+
+A frequent thing people ask themselves: "Do I need to quit my job if I want to make a difference in a crisis?" You might... but it's not necessary that you do. Many people are able to help part-time.&#x20;
+
+### Companies doing good
+
 #### [How can my company do good in the world and succeed in business at the same time? ](https://www.pscp.tv/roybahat/1YqGoRYQEjEKv)
 
 There was a time when people in business thought about [shareholder value](https://medium.com/@bgadbaw/if-they-use-it-it-must-be-useful-or-is-it-2ccb3f7e241e) as the ultimate aim -- and then many companies began to worry about doing less harm. Today, maybe the answer is that the purpose of business is purpose.&#x20;
@@ -41,6 +61,8 @@ There are inappropriate ways to do this: e.g., you blow up every meeting you're 
 In addition to reflecting on your issue, also calibrate against your company's life stage. Many early employees will join startups because they are motivated by the mission. Then, as the company becomes thousands of employees, it might look a little different. And your capacity to do things may change – for better or worse – based on your goals. \[Ed.: When I was at News Corp, I was responsible for making the organization carbon neutral, which it remained for a few years after I left. At the time, News Corp had the resources to become carbon neutral because it was able to buy millions of dollars in carbon offsets and reduce its carbon footprint. If we had been an early-stage company strapped for cash and you said, "We need to buy carbon credits," the response likely would have been, "Sorry, but we just need to survive."] Your industry, country, and the stage of your company's life all matter with how a company can act on its mission.
 
 
+
+### Personal politics
 
 ****[**Can I talk about my politics at work? If so, how?**](https://www.pscp.tv/w/1PlJQNPmlbWxE)****
 
