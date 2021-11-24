@@ -1,3 +1,7 @@
+---
+description: '#thisisnotadvice is a community reference guide to help people at work.'
+---
+
 # Contribute your own #thisisnotadvice
 
 ## #thisisnotadvice started as a daily video, but now it also lives as a reference guide. Add questions and answers that you think might be relevant. If you prefer to discuss it live, we still do videos from time to time. \[Github pull request CTA] What are we missing?

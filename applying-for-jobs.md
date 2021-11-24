@@ -1,5 +1,7 @@
 ---
-description: What should you think about when you're considering changing jobs?
+description: >-
+  What should you think about when you're considering changing jobs?
+  #thisisnotadvice is a community reference guide to help people at work.
 ---
 
 # Changing jobs

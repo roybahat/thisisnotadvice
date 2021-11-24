@@ -1,10 +1,8 @@
-# Building startups
+---
+description: '#thisisnotadvice is a community reference guide to help people at work.'
+---
 
-> ### **We all get asked advice about different situations at work. And "this is not advice" because you have to chart your own path. **
->
-> ****
->
-> ### **#thisisnotadvice is a reference guide, sharing experiences to help with those mundane – but critical – questions on how to thrive at work.**
+# Building startups
 
 _There may be no topic in the history of business with as much published advice as there is on startups. These questions are just a few that may matter. For a repository of many more, see resources like _[_Founder Library_](https://www.founderlibrary.com)_._
 

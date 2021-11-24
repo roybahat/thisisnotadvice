@@ -1,5 +1,5 @@
 ---
-description: Table of contents
+description: '#thisisnotadvice is a community reference guide to help people at work.'
 ---
 
 # #thisisnotadvice about work

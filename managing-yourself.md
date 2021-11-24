@@ -1,7 +1,5 @@
 ---
-description: >-
-  How can you be most effective at work? #thisisnotadvice is a community
-  reference guide, answering all the basic questions on how to work.
+description: '#thisisnotadvice is a community reference guide to help people at work.'
 ---
 
 # Managing yourself
