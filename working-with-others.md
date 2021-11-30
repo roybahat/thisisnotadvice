@@ -48,8 +48,6 @@ If you’re solving for your own convenience, sending a Calendly link is a great
 
 _\[Contributed in part by: Minn Kim, Investor, Bloomberg Beta]_
 
-
-
 ### Building relationships
 
 #### [What do I do in my first day at a new job?](https://www.pscp.tv/w/1nAKEdaXzQoxL)
@@ -65,8 +63,6 @@ For example: Read all of the company's internal documentation . Think, "What are
 Figure out all the people with whom you might need to work and show up, to them, in a useful way. Knock, knock: "It's my first day, and I know you run this area of operations on which I would depend. I'd love to learn about your job. I'd love to do it without taking too much of your time. Can you tell me more about what you do?" You'd be surprised how many people are thrilled to open up to you in the beginning, because that's their chance to program you. And allow yourself to be programmed, at least a little bit.
 
 Don't be the hero on the first day, accomplishing some Great Feat. Your job is to play for the long term, figure out how to be useful.
-
-
 
 #### [As a person who is not black or an underrepresented minority, how do I come to work and talk to my colleagues about race?](https://www.pscp.tv/roybahat/1YqxoQolVYvGv)
 
@@ -110,11 +106,9 @@ When you're in other conversations, about subjects other than race, you can also
 
 Being an ally is hard, it's risky, it takes work -- you will have setbacks and need to overcome them. It's nowhere near as tough as being a person of color, especially being Black in America.
 
-
-
 ### Convincing others
 
-[**How do I send a cold ask to someone prominent and get them to respond? **](https://www.pscp.tv/roybahat/1PlKQNVnraNGE?t=12m35s)****
+[**How do I send a cold ask to someone prominent and get them to respond?** ](https://www.pscp.tv/roybahat/1PlKQNVnraNGE?t=12m35s)****
 
 \[Ed.: The below comes from [David Rogier](https://www.linkedin.com/in/drogier), founder and CEO of [MasterClass](https://www.masterclass.com).]
 
@@ -124,8 +118,6 @@ When Tristan didn't hear back from Foursquare, he decided to just start doing wo
 
 If someone isn't responsive to you, figure out a way to do something to help them. Be useful.
 
-
-
 ### Sensitive issues
 
 ****[**What does it mean to keep your word?**](https://www.pscp.tv/w/1jMJgXoVVjmxL)****
@@ -134,7 +126,7 @@ There are many gradations between being an outright liar and being completely re
 
 (In the tech industry , there's a term of art for people who don't keep their word -- they're just called "slippery." In tech, if you expect someone to keep their word, you need to be explicit about what you expect in them and what it could cost you. \[Ed.: I once had an argument with a founder who said, "You can invest up to $1 million in our company." Soon after we said, "Great. We'd like to invest $500,000." He then responded by saying, "Well, okay, let me see if I can accommodate that." He broke his promise. I called him on it, and he was upset -- I even sent him a screenshot of our earlier conversation. He'd seen it as a "soft" promise, an intention as opposed to a commitment. I imagine he felt some shame when I called him on it. In my approach, I'm extremely explicit and blunt: the benefit of my approach is that people know where I stand; the cost is that I risk alienating people. Understand the consequences of your own behavior.])
 
-**The clearest way to keep your word: be (1) precise about what you promise, (2) adhere to it rigidly, and (3) communicate reliably about it. **Changing any of these can cause you to fail to keep your word.
+**The clearest way to keep your word: be (1) precise about what you promise, (2) adhere to it rigidly, and (3) communicate reliably about it.** Changing any of these can cause you to fail to keep your word.
 
 One level down from this gold standard is to be imprecise in what you say, but still adhere to it rigidly and communicate reliably. Call these people the "squirmers." They stick to the letter of the agreement, but not always the spirit. \[Ed.: I remember when I was a founder, an investor wrote me and said, "We want to lead your funding round." I interpreted his note as an offer to lead the round. He said, "no, no, no, no, no, no, no... we just said we _want_ to lead your round, meaning that we want to figure it out." That's the squirm.]
 
@@ -144,15 +136,13 @@ Which raises the question: **is any welching, any slipping,  acceptable? That's 
 
 The next level down is the person who is precise in their speech, adheres rigidly to what they said, but is unreliable in whether they communicate. That's the "ghoster." The person who just disappears is hardest to deal with because it's difficult to figure out what happened. It's hard to get "curious before furious" with a ghoster.
 
-**How can you tell in an ambiguous situation, whether you've kept your word? **Ask yourself, did honoring my commitment cost me? If you're constantly justifying yourself about why it was OK – then you're probably not keeping your word.&#x20;
+**How can you tell in an ambiguous situation, whether you've kept your word?** Ask yourself, did honoring my commitment cost me? If you're constantly justifying yourself about why it was OK – then you're probably not keeping your word.&#x20;
 
 Sometimes failing to keeping your word might _not_ have consequences. Karma is an unreliable enforcer. (That's why it's so satisfying when it does come back to bite people, or in the case of good karma to help them.) You just have to decide what kind of person you want to be.
 
 People also change from situation to situation. Sometimes the reason somebody welches due to a thing you can't see, like a confidential commitment to someone else that they learned conflicts with their commitment to you. Often times the reason we fail to keep our word is because we're embarrassed to admit that we have other conflicting obligations; we feel we mismanaged things. Try to be upfront. Sometimes people suddenly become unreliable in communication... maybe they're going through an issue with addiction or a sick family member.
 
 Respect for life circumstances and difference is important. And if you value relying on the other person to keep their word, then ask them, in a way that fits the situation at hand, what norms they follow -- and be explicit about yours.
-
-
 
 [**What should I do if I broke my word?**](https://www.pscp.tv/w/1YqKDpwwkLOKV)****
 
@@ -166,8 +156,6 @@ Little examples of breaking your word happen all the time. Sometimes you say, "H
 
 If we fail to keep our word on the little things, nobody should trust us to keep our word on the big things. Word is bond, whether it's in six-point font or 60-point font.&#x20;
 
-
-
 ****[**What do I do if I don't trust HR with a workplace issue?**](https://www.pscp.tv/w/1gqGvaqQRnAKB)****
 
 \[Ed.: I've seen this from different angles: I've been an employee who has gone to HR, a CEO who oversaw HR and had employees go to HR, etc.]
@@ -180,7 +168,7 @@ But if you have an issue and are not sure if you could trust the HR person, how 
 
 Gather evidence if you think you might need it. As we saw with Susan Fowler's [story](https://www.susanjfowler.com/blog/2017/2/19/reflecting-on-one-very-strange-year-at-uber) at Uber, it helps  to have data to back your perspective.
 
-**Start with people you trust the most, and radiate out from there. **Turn to the friends who you trust who understand your context, whether or not they work with you, ask their advice. Then consider communities of people, sometimes gathered in forums.
+**Start with people you trust the most, and radiate out from there.** Turn to the friends who you trust who understand your context, whether or not they work with you, ask their advice. Then consider communities of people, sometimes gathered in forums.
 
 Before you go to HR, ask yourself if you can trust your manager or your skip-level manager and voice your concerns so they're on the lookout and can be an advocate in either tracking or raising the issue.&#x20;
 
@@ -194,9 +182,7 @@ Be careful about what you share with HR if you're unsure if you trust them. You'
 
 Even if you escalate your issues, sometimes HR can be part of the problem. In this case, your best recourse may be to leave.
 
-
-
-[**How do you get someone else to keep their word? **](https://www.pscp.tv/w/1djGXoAkROeKZ)****
+[**How do you get someone else to keep their word?** ](https://www.pscp.tv/w/1djGXoAkROeKZ)****
 
 Before you focus on how to get somebody to honor their commitment, ask, "What did I learn from this moment? Did I learn something about this person, about doing business with them in the future?" Sometimes you learn something damning, sometimes you learn there's been a miscommunication -- what does the data tell you?
 
@@ -216,8 +202,6 @@ It's hard to get somebody to keep their word once they've decided they're going 
 
 Sometimes it's tempting when you have a point of view, especially a moral point of view, and somebody else doesn't act on it, to think of yourself as the moral authority. In business dealings, when you have two parties, there is no moral authority. It's just different people trying to reconcile different ways of looking at the world. You may think, "Hey, this person's value system is incompatible with mine." But sometimes you've got to work with them. But you are not the authority, you are just trying to figure it out, as we all are.
 
-
-
 #### [How do I know if I can trust a new potential business partner?](https://www.pscp.tv/w/1OdJrqBLWyPGX)
 
 You work with people all the time and some of them let you down and some of them don't.&#x20;
@@ -230,22 +214,6 @@ Listen to your own intuition.&#x20;
 
 One way to figure out if you trust somebody is the [egg toss method](https://also.roybahat.com/the-trust-thing-691791a4c6ca), that game kids play, where you throw an egg and hope it doesn't break. And you get a little further, a little bit at a time. As you get to know people, give them opportunities to stab you in the back -- just little opportunities. If the egg falls on the first toss, it's no big deal. By the time you're in business together, [especially if they're an investor in your company](https://app.gitbook.com/@bloomberg-beta-1/s/this-is-not-advice-about-work/startups#how-do-i-know-if-an-angel-investor-is-a-legitimate-candidate-to-invest-or-just-pulling-a-bait-and-switch), it could be much worse.
 
-
-
-****[**What's the difference between lying and "fake it till you make it"?**](https://www.pscp.tv/w/1lPKqLZopEYxb)
-
-\[Ed.: The epidemic of lying is much more pronounced in tech than in other industries. I've worked in many different professional contexts -- in government, big corporations, non-profits, media, finance, and now for the last decade plus in tech – and almost a decade as an investor. Part of the reason for this is that plenty of the most successful people in tech have played fast and loose with the truth, and in tech you can win by just having one hit, your "lottery ticket" -- which is much harder in other industries where you become successful over many repeated interactions. In tech, it's hard to find examples of wildly successful companies that never exaggerated at some point. In other industries, you build relationships based on trust, and that trust gets tested. In the finance industry, for example, you're on the other side of trades over and over again. Tech is one of the few places where you really can buy a lottery ticket.]
-
-What's clearly acceptable: enthusiasm and optimism. If you're a founder, this would be the part of "fake it before you make it" -- act the part of the CEO of a successful company. What's clearly unacceptable: misleading people about things that they depend on in order to work with you. For example, telling talent that something has happened and it's false. The hard part is that so many situations fall somewhere in the middle.
-
-What do you do when there are no facts available? This often comes up with founders in describing expectations about their startup's future. Founders will say things like, "next year we're going to be profitable." Well, that's actually unknowable -- but is it a _lie _or is it "faking it until you make it?" If a founder never says anything that might turn out to be untrue, then no startup would ever get going -- because startups are all about _defining_ what's likely or possible.
-
-One way to tell if you're crossing the line into lying: If you repeat the statement that feels borderline (e.g., "next year we're going to be profitable") _when you feel calm_, not trying to sell somebody, but centered in yourself, maybe talking with somebody who really knows you... would you feel good about saying it? Could you say it with a sense of pride in yourself? And if the answer is yes, then it's generally okay.
-
-**And why should you avoid lying in the first place? **This is a surprisingly difficult question for some people. Some people ask what the consequence is, for example, to exaggerating -- and if there's no consequence then maybe it's OK. That isn't ethics, that's just being a utilitarian -- you can probably get away with exaggerating. The question is, what kind of person do you want to be?
-
-
-
 [**Should you mentor someone? And if so, how do I do it?**](https://www.pscp.tv/w/1mrGmEjPpDkGy)****
 
 There are often things you can do for someone more valuable than mentorship -- "[make the hire, send the wire](https://www.washingtonpost.com/news/powerpost/paloma/the-technology-202/2020/06/09/the-technology-202-black-venture-capitalists-say-it-s-time-for-silicon-valley-make-good-on-its-promises-with-action/5ede7b75602ff12947e874b0/)."\
@@ -254,19 +222,17 @@ When you do want to mentor, it should be about genuine connection and learning f
 
 One mistake people can make is looking for a mentor or mentee for the sake of it. Mentorship is not about a phony title or a superiority-inferiority relationship, it's about real learning and helping one another succeed.&#x20;
 
-Think about why you want a mentee and what you want to accomplish. Maybe they could benefit from having multiple mentors if they want to cover different areas – perhaps even folks from different life or career stages. \[Ed.: My wife says you should have a mentor in every decade of _their _life, so one mentor in their 20's, another in their 30's, one in their 70's, etc.]
+Think about why you want a mentee and what you want to accomplish. Maybe they could benefit from having multiple mentors if they want to cover different areas – perhaps even folks from different life or career stages. \[Ed.: My wife says you should have a mentor in every decade of _their_ life, so one mentor in their 20's, another in their 30's, one in their 70's, etc.]
 
 As a mentor, it's helpful to take your cues from the other person about what they want, because like with many relationships, it works best when it's pulled and not pushed. This approach can help you figure out whether a mentor relationship really makes sense to pursue – and how intensive it may be – and gauge whether you can be useful to them.
 
 To understand what another person wants out of mentorship and the current phase of their work life, you can ask questions like "[When you think about the next phase of your career, what do you want to get out of it](https://also.roybahat.com/would-you-like-career-advice-ac8314f2ea8f)?" Once you understand what they really want, then you can cast yourself in a supporting role.
 
-In a mentorship role, it's often more useful to give your observations and guesses -- as opposed to telling the other person what they _should _do. Even the experts are mostly wrong. And it's their life, after all. (Remember the theme of this whole work -- this is not advice.) It's about them, not about you.
+In a mentorship role, it's often more useful to give your observations and guesses -- as opposed to telling the other person what they _should_ do. Even the experts are mostly wrong. And it's their life, after all. (Remember the theme of this whole work -- this is not advice.) It's about them, not about you.
 
 Once you've decided to become a mentor, set expectations and a cadence. It might be daily. It could be a twice-a-year conversation. Being clear about that up front can often help guide how you want to build that relationship. When you get to know someone more closely, this often becomes more organic.
 
-Mentorship can bring great joy and fulfillment. It's incredible to watch others achieve -- and you might get a richer personal and professional experience along the way.&#x20;
-
-
+Mentorship can bring great joy and fulfillment. It's incredible to watch others achieve -- and you might get a richer personal and professional experience along the way.
 
 #### [How do you say no, without offending, when someone asks for a something?](https://twitter.com/roybahat/status/1278484076756733952) For example, a meeting, coffee during which they can "pick your brain," etc.
 
@@ -274,7 +240,7 @@ As you advance professionally, more and more people will look to you. The coroll
 
 Declining requests can feel awkward. Perhaps you consider yourself someone who wants to help others. Accepting a request and helping people is nice. It feels good.&#x20;
 
-**Start with noticing you have the ability to choose: **you are not required to say yes to someone wanting to, e.g., "pick your brain." When someone is asking, they are asking to extract valuable knowledge. The value of your knowledge and, therefore, your time is enough of a reason to decline a meeting request. Without being conscious of your value, careers can stall, as you end up in meeting after meeting which extract, as opposed to deliver, value.
+**Start with noticing you have the ability to choose:** you are not required to say yes to someone wanting to, e.g., "pick your brain." When someone is asking, they are asking to extract valuable knowledge. The value of your knowledge and, therefore, your time is enough of a reason to decline a meeting request. Without being conscious of your value, careers can stall, as you end up in meeting after meeting which extract, as opposed to deliver, value.
 
 You could try another strategy which is to default no to all meetings. Think to yourself "every single meeting request should get a no" because your time is precious.&#x20;
 
@@ -284,9 +250,9 @@ First, make sure they actually need the time they are requesting. For example, a
 
 If you find yourself giving repetitive advice, one principle to follow is a software principle, which is [DRY](https://en.wikipedia.org/wiki/Don't\_repeat\_yourself): don't repeat yourself. Instead of answering the same question over and over again, consider writing a blog piece.
 
-When you say no,_ it can help to explain why you're refusing the request_. Refer to the principle, or the goal that the requester can easily understand: "I'd love to speak, I'm just devoting as much time as possible to people with whom we already have business relationships." \[Ed.: I often turn people down because I want to spend more time with my family.]
+When you say no, _it can help to explain why you're refusing the request_. Refer to the principle, or the goal that the requester can easily understand: "I'd love to speak, I'm just devoting as much time as possible to people with whom we already have business relationships." \[Ed.: I often turn people down because I want to spend more time with my family.]
 
-**Being aware of your value and practicing declining opportunities is a skill. **One way to hone that skill is to develop your own system that rewards you when you exercise that skill.&#x20;
+**Being aware of your value and practicing declining opportunities is a skill.** One way to hone that skill is to develop your own system that rewards you when you exercise that skill.&#x20;
 
 It's important to say no. Though _how_ you say it is also really important, particularly if you're in a relationship business. If you're a producer in Hollywood or a venture capitalist or a salesperson, you need to be good at saying no in a way that does more than just refuses the request -- it also builds the relationship. In those industries you don't get to choose between yes and no, you have to choose a version of no that builds your reputation in the way you want.
 
@@ -312,8 +278,6 @@ When you address abuse, try to do it compassionately because chances are the per
 
 Once you've handled the immediate situation, ask yourself, "What have I learned from this? And how do I expand from there?" For example, if the boundary was unsaid before and you think it should be said explicitly, you could update your company policies (e.g., community terms and conditions on a website) so you can have something to which to point. A post-mortem exercise like a [Five whys](https://en.wikipedia.org/wiki/Five\_whys) exercise might be helpful, even if you do it privately.&#x20;
 
-
-
 ### Meetings
 
 #### [What do I do if I'm in a meeting and I'm not actually sure what I'm meant to be doing?](https://www.pscp.tv/roybahat/1ypJdwDjNXRGW)
@@ -338,8 +302,6 @@ Sometimes, given the power dynamics in a meeting, you may feel uncomfortable eve
 
 **After the meeting**, ask for feedback. The question is timing and dosage. Who do you ask, and when ,and how much? \[Ed.: I remember in my very first job, I was a management consultant. After every meeting, I'd go to my boss and be say, "I want some feedback. How did I do?" And that must have been annoying. A needy puppy. Don't be like I was.] Think ,if you were in that person's shoes, when would you appreciate to be asked?&#x20;
 
-
-
 #### [How do I prepare for my first 1-1 meeting with my boss? ](https://www.pscp.tv/w/1BRJjYalnmBGw)
 
 (It's mostly likely a terrific thing that your boss wants to talk with you individually -- it's a chance to work with them more effectively.)\
@@ -354,8 +316,6 @@ The level of preparation and the substance of the conversation can change depend
 
 Software is often useful, for example having a running document with a list of priorities enables you to know the content from a previous meeting and any follow-up items. You can then set expectations for next time you meet...
 
-
-
 ****[**How many people should I invite to my meeting?**](https://www.pscp.tv/w/1dRKZZlrNeoKB)****
 
 Maybe the answer is zero. Every time you think about having a meeting, ask yourself, "Do I really need to have a meeting?" Meetings can be extremely effective, but also they're very likely to be a waste of time.&#x20;
@@ -367,8 +327,6 @@ Meetings are weird because you call them with an idea in mind and then you get p
 It's worth noting that standing (i.e., recurring) meetings have a totally different pattern from one-off meetings. What often happens with standing meetings is that people just keep showing up. Regularly think to yourself, "Does this still makes sense or do we need this meeting at all?"
 
 \[Ed.: I remember when I first started Bloomberg Beta, the then CEO of Bloomberg, Dan Doctoroff, wanted to do one-on-ones with his direct reports, once every two weeks or so. And then at some point he sent an email saying, "Enough of these one-on-ones, I'm done." And my first reaction was to wonder, "Uh oh, did I just get like kicked out of the information flow?" And then I realized, "No, this makes total sense. I can get meetings when I _need_ to get them." It's about a flow of decisions, not a single decision.]
-
-
 
 [**What do I do if I think I'm being left out of meetings?**](https://www.pscp.tv/w/1OwGWLoEBQMJQ)****
 
@@ -382,7 +340,7 @@ There can be valid reasons for meetings to only include some people and not you.
 
 Ask yourself, "What is the desired outcome for me from attending this meeting?" What is it about you being in this meeting that will materially affect what happens afterwards? With this context, does it make sense for you to ask to join?
 
-**How you ask to join a meeting is dependent on your reason for wanting to join and the type of meeting. **
+**How you ask to join a meeting is dependent on your reason for wanting to join and the type of meeting.**&#x20;
 
 If it's a one-time meeting and you're not on the invitation list and you hear about it, it might just be an error and you could go to the admin or calendar invite owner and ask, "was I supposed to be in that meeting?" If they say, "I'm not sure. Talk to such and such," you can just ask them and they might say, "How did I forget to include you?"
 
@@ -390,13 +348,11 @@ For recurring meetings, you need to figure out who has the power to put you in t
 
 With many of us now working at home, some organizations have leaned into having open calendars so people can see who's doing what, when. In this case, in the right context, maybe you can just be explicit and say, "Hey, I saw that you're chatting with so-and-so. I think it's relevant for me because X. Do you mind if I join?"
 
-**Sometimes the answer is just to show up. **You could burn bridges depending on the situation, especially if somebody said, "No, don't come." But oftentimes if they didn't say that explicitly and you're there, it might not be that big of a deal. Use your judgment.&#x20;
+**Sometimes the answer is just to show up.** You could burn bridges depending on the situation, especially if somebody said, "No, don't come." But oftentimes if they didn't say that explicitly and you're there, it might not be that big of a deal. Use your judgment.&#x20;
 
 \[Ed.: One situation where I decided to just "show up" was when I started a new job at News Corp. My project was to work with MySpace's founders on helping fight child predators on the site. I'd spoken to the CEO before starting the job -- and then on my first day, he didn't respond to me when I asked to talk about next steps (or email about them) I called him, no call back. I talked to his admin, who danced the CEO-defense dance. I was in New York, and they were in LA -- so I decided to just fly there that night. I showed up in their office and said "I'm here to meet the CEO." It was awkward for about a half hour, as the various handlers figured out whether I was legit -- and then the CEO came out, we talked, and worked together well for years. Why was I left out? Because these were just not people who responded to meeting requests or emails from folks who they didn't know, so I had to get creative. There's always another card to play, so I took the chance.]
 
 **The most common error people make when they aren't in a meeting is to default to assuming they need to be there**, without a good reason. The person on the other side of the equation will likely think, "Why? Consider it a blessing that you don't have to be in that meeting. You could go get some work done."
-
-
 
 [**What do you do if you have a meeting scheduled for an hour and you're five minutes in and you're not going to move forward. Do you try to weasel out of the meeting politely? If so, how?**](https://www.pscp.tv/roybahat/1mnGelXLEaQKX?t=14m1s)****
 
@@ -405,8 +361,6 @@ Do your work beforehand, to avoid burning someone's time on something you could 
 Even when you do your work beforehand, it still happens that someone books a meeting and it becomes clear very quickly that you won't move forward. Try to put the power back in the other person's hands, saying something like, "If you want, we can certainly continue talking, but I respect that your time is  precious and I'm not going to move forward." (In the case of startups, founders are often pitching investors, struggling to get on their calendars. Ironically, the founder's time is actually much more precious -- even if they were more flexible on scheduling the meeting -- because if they're not doing something, software isn't getting made, sales aren't happening, etc.
 
 \[Ed.: I once had a founder tell _me_ after five minutes that they were going to leave because it was clear I didn't like their business. They were right. I took the meeting because they were family of a good friend. I did truly believe their time would be better spent elsewhere, and while uncomfortable at the time, I admired their courage for leaving.]
-
-
 
 ### Feedback
 
@@ -420,21 +374,19 @@ In both cases, **the first thing: just stop.** We have a natural reaction to def
 
 **Then ask questions for clarification** -- especially if you feel it was the delivery which was unconstructive. Remember to be curious before furious. Listen and make sure you understand what they say. Thank them. Try to say thank you even if you're gritting through your teeth.
 
-Usually you'll be tempted to give "feedback on feedback" or to respond to the substance -- it's best to avoid that, too. Avoid responding with an agenda in mind. **Feedback is best as a one-way transaction. **Receive. Say, "Thank you. I hear you. I will try to take that into account." And then if you want to come back later, that's fine.
+Usually you'll be tempted to give "feedback on feedback" or to respond to the substance -- it's best to avoid that, too. Avoid responding with an agenda in mind. **Feedback is best as a one-way transaction.** Receive. Say, "Thank you. I hear you. I will try to take that into account." And then if you want to come back later, that's fine.
 
 Last, remember: **context is queen** (because she's truly in charge). The specific context that matters here is the relationship between you and the person giving the feedback. It's really different if somebody is giving you feedback about how you're showing up around issues of race, vs. a coworker giving you feedback about the Google Doc that you just wrote, vs. a boss.
 
 **Feedback is about the giver as much as it is about you.** (Avoid using that knowledge to disqualify the feedback by thinking, "well, that's just their opinion" or, "they think that because...") Treat the feedback as valuable information about them -- they're telling you something you wouldn't have known, they're revealing their inner life. We make so many assumptions about people; feedback is one way to [get across the net](https://medium.com/org-hacking/feedback-staying-on-your-side-of-the-net-6d14f4b0b170).
 
-
-
 ### Working for someone
 
 #### [What do you do if your manager (or someone with power over you) asks you to do something with which you disagree?](https://www.pscp.tv/roybahat/1YqJDpPyzBVJV)
 
-**There are different kinds of disagreements. Some are just over taste. **Let's say you're a journalist and you thought the headline should read X, somebody else thought Y, and they picked the other one. Those generally follow power structures in organizations. They can be really damaging, especially if they accumulate over time. A disagreement of taste, once, might feel like, "Okay, I thought the color on that page should have been blue. And they thought turquoise, whatever, no big deal." If it happens repeatedly, you may start to question the judgment of those who are in power in the organization. Then taste disagreements can morph into the second kind of disagreement, which is where you think the other person, or the organization, asked you to do something that is just stupid, a really bad idea.
+**There are different kinds of disagreements. Some are just over taste.** Let's say you're a journalist and you thought the headline should read X, somebody else thought Y, and they picked the other one. Those generally follow power structures in organizations. They can be really damaging, especially if they accumulate over time. A disagreement of taste, once, might feel like, "Okay, I thought the color on that page should have been blue. And they thought turquoise, whatever, no big deal." If it happens repeatedly, you may start to question the judgment of those who are in power in the organization. Then taste disagreements can morph into the second kind of disagreement, which is where you think the other person, or the organization, asked you to do something that is just stupid, a really bad idea.
 
-**Some disagreements are over something you think is stupid; **let's pick an example: you think your company's first market should be selling to dentists, and they're telling you instead to sell to doctors. You have to vocalize and escalate. Many people (wrongly) assume, "well, I'm just not powerful enough to be allowed to say what I think." Most people speak up too infrequently. You're getting paid to express your judgment, so speak up! Say, "I think this is a bad idea because..."
+**Some disagreements are over something you think is stupid;** let's pick an example: you think your company's first market should be selling to dentists, and they're telling you instead to sell to doctors. You have to vocalize and escalate. Many people (wrongly) assume, "well, I'm just not powerful enough to be allowed to say what I think." Most people speak up too infrequently. You're getting paid to express your judgment, so speak up! Say, "I think this is a bad idea because..."
 
 You'd be shocked how much of the time the other person agrees. Sometimes they might not care. Either way, you'll learn something about them, or about the organization. It's up to you to vocalize.
 
@@ -446,11 +398,11 @@ Sometimes people object in a way that reveals they lack savvy, or harms others. 
 
 **After you vocalize, consider whether to escalate** -- try to talk to others in the organization about the issue.
 
-**Avoid using a pocket veto. **"Oh, I think that decision was stupid. So I'll _say _that I'm going to do it, but I'm actually not going to do it." That's just phony.&#x20;
+**Avoid using a pocket veto.** "Oh, I think that decision was stupid. So I'll _say_ that I'm going to do it, but I'm actually not going to do it." That's just phony.&#x20;
 
 Stupidity, if it repeats, might make you feel less committed to the organization. "Maybe this company just has a dumb strategy." You might start thinking, "Well, do I still want to lend my name here?" If you have the power to leave and go somewhere else, you might want to consider that.&#x20;
 
-After differences in taste and over whether a choice is stupid, **the third kind of disagreement is the hardest -- where you think you're being asked to do something unethical**. Nobody has the power to _compel _you to do anything. It's all just a question of what it costs you to refuse. First, vocalize -- object. "I don't feel right about doing that." See how the organization responds.
+After differences in taste and over whether a choice is stupid, **the third kind of disagreement is the hardest -- where you think you're being asked to do something unethical**. Nobody has the power to _compel_ you to do anything. It's all just a question of what it costs you to refuse. First, vocalize -- object. "I don't feel right about doing that." See how the organization responds.
 
 Then escalate, which can be done differently over issues of ethics. "Could I talk to two or three other people before we go through with that?" Often, shining a light on some issue will make it go away.&#x20;
 
@@ -461,8 +413,6 @@ If your company asks you to do something unethical, you can ultimately say, "I'm
 To feel empowered sometimes you'll introspect about your own values, and think about how they align -- or misalign -- with the place where you work. Dilemmas are a tool to learn our own beliefs. Over time, seek to work for organizations, in roles, where you can work completely consistently with your values.
 
 (Managing what to do when you ask somebody to do something and you know they disagree with it, is a whole other side of the coin. It can sometimes be valid, and sometimes not. As you take on more leadership, the issues that reach you tend to be issues of values, as opposed to issues of skills or competence. Like when you call customer support, and the first person can't help you, you get escalated to tier two, and eventually to some technical wizard -- when you're in a leadership role in the organization, by the time issues reach you, they've gone through all the easy filters. Those are opportunities to articulate the values of the organization, through the choices that you make -- for organizations, too, dilemmas are a tool to learn beliefs.)
-
-
 
 [**What should I do while my boss is on vacation?**](https://www.pscp.tv/w/1eaKbzRmnEXKX)****
 
@@ -478,8 +428,6 @@ Think about your team members, who may have a closer or different relationship w
 
 Put yourself in your boss's shoes. When they get back, they won't want random things dropped on their plate. Be selective, wait until Wednesday before you raise something that doesn't need to be raised on Monday when they're getting back to things.&#x20;
 
-
-
 ### Working remotely
 
 #### [How do you get experience about how organizations work, if you're working from home?](https://www.pscp.tv/roybahat/1dRKZZBAVNXKB)
@@ -492,8 +440,6 @@ Is there something that you cannot learn by working from home? Of course. There 
 
 One soil for learning about work is diversity of experiences. That's why diverse teams matter so much. For any individual plotting a career, you want to be exposed to different cultures and situations and get a little bit of a feel for them.
 
-
-
 #### [What should I do when I'm feeling distant from my coworkers?](https://www.pscp.tv/w/cclXwzFsWktwWXhYSnhvam58MW1ueGVsYlh6ZVBKWH2LjG-MHZRIM3Df1VjmeRJ4pzrvHyltvk8vv9LFQnL1)
 
 There are two kinds of distance that we often conflate: logistical distance, how to get things done when you're feeling removed from others, and emotional distance. Try to be specific about what you're feeling and recognize it's natural to feel removed sometimes.
@@ -505,8 +451,6 @@ The software you choose can be useful, too. (Leaders' "tool-picking" power matte
 Try to have a good time. It's hard with everything going on, a real luxury. Play games. If it's appropriate for your team, try a virtual escape room or sending Lego instructions to one person and the kit to another person (they have to explain to each other how to build it).
 
 Avoid adding a burden to people who may already feel too much of one: be aware of time zones, familial obligations, etc. Maybe somebody who is a different race, or gender, or has some other difference from you, may be experiencing things differently than you are. Try to be aware of that.
-
-
 
 ****[**How do I handle conflict when working remotely?**](https://www.pscp.tv/w/1nAJEAnZlLlJL)****
 

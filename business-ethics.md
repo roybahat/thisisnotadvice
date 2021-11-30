@@ -12,7 +12,7 @@ description: >-
 
 The first thing is acknowledge that this question assumes you have the privilege to focus on something beyond yourself, your survival, during a crisis. Appreciate your good fortune.
 
-Always begin where you have an ability to make a _particular _difference. It almost always starts with serving the people right around you. First, take care of yourself. Make sure you're healthy, and resting. Take care of your family, your friends. If there's some older person who's lonely, who's in your life, reach out to them because that direct service is something that only you can do because only you have the relationship with them.
+Always begin where you have an ability to make a _particular_ difference. It almost always starts with serving the people right around you. First, take care of yourself. Make sure you're healthy, and resting. Take care of your family, your friends. If there's some older person who's lonely, who's in your life, reach out to them because that direct service is something that only you can do because only you have the relationship with them.
 
 Second: volunteer for efforts that already exist. There are several for [Covid-19](https://helpwithcovid.com).&#x20;
 
@@ -60,8 +60,6 @@ There are inappropriate ways to do this: e.g., you blow up every meeting you're 
 
 In addition to reflecting on your issue, also calibrate against your company's life stage. Many early employees will join startups because they are motivated by the mission. Then, as the company becomes thousands of employees, it might look a little different. And your capacity to do things may change – for better or worse – based on your goals. \[Ed.: When I was at News Corp, I was responsible for making the organization carbon neutral, which it remained for a few years after I left. At the time, News Corp had the resources to become carbon neutral because it was able to buy millions of dollars in carbon offsets and reduce its carbon footprint. If we had been an early-stage company strapped for cash and you said, "We need to buy carbon credits," the response likely would have been, "Sorry, but we just need to survive."] Your industry, country, and the stage of your company's life all matter with how a company can act on its mission.
 
-
-
 ### Personal politics
 
 ****[**Can I talk about my politics at work? If so, how?**](https://www.pscp.tv/w/1PlJQNPmlbWxE)****
@@ -71,8 +69,6 @@ Anyone who says you shouldn't talk about politics at work has likely spent _some
 You have to know what the norm is inside of your company. And if you choose to play outside of the norm, that's fine, you have to understand that you may pay a price for it, practically speaking. Coinbase effectively [said](https://blog.coinbase.com/coinbase-is-a-mission-focused-company-af882df8804) "Shut up and dribble, just focus on the mission." And it's a valid stance, but Coinbase also apparently gave money to Black Lives Matter. So stop and think to yourself, "What is the relevance of this to the discussion everyone is having, and am I participating in this as an individual, trying to use the company toward my own personal ends, or because I think it's kind of relevant to the company as a whole?" And a lot of political issues can be relevant to the company as a whole.
 
 Not everything you say at the company is about the company. You may have personal friends at the company, and it's okay to talk to your personal friends about things in your personal life – like religion and politics and other sensitive subjects – but you have to understand that it's very easy to cross a line into doing that in a company space. Privately emailing somebody or DM-ing somebody who you know shares a view with you about something where you share a view, that's totally fine. You can also ask someone if it's OK to speak with them about something before you do.
-
-
 
 [**I've voted, donated, signed petitions. Do I need to do more than that?**](https://twitter.com/roybahat/status/1313993763144962048)****
 
@@ -93,6 +89,20 @@ You can participate civically in ways that feel unique to you and where you're m
 There are moments in the world that call many of us to see the problems and wish to do something about them and weave them into our lives. Most people I know are feeling something like that. And then the question is the skill of, how? Engage in a way that feels like it's worth your time and effort and you feel fulfilled by it – and that is a process of timing and dosage and learning.
 
 \[Ed.: For emerging leaders in the tech industry, Bloomberg Beta has a community that we run with Stanford called [First Principles](https://pacscenter.stanford.edu/first-principles-forum/about/), where we learn together how to give philanthropically. Secondly, there is a leadership group called [The Council on Tech in Society](https://www.linkedin.com/company/council-on-technology-society/), where the primary focus is educating ourselves civically. Civic engagement requires a progression of learning, and groups like these can be incredibly useful for figuring out how you can help move the needle.]
+
+### Moral code at work
+
+[**What's the difference between lying and "fake it till you make it"?**](https://www.pscp.tv/w/1lPKqLZopEYxb)
+
+\[Ed.: The epidemic of lying is much more pronounced in tech than in other industries. I've worked in many different professional contexts -- in government, big corporations, non-profits, media, finance, and now for the last decade plus in tech – and almost a decade as an investor. Part of the reason for this is that plenty of the most successful people in tech have played fast and loose with the truth, and in tech you can win by just having one hit, your "lottery ticket" -- which is much harder in other industries where you become successful over many repeated interactions. In tech, it's hard to find examples of wildly successful companies that never exaggerated at some point. In other industries, you build relationships based on trust, and that trust gets tested. In the finance industry, for example, you're on the other side of trades over and over again. Tech is one of the few places where you really can buy a lottery ticket.]
+
+What's clearly acceptable: enthusiasm and optimism. If you're a founder, this would be the part of "fake it before you make it" -- act the part of the CEO of a successful company. What's clearly unacceptable: misleading people about things that they depend on in order to work with you. For example, telling talent that something has happened and it's false. The hard part is that so many situations fall somewhere in the middle.
+
+What do you do when there are no facts available? This often comes up with founders in describing expectations about their startup's future. Founders will say things like, "next year we're going to be profitable." Well, that's actually unknowable -- but is it a _lie_ or is it "faking it until you make it?" If a founder never says anything that might turn out to be untrue, then no startup would ever get going -- because startups are all about _defining_ what's likely or possible.
+
+One way to tell if you're crossing the line into lying: If you repeat the statement that feels borderline (e.g., "next year we're going to be profitable") _when you feel calm_, not trying to sell somebody, but centered in yourself, maybe talking with somebody who really knows you... would you feel good about saying it? Could you say it with a sense of pride in yourself? And if the answer is yes, then it's generally okay.
+
+**And why should you avoid lying in the first place?** This is a surprisingly difficult question for some people. Some people ask what the consequence is, for example, to exaggerating -- and if there's no consequence then maybe it's OK. That isn't ethics, that's just being a utilitarian -- you can probably get away with exaggerating. The question is, what kind of person do you want to be?
 
 {% hint style="info" %}
 What are we missing? #thisisnotadvice is a community resource, to add your knowledge or suggest an edit, submit a pull request on [Github](https://github.com/roybahat/thisisnotadvice).
