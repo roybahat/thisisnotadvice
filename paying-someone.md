@@ -6,9 +6,9 @@ description: >-
 
 # Managing others
 
-## Firing
+### Firing
 
-[**When you get to the point that you're almost certain you're going to fire someone, should you put them on a performance plan to give them some warning?**](https://www.pscp.tv/roybahat/1mnGelXLEaQKX?t=25m9s)\*\*\*\*
+[**When you get to the point that you're almost certain you're going to fire someone, should you put them on a performance plan to give them some warning?**](https://www.pscp.tv/roybahat/1mnGelXLEaQKX?t=25m9s)
 
 You should always give a person warning because it's the human thing to do. In some contexts, that warning might short: six hours because the person's work is so rapid fire and they're making errors at such a pace that they could ruin your entire company in that time. Most managers give their employees too much time, because most people can't fix their issues. Or by the time they have fixed the issues, the issues metastasize and create more lasting problems. (For example, a person who is chronically late for two months might start showing up on time, but it might be harder to fix the issue of the team's frustration with that formerly-late person's two months of leaving the team saddled with more work.)
 
@@ -50,11 +50,9 @@ Tell them "I don't believe you." And when they ask why you can say, "Well, somet
 
 (And maybe before you literally fire them "immediately," do some self examination of why you don't trust this person. Is it because they remind you of your mother and your mother once lied to you? Is this a pattern or is it just you worried about one inconsequential statement? Assuming you've dealt with this stuff, you can address the work matter at hand. And of course ideally you've warned the person about their behavior before, so it isn't coming out of the blue.)
 
-## Hiring
+### Hiring
 
-### [**How do I know if talent is a diamond in the rough...or just rough?**](https://www.pscp.tv/w/1YqxoRLPzBXJv)
-
-\[Ed.: Much of the below comes from [Anna Gat](https://twitter.com/theannagat), founder and CEO of [The Interintellect](https://www.interintellect.com).]
+[**How do I know if talent is a diamond in the rough...or just rough?**](https://www.pscp.tv/w/1YqxoRLPzBXJv)
 
 This is the era of talent, the "passion economy," and people are more empowered than ever. (At least people who have ended up fortunate to have the resources to thrive -- so many others still struggle, day in and day out.)
 
@@ -68,13 +66,15 @@ Finding a dream career or role can be a long process. Sometimes people have to t
 
 Encourage people that they can push themselves, but also recognize that they're going to have their own inner psychological barriers. Part of your role is to be a sounding board for them as they evolve through that.
 
-### [How do I know if I need an executive assistant? ](https://www.pscp.tv/w/cbqi6DFsWktwWXhYSnhvam58MUx5eEJhdk1BUE1KTvbv50I5sKksTI1B9KjK2vEf9-7dOu2Cn2cO2Egeo4Rk)
+_\[Ed.: Much of the above comes from_ [_Anna Gat_](https://twitter.com/theannagat)_, founder and CEO of_ [_The Interintellect_](https://www.interintellect.com)_.]_
+
+_****_[**How do I know if I need an executive assistant?** ](https://www.pscp.tv/w/cbqi6DFsWktwWXhYSnhvam58MUx5eEJhdk1BUE1KTvbv50I5sKksTI1B9KjK2vEf9-7dOu2Cn2cO2Egeo4Rk)****
 
 Think about the least useful thing you do in your day. If you find yourself doing that same task multiple times a week, find a way to take it away from you. (Is it scheduling?) You can try automating it (for example, using a filter in your email, for example). Then try delegating it to someone -- maybe at first you can use a virtual assistant. If you end up having enough volume, the right answer may be to [find a full-time dedicated person to assist you](https://medium.com/newco/who-should-a-startup-hire-first-c12b279814aa).
 
 Oftentimes the best first hire for many startups, particularly ones that have intense customer demands, is an administrative assistant to handle scheduling. You can start with a virtual assistant if you want to reduce the culture-fit risk with your company. You can graduate to a full-time person later.
 
-### [Why am I spending so much time interviewing people without hiring them?](https://www.pscp.tv/roybahat/1nAKEdpLMPoxL)
+****[**Why am I spending so much time interviewing people without hiring them?**](https://www.pscp.tv/roybahat/1nAKEdpLMPoxL)****
 
 Let's say you're spending six to eight hours a day interviewing candidates, six to eight candidates, and not hiring any. Figuring out what's broken is hard: it could mean that you're interviewing people perfectly and it's just a very high priority for you to find talent. Great CEOs can have phases in a company's life where they spend more than half their time recruiting. Or maybe you're terrible at interviewing people. Or maybe you're spending too much time interviewing -- possibly by interviewing too many people -- and you should set up your whole hiring system differently. (Experimentation may help. Some companies [hire without looking at resumes](https://www.fastcompany.com/1784737/silicon-valleys-new-hiring-strategy).)
 
@@ -88,7 +88,7 @@ The third thing: interviews can be short. "I often know in the first five minute
 
 An important note: interviewing is a pernicious entry place where bias enters into hiring, and can curtail diversity and inclusion and equity efforts. You want to have good candidates. The more objective you can be, the better. If you can't find backdoor references... that's _non_-data, not bad data. You can bias up on interviewing candidates from underrepresented backgrounds -- because they may have had to go through more to get there, and they likely to be better talent having gotten there, they may be better talent. If you want the best talent, interview more people from underrepresented backgrounds.
 
-### [**You're hiring someone and you're unsure what to pay them. What should you pay them?**](https://www.pscp.tv/roybahat/1eaKbzdkXmYKX)
+[I'm hiring someone and unsure what to pay them. How much should I pay?](https://www.pscp.tv/roybahat/1eaKbzdkXmYKX)
 
 As a matter of principle, you want to pay everybody fairly. That means that you would be happy if you were in their shoes, getting paid what you're offering them, knowing what you know. If their happiness depends on their lack of knowledge, you're probably making a mistake.
 
@@ -126,7 +126,7 @@ How do you know if you have a good immigration lawyer, and how do you find one?
 
 A worthwhile lawyer will be creative and ask questions like, "Do you know everything about this person? Do you know what their marital status is? Do you know if they have any family background in the US or if they are the first in their family to come to the US?"
 
-It’s easy to think of H-1B by default, as this is the poster child of work visas. In reality, H-1B is just one of the 25 or more different visa pathways, which is why it's important to work with the right partnerscounsel. Choosing an immigration lawyer for your company can be almost as important as choosing the right investor for your company, as an immigration attorney could cause you to gain or lose key talent that could make a difference for your business.
+It’s easy to think of H-1B by default, as this is the poster child of work visas. In reality, H-1B is just one of the 25 or more different visa pathways, which is why it's important to work with the right partner counsel. Choosing an immigration lawyer for your company can be almost as important as choosing the right investor for your company, as an immigration attorney could cause you to gain or lose key talent that could make a difference for your business.
 
 Although every case is different, it’s good to have a general idea of how long the process will take, how much it will cost and how certain it is.
 
@@ -138,7 +138,7 @@ Immigration plays a particularly critical role in the startup ecosystem. Going t
 
 _\[Contributed in part by_ [_Nitin Pachisia, Founding Partner, Unshackled Ventures_](https://twitter.com/immigreating?lang=en)_]_
 
-## How to manage people
+### How to manage people
 
 [**How do I retain a high performer on my team?**](https://www.pscp.tv/w/1lDGLyopePQJm)
 
@@ -162,7 +162,7 @@ The answer to "How do I keep a high performer?" is similar as "How do I attract 
 
 Success for your team member means they are performing at their best, they feel like their needs are satisfied, and they remain for some period of time. And then you have to reinvent and do it constantly. Be in a service leader mentality, deeply trying to understand what that person believes they want and figuring out how best to give it to them.
 
-[**How do I know if I have set unrealistic expectations for my team?**](https://www.pscp.tv/w/1LyxBaAXnDOJN)\*\*\*\*
+[**How do I know if I have set unrealistic expectations for my team?**](https://www.pscp.tv/w/1LyxBaAXnDOJN)
 
 Snowflake didn't get to be [worth $60 billion](https://www.forbes.com/sites/greatspeculations/2020/09/29/snowflake-looks-like-a-risky-bet-at-a-60-billion-plus-valuation/#26d98e75f406) by sequencing one reasonable expectation after another. And yet, everyone has had experiences where someone asked you to do more than what was possible.
 
@@ -228,9 +228,9 @@ The solution depends on which kind of overvaluing you are solving.
 
 If the issue is around ego, unpack the "story" from the behavior: sometimes the fact they privately overvalue themselves is not a problem, even if it bugs you. Solve for the behavior. If they overvalue themselves on money, you might need to say, "You know what? We need to fire this person, we're paying them too much." If they overvalue themselves on decision-making, you might need to have an honest talk and say, "You can't be in all these decisions anymore." And if it works out, it works out, and if it doesn't, it doesn't. But overvaluing is not one problem, it's many.
 
-## Reviewing performance
+### Reviewing performance
 
-### [What is a 360 review and how do I conduct one?](https://www.pscp.tv/w/cY20DDFsWktwWXhYSnhvam58MXlvS01hV3liUGRLUW7n8moaoREHEEJkpMfSNJrLnw0y7X6qnde6lAnu81DD)
+****[**What is a 360 review and how do I conduct one?**](https://www.pscp.tv/w/cY20DDFsWktwWXhYSnhvam58MXlvS01hV3liUGRLUW7n8moaoREHEEJkpMfSNJrLnw0y7X6qnde6lAnu81DD)****
 
 A 360 (degree) review is a tool for capturing feedback where the source of the feedback can include people inside and outside the organization -- in other words, unlike a traditional review (just the boss) or a 180 review (just the peers and those who work for the person being reviewed).
 
