@@ -6,7 +6,7 @@ description: >-
 
 # Changing jobs
 
-### **Forging a career path**
+### **Creating a career path**
 
 [**How do I know what I want to do with my life?**](https://www.pscp.tv/w/1yoJMXElQyXGQ)
 
