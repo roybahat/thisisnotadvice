@@ -88,7 +88,7 @@ The third thing: interviews can be short. "I often know in the first five minute
 
 An important note: interviewing is a pernicious entry place where bias enters into hiring, and can curtail diversity and inclusion and equity efforts. You want to have good candidates. The more objective you can be, the better. If you can't find backdoor references... that's _non_-data, not bad data. You can bias up on interviewing candidates from underrepresented backgrounds -- because they may have had to go through more to get there, and they likely to be better talent having gotten there, they may be better talent. If you want the best talent, interview more people from underrepresented backgrounds.
 
-[I'm hiring someone and unsure what to pay them. How much should I pay?](https://www.pscp.tv/roybahat/1eaKbzdkXmYKX)
+[I**'m hiring someone and unsure what to pay them. How much should I pay?**](https://www.pscp.tv/roybahat/1eaKbzdkXmYKX)****
 
 As a matter of principle, you want to pay everybody fairly. That means that you would be happy if you were in their shoes, getting paid what you're offering them, knowing what you know. If their happiness depends on their lack of knowledge, you're probably making a mistake.
 
