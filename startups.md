@@ -6,9 +6,11 @@ description: >-
 
 # Building startups
 
-_There may be no topic in the history of business with as much published advice as there is on startups. These questions are just a few that may matter. For a repository of many more, see resources like _[_Founder Library_](https://www.founderlibrary.com)_._
+_There may be no topic in the history of business with as much published advice as there is on startups. These questions are just a few that may matter. For a repository of many more, see resources like_ [_Founder Library_](https://www.founderlibrary.com)_._
 
-#### [**If I want to start a company, what's the very first thing I should do?**](https://www.pscp.tv/w/1vAxRryByyzxl)****
+### Getting started
+
+[**If I want to start a company, what's the very first thing I should do?**](https://www.pscp.tv/w/1vAxRryByyzxl)****
 
 There are many different ways up the startup mountain. The ["missionaries vs. mercenaries" concept](https://knowledge.wharton.upenn.edu/article/mercenaries-vs-missionaries-john-doerr-sees-two-kinds-of-internet-entrepreneurs/#:\~:text=Mercenaries%20are%20bosses%20of%20wolf,mentors%20or%20coaches%20of%20teams.\&text=Mercenaries%20are%20motivated%20by%20the,the%20desire%20to%20make%20meaning.%E2%80%9D) of who builds great ventures is nice, but some great founders were unfortunately just mercenaries. There are also people who say, "I'm going to start a company, I don't know about what," and while it's tempting to call them "wantrepreneurs," they sometimes do great things.&#x20;
 
@@ -66,7 +68,7 @@ Some founders say "suchandsuch VC is telling me I need a co-founder to do thisth
 
 In his [research on entrepreneurs](https://wsp.wharton.upenn.edu/book/the-unicorns-shadow/), Ethan Mollick learned that solo founders last longer in terms of building their company and are no more or less successful than teams. Teams can be detrimental in some ways, because decision-making becomes harder.
 
-How to figure out if you do need a co-founder: **do you have a skill you need for the company, where the person to fill it is important enough that they need to be a co-founder for you to get the right talent? **In the case of Instagram, Kevin Systrom hacked up a prototype, but ultimately he needed a technical founder and brought in Mike Krieger to make things sing.&#x20;
+How to figure out if you do need a co-founder: **do you have a skill you need for the company, where the person to fill it is important enough that they need to be a co-founder for you to get the right talent?** In the case of Instagram, Kevin Systrom hacked up a prototype, but ultimately he needed a technical founder and brought in Mike Krieger to make things sing.&#x20;
 
 Most of the time, the co-founding teams that work the best have pre-existing history with each other, where they've had some base of experiences on which to draw, to trust each other.
 
@@ -74,13 +76,13 @@ Most of the time, the co-founding teams that work the best have pre-existing his
 
 The best co-founding teams tend to already know each other well. Startups are such a trust-driven, pressured environment that if you already have a bond, then it's so much easier than an "instateam." That's one of the reasons co-founder dating is such a difficult concept, and there are so many wife-husband, sister-brother, or best friend teams.
 
-Do you even need a co-founder? You can practice starting a company while you search for one, and maybe discover you don't need a co-founder at all. Starting companies is a trade, an occupation. It's not magical chemistry where you take the magical idea and the magic skills and you can mix them all up and then_ --_ _bam_, something great happens. Like being a chef or an architect, if you practice at it, you get better at it.&#x20;
+Do you even need a co-founder? You can practice starting a company while you search for one, and maybe discover you don't need a co-founder at all. Starting companies is a trade, an occupation. It's not magical chemistry where you take the magical idea and the magic skills and you can mix them all up and then _--_ _bam_, something great happens. Like being a chef or an architect, if you practice at it, you get better at it.&#x20;
 
 The best way to have ideas is by trying to have lots of ideas, working on them, and running into walls over and over.&#x20;
 
 A lot of the time you have an inkling of an idea, [there are so many ways that you can test it](http://theleanstartup.com) -- as simply as asking 20 of your friends, "Is this interesting?" Make a Google form and ask a hundred people. By doing side projects on your own, you may test whether you even need a co-founder. If you do need a co-founder, or if you even just want one because you feel lonely -- that's good to learn.
 
-**Now practical tips on how to find a co-founder: **
+**Now practical tips on how to find a co-founder:**&#x20;
 
 Say in public some of the ideas you're interested in. Twitter is great for this. See who's drawn to you and work with them. Hack with them on some stuff, make some things, see where it goes.
 
@@ -91,8 +93,6 @@ You start working with somebody and, if every week you're slightly more committe
 It's like hiring for anything else, with the exception that it's hard to fire a co-founder. It's painful. So do more diligence, proportionately to that. Work with them for a month, talk to lots of people who know them, go hang out with their family, eat dinners together. If you actually like each other, it can work much better.
 
 These tips are all based on this philosophy of: teams that know each other well tend to work out best, starting companies is a trade you can practice, and always solving for quality.
-
-
 
 [**How much does my company name matter?**](https://www.pscp.tv/w/1jMKgXEmvlqGL)****
 
@@ -112,9 +112,9 @@ When you're naming a company, it's easy to stew over phonetic questions like, "C
 
 #### [How valuable is your IP in a startup's early days?](https://www.pscp.tv/w/1BRKjQZvyOWxw)
 
-Most people tend to think too much about whether some startup idea (or early product) would be easy to clone. Most _wildly successful _ startups would be easy to clone (or would have been in their earliest days). Would Airbnb not have been easy to clone in the beginning? Most startups lack defensible IP in that traditional sense. It's usually about the cost benefit of copying a startup, or the skill required to bring the finer details to life. [It's more like a movie than like "technology."](https://blog.markgrowth.com/early-startup-pitches-are-like-movie-pitches-not-business-pitches-d6ab3754758a?gi=af377827c35d)
+Most people tend to think too much about whether some startup idea (or early product) would be easy to clone. Most _wildly successful_ startups would be easy to clone (or would have been in their earliest days). Would Airbnb not have been easy to clone in the beginning? Most startups lack defensible IP in that traditional sense. It's usually about the cost benefit of copying a startup, or the skill required to bring the finer details to life. [It's more like a movie than like "technology."](https://blog.markgrowth.com/early-startup-pitches-are-like-movie-pitches-not-business-pitches-d6ab3754758a?gi=af377827c35d)
 
-#### [Should you incorporate as a B-Corp or Public Benefit Corporation?](https://www.pscp.tv/w/ccFBcDFsWktwWXhYSnhvam58MXlwS2R3eldZbnF4V3CASjaVNSRTgV\_0VkAaxMOh-BJobvYeRGgzfto422xz)
+#### [Should I incorporate as a B-Corp or Public Benefit Corporation?](https://www.pscp.tv/w/ccFBcDFsWktwWXhYSnhvam58MXlwS2R3eldZbnF4V3CASjaVNSRTgV\_0VkAaxMOh-BJobvYeRGgzfto422xz)
 
 There are now alternative corporate forms to a standard corporation or LLC that intend to induce companies to have more of a positive impact on the world. They do that through a combination of mechanisms. Some of them are government standards. [B Corporation](https://bloombergbeta.zoom.us/j/92162247960) is a certification from a nonprofit. (If you know about building design, the mechanism is similar to the LEED certification for environmentally-friendly design.)
 
@@ -130,7 +130,7 @@ The right incentives can ensure companies do the right thing in the long-term. F
 
 Can these new corporate forms be helpful? Of course, as can, e.g., conducting a planning process that makes you do more good.&#x20;
 
-**Is there some other reason to adopt one of these structures? **One frequent critiques is that these things are just [marketing](https://hbr.org/2016/06/why-companies-are-becoming-b-corporations). It could be a positive symbol to employees and others which communicates, "Hey, our company takes this seriously. We're willing to go through a process that validates our willingness to do good."
+**Is there some other reason to adopt one of these structures?** One frequent critiques is that these things are just [marketing](https://hbr.org/2016/06/why-companies-are-becoming-b-corporations). It could be a positive symbol to employees and others which communicates, "Hey, our company takes this seriously. We're willing to go through a process that validates our willingness to do good."
 
 There are so many decisions in the life of a start-up that are one way doors, or costly to reverse. Your choice of corporate form is one of those costly-to-reverse choices. It's best done with a tremendous amount of seriousness and contemplation. If you want to understand this better, here's a [practical guide](https://www.notion.so/Should-I-incorporate-as-a-benefit-corporation-48be30ea5f53441c893d0b73119cf67f).&#x20;
 
@@ -160,8 +160,6 @@ Another benefit to charging for your product is the connotations a paid product 
 
 _\[Contributed in part by_ [_Alex Cohen, Founder, CommandDot_](https://twitter.com/anothercohen)_]_
 
-
-
 #### [How much should I charge for my product?](https://www.pscp.tv/w/1mnxelpqyLaJX)
 
 One of the reasons pricing is so hard for people is that it involves making many choices at once. Questions about what your long-term business model is and how much profit you will make can be answered by getting evidence that your product is actually useful to someone.
@@ -177,8 +175,6 @@ Another way to decide on pricing is to assess the product’s value in terms of 
 When deciding what to charge for your product, it is important to recognize how valuable your product is. Figuring out what your product is worth will allow you to determine how much a customer would be willing to pay for it. There are various ways to figure out what this number is, but asking the right questions and assessing how people respond to your pricing are good ways to start.
 
 _\[Contributed in part by_ [_Alex Cohen, Founder, CommandDot_](https://twitter.com/anothercohen)_]_
-
-__
 
 [**How do I get my enterprise customer's attention when my startup lacks brand recognition?**](https://www.pscp.tv/w/1YqJDpgyeEaJV)
 
@@ -202,109 +198,7 @@ Getting an enterprise’s attention can be particularly difficult when you’re 
 
 _\[Contributed in part by_ [_Joseph Freed, CEO of Cultivate_](https://twitter.com/josephfreed79?lang=en)_]_
 
-### Working for a startup, as a founder or otherwise
-
-[**Do I need a coach?**](https://www.pscp.tv/w/1MnGndNmvBBxO)****
-
-\[Ed.: The below comes from [Lori Mazan](https://www.linkedin.com/in/lorimazan/), co-founder of [Sounding Board](https://www.soundingboardinc.com).]
-
-Yes, you need a coach. If you are starting or thinking of starting a high-growth company, then as a founder, your own personal growth has to be rapid as well. If your growth isn't rapid, you end up becoming the roadblock to your company's success.
-
-The thing about a coach is they're always on your side; their agenda is only your growth. If you go to a friend and ask for help, it doesn't matter how much they care about you, it's still an ask. A coach is just there for you.
-
-One way to find a coach is to ask around your network to people who you think are successful as founders, CEOs, etc., and see where they've found their coaches. You'll be shocked to learn how many people have coaches, even if they're not upfront about it.&#x20;
-
-For most people, if you ask them, "Do you have a coach?", they'll be flattered. They'll think, "Oh, they must think I have my act together.
-
-[Sounding Board](http://soundingboardinc.com) (Ed.: in which Bloomberg Beta is a #proudinvestor) is an enterprise coaching solution, so people can get coaching services and coaching management through a robust technology platform.&#x20;
-
-The coaching relationship is sometimes compared to a personal trainer, but a professional coach goes well beyond just accountability and "standing there" making you do things. They're a thought partner for you, helping you think in novel ways, helping you go beyond your easy, top-of-mind answer, helping you develop yourself in ways you hadn't thought of yourself before.
-
-
-
-[**How much am I supposed to pay myself?**](https://www.pscp.tv/w/1vAxRrEeQyPxl)****
-
-If you're thinking about starting a company, the question of how to handle your own personal money is arguably the most important early decision, because it enables you to take the leap. \[Ed.: In my case, when I started a company, I saved from prior jobs and did two things at once for awhile.]
-
-Contrary to the popular myth, most of the best founders did not bet the farm when they started their company. They proceeded tentatively, one step at a time. There are dramatic stories of those who did put it all on the line. Most others managed the risks, skillfully. You can "de-risk" your transition by working on your new thing as a side project, or consulting before becoming fully self-employed. &#x20;
-
-When you do have outside money coming in, **you should pay yourself enough so that you can live sustainably. **If you are self-funding in the beginning, then of course you own it all and you can figure out how much you wish to pay yourself based on what you need. (On average, most founders tend to pay themselves too little, not too much, because they're concerned with how it might look to overpay themselves, and they're making sure they use the business' capital well.)
-
-Figuring out how to pay yourself sustainably depends on your life circumstances. Maybe your co-founder is a mom who is the sole provider for a family with two kids, and her needs are going to be very different than those of a recent college graduate, or for someone who's in their third career.&#x20;
-
-If you're thinking about starting a company with a cofounder or cofounders, this can have an impact on your pay. Be open with each other about your respective life circumstances so you're clear about expectations and needs from the beginning.&#x20;
-
-There are rare cases where somebody wants to pay themselves a very large salary, e.g., they raise a million dollars and want to pay themselves $350,000. When you're talking to investors, you have to remember that you are pitching a company and they want you to use the resources as responsibly as possible.
-
-The principle is you should pay yourself enough to be able to live without distraction -- so you can focus on the work at hand.&#x20;
-
-
-
-[**When is it appropriate for founders to get an equity plus-up?**](https://www.pscp.tv/w/1MYxNVqdnzPxw)****
-
-When you're a founder, you own your company – or you own it with co-founders – and when you bring on investors your ownership goes down because there's only a hundred percent of the company to go around. Typically founders are on a vesting schedule, meaning they receive their ownership gradually over time.
-
-You might think, "That's weird, I started the company – why do I need to receive the ownership gradually over time?" There are two reasons: 1) It protects co-founders from a founder who wants to leave (and if that founder leaves after one year and everybody else worked 15 years, they shouldn't get the same amount). 2) It protects investors from the risk that they'll invest and the founder will leave.
-
-The standard vesting period is four years. So what happens at four years and two months, and you've raised a few rounds of funding and you have 25%... should you have more equity? The short answer is yes. If the company had to hire someone new, they'd need to pay them equity. Why should you keep working without getting more equity, just because you already have some?
-
-In life, you often only get paid when you ask to get paid. \[Ed.: I've had many times in my life where I  realized that if only I'd put up my hand and said, "Hey, I think I deserve more," I could have been paid more and in some cases much more.] As a founder, the equivalent is when you feel you want more of your company, then it's on you to ask.
-
-If the company had to bring in your replacement, what would they pay them in terms of equity? Let's say you've raised a couple of rounds of funding, so they'd have to pay the new leader 3% (or something like that) in equity. Then that figure might be an appropriate ask for you.&#x20;
-
-Your team is going to get refreshed grants every few years, because you want them to continue to have an incentive; it doesn't make sense for you to be treated differently from your team. This approach generally works in normal cases, but there can be extenuating circumstances where it's more complicated. For example, a founder made an error in the beginning and took an investor that got way too much equity, so they don't own enough. This can be a problem for the business and require a more serious correction.
-
-There are also cases where prospectiveinvestors will offer an equity plus-up to the founder as an incentive to take their offer. For example, an investor comes in and says, "I'll invest at the following price, but, Founder, I'll also give you an extra 3%."  You have to be careful about a situation like this and communicate openly, otherwise it will look like you're only worried about your self-interest, as opposed to that investment being good for the company.
-
-With co-founders, there are a lot of the same considerations, but in the early days it's a relationship question of working out amongst yourselves what you think is right as a founding team. Ideally you are presenting to the board (or whoever decides) a package of what you think is the right answer (if the board has to adjudicate founder conflicts, it never goes well). The equity for each individual might be less if there are more co-founders, so there might be more of a demand for somebody to get a bit more.
-
-
-
-[**A startup founder asked me for help with a project. How do I ask to get paid for it?**](https://www.pscp.tv/w/1PlJQNPYVzzxE)****
-
-When helping startups with projects, you can err in either direction: 1) focusing too much on getting paid, or 2) or constantly doing favors and never getting paid. There are also different ways of getting paid: sometimes you get paid in cash, sometimes you can get paid in equity. Sometimes you can get "paid" in a commitment to work together on something else, or a soft understanding. Only you know how important it is to you to get paid, and whether you value cash or something else.
-
-Think about how you want to get paid, know what you want to request, and then be thoughtful with how you ask for it. It's okay to say, "Look, I really love your project and I think it could be amazing. I'm in a place right now where in order to be able to do that kind of work, I need X, or the value I think I deliver is Y." And then just ask.
-
-You can also over-correct in the other way, which is to just do the work without getting paid. You say, "Hey, I'll look at your product model." Or "I'll give you thoughts on your email marketing. Happy to do whatever." And then eventually you end up feeling the other person took advantage of you. Great founders are sometimes really good at getting free work out of people, so you need to know your boundaries.&#x20;
-
-When setting boundaries, always consider timing and dosage: Ask about payment in a way that is likely to be palatable to the person on the other side, and know how you want to get paid because cash is different than upside in the future and you can get a mix of both. And sometimes it's just too complicated. The thing can get weighed down when you're like, "Well, I'd like to work on it, but I'd like a mix of cash and equity by the hour."  Sometimes you may just do the work and hope that it works out. Know your own line and then raise it appropriately.
-
-\[Ed.: I know lots of people who like to do startup stuff, because I've worked in the tech industry for a long time and have built some genuine friendships. Awhile back, somebody who I'd worked with closely started a company and Bloomberg Beta could have been an investor. They started asking me my thoughts on how to approach other investors, and I was fine with that, I was happy to talk to him. But at one point it was Saturday at 6:00 PM and he was asking for advice, and I said, "Wait a minute. Are we talking about _us_ investing?" And it got a little awkward. So I said, "Look, we're friends, but you wouldn't call your friend a cardiologist and ask them to perform heart surgery on you." And I'm not saying I'm a cardiologist, but at some point you do have to draw your lines – even with friends.]
-
-
-
-[**What's it like working at a big organization vs. a startup?**](https://www.pscp.tv/w/1dRJZZlNkgaJB)
-
-\[The below comes from[ Hadiyah Mujhid, Founder and CEO, HBCUvc](https://www.linkedin.com/in/hmujhid)]
-
-Joining a startup can provide immense opportunity as you get to be a part of a small team and learn directly from the company’s founder(s). Although you’re taking a risk, you're still getting paid – even if it may not be the kind of salary you can get elsewhere.
-
-One thing that prevents people from joining startups is something people call ‘the mother effect’–that is, you think your mother won’t be proud of you if you go work at an organization that she hasn’t heard of, compared to big brands like Google, Bloomberg, or Lockheed Martin \[Ed: where Hadiyah got her start]. So you need to be confident in your identity and what you tell others. The world is slowly changing in how people view startups: now, more people (and more mothers) are recognizing them as wonderful places to work.
-
-Your perspective during college, and even after college, may be purely economic – you might only focus on who will pay you the most right now. This is understandable when you have bills to pay. It can be difficult to develop a lens that lets you evaluate a short-term salary versus long-term wealth.&#x20;
-
-\[Ed.: The first time I got offered [a job with a big salary](https://www.mckinsey.com), I was drawn to those six digits. That was really hard to turn down.]
-
-At a smaller startup, they won’t be able to compete with pure salary, but if you're a part of a team that's going to grow, then you have entitlement to equity or ownership in that company.&#x20;
-
-Beyond salary, it’s important to consider the other opportunities you can get from a startup, such as experience that will help you for your next company and role. And one of the best things you can gain from a startup is the network. When you first join a company, you get to be a part of a cohort, maybe joining other recent graduates or other folks who are in learning mode, where you bond because you don’t know anything. \[Ed.: Some of the people I worked with at my first job are still some of the people I work with now.]
-
-Taking the leap and joining a startup can pay dividends when it comes to building connections and experience.
-
-
-
-****[**I'm an executive at a big company. What should I know about being an advisor to a startup?**](https://www.pscp.tv/w/1DXxyADEPVRxM)****
-
-Ask yourself why you want to be an advisor. It's flattering to get asked to advise a company, but the reasons to participate may vary. It's rarely about wanting to make money because the money might or might not arrive at some future point. It's often about a desire to learn by collaborating with people or a desire to elevate oneself by being an advisor. Or the person asking you is somebody you really care about and you just want to help them.
-
-There are different kinds of advisors. Sometimes being an advisor just means someone can call you for advice. Sometimes it is about using your name, privately or publicly (in which case you have to think about whether or not you wish to have your name used in that way). Sometimes it is a formal relationship of providing advice in exchange for equity. Sometimes in exchange, you're also asked to not compete -- not to advise competitive businesses. \[Ed.: When I was an executive at a big company, I said no to being an advisor at one company because it was clear they were just giving me a little bit of equity to prevent me from talking to anybody else in this space –and it was a space that I cared about, coding learning. So I didn't want to do that.] There's a package of gives and gets with advising, so you need to know why you're doing it.
-
-If you're in a big organization, that organization might have policies about outside affiliations. If the reason the company wants you to work with them is because you're an engineering leader at Bloomberg, that might be an issue for Bloomberg, so you should know what your organization's policy is. And ethically speaking, you should just be transparent. You should disclose your potential advisory role to whoever you work for and make sure they know, especially if the startup you are advising may talk about your advice in public. The company may actually be trying to borrow the brand of your employer, saying, "Google executive such and such is an advisor." If that's the case, that brand is more than yours and yours alone. So you be careful about that.
-
-The advisor relationship can vary a lot. When you sign an advisor agreement, you typically get equity and you promise to provide certain services or not to compete. And equity can vary a lot: an early-stage startup might give you 2% to be an advisor on the very high end, but 10 basis points or a quarter of a point is much more common.&#x20;
-
-The single most common thing that you do as an advisor is you make yourself available if the company has questions. The cadence will vary – once a week, once a month – and you can determine that with the team based on their needs. Know what you want to get out of it and what you're willing to give.
+### Marketing
 
 [**Can I change my company name?**](https://www.pscp.tv/roybahat/1MnGndwoeZyxO)
 
@@ -330,9 +224,101 @@ Once you have legally changed your name, you can begin to update your platform. 
 
 The process of changing your company’s name is undoubtedly a hassle \[Ed.: one that lasted about 6 months for Spike], but it is something that can build value in the company in the long term.&#x20;
 
-_\[Contributed in part by: _[_Spike Lipkin, Co-Founder & CEO, Newfront Insurance_](https://www.linkedin.com/in/spike-lipkin/)_]_
+_\[Contributed in part by:_ [_Spike Lipkin, Co-Founder & CEO, Newfront Insurance_](https://www.linkedin.com/in/spike-lipkin/)_]_
 
+### Working for a startup, as a founder or otherwise
 
+[**Do I need a coach?**](https://www.pscp.tv/w/1MnGndNmvBBxO)****
+
+\[Ed.: The below comes from [Lori Mazan](https://www.linkedin.com/in/lorimazan/), co-founder of [Sounding Board](https://www.soundingboardinc.com).]
+
+Yes, you need a coach. If you are starting or thinking of starting a high-growth company, then as a founder, your own personal growth has to be rapid as well. If your growth isn't rapid, you end up becoming the roadblock to your company's success.
+
+The thing about a coach is they're always on your side; their agenda is only your growth. If you go to a friend and ask for help, it doesn't matter how much they care about you, it's still an ask. A coach is just there for you.
+
+One way to find a coach is to ask around your network to people who you think are successful as founders, CEOs, etc., and see where they've found their coaches. You'll be shocked to learn how many people have coaches, even if they're not upfront about it.&#x20;
+
+For most people, if you ask them, "Do you have a coach?", they'll be flattered. They'll think, "Oh, they must think I have my act together.
+
+[Sounding Board](http://soundingboardinc.com) (Ed.: in which Bloomberg Beta is a #proudinvestor) is an enterprise coaching solution, so people can get coaching services and coaching management through a robust technology platform.&#x20;
+
+The coaching relationship is sometimes compared to a personal trainer, but a professional coach goes well beyond just accountability and "standing there" making you do things. They're a thought partner for you, helping you think in novel ways, helping you go beyond your easy, top-of-mind answer, helping you develop yourself in ways you hadn't thought of yourself before.
+
+[**How much am I supposed to pay myself?**](https://www.pscp.tv/w/1vAxRrEeQyPxl)****
+
+If you're thinking about starting a company, the question of how to handle your own personal money is arguably the most important early decision, because it enables you to take the leap. \[Ed.: In my case, when I started a company, I saved from prior jobs and did two things at once for awhile.]
+
+Contrary to the popular myth, most of the best founders did not bet the farm when they started their company. They proceeded tentatively, one step at a time. There are dramatic stories of those who did put it all on the line. Most others managed the risks, skillfully. You can "de-risk" your transition by working on your new thing as a side project, or consulting before becoming fully self-employed. &#x20;
+
+When you do have outside money coming in, **you should pay yourself enough so that you can live sustainably.** If you are self-funding in the beginning, then of course you own it all and you can figure out how much you wish to pay yourself based on what you need. (On average, most founders tend to pay themselves too little, not too much, because they're concerned with how it might look to overpay themselves, and they're making sure they use the business' capital well.)
+
+Figuring out how to pay yourself sustainably depends on your life circumstances. Maybe your co-founder is a mom who is the sole provider for a family with two kids, and her needs are going to be very different than those of a recent college graduate, or for someone who's in their third career.&#x20;
+
+If you're thinking about starting a company with a cofounder or cofounders, this can have an impact on your pay. Be open with each other about your respective life circumstances so you're clear about expectations and needs from the beginning.&#x20;
+
+There are rare cases where somebody wants to pay themselves a very large salary, e.g., they raise a million dollars and want to pay themselves $350,000. When you're talking to investors, you have to remember that you are pitching a company and they want you to use the resources as responsibly as possible.
+
+The principle is you should pay yourself enough to be able to live without distraction -- so you can focus on the work at hand.&#x20;
+
+[**When is it appropriate for founders to get an equity plus-up?**](https://www.pscp.tv/w/1MYxNVqdnzPxw)****
+
+When you're a founder, you own your company – or you own it with co-founders – and when you bring on investors your ownership goes down because there's only a hundred percent of the company to go around. Typically founders are on a vesting schedule, meaning they receive their ownership gradually over time.
+
+You might think, "That's weird, I started the company – why do I need to receive the ownership gradually over time?" There are two reasons: 1) It protects co-founders from a founder who wants to leave (and if that founder leaves after one year and everybody else worked 15 years, they shouldn't get the same amount). 2) It protects investors from the risk that they'll invest and the founder will leave.
+
+The standard vesting period is four years. So what happens at four years and two months, and you've raised a few rounds of funding and you have 25%... should you have more equity? The short answer is yes. If the company had to hire someone new, they'd need to pay them equity. Why should you keep working without getting more equity, just because you already have some?
+
+In life, you often only get paid when you ask to get paid. \[Ed.: I've had many times in my life where I  realized that if only I'd put up my hand and said, "Hey, I think I deserve more," I could have been paid more and in some cases much more.] As a founder, the equivalent is when you feel you want more of your company, then it's on you to ask.
+
+If the company had to bring in your replacement, what would they pay them in terms of equity? Let's say you've raised a couple of rounds of funding, so they'd have to pay the new leader 3% (or something like that) in equity. Then that figure might be an appropriate ask for you.&#x20;
+
+Your team is going to get refreshed grants every few years, because you want them to continue to have an incentive; it doesn't make sense for you to be treated differently from your team. This approach generally works in normal cases, but there can be extenuating circumstances where it's more complicated. For example, a founder made an error in the beginning and took an investor that got way too much equity, so they don't own enough. This can be a problem for the business and require a more serious correction.
+
+There are also cases where prospectiveinvestors will offer an equity plus-up to the founder as an incentive to take their offer. For example, an investor comes in and says, "I'll invest at the following price, but, Founder, I'll also give you an extra 3%."  You have to be careful about a situation like this and communicate openly, otherwise it will look like you're only worried about your self-interest, as opposed to that investment being good for the company.
+
+With co-founders, there are a lot of the same considerations, but in the early days it's a relationship question of working out amongst yourselves what you think is right as a founding team. Ideally you are presenting to the board (or whoever decides) a package of what you think is the right answer (if the board has to adjudicate founder conflicts, it never goes well). The equity for each individual might be less if there are more co-founders, so there might be more of a demand for somebody to get a bit more.
+
+[**A startup founder asked me for help with a project. How do I ask to get paid for it?**](https://www.pscp.tv/w/1PlJQNPYVzzxE)****
+
+When helping startups with projects, you can err in either direction: 1) focusing too much on getting paid, or 2) or constantly doing favors and never getting paid. There are also different ways of getting paid: sometimes you get paid in cash, sometimes you can get paid in equity. Sometimes you can get "paid" in a commitment to work together on something else, or a soft understanding. Only you know how important it is to you to get paid, and whether you value cash or something else.
+
+Think about how you want to get paid, know what you want to request, and then be thoughtful with how you ask for it. It's okay to say, "Look, I really love your project and I think it could be amazing. I'm in a place right now where in order to be able to do that kind of work, I need X, or the value I think I deliver is Y." And then just ask.
+
+You can also over-correct in the other way, which is to just do the work without getting paid. You say, "Hey, I'll look at your product model." Or "I'll give you thoughts on your email marketing. Happy to do whatever." And then eventually you end up feeling the other person took advantage of you. Great founders are sometimes really good at getting free work out of people, so you need to know your boundaries.&#x20;
+
+When setting boundaries, always consider timing and dosage: Ask about payment in a way that is likely to be palatable to the person on the other side, and know how you want to get paid because cash is different than upside in the future and you can get a mix of both. And sometimes it's just too complicated. The thing can get weighed down when you're like, "Well, I'd like to work on it, but I'd like a mix of cash and equity by the hour."  Sometimes you may just do the work and hope that it works out. Know your own line and then raise it appropriately.
+
+\[Ed.: I know lots of people who like to do startup stuff, because I've worked in the tech industry for a long time and have built some genuine friendships. Awhile back, somebody who I'd worked with closely started a company and Bloomberg Beta could have been an investor. They started asking me my thoughts on how to approach other investors, and I was fine with that, I was happy to talk to him. But at one point it was Saturday at 6:00 PM and he was asking for advice, and I said, "Wait a minute. Are we talking about _us_ investing?" And it got a little awkward. So I said, "Look, we're friends, but you wouldn't call your friend a cardiologist and ask them to perform heart surgery on you." And I'm not saying I'm a cardiologist, but at some point you do have to draw your lines – even with friends.]
+
+[**What's it like working at a big organization vs. a startup?**](https://www.pscp.tv/w/1dRJZZlNkgaJB)
+
+\[The below comes from[ Hadiyah Mujhid, Founder and CEO, HBCUvc](https://www.linkedin.com/in/hmujhid)]
+
+Joining a startup can provide immense opportunity as you get to be a part of a small team and learn directly from the company’s founder(s). Although you’re taking a risk, you're still getting paid – even if it may not be the kind of salary you can get elsewhere.
+
+One thing that prevents people from joining startups is something people call ‘the mother effect’–that is, you think your mother won’t be proud of you if you go work at an organization that she hasn’t heard of, compared to big brands like Google, Bloomberg, or Lockheed Martin \[Ed: where Hadiyah got her start]. So you need to be confident in your identity and what you tell others. The world is slowly changing in how people view startups: now, more people (and more mothers) are recognizing them as wonderful places to work.
+
+Your perspective during college, and even after college, may be purely economic – you might only focus on who will pay you the most right now. This is understandable when you have bills to pay. It can be difficult to develop a lens that lets you evaluate a short-term salary versus long-term wealth.&#x20;
+
+\[Ed.: The first time I got offered [a job with a big salary](https://www.mckinsey.com), I was drawn to those six digits. That was really hard to turn down.]
+
+At a smaller startup, they won’t be able to compete with pure salary, but if you're a part of a team that's going to grow, then you have entitlement to equity or ownership in that company.&#x20;
+
+Beyond salary, it’s important to consider the other opportunities you can get from a startup, such as experience that will help you for your next company and role. And one of the best things you can gain from a startup is the network. When you first join a company, you get to be a part of a cohort, maybe joining other recent graduates or other folks who are in learning mode, where you bond because you don’t know anything. \[Ed.: Some of the people I worked with at my first job are still some of the people I work with now.]
+
+Taking the leap and joining a startup can pay dividends when it comes to building connections and experience.
+
+****[**I'm an executive at a big company. What should I know about being an advisor to a startup?**](https://www.pscp.tv/w/1DXxyADEPVRxM)****
+
+Ask yourself why you want to be an advisor. It's flattering to get asked to advise a company, but the reasons to participate may vary. It's rarely about wanting to make money because the money might or might not arrive at some future point. It's often about a desire to learn by collaborating with people or a desire to elevate oneself by being an advisor. Or the person asking you is somebody you really care about and you just want to help them.
+
+There are different kinds of advisors. Sometimes being an advisor just means someone can call you for advice. Sometimes it is about using your name, privately or publicly (in which case you have to think about whether or not you wish to have your name used in that way). Sometimes it is a formal relationship of providing advice in exchange for equity. Sometimes in exchange, you're also asked to not compete -- not to advise competitive businesses. \[Ed.: When I was an executive at a big company, I said no to being an advisor at one company because it was clear they were just giving me a little bit of equity to prevent me from talking to anybody else in this space –and it was a space that I cared about, coding learning. So I didn't want to do that.] There's a package of gives and gets with advising, so you need to know why you're doing it.
+
+If you're in a big organization, that organization might have policies about outside affiliations. If the reason the company wants you to work with them is because you're an engineering leader at Bloomberg, that might be an issue for Bloomberg, so you should know what your organization's policy is. And ethically speaking, you should just be transparent. You should disclose your potential advisory role to whoever you work for and make sure they know, especially if the startup you are advising may talk about your advice in public. The company may actually be trying to borrow the brand of your employer, saying, "Google executive such and such is an advisor." If that's the case, that brand is more than yours and yours alone. So you be careful about that.
+
+The advisor relationship can vary a lot. When you sign an advisor agreement, you typically get equity and you promise to provide certain services or not to compete. And equity can vary a lot: an early-stage startup might give you 2% to be an advisor on the very high end, but 10 basis points or a quarter of a point is much more common.&#x20;
+
+The single most common thing that you do as an advisor is you make yourself available if the company has questions. The cadence will vary – once a week, once a month – and you can determine that with the team based on their needs. Know what you want to get out of it and what you're willing to give.
 
 ### Getting Investment
 
@@ -352,8 +338,6 @@ One benefit to asking and receiving money from your friends and family is that i
 
 Asking those who are close to you for money can be a difficult thing to do, but if you are courageous enough to do it, you can reap the benefits later.
 
-
-
 #### [How do I know if an angel investor is a legitimate candidate to invest, or just pulling a bait-and-switch?](https://www.pscp.tv/w/1OdJrqBLWyPGX)
 
 This is first a question about [how do you trust anybody in business](https://app.gitbook.com/@bloomberg-beta-1/s/this-is-not-advice-about-work/working-with-others#how-do-i-know-if-i-can-trust-a-new-potential-business-partner). It's especially important with investors because that is a marriage from which there is no divorce. And every investor on your cap table, or who loans you money, can ruin your company. Many people approach companies, pretending to be interested in investing, only to try to sell them a service or ask to receive free equity in the business in exchange for advice.
@@ -366,7 +350,7 @@ Ask them about the last investment they made. See if it smells real. If you know
 
 If they're new to angel investing, you could also send them [advice for first-time angels](https://marker.medium.com/dear-first-time-angel-investor-c6af249a694b), and see how they respond.
 
-[**How much do investors tell you the real reason they don't want to invest? **](https://www.pscp.tv/roybahat/1mnGelXLEaQKX?t=2m34s)****
+[**How much do investors tell you the real reason they don't want to invest?** ](https://www.pscp.tv/roybahat/1mnGelXLEaQKX?t=2m34s)****
 
 "Believe the no, don't believe the reason." That conventional wisdom is more true than not. Founders misread investors more often than they read them accurately... pitch meetings that end in tears have resulted in an investment; grins all around often result in ghosting.
 
@@ -392,8 +376,6 @@ At that moment, the second you have a sense a lead investor is imminent, you try
 
 Your job is to dance with the pending offer -- stretch out the time you have to respond a bit, so you can see if you get a better offer. Some VCs will try to push you to decide the same day. They use time pressure because they know, you might shop their offer (i.e., try to get a better one). \[Ed.: Our venture fund only wants to back founders who, after full examination of their options, believe we are their best possible choice. [So we're allergic to "exploding offers."](https://github.com/Bloomberg-Beta/Manual/blob/master/1%20-%20Manual.md#negotiating) We've lost deals over that, but if you prefer somebody to us, good.]
 
-
-
 [**How do I know if my investor is good?**](https://www.pscp.tv/w/1YpKkNQqavNxj)
 
 \[Ed.: When Bloomberg Beta speaks with founders, we often encourage them — even in our first meeting — to start doing their references on us and others. I've written more about VC references [here](https://also.roybahat.com/how-founders-might-check-vc-references-a13bcb169301).]
@@ -408,19 +390,15 @@ The founder community is tight so you can also keep an eye out for resources suc
 
 These conversations will help you dig deeper on founder preferences and uncover which VCs are true "founders' choice" investors.
 
-
-
 #### [How should you answer if an investor calls to ask for a reference on a founder?](https://www.pscp.tv/w/cZHn0zFsWktwWXhYSnhvam58MUJSS2pRWnZ5T1d4dzz0raaiIPcDNowya74tgfhpSC\_EtH6YBWsQglqqO\_ix)
 
 Consider: what do you want to get out of providing this reference? For example: Do you want to talk to more startups? Do you want to make some money by advising a startup?&#x20;
 
-Head fake: The investor is not _really _asking your opinion about whether they should invest in the startup. Most investors have big egos and they think that's their job to decide whether they should invest in the startup or not. Your job is to respond to the thing that you uniquely know about.
+Head fake: The investor is not _really_ asking your opinion about whether they should invest in the startup. Most investors have big egos and they think that's their job to decide whether they should invest in the startup or not. Your job is to respond to the thing that you uniquely know about.
 
 The investor might be calling to ask how well you know the person... do you trust them? How highly do you rate them compared to others? Maybe you're a scientist and the investor is asking about whether the science is legitimate. What do you make of the credentials of the people involved? Would somebody else be able to clone that science easily? And if so, how much effort would it take? Know why the investor is calling you for a reference.
 
 If you want to get more calls from them, don't sugarcoat it -- say what you really think. And then you might want to add whether you wish to get involved in this startup. You could lend your name in exchange for getting a little bit of equity as an advisor or something like that.&#x20;
-
-### Venture capital
 
 [**What am I supposed to put on that "market size" slide in my investor presentation?**](https://www.pscp.tv/roybahat/1mnGelXLEaQKX?t=7m5s)
 
@@ -432,7 +410,7 @@ If a VC asks, "Where's your market size slide?" they're probably stuck in a unif
 
 If you feel you must make a market size slide, make it in a way that is appropriate to your business model. If you're selling to big enterprise customers, it's about logos and target contract sizes. If, for example, you're selling a software product where customers just need to swipe a credit card, then it should be comparable to other companies', include early price testing, how many customers, etc. You can do math, don't overthink it.
 
-[**How do you answer questions about whether your business is "defensible" from competitors? **](https://www.pscp.tv/roybahat/1mnGelXLEaQKX?t=10m47s)****
+[**How do you answer questions about whether your business is "defensible" from competitors?** ](https://www.pscp.tv/roybahat/1mnGelXLEaQKX?t=10m47s)****
 
 When it comes to defensibility, beware "you're dead" questions. By the time somebody starts asking you questions like "What will you do if Google competes with you?" you might already be dead. Don't invest lots of time in chasing answers to "you're dead" questions. (If it's the first question out of the investor's mouth, then you're probably not dead yet.)
 
@@ -441,8 +419,6 @@ Articulate your story in terms of why you can protect the value you've built. Fo
 And relevant for some businesses, but not all, think about "What will you do about a fast clone?" Because lots of businesses don't die, they end up having their wings clipped by a fast clone or a near clone (similar service copying many aspects of yours).
 
 In a sense, all of cloud software is a "near clone" of enterprise software. It's the same thing, but it works slightly faster and you don't need to buy it in a certain way, and you can log in from anywhere, etc. Just being a slightly less expensive SaaS option isn't enough. In general, unless you're dramatically increasing the size of the market, you're going to have a capped ceiling. So the companies that say, "We do X, only less expensively than the current company," tend not to work well.&#x20;
-
-
 
 [**I got into Y Combinator. Do I do it?**](https://www.pscp.tv/w/1kvJpevnAVwxE)
 
@@ -461,8 +437,6 @@ While YC has a lot to offer, there are a number of other great accelerators. Eac
 If you’re looking at these other lesser-known accelerator programs, you may be asking yourself, "How do I know if an accelerator is good?" There are definitely bad accelerators out there, which won’t support you or benefit you. Find out what is the best company that has gone through the accelerator. If you can’t figure out who that is, then you should probably proceed with caution.
 
 Whether you should do YC or not depends entirely on your specific needs. YC can be very valuable to people who need to connect with other startups and founders, and those who need some direction.
-
-
 
 [**How should we split equity among the co-founders?**](https://www.pscp.tv/w/1BdxYnEeABXKX)
 
@@ -484,8 +458,6 @@ You probably won’t care about your vesting period and equity shares unless you
 
 Sharing equity is not just about money, it also involves other factors. In order to cover these factors in your conversation, you can ask questions and figure out how everyone is feeling.
 
-__
-
 [**How do I need to think differently working as an investor vs. starting a company?**](https://www.pscp.tv/w/1dRKZZQMwjoKB)****
 
 \[Ed.: The below comes from [Conor Sen](https://www.linkedin.com/in/conor-sen-709140/), columnist at [Bloomberg Opinion](https://www.bloomberg.com/opinion/authors/ATA2uaN4m4A/conor-sen) and founder of Peachtree Creek Investments.]
@@ -502,13 +474,15 @@ Often companies face the biggest issues when they transition from one phase of a
 
 Talk to investors at different stages to understand the perspectives from where you may be someday.  Seeking different perspectives can go such a long way to understanding how to run your professional life.
 
+### Working in venture capital
+
 #### [How can I get a job in venture capital?](https://www.pscp.tv/w/ccPx\_zFsWktwWXhYSnhvam58MWdxeHZhd25QZUJKQgKWP6VmP8UcsP6cuEXwLSWDxMUBRL3CSMbz0r9XqJdY)
 
 **Do you really know what venture capital is all about?** Many people have misconceptions. For example, if you want to be a successful venture capital investor, it isn't obvious that the best way to start is by trying to be a (junior) venture capital investors. The very best VCs, tend to be people who had some significant professional life experience -- starting a company, being a respected Wall Street analyst, etc.
 
-Many aspiring VC's believe that being an investor is mostly about giving advice to founders. "I love giving entrepreneurs advice!" It's different when they're your friends.** Founders often merely tolerate receiving the advice of VCs. They placate their investors to get what they really want, which is money.** (One reason for this is the vast majority of VC advice is inane.)
+Many aspiring VC's believe that being an investor is mostly about giving advice to founders. "I love giving entrepreneurs advice!" It's different when they're your friends. **Founders often merely tolerate receiving the advice of VCs. They placate their investors to get what they really want, which is money.** (One reason for this is the vast majority of VC advice is inane.)
 
-Early-stage venture capital is different from investing in public markets, where you contemplate big-picture trends, analyze numbers, and make seasoned judgments based on data. A better comparison is to an [A\&R person in the music business](https://en.wikipedia.org/wiki/Artists\_and\_repertoire). Your job is to discover new acts, exercise taste on whether or not you want to work with them. Your job is to cultivate them and help them be successful and, ultimately, serve them. Given that, like what does an A\&R person_ do_? There are some fun parts. You go to parties and talk to people. You're thinking about music you love. However, much of it is grunt work. Who should we invite to this event? How do we organize a CRM to make sure we've been in touch with people?&#x20;
+Early-stage venture capital is different from investing in public markets, where you contemplate big-picture trends, analyze numbers, and make seasoned judgments based on data. A better comparison is to an [A\&R person in the music business](https://en.wikipedia.org/wiki/Artists\_and\_repertoire). Your job is to discover new acts, exercise taste on whether or not you want to work with them. Your job is to cultivate them and help them be successful and, ultimately, serve them. Given that, like what does an A\&R person _do_? There are some fun parts. You go to parties and talk to people. You're thinking about music you love. However, much of it is grunt work. Who should we invite to this event? How do we organize a CRM to make sure we've been in touch with people?&#x20;
 
 **If you do want a job in VC, here are some thoughts on how to get one:**
 
