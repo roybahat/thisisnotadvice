@@ -24,9 +24,9 @@ Once you identify the person you admire who seems to be in the fight, reach out 
 
 A frequent thing people ask themselves: "Do I need to quit my job if I want to make a difference in a crisis?" You might... but it's not necessary that you do. Many people are able to help part-time.&#x20;
 
-### Companies doing good
+### Company values
 
-#### [How can my company do good in the world and succeed in business at the same time? ](https://www.pscp.tv/roybahat/1YqGoRYQEjEKv)
+****[**How can my company do good in the world and succeed in business at the same time?** ](https://www.pscp.tv/roybahat/1YqGoRYQEjEKv)****
 
 There was a time when people in business thought about [shareholder value](https://medium.com/@bgadbaw/if-they-use-it-it-must-be-useful-or-is-it-2ccb3f7e241e) as the ultimate aim -- and then many companies began to worry about doing less harm. Today, maybe the answer is that the purpose of business is purpose.&#x20;
 
@@ -43,8 +43,6 @@ You have agency over what you choose to care about. Of course there are tradeoff
 \[Amol: The business of business is purpose. Do not let someone say, "we can't walk and chew gum." Because we can.]&#x20;
 
 Like so many things in life and in business, we tend to think that some aspect of our work is innate, intrinsic, unchangeable -- like whether you can do good and make money at the same time. So many of these things are just tradecraft. We learn how to resolve these contradictions. We learn how to elevate something like fighting racism to the point where it is central to how the company accomplishes its goals.
-
-
 
 [**What do I do if I feel my employer has lost sight of our mission?**](https://www.pscp.tv/w/1mrGmEEMrlZGy)****
 
