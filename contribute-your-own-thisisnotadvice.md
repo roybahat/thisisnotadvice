@@ -1,18 +1,16 @@
 ---
 description: >-
-  What are we missing? Tell us your ideas... #thisisnotadvice is a community
+  What are we missing? Tell us your ideas for #thisisnotadvice, a community
   reference guide to help people at work.
 ---
 
 # Contribute your own #thisisnotadvice
 
-## #thisisnotadvice started as a daily video, but now it also lives as a reference guide. Add questions and answers that you think might be relevant. If you prefer to discuss it live, we still do videos from time to time. \[Github pull request CTA] What are we missing?
+_#thisisnotadvice started as a_ [_daily video_](https://twitter.com/search?q=%23thisisnotadvice\&src=typed\_query\&f=live) _by Bloomberg Beta, but it now lives on as a community reference guide. Add questions and answers that you think might be relevant by submitting a pull request on_ [_Github_](https://github.com/roybahat/thisisnotadvice)_. If you prefer to discuss it live, we still do videos from time to time._
 
-## Below is a comprehensive list of our [#thisisnotadvice](https://twitter.com/search?q=%23thisisnotadvice\&src=typed\_query\&f=live) conversations, many of which have been transcribed and edited into this book for your reference. What are we missing? Do you have a fresh topic for us to cover, or for a requested edit to our existing content? Find us online (@bloombergbeta and @roybahat on Twitter) or visit us on Github to submit a pull request (link).
+**Videos:**
 
-##
-
-
+**{SYDNEY UPDATING ORDER TO REVERSE CHRONOLOGICAL AND DO COPY CHECK TO MAKE SURE NOTHING IS WONKY}**
 
 | Title (hyperlinked)                                                                                                                                                                                                                                                 | Roy Bahat + Guest name (if there was a guest)                               |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------- |
