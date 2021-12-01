@@ -8,7 +8,7 @@ description: >-
 
 ### Learning
 
-#### [**How do I decide who to ask for advice?**](https://www.pscp.tv/w/1mrxmEneVBZxy)** **
+#### [**How do I decide who to ask for advice?**](https://www.pscp.tv/w/1mrxmEneVBZxy) ****&#x20;
 
 \[Ed.: The below comes from [Tiffany Dufu](https://www.linkedin.com/in/tiffanydufu/), founder and CEO of [The Cru](https://twitter.com/findyourcru).]
 
@@ -33,7 +33,7 @@ By going to multiple people for advice, you can do some pattern matching about w
 
 So be mindful of whether or not you really need advice – or just affirmation – and if you do need advice, seek multiple types of people for input.
 
-****[**When I need to learn something as a busy person, how do I do it?**](https://www.pscp.tv/w/1PlKQNVnraNGE)** **
+****[**When I need to learn something as a busy person, how do I do it?**](https://www.pscp.tv/w/1PlKQNVnraNGE) ****&#x20;
 
 \[Ed.: The below comes from [David Rogier](https://www.linkedin.com/in/drogier), founder and CEO of [MasterClass](https://www.masterclass.com).]
 
@@ -43,15 +43,13 @@ It's helpful to talk things out, understand the issue, engage with the issue, as
 
 And then you find people who you click with, who have an extreme point of view, you can keep going going back to them about the same subject.&#x20;
 
-[**What can I learn from famous luminaries and how they operate? **](https://www.pscp.tv/roybahat/1PlKQNVnraNGE?t=21m49s)****
+[**What can I learn from famous luminaries and how they operate?** ](https://www.pscp.tv/roybahat/1PlKQNVnraNGE?t=21m49s)****
 
 \[Ed.: The below comes from [David Rogier](https://www.linkedin.com/in/drogier), founder and CEO of [MasterClass](https://www.masterclass.com).]
 
 There's a misconception that celebrities or luminaries don't work as hard, they just chill because they've mastered their craft. It turns out they're just as insecure about themselves as the rest of us and this insecurity doesn't go away. They take their insecurity and channel it into learning and working hard.They love feedback and want to know how they can change (not so different from great founders).
 
-The most successful celebrities and luminaries want to hear other people's perceptions not so they can decide how to react, but to see if there is a solution and if they can solve for it.
-
-
+The most successful celebrities and luminaries want to hear other people's perceptions not so they can decide how to react, but to see if there is a solution and if they can solve for i
 
 ### Managing your state of mind
 
@@ -103,7 +101,7 @@ It's also helpful to remind yourself of what you can control. Recognize that who
 
 It's terrific that you've named this struggle in yourself -- that's the first step to doing something about it. \[Ed.: I've struggled with depression and anxiety. I believe in talking about it, so we can open the door for others. A colleague with whom I've collaborated, Lenny Mendonca, had a career in business and then was an advisor to Governor Newsom. Lenny announced that the reason he had [resigned from his post to seek treatment for depression](https://twitter.com/Lenny\_Mendonca/status/1280548309971550208), and those steps are in the right direction.]
 
-**Seek support for yourself. **If you can afford it or you've got access, consider getting professional help -- i.e., a therapist. (If you're insured, this is often covered by insurance.) \[Ed.: I resisted this for a long time because I refused to see myself as "having a problem." It took a little trial and error; now I see therapy, like coaching, as essential. Now I see it as a tool for living life better.] You can ask a friend you trust, and look at resources online.
+**Seek support for yourself.** If you can afford it or you've got access, consider getting professional help -- i.e., a therapist. (If you're insured, this is often covered by insurance.) \[Ed.: I resisted this for a long time because I refused to see myself as "having a problem." It took a little trial and error; now I see therapy, like coaching, as essential. Now I see it as a tool for living life better.] You can ask a friend you trust, and look at resources online.
 
 As far as your co-workers go, the first question you might ask: _**should**_** you talk to your team?** In an ideal world, you might think, "Yes, everybody should be open." Some people have forms of privilege where they feel comfortable sharing their mental health issues without worrying too much about the consequences in their professional life -- and not everybody is in a position to do that. Everyone has a different lived experience, and some folks may face bias or discrimination, or work at a company where the culture makes talking about your mental health unacceptable. There's some tradecraft in figuring out if you should say something -- what's the cost of staying silent (suffering alone, getting less help) vs. the cost of speaking up (some possible limitation in future opportunities, though that may be something you're imagining).
 
@@ -111,7 +109,7 @@ If you can speak up, it might be a wonderful thing. Others on your team or in yo
 
 The business culture around mental health is changing: there's now a way of talking about it that's more palatable to folks. Paraphrasing Lenny Mendonca, "I'm not ashamed when I fall off my bike and break my arm. Why would I be ashamed if I've got something broken in my most important organ, my brain?"
 
-**You can, as always, **[**start gradually**](https://also.roybahat.com/the-trust-thing-691791a4c6ca)**. **If you see someone else at work who has talked about it, maybe you go to them and you say, "Hey, I've noticed you've talked about your anxiety or your bipolar diagnosis. I might want to do the same." If you get professional help from, e.g., your therapist they might have ideas on how to talk about it.
+**You can, as always,** [**start gradually**](https://also.roybahat.com/the-trust-thing-691791a4c6ca)**.** If you see someone else at work who has talked about it, maybe you go to them and you say, "Hey, I've noticed you've talked about your anxiety or your bipolar diagnosis. I might want to do the same." If you get professional help from, e.g., your therapist they might have ideas on how to talk about it.
 
 Eventually you may be in a position where you can talk openly with a team. You may be even in a position where you can talk openly with the world -- and then everybody knows.
 
@@ -129,7 +127,7 @@ To prevent that happening, first recognize yourself that there's unpredictabilit
 
 Then try to create an environment where others understand the nature of the problem you're trying to solve. For example, if your manager asks on Monday for you to ship a feature by Tuesday and you don't know if it can be built, try to talk about it. Explain to them why it's unpredictable. Their fear is that you're just looking to go slowly and not produce. Try to reduce that fear by sharing with them what you'll do to better predict the outcomes of your own work.
 
-Take an example of an unpredictable piece of work \[Ed. from my own work as a venture capitalist]: "How long will it take you to find a good investment?" That's impossible to predict accurately. So what _could _you describe accurately? One approach is to focus on inputs: e.g., you could measure the number of companies you meet on a monthly basis. &#x20;
+Take an example of an unpredictable piece of work \[Ed. from my own work as a venture capitalist]: "How long will it take you to find a good investment?" That's impossible to predict accurately. So what _could_ you describe accurately? One approach is to focus on inputs: e.g., you could measure the number of companies you meet on a monthly basis. &#x20;
 
 The trick is picking inputs that really matter to the outputs -- most of the time people end up measuring nonsense for the sake of measuring _something_.&#x20;
 
@@ -141,9 +139,9 @@ Boundary setting is another way of creating predictability out of unpredictable 
 
 If you are in the privileged position to take vacation, take it. People once prided themselves on how little vacation they took. These people were usually under-performers or, more accurately, they performed really well until they got to a certain point in their career -- and then they topped out. They could grind effectively to get done what was expected of them but the unusual insights, the creativity, never arrived.
 
-If you can take vacation, chances are you're in a job where what matters is not the average of your contributions on any given day -- what matters is the _peak _of your contribution. When do you have your most creative insight, when you do your best piece of writing, and how good are you at your peak? The professional value of taking a vacation is that it raises the height of your peaks. It also allows you to enjoy your life more, and work at its best should enable you to fully inhabit life and enjoy it.
+If you can take vacation, chances are you're in a job where what matters is not the average of your contributions on any given day -- what matters is the _peak_ of your contribution. When do you have your most creative insight, when you do your best piece of writing, and how good are you at your peak? The professional value of taking a vacation is that it raises the height of your peaks. It also allows you to enjoy your life more, and work at its best should enable you to fully inhabit life and enjoy it.
 
-When you decide to take a vacation, **prepare before you go away. **Recognize that your first day back is not going to be a normal day and should instead be a day to catch up: no unusual meetings, etc. Otherwise the Sunday before that Monday becomes that "first day."
+When you decide to take a vacation, **prepare before you go away.** Recognize that your first day back is not going to be a normal day and should instead be a day to catch up: no unusual meetings, etc. Otherwise the Sunday before that Monday becomes that "first day."
 
 Set expectations with others about what you expect while you're away. Say, "when I come back, I'd like to see X, Y, and Z done." Your out-of-office email can also help set these expectations. \[Ed.: Our team keeps a running document when someone is away, so we can give them one place to see everything when they're back. I tend to set a "portcullis dropped" out-of-office-message, which says something to the effect of "if you need to break glass, in case of emergency, and ruin my vacation, you can reach me by contorting in the following way."]
 
@@ -183,8 +181,6 @@ The cumulative effect of coaching over time can be powerful. Some of this comes 
 
 Everybody should feel empowered to have somebody in their corner mopping their brow.
 
-
-
 ### Working remotely
 
 [**How do I stay sane while working remotely?**](https://www.pscp.tv/w/1BRJjYlWRaRGw)****
@@ -197,7 +193,7 @@ When you're working from home, you spend almost every minute "at work" doing som
 
 The physics are different when you're working from home all the time. And if you talk to people who've been doing it for a long time, they'll give you lots of wisdom.&#x20;
 
-**Think about how you can challenge the assumptions of how the workplace is meant to work. **For example, for working parents with kids, many workplaces are asking them to work the same way they did before the pandemic. Feel the power to challenge that -- push back. Maybe you need to trade off with your partner and spend time with your kids. The first step is naming the challenge: "I know you think we should be on 8:00 AM to 6:00 PM the way we were before, but that's just not working for me because..."
+**Think about how you can challenge the assumptions of how the workplace is meant to work.** For example, for working parents with kids, many workplaces are asking them to work the same way they did before the pandemic. Feel the power to challenge that -- push back. Maybe you need to trade off with your partner and spend time with your kids. The first step is naming the challenge: "I know you think we should be on 8:00 AM to 6:00 PM the way we were before, but that's just not working for me because..."
 
 Next, if you're going to be effective, **you need to take care of yourself, putting on your own oxygen mask before you take care of others.** For each person, this means something different and **you should experiment with techniques.** Maybe it's calendaring time away from your screen to take time to think. In an office setting, you get some of this time because of your habits, e.g., catching your breath when walking from one meeting to another. In a remote setting, you may need to schedule this time.&#x20;
 
@@ -223,10 +219,6 @@ In some cases, your geography may still matter. Your new job may need you in a c
 
 Remote work has led to a grand set of experiments as we all try to figure out our own priorities and what matters to each of us, and reorganize accordingly. We still don't know the right answers, and only you know the right answer for yourself.
 
-
-
-
-
 ### Getting things done / productivity
 
 #### [How should I get more done?](https://www.pscp.tv/roybahat/1RDxlQAZbDDKL)&#x20;
@@ -245,8 +237,6 @@ The tools you use will change a lot over time. Constantly re-examine your proces
 
 Sometimes that's just hard. Be easy on yourself, be compassionate at yourself. Sometimes you have to progress without knowing if you're going in the right direction. Look up, seek support from your friends, and do your best to move in the right direction.
 
-
-
 ****[**How do I avoid feeling overwhelmed by the flow of information?**](https://www.pscp.tv/w/1yNxaBdBmoDKj)
 
 There's a myth that information overload is a modern phenomenon.&#x20;
@@ -257,9 +247,9 @@ There's a myth that information overload is a modern phenomenon.&#x20;
 
 Information overload comes from expecting you can read or consume more media than you can. (Here we'll focus on news, since catching up on email or instant messages, Slack, etc. is a separate subject.)
 
-**Separate out the informational value from the aspect that's compulsive** -- an addiction. It's fun during the day to check in, go look at Twitter for a minute or Daily Mail. **As long as you're aware you're indulging, it can be OK. **Otherwise, pick your information diet. It can feel like you're making progress when you read a lot of headlines and doomscroll on Twitter, but it might not be serving you in a particularly helpful way. So catch yourself when you're doing that.
+**Separate out the informational value from the aspect that's compulsive** -- an addiction. It's fun during the day to check in, go look at Twitter for a minute or Daily Mail. **As long as you're aware you're indulging, it can be OK.** Otherwise, pick your information diet. It can feel like you're making progress when you read a lot of headlines and doomscroll on Twitter, but it might not be serving you in a particularly helpful way. So catch yourself when you're doing that.
 
-**Be precise about which kinds of information you need, when you need them, and why. **Then read the things that give you that knowledge in a systematic (even if it's a limited) way. There may be some things that you must know to do your job. \[Ed.: For example, with what we do at Bloomberg Beta, there are certain things we need to know. We need to know which big new investments got announced that day because we might be talking about it with others, or we might talk to somebody involved and want to congratulate them. In this case, I look at any one of several wonderful tech newsletters.]&#x20;
+**Be precise about which kinds of information you need, when you need them, and why.** Then read the things that give you that knowledge in a systematic (even if it's a limited) way. There may be some things that you must know to do your job. \[Ed.: For example, with what we do at Bloomberg Beta, there are certain things we need to know. We need to know which big new investments got announced that day because we might be talking about it with others, or we might talk to somebody involved and want to congratulate them. In this case, I look at any one of several wonderful tech newsletters.]&#x20;
 
 Some items you must know immediately -- for example, a news story that mentions your company might be important to know right away. (You can use Google's [Alerts](https://www.google.com/alerts) to follow that.) Other things are OK to catch up on at the end of the day. Many things that seem important in the morning blow over by the afternoon.
 
@@ -299,9 +289,7 @@ You may think that a sensing system is about dealing with information that is pr
 
 As your company increases in size, you probably aren’t going to be able to know everything that is going on in your company. Instead, you can strive to know the important things, which a sensing system can help bring to your attention.
 
-_\[Contributed in part by: _[_Dan Pupius, CEO & Co-Founder, Range_](https://twitter.com/dpup)_]_
-
-
+_\[Contributed in part by:_ [_Dan Pupius, CEO & Co-Founder, Range_](https://twitter.com/dpup)_]_
 
 ### Managing your reputation
 
@@ -319,7 +307,7 @@ There can be great reasons to brag. If you believe that by sharing some achievem
 
 It takes practice. Sometimes you'll feel like you went too far. And you'll also figure out the moments when you feel confident saying, "Okay, I do want to brag about this."&#x20;
 
-**When you figure out that you do want to brag about something, how do you do it? **
+**When you figure out that you do want to brag about something, how do you do it?**&#x20;
 
 There's a distinction between talking about things you've achieved versus talking about your own qualities. Donald Trump says, "I'm the greatest," which means nothing. It's so much more compelling to point to an achievement and say, "I'm so proud that our company reached this milestone."
 
@@ -327,7 +315,7 @@ You can make it even easier on yourself by being concrete. What did you contribu
 
 Recognize the goal of the brag, if there's a professional goal, and shape how you do it to support the goal. \[Ed.: I often brag on behalf of founders who we've invested in, to elevate their achievements, tagging [#proudinvestor](https://twitter.com/search?q=%23proudinvestor%20%40roybahat\&src=typed\_query\&f=live). Or I point to somebody on our team to direct the brag in a way that supports that goal.]
 
-Also think about how your brag is going to read. Sometimes it's going to read like bragging. **There can be a price to bragging, but you can't succeed without paying prices. **Ask if you are getting more value than the price that you paid. If your goal is to never be looked at askance, you'll never brag. And you will be fighting with one arm tied behind your back compared to all the people who can.
+Also think about how your brag is going to read. Sometimes it's going to read like bragging. **There can be a price to bragging, but you can't succeed without paying prices.** Ask if you are getting more value than the price that you paid. If your goal is to never be looked at askance, you'll never brag. And you will be fighting with one arm tied behind your back compared to all the people who can.
 
 #### [I work at a company and am building a startup on the side. Should I be public about what I am doing?](https://www.pscp.tv/w/ccqLiTFsWktwWXhYSnhvam58MVBsSlFObFBEZHZ4RV4L2mx1WQ5LtJx8yyoqkHwNQCgJ1Xu\_UiCXhsGgYBKq)
 
@@ -351,7 +339,7 @@ There are rules of engagement and etiquette for how journalists generally approa
 
 Try reading the journalist's prior work and figure out if you like it. Do you think they say useful and interesting things? And once you have a picture in your head, think to yourself: does it serve my interest to build a relationship with this journalist and talk to them about this story? It's about more than that one story.&#x20;
 
-**You can ask the journalist questions to see if you want to talk. **You could say, "I haven't spoken to a journalist before. I'm curious, how does this work?" And oftentimes this should-we-talk exchange now happens in writing, over DM or email or text. You can even ask, "Is it possible for me to talk to you without being named in your story?" You can come to some agreement with a journalist, particularly if they've reached out to you. You can say you'd like to speak freely, so it would help if you could have the conversation off the record -- or you can ask, if they want to quote you, for them to run the quote by you first. If you don't agree that the conversation is [off the record or on background](https://www.ap.org/about/news-values-and-principles/telling-the-story/anonymous-sources), they are allowed to use anything you say to them. Agree on the terms of the discussion before you begin talking. After you've said something you regret, it's too late.
+**You can ask the journalist questions to see if you want to talk.** You could say, "I haven't spoken to a journalist before. I'm curious, how does this work?" And oftentimes this should-we-talk exchange now happens in writing, over DM or email or text. You can even ask, "Is it possible for me to talk to you without being named in your story?" You can come to some agreement with a journalist, particularly if they've reached out to you. You can say you'd like to speak freely, so it would help if you could have the conversation off the record -- or you can ask, if they want to quote you, for them to run the quote by you first. If you don't agree that the conversation is [off the record or on background](https://www.ap.org/about/news-values-and-principles/telling-the-story/anonymous-sources), they are allowed to use anything you say to them. Agree on the terms of the discussion before you begin talking. After you've said something you regret, it's too late.
 
 Anything you put in a journalist's inbox is fair game. Executives sometimes write to a journalist unsolicited and say, "We're announcing our new product on Tuesday." And then the journalist might write about the product on Tuesday without talking to them.
 
