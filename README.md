@@ -4,6 +4,18 @@ description: '#thisisnotadvice is a community reference guide to help people at 
 
 # #thisisnotadvice about work
 
+{**Draft author's note by Sydney for Roy to review}**
+
+The first episode of #thisisnotadvice aired on May 13, 2020 — 2 months after the Covid Pandemic shuttered us into our homes, isolating us from friends, family, and coworkers. As such, #thisisnotadvice began as a pandemic project, but it turned into something much more significant over the last two years.
+
+All advice is autobiographical; it’s usually a person trying to get you to either live out and justify their choices or worse, they want you to be a vicarious experiment for them and see how it turns out. Often people want a magic wand, a silver bullet – an easy answer. Advice usually doesn't work. What you need is a hypothesis, a guess to consider.
+
+We decided to name this series #thisisnotadvice because you have to chart your path. To help you do just that, we asked founders, friends, and colleagues within the Bloomberg Beta network to share their own work stories. Thank you to each of you (over 200!) who contributed to this body of knowledge in such an intimate way.
+
+It is time to transition #thisisnotadvice into the hands of our dedicated viewers. We sourced some of our best questions from you and hope you will continue to contribute to #thisisnotadvice here on Gitbook.
+
+{**Original opening}**
+
 \[Ed.: This is not advice because I need to know a person well to have a view on what's best for them.]
 
 [**So what should I do with the advice I get?**](https://www.pscp.tv/roybahat/1PlKQNVnraNGE?t=9m52s)
