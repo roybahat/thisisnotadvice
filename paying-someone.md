@@ -66,7 +66,7 @@ Finding a dream career or role can be a long process. Sometimes people have to t
 
 Encourage people that they can push themselves, but also recognize that they're going to have their own inner psychological barriers. Part of your role is to be a sounding board for them as they evolve through that.
 
-_\[Ed.: Much of the above comes from_ [_Anna Gat_](https://twitter.com/theannagat)_, founder and CEO of_ [_The Interintellect_](https://www.interintellect.com)_.]_
+_\[Contributed in part by_ [_Anna Gat_](https://twitter.com/theannagat)_, founder and CEO of_ [_The Interintellect_](https://www.interintellect.com)_.]_
 
 _****_[**How do I know if I need an executive assistant?** ](https://www.pscp.tv/w/cbqi6DFsWktwWXhYSnhvam58MUx5eEJhdk1BUE1KTvbv50I5sKksTI1B9KjK2vEf9-7dOu2Cn2cO2Egeo4Rk)****
 
@@ -88,7 +88,7 @@ The third thing: interviews can be short. "I often know in the first five minute
 
 An important note: interviewing is a pernicious entry place where bias enters into hiring, and can curtail diversity and inclusion and equity efforts. You want to have good candidates. The more objective you can be, the better. If you can't find backdoor references... that's _non_-data, not bad data. You can bias up on interviewing candidates from underrepresented backgrounds -- because they may have had to go through more to get there, and they likely to be better talent having gotten there, they may be better talent. If you want the best talent, interview more people from underrepresented backgrounds.
 
-[I**'m hiring someone and unsure what to pay them. How much should I pay?**](https://www.pscp.tv/roybahat/1eaKbzdkXmYKX)****
+****[**I'm hiring someone and unsure what to pay them. How much should I pay?**](https://www.pscp.tv/roybahat/1eaKbzdkXmYKX)****
 
 As a matter of principle, you want to pay everybody fairly. That means that you would be happy if you were in their shoes, getting paid what you're offering them, knowing what you know. If their happiness depends on their lack of knowledge, you're probably making a mistake.
 
