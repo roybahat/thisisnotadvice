@@ -6,7 +6,7 @@ description: >-
 
 # Changing jobs
 
-### **Creating a career path**
+**Creating a career path**
 
 [**How do I know what I want to do with my life?**](https://www.pscp.tv/w/1yoJMXElQyXGQ)
 
@@ -26,13 +26,13 @@ Once companies get big and public, they often slow down, they become more sclero
 
 [**How do I know when I'm applying for a job if I will enjoy it?**](https://www.pscp.tv/roybahat/1PlKQNVnraNGE?t=20m28s)
 
-\[Ed.: The below comes from [David Rogier](https://www.linkedin.com/in/drogier), founder and CEO of [MasterClass](https://www.masterclass.com).]
-
 One of the best things you can do is "backchannel," which is to say figure out how to talk to employees at that company that aren't on the direct hiring team. If you're able to talk to people on the team, great, but it's usually easier to talk to folks who aren't on the team.
 
 You are going to hear bad stuff and that's fine. You want to hear _what type_ of bad stuff there is – e.g., is it really bad like the boss throws things at people or is it things that you're fine with like an ex-employee didn't feel aligned on a direction or project.
 
 [Glassdoor](https://www.glassdoor.com/index.htm) is not a bad place to start, but you have to remember why somebody writes on Glassdoor – they're either extremely pissed or they are extremely thrilled. But you want to see what the extremely pissed people are saying.
+
+_\[Contributed in part by_ [_David Rogier_](https://www.linkedin.com/in/drogier)_, founder and CEO of_ [_MasterClass_](https://www.masterclass.com)_.]_
 
 **‌**[**How do I get the job when I don't feel like I fit the stereotype?**](https://www.youtube.com/watch?v=tuPdJLJ6dcg\&feature=youtu.be)
 
@@ -50,7 +50,7 @@ Having plans that change, or a non-linear journey can allow you to gain new inpu
 
 You may think that your background doesn’t align with the expectations of a potential employer, but in emphasizing why your different history can benefit a company, you can come across as even more attractive to the hiring person.
 
-\[The above includes contributions from[ Bo Ren](https://twitter.com/Bosefina?ref\_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor), Head of Ecosystem and Assistant GM at Samsung NEXT.]
+_\[Contributed in part by_[ _Bo Ren_](https://twitter.com/Bosefina?ref\_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)_, Head of Ecosystem and Assistant GM at Samsung NEXT.]_
 
 [**I'm unsure if I want to switch careers. Should I?**](https://www.pscp.tv/w/1BRKjYLrqNwxw)
 
@@ -70,8 +70,6 @@ You might consider a contortion in your current role, where you **think about ho
 
 [**If I want to get promoted, how do I do it?**](https://www.pscp.tv/roybahat/1PlKQNVnraNGE?t=15m46s)
 
-\[Ed.: The below comes from [David Rogier](https://www.linkedin.com/in/drogier), founder and CEO of [MasterClass](https://www.masterclass.com).]
-
 In many jobs, the process is rarely very clearfor being promoted is unclear.
 
 A good boss focuses on achieving outcomes and results. Go to your boss and just ask, "What is it I'm going to be judged on? What would take to get a promotion?" And then execute against that. With a bad boss, to get a promotion you just have to make them happy, so that process is less clear.
@@ -81,6 +79,8 @@ To get a promotion, you should already be doing the job that you want. If you're
 Sometimes getting a promotion is about more than your boss's choice. There can be a social dynamic within the organization where you have to figure out, "Who else has to be comfortable with this promotion?" You often need an advocate beyond your boss so you need to figure out who that is.
 
 People overthink getting promoted. And the best careers aren't usually a straight line of coordinator, senior coordinator, junior VP, senior VP. So take heart and look for the opportunities to jump ahead in an usual way.
+
+_\[Contributed in part by_[ __ ](https://twitter.com/Bosefina?ref\_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)__[_David Rogier_](https://www.linkedin.com/in/drogier)_, founder and CEO of_ [_MasterClass_](https://www.masterclass.com)_.]_
 
 [**What happens when I don't get the promotion that I think I should have gotten?**](https://www.pscp.tv/roybahat/1PlKQNVnraNGE?t=18m48s)
 
@@ -132,8 +132,6 @@ Your experience will vary depending on where you are in your career. It's actual
 
 [**How do I explain my career story make sense in light of detours?**](https://www.pscp.tv/w/1kvJpeXEWvMxE)
 
-\[Ed.: The below comes from [Seyi Taylor](https://www.linkedin.com/in/seyitaylor/), Product Management Fellow at [Code for Canada](https://codefor.ca). Seyi went to medical school and graduated and practiced as a doctor for 18 months. And he knew in medical school that he probably wasn't meant to be a doctor for the rest of his life. He then founded a company and now works in product.]
-
 When you need to tell your career story, start by trying to make sense of it for yourself. Ask yourself, "Why did I decide not to do this? Why did I decide not to do that?" Careers are a form of self discovery and of what you can do in the world, so think about where your previous steps have taken you on that path.
 
 Maybe you were in a career that disappeared or became less profitable, or for whatever reason you needed to make a change. Do the hard work of picking stories from your current career, speaking to your experience, and figuring out how to reframe it for what you want to do next.
@@ -143,6 +141,8 @@ An example of this for a product role is that you have to be empathetic and pres
 Oftentimes the reason people struggle to tell their story is because they have unresolved questions about it. [Kurt Vonnegut Jr. said](https://www.youtube.com/watch?v=nmVcIhnvSx8), "start as close to the end as possible." When you present yourself in a professional context, you're not under an obligation to provide a full account of everything that has transpired in your life up to that point. You get to decide where you want to pick up the story and shine a light on certain experiences or themes that feel most relevant.
 
 Life is complicated, but stories are simple. If you can free yourself of the obligation to explain your whole life and just pick the part that seems honest to focus on, the person can always say, "Well, okay, what did you do from the ages of 22 to 25?" And then you can have a conversation about it. Starting with yourself and your own experience will help you start out strong.
+
+_\[Contributed in part by_ [_Seyi Taylor_](https://www.linkedin.com/in/seyitaylor/)_, Product Management Fellow at_ [_Code for Canada_](https://codefor.ca)_. Seyi went to medical school and graduated and practiced as a doctor for 18 months. And he knew in medical school that he probably wasn't meant to be a doctor for the rest of his life. He then founded a company and now works in product.]_
 
 [**If I'm on a visa in the US, what do I need to know about my options for changing jobs?**](https://www.pscp.tv/w/1mrxmEkkkwwxy)
 
