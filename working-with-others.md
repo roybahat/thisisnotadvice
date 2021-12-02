@@ -46,7 +46,7 @@ If you just aren’t sure how someone will perceive the Calendly link, you can a
 
 If you’re solving for your own convenience, sending a Calendly link is a great option. If you want to solve for the convenience of others, you may want to consider giving them the option to use Calendly or a more traditional method.
 
-_\[Contributed in part by: Minn Kim, Investor, Bloomberg Beta]_
+_\[Contributed in part by_ [_Minn Kim, former principal at Bloomberg Beta_](https://twitter.com/minney\_cat)_]_
 
 ### Building relationships
 
@@ -110,13 +110,13 @@ Being an ally is hard, it's risky, it takes work -- you will have setbacks and n
 
 [**How do I send a cold ask to someone prominent and get them to respond?** ](https://www.pscp.tv/roybahat/1PlKQNVnraNGE?t=12m35s)****
 
-\[Ed.: The below comes from [David Rogier](https://www.linkedin.com/in/drogier), founder and CEO of [MasterClass](https://www.masterclass.com).]
-
 ****[Tristan Walker](https://www.linkedin.com/in/tristanwalker/) is a great entrepreneur, the founder of [Walker & Company](https://walkerandcompany.com) (acquired by Procter & Gamble in 2018), and currently on the board of Foot Locker and Shake Shack. In 2009, he wanted to work at Foursquare -- everyone wanted to work there. He applied on the company website and didn't hear anything back. He sent emails, he didn't hear anything back. So he emailed again, and again, and again, and again. It still didn't work.&#x20;
 
 When Tristan didn't hear back from Foursquare, he decided to just start doing work for them on the side, and reached out to brands saying, "Hey, would you want to run ads on Foursquare?" He got creative about how to deliver value -- and this early-stage company took note and ended up hiring him.&#x20;
 
 If someone isn't responsive to you, figure out a way to do something to help them. Be useful.
+
+_\[Contributed in part by_ [_David Rogier_](https://www.linkedin.com/in/drogier)_, founder and CEO of_ [_MasterClass_](https://www.masterclass.com)_.]_
 
 ### Sensitive issues
 
@@ -255,8 +255,6 @@ When you say no, _it can help to explain why you're refusing the request_. Refer
 **Being aware of your value and practicing declining opportunities is a skill.** One way to hone that skill is to develop your own system that rewards you when you exercise that skill.&#x20;
 
 It's important to say no. Though _how_ you say it is also really important, particularly if you're in a relationship business. If you're a producer in Hollywood or a venture capitalist or a salesperson, you need to be good at saying no in a way that does more than just refuses the request -- it also builds the relationship. In those industries you don't get to choose between yes and no, you have to choose a version of no that builds your reputation in the way you want.
-
-
 
 ****[**How do I handle a customer who is being abusive towards me?**](https://www.pscp.tv/w/1ZkKzmvBWAoxv)****
 
