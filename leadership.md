@@ -22,7 +22,7 @@ A team member might ask, "We disagree on this, are you okay going along or do we
 
 Sometimes your team just wants you to make a decision, and you need to get clear on that by asking, "What are the decisions that you're asking me to make?"
 
-_\[Ed.: The above comes in part from_ [_David Rogier_](https://www.linkedin.com/in/drogier)_, founder and CEO of_ [_MasterClass_](https://www.masterclass.com)_.]_
+_\[Contributed in part by_ [_David Rogier_](https://www.linkedin.com/in/drogier)_, founder and CEO of_ [_MasterClass_](https://www.masterclass.com)_.]_
 
 ### Boards
 
@@ -70,9 +70,9 @@ You'll build a lot more trust with your board if you're upfront about an issue. 
 
 The contents of a board meeting should never be a surprise to anyone in the room. One way to guarantee this is to informally get together with board members on a regular basis, over lunch or video call, to share the good and bad of what's going on.&#x20;
 
-_\[Ed.: The above comes from_ [_David Rogier_](https://www.linkedin.com/in/drogier)_, founder and CEO of_ [_MasterClass_](https://www.masterclass.com)_.]_
+_\[Contributed in part by_ [_David Rogier_](https://www.linkedin.com/in/drogier)_, founder and CEO of_ [_MasterClass_](https://www.masterclass.com)_.]_
 
-__[**What do I do if a reporter writes a great story about my competitor?**](https://www.pscp.tv/w/1DXGyAOzbBNGM)
+[**What do I do if a reporter writes a great story about my competitor?**](https://www.pscp.tv/w/1DXGyAOzbBNGM)
 
 The default: do nothing. Some people may assume it's a cataclysmic event when a reporter writing a story  giving your competitor, and not you, attention. The reality: eventually nobody remembers. Customers matter more. Talent matters more.&#x20;
 
@@ -152,7 +152,7 @@ Avoid using the inclusive-seeming "he or she," and choose them instead. Many of 
 
 Metaphors are also great for diving deeper on a point you want to make, but can also be problematic _–_ e.g., [military metaphors often rationalize mistreating people](https://shift.newco.co/2016/11/15/business-is-not-war-lets-stop-talking-like-it-is/). Choose universal human experiences instead: food and cooking. We all eat. We all love it. Play to topics in the universal human experience: driving, walking, nature.
 
-_\[Ed.: The above comes from_ [_Kieran Snyder_](https://www.linkedin.com/in/kieran-snyder-60572987/)_, co-founder and CEO of_ [_Textio_](https://textio.com)_.]_
+_\[Contributed in part by_ [_Kieran Snyder_](https://www.linkedin.com/in/kieran-snyder-60572987/)_, co-founder and CEO of_ [_Textio_](https://textio.com)_.]_
 
 Note: Bloomberg Beta is an investor in Textio.
 
