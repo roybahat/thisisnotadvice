@@ -30,5 +30,31 @@ There are only rare cases where you actually want an answer to, "What would you 
 
 Seek out a range of options, and understand your choices. Then decide for yourself.
 
-###
+{IMAGE OPTION 1: BLOCK}
+
+![](.gitbook/assets/image.png)
+
+**{IMAGE OPTION 2: SMALLER}**
+
+****
+
+&#x20;![](<.gitbook/assets/image (3).png>)
+
+****
+
+**{ALT COLORS}**&#x20;
+
+****![](<.gitbook/assets/image (1).png>)
+
+
+
+![](<.gitbook/assets/image (4).png>)
+
+
+
+![](<.gitbook/assets/image (5).png>)
+
+
+
+![](<.gitbook/assets/image (2).png>)
 
