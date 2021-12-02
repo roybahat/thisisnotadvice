@@ -10,8 +10,6 @@ description: >-
 
 #### [**How do I decide who to ask for advice?**](https://www.pscp.tv/w/1mrxmEneVBZxy) ****&#x20;
 
-\[Ed.: The below comes from [Tiffany Dufu](https://www.linkedin.com/in/tiffanydufu/), founder and CEO of [The Cru](https://twitter.com/findyourcru).]
-
 You get advice constantly. You're thinking about starting a company, you get advice. You decide to have a kid, you get advice. So how do you decide who to actually take advice from?
 
 \[Tiffany: I'm someone who is the cumulative investment of a lot of people who have given me great advice. I love asking for it. In fact, my youngest sister says that I'm quite boring because I never want to learn a lesson myself. I'm very happy to just get advice from other people.]
@@ -33,9 +31,9 @@ By going to multiple people for advice, you can do some pattern matching about w
 
 So be mindful of whether or not you really need advice – or just affirmation – and if you do need advice, seek multiple types of people for input.
 
-****[**When I need to learn something as a busy person, how do I do it?**](https://www.pscp.tv/w/1PlKQNVnraNGE) ****&#x20;
+_\[Contributed in part by_ [_Tiffany Dufu_](https://www.linkedin.com/in/tiffanydufu/)_, founder and CEO of_ [_The Cru_](https://twitter.com/findyourcru)_.]_
 
-\[Ed.: The below comes from [David Rogier](https://www.linkedin.com/in/drogier), founder and CEO of [MasterClass](https://www.masterclass.com).]
+_****_[**When I need to learn something as a busy person, how do I do it?**](https://www.pscp.tv/w/1PlKQNVnraNGE) ****&#x20;
 
 Find two people that have extreme points of view on something that you are not deep on. Often, at least one of the people won't be closely aligned to your point of view.&#x20;
 
@@ -43,13 +41,15 @@ It's helpful to talk things out, understand the issue, engage with the issue, as
 
 And then you find people who you click with, who have an extreme point of view, you can keep going going back to them about the same subject.&#x20;
 
-[**What can I learn from famous luminaries and how they operate?** ](https://www.pscp.tv/roybahat/1PlKQNVnraNGE?t=21m49s)****
+_\[Contributed in part by_ [_David Rogier_](https://www.linkedin.com/in/drogier)_, founder and CEO of_ [_MasterClass_](https://www.masterclass.com)_.]_
 
-\[Ed.: The below comes from [David Rogier](https://www.linkedin.com/in/drogier), founder and CEO of [MasterClass](https://www.masterclass.com).]
+[**What can I learn from famous luminaries and how they operate?** ](https://www.pscp.tv/roybahat/1PlKQNVnraNGE?t=21m49s)****
 
 There's a misconception that celebrities or luminaries don't work as hard, they just chill because they've mastered their craft. It turns out they're just as insecure about themselves as the rest of us and this insecurity doesn't go away. They take their insecurity and channel it into learning and working hard.They love feedback and want to know how they can change (not so different from great founders).
 
-The most successful celebrities and luminaries want to hear other people's perceptions not so they can decide how to react, but to see if there is a solution and if they can solve for i
+The most successful celebrities and luminaries want to hear other people's perceptions not so they can decide how to react, but to see if there is a solution and if they can solve for it.
+
+_\[Contributed in part by_ [_David Rogier_](https://www.linkedin.com/in/drogier)_, founder and CEO of_ [_MasterClass_](https://www.masterclass.com)_.]_
 
 ### Managing your state of mind
 
