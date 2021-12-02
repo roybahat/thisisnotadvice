@@ -42,7 +42,9 @@ Seek out a range of options, and understand your choices. Then decide for yourse
 
 ****
 
-**{ALT COLORS}**&#x20;
+**{ALT COLORS // MEG: PREFER GREEN AS NICE COMPLEMENT TO ORANGE HYPERLINKS ON THISISNOTADVICE.WORK}**&#x20;
+
+****
 
 ****![](<.gitbook/assets/image (1).png>)
 
