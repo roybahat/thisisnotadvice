@@ -32,7 +32,7 @@ Seek out a range of options, and understand your choices. Then decide for yourse
 
 {IMAGE OPTION 1: BLOCK}
 
-![](.gitbook/assets/image.png)
+![](<.gitbook/assets/image (1).png>)
 
 **{IMAGE OPTION 2: SMALLER}**
 
@@ -46,7 +46,7 @@ Seek out a range of options, and understand your choices. Then decide for yourse
 
 ****
 
-****![](<.gitbook/assets/image (1).png>)
+****![](<.gitbook/assets/image (1) (1).png>)
 
 
 
