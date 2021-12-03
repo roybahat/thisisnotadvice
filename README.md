@@ -34,17 +34,4 @@ Seek out a range of options, and understand your choices. Then decide for yourse
 What are we missing? #thisisnotadvice is a community resource, to add your knowledge or suggest an edit, submit a pull request on [Github](https://github.com/roybahat/thisisnotadvice).
 {% endhint %}
 
-****
-
-****
-
-****
-
 ****![](<.gitbook/assets/image (1) (1).png>)
-
-
-
-
-
-
-
