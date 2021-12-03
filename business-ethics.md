@@ -103,7 +103,7 @@ One way to tell if you're crossing the line into lying: If you repeat the statem
 **And why should you avoid lying in the first place?** This is a surprisingly difficult question for some people. Some people ask what the consequence is, for example, to exaggerating -- and if there's no consequence then maybe it's OK. That isn't ethics, that's just being a utilitarian -- you can probably get away with exaggerating. The question is, what kind of person do you want to be?
 
 {% hint style="info" %}
-What are we missing? #thisisnotadvice is a community resource, to add your knowledge or suggest an edit, submit a pull request on [Github](https://github.com/roybahat/thisisnotadvice).
+What are we missing? #thisisnotadvice is a community resource. To add your knowledge or suggest an edit, submit a pull request on [Github](https://github.com/roybahat/thisisnotadvice).
 {% endhint %}
 
 ![](<.gitbook/assets/image (2).png>)

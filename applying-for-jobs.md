@@ -285,7 +285,7 @@ Some people plan their career by trying to find the job that is safest -- to min
 Job safety comes in the form of having other options, as opposed to protecting what you're doing now. If you're living in fear of losing the job you have, it's really hard to perform well. It's really hard to be happy. Knowing your next best alternative is a form of power that can help you show up as yourself at work, and perform better.
 
 {% hint style="info" %}
-What are we missing? #thisisnotadvice is a community resource, to add your knowledge or suggest an edit, submit a pull request on [Github](https://github.com/roybahat/thisisnotadvice).
+What are we missing? #thisisnotadvice is a community resource. To add your knowledge or suggest an edit, submit a pull request on [Github](https://github.com/roybahat/thisisnotadvice).
 {% endhint %}
 
 ![](<.gitbook/assets/image (2).png>)

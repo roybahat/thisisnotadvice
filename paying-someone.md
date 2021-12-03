@@ -257,7 +257,7 @@ If you're the boss of both people, then this is straightforward: you can treat t
 In the meantime, try to encourage the person to go deliver the feedback themselves and talk them through how to do it. The person delivering the feedback should feel empowered and not feel like they need you to be a conduit.
 
 {% hint style="info" %}
-What are we missing? #thisisnotadvice is a community resource, to add your knowledge or suggest an edit, submit a pull request on [Github](https://github.com/roybahat/thisisnotadvice).
+What are we missing? #thisisnotadvice is a community resource. To add your knowledge or suggest an edit, submit a pull request on [Github](https://github.com/roybahat/thisisnotadvice).
 {% endhint %}
 
 ![](<.gitbook/assets/image (2).png>)

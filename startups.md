@@ -6,7 +6,7 @@ description: >-
 
 # Building startups
 
-_There may be no topic in the history of business with as much published advice as there is on startups. These questions are just a few that may matter. For a repository of many more, see resources like_ [_Founder Library_](https://www.founderlibrary.com)_._
+&#x20;T_There may be no topic in the history of business with as much published advice as there is on startups. These questions are just a few that may matter. For a repository of many more, see resources like_ [_Founder Library_](https://www.founderlibrary.com)_._
 
 ### Getting started
 
@@ -501,7 +501,7 @@ The skills depend on the stage of company in which you invest. If you're a late-
 [Skill in negotiating, "getting cute" with contractual terms, is almost never the most important skill](https://marker.medium.com/dear-first-time-angel-investor-c6af249a694b). We win, in venture-backed startups, by having huge successes, not by wringing an extra 10% out of the ones that struggle (which is usually when the kinds of contractual terms that you negotiate in an investment end up mattering).
 
 {% hint style="info" %}
-What are we missing? #thisisnotadvice is a community resource, to add your knowledge or suggest an edit, submit a pull request on [Github](https://github.com/roybahat/thisisnotadvice).
+What are we missing? #thisisnotadvice is a community resource. To add your knowledge or suggest an edit, submit a pull request on [Github](https://github.com/roybahat/thisisnotadvice).
 {% endhint %}
 
 ![](<.gitbook/assets/image (2).png>)
