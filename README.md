@@ -34,19 +34,9 @@ Seek out a range of options, and understand your choices. Then decide for yourse
 What are we missing? #thisisnotadvice is a community resource, to add your knowledge or suggest an edit, submit a pull request on [Github](https://github.com/roybahat/thisisnotadvice).
 {% endhint %}
 
-{IMAGE OPTION 1: BLOCK}
-
-![](<.gitbook/assets/image (1).png>)
-
-**{IMAGE OPTION 2: SMALLER}**
-
 ****
 
-&#x20;![](<.gitbook/assets/image (3).png>)
-
 ****
-
-**{ALT COLORS // MEG: PREFER GREEN AS NICE COMPLEMENT TO ORANGE HYPERLINKS ON THISISNOTADVICE.WORK ... ADDED THIS ONE TO THE BOTTOM OF EVERY OTHER CHAPTER}**
 
 ****
 
@@ -54,13 +44,7 @@ What are we missing? #thisisnotadvice is a community resource, to add your knowl
 
 
 
-![](<.gitbook/assets/image (4).png>)
 
 
 
-![](<.gitbook/assets/image (5).png>)
-
-
-
-![](<.gitbook/assets/image (2) (1).png>)
 
