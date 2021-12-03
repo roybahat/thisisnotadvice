@@ -4,31 +4,35 @@ description: '#thisisnotadvice is a community reference guide to help people at 
 
 # #thisisnotadvice about work
 
-{**Draft author's note by Sydney for Roy to review}**
+Dear Reader (and, perhaps, [Writer](https://www.thisisnotadvice.work/contribute-your-own-thisisnotadvice)?),
 
-The first episode of #thisisnotadvice aired on May 13, 2020 — 2 months after the Covid Pandemic shuttered us into our homes, isolating us from friends, family, and coworkers. As such, #thisisnotadvice began as a pandemic project, but it turned into something much more significant over the last two years.
+What if there were a textbook, a manual, an encyclopedia on how to thrive at work?
 
-All advice is autobiographical; it’s usually a person trying to get you to either live out and justify their choices or worse, they want you to be a vicarious experiment for them and see how it turns out. Often people want a magic wand, a silver bullet – an easy answer. Advice usually doesn't work. What you need is a hypothesis, a guess to consider.
+The internet is full of endless lists of tips and tricks, content mills, gems buried in podcasts, and it's all impossible to find. In the same way that Wikipedia did for facts, and books like [What to Expect When You're Expecting](https://www.amazon.com/What-Expect-When-Youre-Expecting/dp/0761148574/ref=asc\_df\_0761148574/?tag=hyprod-20\&linkCode=df0\&hvadid=312130960442\&hvpos=\&hvnetw=g\&hvrand=16872339124321040207\&hvpone=\&hvptwo=\&hvqmt=\&hvdev=c\&hvdvcmdl=\&hvlocint=\&hvlocphy=9031970\&hvtargid=pla-489589977276\&psc=1) do for parenting, what if there were an easy-to-navigate guide on how to work? And, unlike a book, what if it were the creation of a community, and it evolved with time, and linked out to all the best wisdoms out there?
 
-We decided to name this series #thisisnotadvice because you have to chart your path. To help you do just that, we asked founders, friends, and colleagues within the Bloomberg Beta network to share their own work stories. Thank you to each of you (over 200!) who contributed to this body of knowledge in such an intimate way.
+As a startup investor who invests in the future of work, people often ask me for [advice about one work dilemma or another](https://also.roybahat.com/would-you-like-career-advice-ac8314f2ea8f). I'm "that person" who also just likes to be there for people I know. The problem is... I usually don't really know. I believe most advice is autobiographical: it's either the advice-giver trying to justify their own life's choices or, worse, foist an experiment on the advice-asker so the giver can live vicariously. Often people want a magic wand, a silver bullet – an easy answer. Advice usually doesn't work. What you need is a hypothesis, a guess to consider.
 
-It is time to transition #thisisnotadvice into the hands of our dedicated viewers. We sourced some of our best questions from you and hope you will continue to contribute to #thisisnotadvice here on Gitbook.
+For offering those prompts to a person choosing what path to take, I do believe in expertise and wisdom. So how could I bring the insights of experts to bear, and could I find a way to stop repeating myself about the few things I know (following the software principle of [DRY](https://en.wikipedia.org/wiki/Don't\_repeat\_yourself))?
 
-{**Original opening}**
+The answer was ultimately to create the "book" you're reading right now. For years, I had the idea of starting it somewhere on my list.
 
-\[Ed.: This is not advice because I need to know a person well to have a view on what's best for them.]
+Then the pandemic hit, and I was home every day. No excuse not to write. Yet, I didn't. My partner [James](http://twitter.com/jamescham) suggested I record a video, and transcribe it — and, so, [#thisisnotadvice](https://www.thisisnotadvice.work/contribute-your-own-thisisnotadvice) was born. I recorded the first "episode" on May 13, 2020, two months after lockdown began. Bit by bit, we improved, first with a co-host ([Minn Kim](http://twitter.com/minney\_cat), our then-teammate at [Bloomberg Beta](http://bloombergbeta.com), our VC fund, the first focused on the future of work), then with guests, and even a (much) [better camera](https://twitter.com/roybahat/status/1304156601167691777) (thanks, again, to James).
 
-[**So what should I do with the advice I get?**](https://www.pscp.tv/roybahat/1PlKQNVnraNGE?t=9m52s)
+We decided to name this series #thisisnotadvice because you have to chart your path. To help you do just that, we asked a diverse group of startup founders, friends, and colleagues to share their own work wisdoms. Thank you to each of you who contributed to this body of knowledge in such an intimate way.
 
-All advice is autobiographical, it's usually a person trying to get you to either live out and justify their choices or worse, they want you to be a vicarious experiment for them and see how it turns out.&#x20;
+It is time to transition #thisisnotadvice into the hands of our viewers, who we hope will become readers, sharers, and writers. You prompted our best questions, and we hope you'll help us evolve this guide. Seek out a range of options, and understand your choices. Then... decide for yourself.
 
-Never ask for advice from somebody who will give you a specific answer or prescription, especially if they have power over you, because you then may become bound to act on it in some way. This is the person who will later say, "I told you to do that and you didn't listen."
+We'll record live videos less often now that we have a strong foundation of work knowledge (and we're still editing and transcribing many of the past episodes into this written guide). Let's take it from here, together, editing this guide and connecting it to the best of the experts out there. There are many more areas to cover: work beyond professional ("white collar") roles, perspectives from more women, people of color, and others who have been historically underestimated, and more.
 
-Often people want a magic wand, a silver bullet – an easy answer. Advice usually doesn't work. What you need is a hypothesis, a guess to consider.&#x20;
+Our hope is that, together, we can thrive at work. This "book," living with your edits, has prompts on many of the most common questions we face at work. Suffer less. Get what we want, from work. Live our full lives as human beings, of which work — while many of us spend more waking hours in it than in any other activity — is only one, albeit critical, element of a life well lived.
 
-There are only rare cases where you actually want an answer to, "What would you do in this exact situation?" Circumstances differ from one situation to another, the right course of action does, too.
+Yours in learning,
 
-Seek out a range of options, and understand your choices. Then decide for yourself.
+[Roy Bahat](http://twitter.com/roybahat) (your #thisisnotadvice editor)
+
+December 3, 2021
+
+
 
 {% hint style="info" %}
 What are we missing? #thisisnotadvice is a community resource. To add your knowledge or suggest an edit, submit a pull request on [Github](https://github.com/roybahat/thisisnotadvice).
