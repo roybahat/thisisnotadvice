@@ -6,7 +6,7 @@ description: >-
 
 # Managing yourself
 
-Learning
+### Learning
 
 #### [**How do I decide who to ask for advice?**](https://www.pscp.tv/w/1mrxmEneVBZxy) ****&#x20;
 
