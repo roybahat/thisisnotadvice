@@ -30,6 +30,10 @@ There are only rare cases where you actually want an answer to, "What would you 
 
 Seek out a range of options, and understand your choices. Then decide for yourself.
 
+{% hint style="info" %}
+What are we missing? #thisisnotadvice is a community resource, to add your knowledge or suggest an edit, submit a pull request on [Github](https://github.com/roybahat/thisisnotadvice).
+{% endhint %}
+
 {IMAGE OPTION 1: BLOCK}
 
 ![](<.gitbook/assets/image (1).png>)
