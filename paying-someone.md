@@ -8,7 +8,7 @@ description: >-
 
 ### Firing
 
-[**When you get to the point that you're almost certain you're going to fire someone, should you put them on a performance plan to give them some warning?**](https://www.pscp.tv/roybahat/1mnGelXLEaQKX?t=25m9s)
+[**When I get to the point that I'm almost certain I'm going to fire someone, should I put them on a performance plan to give them some warning?**](https://www.pscp.tv/roybahat/1mnGelXLEaQKX?t=25m9s)
 
 You should always give a person warning because it's the human thing to do. In some contexts, that warning might short: six hours because the person's work is so rapid fire and they're making errors at such a pace that they could ruin your entire company in that time. Most managers give their employees too much time, because most people can't fix their issues. Or by the time they have fixed the issues, the issues metastasize and create more lasting problems. (For example, a person who is chronically late for two months might start showing up on time, but it might be harder to fix the issue of the team's frustration with that formerly-late person's two months of leaving the team saddled with more work.)
 
@@ -42,7 +42,7 @@ Most of the time, people kind of know it's coming. Most of the time, people hand
 
 Firing someone sounds a lot harder than it is. Ideally, you have somebody to prepare you for it, and it's okay if you do it imperfectly -- better to do it imperfectly than to keep someone subpar on your team.
 
-[**What do you do when you feel like someone that works for you is being dishonest with you, but you can't prove it?**](https://www.pscp.tv/roybahat/1mnGelXLEaQKX?t=29m57s)
+[**What do I do when I feel like someone that works for me is being dishonest with me, but I can't prove it?**](https://www.pscp.tv/roybahat/1mnGelXLEaQKX?t=29m57s)
 
 Fire them immediately.
 
@@ -126,7 +126,7 @@ How do you know if you have a good immigration lawyer, and how do you find one?
 
 A worthwhile lawyer will be creative and ask questions like, "Do you know everything about this person? Do you know what their marital status is? Do you know if they have any family background in the US or if they are the first in their family to come to the US?"
 
-It’s easy to think of H-1B by default, as this is the poster child of work visas. In reality, H-1B is just one of the 25 or more different visa pathways, which is why it's important to work with the right partner counsel. Choosing an immigration lawyer for your company can be almost as important as choosing the right investor for your company, as an immigration attorney could cause you to gain or lose key talent that could make a difference for your business.
+It’s easy to think of H-1B by default, as this is the poster child of work visas. In reality, H-1B is just one of the 25 or more different visa pathways, which is why it's important to work with the right partners' counsel. Choosing an immigration lawyer for your company can be almost as important as choosing the right investor for your company, as an immigration attorney could cause you to gain or lose key talent that could make a difference for your business.
 
 Although every case is different, it’s good to have a general idea of how long the process will take, how much it will cost and how certain it is.
 
@@ -250,7 +250,7 @@ The manager of the person being reviewed usually presents the feedback, though s
 
 Some recipients share their 360 reviews with their teams, or with the organization as a whole. This demonstrates that the reviewers' input didn't end up in a black hole, and can encourage future feedback because reviewers see the response to their feedback. Many reviewers appreciate hearing when the next 360 review will take place (annually?), to create a sense of continuity.
 
-[**What do you do when a junior employee comes to you with critical feedback about a more senior employee, and asks you to keep it confidential?**](https://www.pscp.tv/roybahat/1mnGelXLEaQKX?t=28m53s)
+[**What do I do when a junior employee comes to me with critical feedback about a more senior employee, and asks me to keep it confidential?**](https://www.pscp.tv/roybahat/1mnGelXLEaQKX?t=28m53s)
 
 If you're the boss of both people, then this is straightforward: you can treat this information as input (assuming nobody broke a law or something like that). When you do a "180 review" or a "360 review," you collect input from lots of people and synthesize it and present it to the person as their manager. Think of this as a one-off instance of that.
 

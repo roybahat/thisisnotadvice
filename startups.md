@@ -72,7 +72,9 @@ How to figure out if you do need a co-founder: **do you have a skill you need fo
 
 Most of the time, the co-founding teams that work the best have pre-existing history with each other, where they've had some base of experiences on which to draw, to trust each other.
 
-#### [I want to be a technical co-founder of a startup -- how do I find a co-founder?](https://www.pscp.tv/w/1MnxndRgRzXGO) I think I need ideas and someone who has business experience.
+#### [I want to be a technical co-founder of a startup -- how do I find a co-founder?](https://www.pscp.tv/w/1MnxndRgRzXGO)&#x20;
+
+#### I think I need ideas and someone who has business experience.
 
 The best co-founding teams tend to already know each other well. Startups are such a trust-driven, pressured environment that if you already have a bond, then it's so much easier than an "instateam." That's one of the reasons co-founder dating is such a difficult concept, and there are so many wife-husband, sister-brother, or best friend teams.
 
@@ -110,9 +112,11 @@ Also recognize that often names evolve. Justin.tv became Twitch, eShares became 
 
 When you're naming a company, it's easy to stew over phonetic questions like, "Can it be spelled easily? Can it not?" Depending on the context, these things can be overcome. The least obvious question is, "How much do you love your company name?" Because that name may walk with you for a long time. So you might as well love it.
 
-#### [How valuable is your IP in a startup's early days?](https://www.pscp.tv/w/1BRKjQZvyOWxw)
+#### [How valuable is my IP in a startup's early days?](https://www.pscp.tv/w/1BRKjQZvyOWxw)
 
 Most people tend to think too much about whether some startup idea (or early product) would be easy to clone. Most _wildly successful_ startups would be easy to clone (or would have been in their earliest days). Would Airbnb not have been easy to clone in the beginning? Most startups lack defensible IP in that traditional sense. It's usually about the cost benefit of copying a startup, or the skill required to bring the finer details to life. [It's more like a movie than like "technology."](https://blog.markgrowth.com/early-startup-pitches-are-like-movie-pitches-not-business-pitches-d6ab3754758a?gi=af377827c35d)
+
+#### [Should I incorporate as a B-Corp or Public Benefit Corporation?](https://www.pscp.tv/w/ccFBcDFsWktwWXhYSnhvam58MXlwS2R3eldZbnF4V3CASjaVNSRTgV\_0VkAaxMOh-BJobvYeRGgzfto422xz)
 
 #### [Should I incorporate as a B-Corp or Public Benefit Corporation?](https://www.pscp.tv/w/ccFBcDFsWktwWXhYSnhvam58MXlwS2R3eldZbnF4V3CASjaVNSRTgV\_0VkAaxMOh-BJobvYeRGgzfto422xz)
 
@@ -368,7 +372,7 @@ When do you default to "snapping to the grid" of the available standard others u
 
 While there are things you're "supposed to say" in a pitch, true mastery of a language is saying the things you're supposed to say in a way that's truthful to you.
 
-#### [What happens during a fundraising process when you get a "lead" investor? ](https://www.pscp.tv/roybahat/1ypKdwRnmQRxW?autoplay)
+#### [What happens during a fundraising process when I get a "lead" investor? ](https://www.pscp.tv/roybahat/1ypKdwRnmQRxW?autoplay)
 
 There are a thousand variations. In one version, you're out talking to investors, and at some point, an investor starts to lean forward, do some more diligence, and says, "Okay, we'd like to make an offer to invest." At some firms, they'll telegraph that further in advance. "We'll send you a term sheet by the end of the week." At some firms, they'll just drop paper on you. At the moment you have an investor who is willing to set terms for your round, you have a possible lead (though [the term "lead investor" has many meanings](https://also.roybahat.com/in-earliest-stage-venture-what-is-a-lead-anyway-e60c4e08bb7e)).
 
@@ -390,7 +394,7 @@ The founder community is tight so you can also keep an eye out for resources suc
 
 These conversations will help you dig deeper on founder preferences and uncover which VCs are true "founders' choice" investors.
 
-#### [How should you answer if an investor calls to ask for a reference on a founder?](https://www.pscp.tv/w/cZHn0zFsWktwWXhYSnhvam58MUJSS2pRWnZ5T1d4dzz0raaiIPcDNowya74tgfhpSC\_EtH6YBWsQglqqO\_ix)
+#### [How should I answer if an investor calls to ask for a reference on a founder?](https://www.pscp.tv/w/cZHn0zFsWktwWXhYSnhvam58MUJSS2pRWnZ5T1d4dzz0raaiIPcDNowya74tgfhpSC\_EtH6YBWsQglqqO\_ix)
 
 Consider: what do you want to get out of providing this reference? For example: Do you want to talk to more startups? Do you want to make some money by advising a startup?&#x20;
 
@@ -410,7 +414,7 @@ If a VC asks, "Where's your market size slide?" they're probably stuck in a unif
 
 If you feel you must make a market size slide, make it in a way that is appropriate to your business model. If you're selling to big enterprise customers, it's about logos and target contract sizes. If, for example, you're selling a software product where customers just need to swipe a credit card, then it should be comparable to other companies', include early price testing, how many customers, etc. You can do math, don't overthink it.
 
-[**How do you answer questions about whether your business is "defensible" from competitors?** ](https://www.pscp.tv/roybahat/1mnGelXLEaQKX?t=10m47s)****
+[**How do I answer questions about whether my business is "defensible" from competitors?** ](https://www.pscp.tv/roybahat/1mnGelXLEaQKX?t=10m47s)****
 
 When it comes to defensibility, beware "you're dead" questions. By the time somebody starts asking you questions like "What will you do if Google competes with you?" you might already be dead. Don't invest lots of time in chasing answers to "you're dead" questions. (If it's the first question out of the investor's mouth, then you're probably not dead yet.)
 

@@ -182,7 +182,7 @@ Be careful about what you share with HR if you're unsure if you trust them. You'
 
 Even if you escalate your issues, sometimes HR can be part of the problem. In this case, your best recourse may be to leave.
 
-[**How do you get someone else to keep their word?** ](https://www.pscp.tv/w/1djGXoAkROeKZ)****
+[**How do I get someone else to keep their word?** ](https://www.pscp.tv/w/1djGXoAkROeKZ)****
 
 Before you focus on how to get somebody to honor their commitment, ask, "What did I learn from this moment? Did I learn something about this person, about doing business with them in the future?" Sometimes you learn something damning, sometimes you learn there's been a miscommunication -- what does the data tell you?
 
@@ -214,7 +214,7 @@ Listen to your own intuition.&#x20;
 
 One way to figure out if you trust somebody is the [egg toss method](https://also.roybahat.com/the-trust-thing-691791a4c6ca), that game kids play, where you throw an egg and hope it doesn't break. And you get a little further, a little bit at a time. As you get to know people, give them opportunities to stab you in the back -- just little opportunities. If the egg falls on the first toss, it's no big deal. By the time you're in business together, [especially if they're an investor in your company](https://app.gitbook.com/@bloomberg-beta-1/s/this-is-not-advice-about-work/startups#how-do-i-know-if-an-angel-investor-is-a-legitimate-candidate-to-invest-or-just-pulling-a-bait-and-switch), it could be much worse.
 
-[**Should you mentor someone? And if so, how do I do it?**](https://www.pscp.tv/w/1mrGmEjPpDkGy)****
+[**Should I mentor someone? And if so, how do I do it?**](https://www.pscp.tv/w/1mrGmEjPpDkGy)****
 
 There are often things you can do for someone more valuable than mentorship -- "[make the hire, send the wire](https://www.washingtonpost.com/news/powerpost/paloma/the-technology-202/2020/06/09/the-technology-202-black-venture-capitalists-say-it-s-time-for-silicon-valley-make-good-on-its-promises-with-action/5ede7b75602ff12947e874b0/)."\
 \
@@ -234,7 +234,7 @@ Once you've decided to become a mentor, set expectations and a cadence. It might
 
 Mentorship can bring great joy and fulfillment. It's incredible to watch others achieve -- and you might get a richer personal and professional experience along the way.
 
-#### [How do you say no, without offending, when someone asks for a something?](https://twitter.com/roybahat/status/1278484076756733952) For example, a meeting, coffee during which they can "pick your brain," etc.
+#### [How do I say no, without offending, when someone asks for something?](https://twitter.com/roybahat/status/1278484076756733952) For example, a meeting, coffee during which they can "pick your brain," etc.
 
 As you advance professionally, more and more people will look to you. The corollary: more requests for your time.
 
@@ -352,11 +352,11 @@ With many of us now working at home, some organizations have leaned into having 
 
 **The most common error people make when they aren't in a meeting is to default to assuming they need to be there**, without a good reason. The person on the other side of the equation will likely think, "Why? Consider it a blessing that you don't have to be in that meeting. You could go get some work done."
 
-[**What do you do if you have a meeting scheduled for an hour and you're five minutes in and you're not going to move forward. Do you try to weasel out of the meeting politely? If so, how?**](https://www.pscp.tv/roybahat/1mnGelXLEaQKX?t=14m1s)****
+[**What do I do if I have a meeting scheduled for an hour and I'm five minutes in and I'm not going to move forward. Do I try to weasel out of the meeting politely? If so, how?**](https://www.pscp.tv/roybahat/1mnGelXLEaQKX?t=14m1s)****
 
 Do your work beforehand, to avoid burning someone's time on something you could have learned quickly. \[Ed.: This is part of why Bloomberg Beta publishes our [operating manual](https://github.com/Bloomberg-Beta/Manual) on the Internet. We avoid the risk of somebody sitting down and saying, "You mean you're not... a video game investor?"]
 
-Even when you do your work beforehand, it still happens that someone books a meeting and it becomes clear very quickly that you won't move forward. Try to put the power back in the other person's hands, saying something like, "If you want, we can certainly continue talking, but I respect that your time is  precious and I'm not going to move forward." (In the case of startups, founders are often pitching investors, struggling to get on their calendars. Ironically, the founder's time is actually much more precious -- even if they were more flexible on scheduling the meeting -- because if they're not doing something, software isn't getting made, sales aren't happening, etc.
+Even when you do your work beforehand, it still happens that someone books a meeting and it becomes clear very quickly that you won't move forward. Try to put the power back in the other person's hands, saying something like, "If you want, we can certainly continue talking, but I respect that your time is precious and I'm not going to move forward." (In the case of startups, founders are often pitching investors, struggling to get on their calendars. Ironically, the founder's time is actually much more precious -- even if they were more flexible on scheduling the meeting -- because if they're not doing something, software isn't getting made, sales aren't happening, etc.
 
 \[Ed.: I once had a founder tell _me_ after five minutes that they were going to leave because it was clear I didn't like their business. They were right. I took the meeting because they were family of a good friend. I did truly believe their time would be better spent elsewhere, and while uncomfortable at the time, I admired their courage for leaving.]
 
@@ -380,7 +380,7 @@ Last, remember: **context is queen** (because she's truly in charge). The specif
 
 ### Working for someone
 
-#### [What do you do if your manager (or someone with power over you) asks you to do something with which you disagree?](https://www.pscp.tv/roybahat/1YqJDpPyzBVJV)
+#### [What do I do if my manager (or someone with power over me) asks me to do something with which I disagree?](https://www.pscp.tv/roybahat/1YqJDpPyzBVJV)
 
 **There are different kinds of disagreements. Some are just over taste.** Let's say you're a journalist and you thought the headline should read X, somebody else thought Y, and they picked the other one. Those generally follow power structures in organizations. They can be really damaging, especially if they accumulate over time. A disagreement of taste, once, might feel like, "Okay, I thought the color on that page should have been blue. And they thought turquoise, whatever, no big deal." If it happens repeatedly, you may start to question the judgment of those who are in power in the organization. Then taste disagreements can morph into the second kind of disagreement, which is where you think the other person, or the organization, asked you to do something that is just stupid, a really bad idea.
 
@@ -428,7 +428,7 @@ Put yourself in your boss's shoes. When they get back, they won't want random th
 
 ### Working remotely
 
-#### [How do you get experience about how organizations work, if you're working from home?](https://www.pscp.tv/roybahat/1dRKZZBAVNXKB)
+#### [How do I get experience about how organizations work, if I'm working from home?](https://www.pscp.tv/roybahat/1dRKZZBAVNXKB)
 
 There's been so little experience with work-from-home companies or roles (in all of the business world), that we still don't know how to do them well. There's a set of things that you can learn better when you work from home. You can learn how to be more explicit in your communication. You can learn how formal processes of decisionmaking work. You can learn how to use digital tools.&#x20;
 

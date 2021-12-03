@@ -138,6 +138,8 @@ Responding to social and political issues is a timing and dosage issue like so m
 
 [**How transparent should I be about employee salaries?**](https://www.pscp.tv/roybahat/1mnGelXLEaQKX?t=27m40s)****
 
+[**How transparent should I be about employee salaries?**](https://www.pscp.tv/roybahat/1mnGelXLEaQKX?t=27m40s)****
+
 You can only answer this question if you know the broader culture of the company -- because salary transparency usually fits into that ethos. [Netflix pays people top of market](https://www.cnbc.com/2020/09/08/netflix-ceo-reed-hastings-on-high-salaries-the-best-are-easily-10x-better-than-average.html) because they have a whole system of values that surrounds that approach. [Buffer is transparent about salaries](https://buffer.com/salary/staff-product-designer/average/) because they have a companywide, consistent commitment to extreme transparency. You can't answer this question in isolation.&#x20;
 
 All other things being equal, is it better to be transparent? Yes. But sometimes transparency is not worth the price of that intense pain and discomfort for people on the team. Transparency is hard. It takes work, and can be painful.
