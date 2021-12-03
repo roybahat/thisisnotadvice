@@ -6,7 +6,7 @@ description: >-
 
 # Building startups
 
-&#x20;T_There may be no topic in the history of business with as much published advice as there is on startups. These questions are just a few that may matter. For a repository of many more, see resources like_ [_Founder Library_](https://www.founderlibrary.com)_._
+_There may be no topic in the history of business with as much published advice as there is on startups. These questions are just a few that may matter. For a repository of many more, see resources like_ [_Founder Library_](https://www.founderlibrary.com)_._
 
 ### Getting started
 
