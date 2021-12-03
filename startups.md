@@ -504,5 +504,5 @@ The skills depend on the stage of company in which you invest. If you're a late-
 What are we missing? #thisisnotadvice is a community resource, to add your knowledge or suggest an edit, submit a pull request on [Github](https://github.com/roybahat/thisisnotadvice).
 {% endhint %}
 
-
+![](<.gitbook/assets/image (2).png>)
 

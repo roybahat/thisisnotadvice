@@ -475,3 +475,5 @@ Afterward, go back to the person afterward and check in: "Hey, that might've bee
 {% hint style="info" %}
 What are we missing? #thisisnotadvice is a community resource, to add your knowledge or suggest an edit, submit a pull request on [Github](https://github.com/roybahat/thisisnotadvice).
 {% endhint %}
+
+![](<.gitbook/assets/image (2).png>)

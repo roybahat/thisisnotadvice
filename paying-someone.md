@@ -259,3 +259,5 @@ In the meantime, try to encourage the person to go deliver the feedback themselv
 {% hint style="info" %}
 What are we missing? #thisisnotadvice is a community resource, to add your knowledge or suggest an edit, submit a pull request on [Github](https://github.com/roybahat/thisisnotadvice).
 {% endhint %}
+
+![](<.gitbook/assets/image (2).png>)

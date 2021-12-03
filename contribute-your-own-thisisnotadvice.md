@@ -288,3 +288,5 @@ _#thisisnotadvice started as a_ [_daily video_](https://twitter.com/search?q=%23
 | ["What is a 360 review and how do I conduct one?"](https://twitter.com/roybahat/status/1261413148688441352)                                                                                                                                                           | Roy Bahat                                           |
 | ["How do I know when an angel investor is for real and not a bait-and-switch type?"](https://twitter.com/roybahat/status/1261106703359070208)                                                                                                                         | Roy Bahat                                           |
 | ["This is not advice about work"](https://twitter.com/roybahat/status/1260741712252596226)                                                                                                                                                                            | Roy Bahat                                           |
+
+![](<.gitbook/assets/image (2).png>)

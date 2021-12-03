@@ -106,4 +106,4 @@ One way to tell if you're crossing the line into lying: If you repeat the statem
 What are we missing? #thisisnotadvice is a community resource, to add your knowledge or suggest an edit, submit a pull request on [Github](https://github.com/roybahat/thisisnotadvice).
 {% endhint %}
 
-****
+![](<.gitbook/assets/image (2).png>)
