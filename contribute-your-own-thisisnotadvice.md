@@ -1,7 +1,7 @@
 ---
 description: >-
-  What are we missing? Tell us your ideas for #thisisnotadvice, a community
-  reference guide to help people at work.
+  What are we missing? Tell us your ideas for #thisisnotadvice, a
+  community-edited, comprehensive reference guide on how to work.
 ---
 
 # Contribute your own #thisisnotadvice

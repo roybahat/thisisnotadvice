@@ -1,7 +1,7 @@
 ---
 description: >-
   I'm helping build a startup, what do I need to know? #thisisnotadvice is a
-  community reference guide to help people at work.
+  community-edited, comprehensive reference guide on how to work.
 ---
 
 # Building startups

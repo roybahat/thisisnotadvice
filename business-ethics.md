@@ -1,7 +1,7 @@
 ---
 description: >-
   How can I make ethical choices in the workplace? #thisisnotadvice is a
-  community reference guide to help people at work.
+  community-edited, comprehensive reference guide on how to work.
 ---
 
 # Making ethical choices

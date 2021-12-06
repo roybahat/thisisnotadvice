@@ -1,7 +1,7 @@
 ---
 description: >-
-  How can I get better at working with others? #thisisnotadvice is a community
-  reference guide to help people at work.
+  How can I get better at working with others? #thisisnotadvice is a
+  community-edited, comprehensive reference guide on how to work.
 ---
 
 # Working with others

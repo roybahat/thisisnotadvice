@@ -1,7 +1,7 @@
 ---
 description: >-
-  How can I grow my career? #thisisnotadvice is a community reference guide to
-  help people at work.
+  How can I grow my career? #thisisnotadvice is a community-edited,
+  comprehensive reference guide on how to work.
 ---
 
 # Managing yourself

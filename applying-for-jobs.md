@@ -1,7 +1,7 @@
 ---
 description: >-
   What should I think about when considering changing jobs? #thisisnotadvice is
-  a community reference guide to help people at work.
+  a community-edited, comprehensive reference guide on how to work.
 ---
 
 # Changing jobs
