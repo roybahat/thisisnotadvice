@@ -473,7 +473,7 @@ Stick to the stuff you truly know -- your feelings, your views. Go slowly -- thi
 Afterward, go back to the person afterward and check in: "Hey, that might've been difficult. How did you feel about that?" It's even more important to do remotely.
 
 {% hint style="info" %}
-What are we missing? #thisisnotadvice is a community resource. To add your knowledge or suggest an edit, submit a pull request on [Github](https://github.com/roybahat/thisisnotadvice).
+What are we missing? #thisisnotadvice is a community resource. To add your knowledge or suggest an edit, submit a pull request on [GitHub.](https://github.com/roybahat/thisisnotadvice)
 {% endhint %}
 
 ![](<.gitbook/assets/image (2).png>)

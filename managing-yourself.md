@@ -350,7 +350,7 @@ If you work at a big company, you need to know the rules of engagement for your 
 Anticipate hard questions in advance -- a good journalist might try and catch you off guard. It's within their rights to do that -- they're trying to get at the truth. You can say "I don't feel comfortable talking about it." While journalists aren't there to puff you up or do you favors, if you understand how they work you can partner with them to get truth out there about what you're doing at work.
 
 {% hint style="info" %}
-What are we missing? #thisisnotadvice is a community resource. To add your knowledge or suggest an edit, submit a pull request on [Github](https://github.com/roybahat/thisisnotadvice).
+What are we missing? #thisisnotadvice is a community resource. To add your knowledge or suggest an edit, submit a pull request on [GitHub.](https://github.com/roybahat/thisisnotadvice)
 {% endhint %}
 
 ![](<.gitbook/assets/image (2).png>)
