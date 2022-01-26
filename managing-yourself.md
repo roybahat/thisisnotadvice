@@ -39,7 +39,7 @@ Find two people that have extreme points of view on something that you are not d
 
 It's helpful to talk things out, understand the issue, engage with the issue, ask questions. It can be easier to get people to chat when you're more established, but you can always look for someone with an extreme point of view.&#x20;
 
-And then you find people who you click with, who have an extreme point of view, you can keep going going back to them about the same subject.&#x20;
+And then you find people who you click with, who have an extreme point of view, you can keep going back to them about the same subject.&#x20;
 
 _\[Contributed in part by_ [_David Rogier_](https://www.linkedin.com/in/drogier)_, founder and CEO of_ [_MasterClass_](https://www.masterclass.com)_.]_
 
@@ -57,7 +57,7 @@ _\[Contributed in part by_ [_David Rogier_](https://www.linkedin.com/in/drogier)
 
 \[Ed.: I've felt a lot of impostor syndrome in my life, ever since my first real job as an advisor to people in business -- [when I knew nothing about business!](https://linkedin.com/in/roybahat) -- and still feel it frequently. And at the same time, I'm a straight white man and that means there are certain feelings others may have when they enter a room to which I would struggle to relate.]
 
-Whenever you feel impostor syndrome, you're probably not the only one. Most people are more focused on themselves, whether they fit in, than on judging everybody else. (You may, without realizing it, have given someone else impostor syndrome! Not that that necessarily helps you.) The feeling of being and impostor may never go away, though you can learn how to manage it.
+Whenever you feel impostor syndrome, you're probably not the only one. Most people are more focused on themselves, whether they fit in, than on judging everybody else. (You may, without realizing it, have given someone else impostor syndrome! Not that that necessarily helps you.) The feeling of being an impostor may never go away, though you can learn how to manage it.
 
 Start by sticking to what you know -- often that's your personal story. It's harder to talk about general issues (like your company's strategy) than about your personal experience. It's also more important than ever to be conscious of where you come from -- and the limitations of your own perspective.
 
@@ -123,7 +123,7 @@ How do you measure work? The mental models are often descendants of the industri
 
 It starts with your own emotional health: many problems that we have around work stem from believing we're not good enough. Often, people are unsure about their work's predictability and become ashamed -- unwilling to say they're unsure when they will be able to deliver -- and go quiet.&#x20;
 
-To prevent that happening, first recognize yourself that there's unpredictability to your work.&#x20;
+To prevent that happening, first recognize in yourself that there's unpredictability to your work.&#x20;
 
 Then try to create an environment where others understand the nature of the problem you're trying to solve. For example, if your manager asks on Monday for you to ship a feature by Tuesday and you don't know if it can be built, try to talk about it. Explain to them why it's unpredictable. Their fear is that you're just looking to go slowly and not produce. Try to reduce that fear by sharing with them what you'll do to better predict the outcomes of your own work.
 
