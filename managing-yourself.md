@@ -33,7 +33,7 @@ So be mindful of whether or not you really need advice â€“ or just affirmation â
 
 _\[Contributed in part by_ [_Tiffany Dufu_](https://www.linkedin.com/in/tiffanydufu/)_, founder and CEO of_ [_The Cru_](https://twitter.com/findyourcru)_.]_
 
-_****_[**When I need to learn something as a busy person, how do I do it?**](https://www.pscp.tv/w/1PlKQNVnraNGE) ****&#x20;
+#### _****_[**When I need to learn something as a busy person, how do I do it?**](https://www.pscp.tv/w/1PlKQNVnraNGE) ****&#x20;
 
 Find two people that have extreme points of view on something that you are not deep on. Often, at least one of the people won't be closely aligned to your point of view.&#x20;
 
@@ -43,7 +43,7 @@ And then you find people who you click with, who have an extreme point of view, 
 
 _\[Contributed in part by_ [_David Rogier_](https://www.linkedin.com/in/drogier)_, founder and CEO of_ [_MasterClass_](https://www.masterclass.com)_.]_
 
-[**What can I learn from famous luminaries and how they operate?** ](https://www.pscp.tv/roybahat/1PlKQNVnraNGE?t=21m49s)****
+#### [**What can I learn from famous luminaries and how they operate?** ](https://www.pscp.tv/roybahat/1PlKQNVnraNGE?t=21m49s)****
 
 There's a misconception that celebrities or luminaries don't work as hard, they just chill because they've mastered their craft. It turns out they're just as insecure about themselves as the rest of us and this insecurity doesn't go away. They take their insecurity and channel it into learning and working hard.They love feedback and want to know how they can change (not so different from great founders).
 
@@ -135,7 +135,7 @@ Boundary setting is another way of creating predictability out of unpredictable 
 
 ### Vacation
 
-****[**What should I do my first day back from vacation?**](https://www.pscp.tv/w/1OyJAgAwZWeKb)****
+#### ****[**What should I do my first day back from vacation?**](https://www.pscp.tv/w/1OyJAgAwZWeKb)****
 
 If you are in the privileged position to take vacation, take it. People once prided themselves on how little vacation they took. These people were usually under-performers or, more accurately, they performed really well until they got to a certain point in their career -- and then they topped out. They could grind effectively to get done what was expected of them but the unusual insights, the creativity, never arrived.
 
@@ -149,7 +149,7 @@ When you come back, take the chance to reset your habits. Think about if there a
 
 When you go away, oftentimes you have insights about work; maybe you're reading something and it makes you think big thoughts. The former CEO and chairman of Citigroup, John Reed, wrote the ["memo from the beach,"](https://blog.citigroup.com/2012/09/citi-turns-200-focus-shifts-to-retail-banking) where he laid the groundwork for the launch of Citibank's ATM network, transforming the banking system. If you're going to send that kind of missive, hold it for a beat, send it once you get back (Reed may have written the memo on the beach, but in those days it's unlikely he sent it from there), and think on it. The bigger the shift, the less likely it is that it'll stick (in your mind) once you get back to reality. One of the worst things you can do, especially if you're a leader who has people take direction from you, is create whiplash. While you may have amazing new idea for a product, you're also unaware of everything going on while you're out. The bigger the insight, the more material the idea, the longer you should wait before you share it. Marination is helpful.
 
-****[**What are ways to take time off during a pandemic?**](https://www.pscp.tv/w/1rmxPYrBvryKN)****
+#### ****[**What are ways to take time off during a pandemic?**](https://www.pscp.tv/w/1rmxPYrBvryKN)****
 
 **Start by expressing your intent to take time off**, ideally well in advance (a couple of months is usually plenty). If your vacation comes out of the blue because you're overwhelmed and need to pull the emergency stop cord, that's better than not taking vacation, but may throw your co-workers into disarray. The further in advance you telegraph your intent to take time off, especially during a pandemic, the better.
 
