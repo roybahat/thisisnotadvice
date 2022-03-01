@@ -18,7 +18,7 @@ Take into account the life circumstances of the person in question. If they're t
 
 If you are the person who is having performance issues, and you receive a warning (sometimes in the form of a written "[performance improvement plan](https://www.shrm.org/resourcesandtools/tools-and-samples/how-to-guides/pages/performanceimprovementplan.aspx)" or "PIP") you might be able to save yourself. Just recognize that is usually a four alarm fire, and you need to act fast.
 
-[**How do I fire someone?**](https://www.pscp.tv/w/1vAGRrqVgMDGl)
+#### [**How do I fire someone?**](https://www.pscp.tv/w/1vAGRrqVgMDGl)
 
 Imagine you've already made the decision to fire someone, and warned the person. As a leader, you want to treat everybody with dignity and respect -- and great leaders tend to be good at letting people go, and it's a really important skill. Arguably, firing is a more important skill than hiring. (Even the best people at hiring are often wrong.)
 
