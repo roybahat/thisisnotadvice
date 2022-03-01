@@ -8,7 +8,7 @@ description: >-
 
 ### Firing
 
-[**When I get to the point that I'm almost certain I'm going to fire someone, should I put them on a performance plan to give them some warning?**](https://www.pscp.tv/roybahat/1mnGelXLEaQKX?t=25m9s)
+#### [**When I get to the point that I'm almost certain I'm going to fire someone, should I put them on a performance plan to give them some warning?**](https://www.pscp.tv/roybahat/1mnGelXLEaQKX?t=25m9s)
 
 You should always give a person warning because it's the human thing to do. In some contexts, that warning might short: six hours because the person's work is so rapid fire and they're making errors at such a pace that they could ruin your entire company in that time. Most managers give their employees too much time, because most people can't fix their issues. Or by the time they have fixed the issues, the issues metastasize and create more lasting problems. (For example, a person who is chronically late for two months might start showing up on time, but it might be harder to fix the issue of the team's frustration with that formerly-late person's two months of leaving the team saddled with more work.)
 
