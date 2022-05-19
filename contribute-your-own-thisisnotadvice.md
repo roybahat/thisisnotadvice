@@ -10,7 +10,7 @@ _#thisisnotadvice started as a_ [_daily video_](https://twitter.com/search?q=%23
 
 **#thisisnotadvicevideos:**&#x20;
 
-| ["How do I ask someone to promote my work?"](https://twitter.com/roybahat/status/1486766345467297792)                                                                                                                                                                 | Massimo Backus & Roy Bahat                                                                                                                              |
+| ["How do I ask someone to promote my work?"](https://twitter.com/roybahat/status/1486766345467297792)                                                                                                                                                                 | Ramin Malik & Roy Bahat                                                                                                                                 |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ["How can I show more compassion in a high-stress work environment?"](https://www.youtube.com/watch?v=lJALmnEWYwE)                                                                                                                                                    | Massimo Backus & Roy Bahat                                                                                                                              |
 | ["I'm new to managing people, what's the most important thing I need to know?"](https://twitter.com/roybahat/status/1486094028135301122?s=20)                                                                                                                         | Mallun Yen & Roy Bahat                                                                                                                                  |
@@ -322,4 +322,4 @@ _#thisisnotadvice started as a_ [_daily video_](https://twitter.com/search?q=%23
 
 ****
 
-![](<.gitbook/assets/image (2).png>)
+<img src=".gitbook/assets/image (2).png" alt="" data-size="original">
