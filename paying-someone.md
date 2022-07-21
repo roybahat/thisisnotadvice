@@ -42,7 +42,7 @@ Most of the time, people kind of know it's coming. Most of the time, people hand
 
 Firing someone sounds a lot harder than it is. Ideally, you have somebody to prepare you for it, and it's okay if you do it imperfectly -- better to do it imperfectly than to keep someone subpar on your team.
 
-[**What do I do when I feel like someone that works for me is being dishonest with me, but I can't prove it?**](https://www.pscp.tv/roybahat/1mnGelXLEaQKX?t=29m57s)
+#### [**What do I do when I feel like someone that works for me is being dishonest with me, but I can't prove it?**](https://www.pscp.tv/roybahat/1mnGelXLEaQKX?t=29m57s)
 
 Fire them immediately.
 
@@ -66,7 +66,7 @@ Finding a dream career or role can be a long process. Sometimes people have to t
 
 Encourage people that they can push themselves, but also recognize that they're going to have their own inner psychological barriers. Part of your role is to be a sounding board for them as they evolve through that.
 
-_\[Contributed in part by_ [_Anna Gat_](https://twitter.com/theannagat)_, founder and CEO of_ [_The Interintellect_](https://www.interintellect.com)_.]_
+_\[Contributed in part by_ [_Anna Gat_](https://twitter.com/theannagat)_, founder and CEO of_ [_The Interintellect_](https://www.interintellect.com/)_.]_
 
 _****_[**How do I know if I need an executive assistant?** ](https://www.pscp.tv/w/cbqi6DFsWktwWXhYSnhvam58MUx5eEJhdk1BUE1KTvbv50I5sKksTI1B9KjK2vEf9-7dOu2Cn2cO2Egeo4Rk)****
 
@@ -260,4 +260,4 @@ In the meantime, try to encourage the person to go deliver the feedback themselv
 What are we missing? #thisisnotadvice is a community resource. To add your knowledge or suggest an edit, submit a pull request on [GitHub.](https://github.com/roybahat/thisisnotadvice)
 {% endhint %}
 
-![](<.gitbook/assets/image (2).png>)
+<img src=".gitbook/assets/image (2).png" alt="" data-size="original">
