@@ -6,13 +6,13 @@ description: >-
 
 # Building startups
 
-_There may be no topic in the history of business with as much published advice as there is on startups. These questions are just a few that may matter. For a repository of many more, see resources like_ [_Founder Library_](https://www.founderlibrary.com)_._
+_There may be no topic in the history of business with as much published advice as there is on startups. These questions are just a few that may matter. For a repository of many more, see resources like_ [_Founder Library_](https://www.founderlibrary.com/)_._
 
 ### Getting started
 
 [**If I want to start a company, what's the very first thing I should do?**](https://www.pscp.tv/w/1vAxRryByyzxl)****
 
-There are many different ways up the startup mountain. The ["missionaries vs. mercenaries" concept](https://knowledge.wharton.upenn.edu/article/mercenaries-vs-missionaries-john-doerr-sees-two-kinds-of-internet-entrepreneurs/#:\~:text=Mercenaries%20are%20bosses%20of%20wolf,mentors%20or%20coaches%20of%20teams.\&text=Mercenaries%20are%20motivated%20by%20the,the%20desire%20to%20make%20meaning.%E2%80%9D) of who builds great ventures is nice, but some great founders were unfortunately just mercenaries. There are also people who say, "I'm going to start a company, I don't know about what," and while it's tempting to call them "wantrepreneurs," they sometimes do great things.&#x20;
+There are many different ways up the startup mountain. The ["missionaries vs. mercenaries" concept](https://knowledge.wharton.upenn.edu/article/mercenaries-vs-missionaries-john-doerr-sees-two-kinds-of-internet-entrepreneurs/) of who builds great ventures is nice, but some great founders were unfortunately just mercenaries. There are also people who say, "I'm going to start a company, I don't know about what," and while it's tempting to call them "wantrepreneurs," they sometimes do great things.&#x20;
 
 While there are many ways up the mountain, [think about your "first useful thing,"](https://also.roybahat.com/where-should-we-begin-ce16bdeceef1) which is it's sort of like a minimum viable product (MVP). If you read [The Lean Startup](https://www.amazon.com/Lean-Startup-Entrepreneurs-Continuous-Innovation/dp/0307887898), you'll learn that an MVP is intended to test a single hypothesis, so it's almost a throw-away.
 
@@ -82,7 +82,7 @@ Do you even need a co-founder? You can practice starting a company while you sea
 
 The best way to have ideas is by trying to have lots of ideas, working on them, and running into walls over and over.&#x20;
 
-A lot of the time you have an inkling of an idea, [there are so many ways that you can test it](http://theleanstartup.com) -- as simply as asking 20 of your friends, "Is this interesting?" Make a Google form and ask a hundred people. By doing side projects on your own, you may test whether you even need a co-founder. If you do need a co-founder, or if you even just want one because you feel lonely -- that's good to learn.
+A lot of the time you have an inkling of an idea, [there are so many ways that you can test it](http://theleanstartup.com/) -- as simply as asking 20 of your friends, "Is this interesting?" Make a Google form and ask a hundred people. By doing side projects on your own, you may test whether you even need a co-founder. If you do need a co-founder, or if you even just want one because you feel lonely -- that's good to learn.
 
 **Now practical tips on how to find a co-founder:**&#x20;
 
@@ -138,6 +138,28 @@ There are so many decisions in the life of a start-up that are one way doors, or
 
 ### Sales
 
+[**As an early-stage founder, can I serve two customer segments at once?**](https://www.pscp.tv/w/1BdxYYjkRDAxX)
+
+In general, serving two customer segments at once is not a good idea as it can take your focus away from making your product market-ready. An exception to this is founders who are not sure who their ideal customers are.
+
+Focusing on getting your product fit for the market is incredibly important for new companies. Serving two customer segments can detract from this focus, even if it’s the same product and technology. Unless the end-to-end process is exactly the same, the process will probably not be similar enough to maintain the necessary level of focus. If you are going to successfully serve more than one customer segment, how you get the customer, what the customer wants, and how you communicate with the customer needs to be identical for both groups, which is very rarely the case.
+
+Founders often don’t believe that focus will be an issue as they view themselves as being very focused. People sometimes think of focus as a glass of concentrated liquid, and as you add more and more things to focus on, you add more liquid and the focus becomes diluted. With this line of thought, adding just a bit of liquid will only dilute it slightly.
+
+A more useful analogy is thinking of your focus as a liquid and the things that require your attention as food coloring. When you add food coloring, even just a couple of drops, the new color will change the color of the entire glass. Adding more customer segments to your focus can change your entire process and affect your ability to focus.&#x20;
+
+There is one case where serving different customer segments _can_ be helpful. This is when you're not yet sure who your focus customer-type is or who your first customer will be. If this is you, you're in discovery mode,  so rather than focusing on making your product fit the customers, you are focusing on who your customers are. For a short period of time, you can serve different customer types and see which one is best for you, but doing this can become problematic if you serve too many customer types in too many ways.&#x20;
+
+The number of customers you can experiment with depends on what type of enterprise you are. If you're in the slow burn enterprise sales business and you're selling $500,000 contracts with something that is deeply integrated, then you probably shouldn’t try too many customer types at once. On the other hand, if you're in a consumer-type thing where you have landing pages and you're just pinging out emails to people, you can go ahead and try many different types of customers at once.
+
+Once you are done with experimenting and it comes to choosing a customer type, examine the reasons why you should or should not focus on one customer type. If you think you shouldn't focus on a customer segment, challenge this thought by asking yourself how you could make it work. It can be helpful to imagine that you are trying to persuade a skeptic to choose that customer type.
+
+Unless you are unsure of who your target customers are, serving multiple customer segments usually backfires as it negatively affects your ability to focus.&#x20;
+
+_\[Contributed in part by_ [_Minn Kim, former  principal at Bloomberg Beta_](https://twitter.com/minney\_cat)_]_
+
+__
+
 [**How do I know when to start charging for my product?**](https://www.pscp.tv/w/1mnxelpqyLaJX)
 
 You should start charging for your product sooner than you may think. The only reason to wait to charge is when the product will be much more valuable to _each_ customer if you wait -- as may happen, for example, in companies with a network effect. (In that case, you may waste valuable time trying to charge customers when the current value fails to tell you much about the eventual value.)
@@ -182,7 +204,7 @@ _\[Contributed in part by_ [_Alex Cohen, Founder, CommandDot_](https://twitter.c
 
 Ask yourself what customer you're trying to get and [why that customer, specifically](https://also.roybahat.com/picking-your-first-customers-the-gradient-of-influence-47858b90adfd) -- clarity can create a reason to connect with a customer.
 
-Once you've identified a possible target customer, you may be able to employ the techniques that [Joseph Freed](https://twitter.com/josephfreed79?lang=en) used when starting [Cultivate](https://cultivate.com) to get customers' attention: 1) networking at conferences and 2) "focusing on logos."
+Once you've identified a possible target customer, you may be able to employ the techniques that [Joseph Freed](https://twitter.com/josephfreed79?lang=en) used when starting [Cultivate](https://cultivate.com/) to get customers' attention: 1) networking at conferences and 2) "focusing on logos."
 
 When choosing a conference to go to, the nichier and nerdier, the better. You may try to bond with a representative of your customer who attends (or speaks at) that conference. With big conferences, the speaker gets mobbed by a throng of folks, so a meaningful conversation is just not possible. The best conferences for connecting with customers are smaller and focused on practitioners.
 
@@ -232,7 +254,7 @@ _\[Contributed in part by:_ [_Spike Lipkin, Co-Founder & CEO, Newfront Insurance
 
 [**Do I need a coach?**](https://www.pscp.tv/w/1MnGndNmvBBxO)****
 
-\[Ed.: The below comes from [Lori Mazan](https://www.linkedin.com/in/lorimazan/), co-founder of [Sounding Board](https://www.soundingboardinc.com).]
+\[Ed.: The below comes from [Lori Mazan](https://www.linkedin.com/in/lorimazan/), co-founder of [Sounding Board](https://www.soundingboardinc.com/).]
 
 Yes, you need a coach. If you are starting or thinking of starting a high-growth company, then as a founder, your own personal growth has to be rapid as well. If your growth isn't rapid, you end up becoming the roadblock to your company's success.
 
@@ -242,7 +264,7 @@ One way to find a coach is to ask around your network to people who you think ar
 
 For most people, if you ask them, "Do you have a coach?", they'll be flattered. They'll think, "Oh, they must think I have my act together.
 
-[Sounding Board](http://soundingboardinc.com) (Ed.: in which Bloomberg Beta is a #proudinvestor) is an enterprise coaching solution, so people can get coaching services and coaching management through a robust technology platform.&#x20;
+[Sounding Board](http://soundingboardinc.com/) (Ed.: in which Bloomberg Beta is a #proudinvestor) is an enterprise coaching solution, so people can get coaching services and coaching management through a robust technology platform.&#x20;
 
 The coaching relationship is sometimes compared to a personal trainer, but a professional coach goes well beyond just accountability and "standing there" making you do things. They're a thought partner for you, helping you think in novel ways, helping you go beyond your easy, top-of-mind answer, helping you develop yourself in ways you hadn't thought of yourself before.
 
@@ -302,7 +324,7 @@ One thing that prevents people from joining startups is something people call �
 
 Your perspective during college, and even after college, may be purely economic – you might only focus on who will pay you the most right now. This is understandable when you have bills to pay. It can be difficult to develop a lens that lets you evaluate a short-term salary versus long-term wealth.&#x20;
 
-\[Ed.: The first time I got offered [a job with a big salary](https://www.mckinsey.com), I was drawn to those six digits. That was really hard to turn down.]
+\[Ed.: The first time I got offered [a job with a big salary](https://www.mckinsey.com/), I was drawn to those six digits. That was really hard to turn down.]
 
 At a smaller startup, they won’t be able to compete with pure salary, but if you're a part of a team that's going to grow, then you have entitlement to equity or ownership in that company.&#x20;
 
@@ -388,7 +410,7 @@ Investors are amazing at manipulating first impressions -- so you can't trust yo
 
 You're looking for the situation where the VC behaved badly, so you need backdoor references. Look for the ones that went poorly – not just the ones that went well – both in terms of the business and the relationship (sometimes the business goes well and the relationship still frays!).
 
-The founder community is tight so you can also keep an eye out for resources such as Y Combinator's [Bookface](https://bookface.ycombinator.com) when doing your diligence, but take the reviews with a grain of salt like you would for Glassdoor. If you are in the process of getting close with an investor, ramp up your diligence accordingly – don't wait until the end. As you're getting closer, start making calls and with a goal of communicating with roughly 15 people by the end. (If they email saying the person's great, that might be enough -- not every communication needs to be a conversation.)
+The founder community is tight so you can also keep an eye out for resources such as Y Combinator's [Bookface](https://bookface.ycombinator.com/) when doing your diligence, but take the reviews with a grain of salt like you would for Glassdoor. If you are in the process of getting close with an investor, ramp up your diligence accordingly – don't wait until the end. As you're getting closer, start making calls and with a goal of communicating with roughly 15 people by the end. (If they email saying the person's great, that might be enough -- not every communication needs to be a conversation.)
 
 These conversations will help you dig deeper on founder preferences and uncover which VCs are true "founders' choice" investors.
 
@@ -424,7 +446,7 @@ In a sense, all of cloud software is a "near clone" of enterprise software. It's
 
 [**I got into Y Combinator. Do I do it?**](https://www.pscp.tv/w/1kvJpevnAVwxE)
 
-Deciding whether to do [Y Combinator](https://www.ycombinator.com) (YC) depends on your goals and if YC will be of value to you. Often it is worth it, but it's expensive (YC requires an ownership stake of 7%). Seven percent may not sound like much in the beginning, but as you get bigger, you will realize that it's a lot. Like all things, this price may be worth it in terms of value that YC delivers.
+Deciding whether to do [Y Combinator](https://www.ycombinator.com/) (YC) depends on your goals and if YC will be of value to you. Often it is worth it, but it's expensive (YC requires an ownership stake of 7%). Seven percent may not sound like much in the beginning, but as you get bigger, you will realize that it's a lot. Like all things, this price may be worth it in terms of value that YC delivers.
 
 People who can get the most value from YC are founders who lack a network of other founders, or founders who need a moment to focus and would benefit from having to put something together so they can present at the finale of the accelerator -- "demo day." YC gives founders a wonderful community and an opportunity to develop what they're doing. With YC, you may end up working with a partner or other founders that can give advice that could be transformative for your business. If your early customers are other startups, then YC can be especially useful as it introduces you to many potential customers.
 
@@ -506,5 +528,5 @@ The skills depend on the stage of company in which you invest. If you're a late-
 What are we missing? #thisisnotadvice is a community resource. To add your knowledge or suggest an edit, submit a pull request on [GitHub.](https://github.com/roybahat/thisisnotadvice)
 {% endhint %}
 
-![](<.gitbook/assets/image (2).png>)
+<img src=".gitbook/assets/image (2).png" alt="" data-size="original">
 
