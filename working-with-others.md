@@ -94,7 +94,7 @@ White people sometimes say, "Well, I've struggled in my life. I grew up poor. I 
 
 \[Ed.: I myself went through this journey, going from rejecting the idea of being privileged to seeing it more fully. I am the child of immigrants who came to the U.S. with almost nothing. My father died when I was 12. I worked very, very hard -- sometimes damaging myself in the process of all that intensity, throwing elbows, and sleepless nights. So it was hard for me to see my own privilege. Now I see that I was white, male, with parents who loved me, educated in the most fertile soil. I had many forms of privilege.]
 
-Other white people say, "I'm colorblind. I don't see race." This view discounts the fact that there is a different experience that has been lived and is lived every day by people of color, by Black people. And so to say, "I'm just a meritocratic person," can become an excuse for ignoring the suffering and reality of daily injustice. Of course Black communities have many perspectives, one perspective (from financier Mellody Hobson is to [be color "brave" instead of colorblind](https://blog.ted.com/be-color-brave-not-color-blind-mellody-hobson-at-ted2014/#:\~:text=Color%20blindness%20is%20very%20dangerous,become%20comfortable%20with%20being%20uncomfortable.\&text=We%20can't%20be%20color,have%20to%20be%20color%20brave.%E2%80%9D).
+Other white people say, "I'm colorblind. I don't see race." This view discounts the fact that there is a different experience that has been lived and is lived every day by people of color, by Black people. And so to say, "I'm just a meritocratic person," can become an excuse for ignoring the suffering and reality of daily injustice. Of course Black communities have many perspectives, one perspective (from financier Mellody Hobson is to [be color "brave" instead of colorblind](https://blog.ted.com/be-color-brave-not-color-blind-mellody-hobson-at-ted2014/).
 
 Yet more white people will say, "It's not really _that_ bad a problem. The numbers aren't as bad as you think," or, "Confederate flags are part of Southern history so maybe they should be allowed." Consider getting at this by being personal. If someone who says this is Jewish, you could say, "The swastika is part of German history. Would you be okay with a swastika flag flying somewhere? No, because it's a symbol of an ideology that included hate."
 
@@ -110,13 +110,13 @@ Being an ally is hard, it's risky, it takes work -- you will have setbacks and n
 
 [**How do I send a cold ask to someone prominent and get them to respond?** ](https://www.pscp.tv/roybahat/1PlKQNVnraNGE?t=12m35s)****
 
-****[Tristan Walker](https://www.linkedin.com/in/tristanwalker/) is a great entrepreneur, the founder of [Walker & Company](https://walkerandcompany.com) (acquired by Procter & Gamble in 2018), and currently on the board of Foot Locker and Shake Shack. In 2009, he wanted to work at Foursquare -- everyone wanted to work there. He applied on the company website and didn't hear anything back. He sent emails, he didn't hear anything back. So he emailed again, and again, and again, and again. It still didn't work.&#x20;
+****[Tristan Walker](https://www.linkedin.com/in/tristanwalker/) is a great entrepreneur, the founder of [Walker & Company](https://walkerandcompany.com/) (acquired by Procter & Gamble in 2018), and currently on the board of Foot Locker and Shake Shack. In 2009, he wanted to work at Foursquare -- everyone wanted to work there. He applied on the company website and didn't hear anything back. He sent emails, he didn't hear anything back. So he emailed again, and again, and again, and again. It still didn't work.&#x20;
 
 When Tristan didn't hear back from Foursquare, he decided to just start doing work for them on the side, and reached out to brands saying, "Hey, would you want to run ads on Foursquare?" He got creative about how to deliver value -- and this early-stage company took note and ended up hiring him.&#x20;
 
 If someone isn't responsive to you, figure out a way to do something to help them. Be useful.
 
-_\[Contributed in part by_ [_David Rogier_](https://www.linkedin.com/in/drogier)_, founder and CEO of_ [_MasterClass_](https://www.masterclass.com)_.]_
+_\[Contributed in part by_ [_David Rogier_](https://www.linkedin.com/in/drogier)_, founder and CEO of_ [_MasterClass_](https://www.masterclass.com/)_.]_
 
 ### Sensitive issues
 
@@ -132,7 +132,7 @@ One level down from this gold standard is to be imprecise in what you say, but s
 
 Then you have people who are precise in what they say, but fail to adhere to it rigidly. Call that person a "welcher." Welchers always have a reason -- some circumstance changed. The whole point of keeping your word is it's supposed to be independent of circumstances changing.
 
-Which raises the question: **is any welching, any slipping,  acceptable? That's a matter of the norms in your industry, and who you want to be as a person.** There are almost always immaterial things that change -- pennies of difference in an investment amount, for example. The challenge with norms is people see them differently depending on their seat and their experiences. A norm example where it's obviously okay to slip is you're playing a game, like [Werewolf](https://www.playwerewolf.co) where you're _supposed_ to lie to other people. \[Ed.: I've experienced cases where we had an investor change after the term sheet and they said, "Well, we learned something new." But in venture, we almost always, 99.9% of the time, stick to the terms, unless something material arises that we couldn't have known beforehand.]
+Which raises the question: **is any welching, any slipping,  acceptable? That's a matter of the norms in your industry, and who you want to be as a person.** There are almost always immaterial things that change -- pennies of difference in an investment amount, for example. The challenge with norms is people see them differently depending on their seat and their experiences. A norm example where it's obviously okay to slip is you're playing a game, like [Werewolf](https://www.playwerewolf.co/) where you're _supposed_ to lie to other people. \[Ed.: I've experienced cases where we had an investor change after the term sheet and they said, "Well, we learned something new." But in venture, we almost always, 99.9% of the time, stick to the terms, unless something material arises that we couldn't have known beforehand.]
 
 The next level down is the person who is precise in their speech, adheres rigidly to what they said, but is unreliable in whether they communicate. That's the "ghoster." The person who just disappears is hardest to deal with because it's difficult to figure out what happened. It's hard to get "curious before furious" with a ghoster.
 
@@ -172,7 +172,7 @@ Gather evidence if you think you might need it. As we saw with Susan Fowler's [s
 
 Before you go to HR, ask yourself if you can trust your manager or your skip-level manager and voice your concerns so they're on the lookout and can be an advocate in either tracking or raising the issue.&#x20;
 
-(For example, [ELFA](https://www.elfaonline.org) started a couple of years ago, born out of a women's community. It provides a rich place for conversation and feedback; you can ask your question and have people give their input and their own experiences.)
+(For example, [ELFA](https://www.elfaonline.org/) started a couple of years ago, born out of a women's community. It provides a rich place for conversation and feedback; you can ask your question and have people give their input and their own experiences.)
 
 Some nonprofits will help you if you're stuck with an issue, particularly if it's around harassment or some other form of discrimination. You can text [Empower Work](https://www.empowerwork.org) to get questions answered.
 
@@ -438,13 +438,35 @@ Is there something that you cannot learn by working from home? Of course. There 
 
 One soil for learning about work is diversity of experiences. That's why diverse teams matter so much. For any individual plotting a career, you want to be exposed to different cultures and situations and get a little bit of a feel for them.
 
+[**How do I manage up in a remote work environment?**](https://twitter.com/roybahat/status/1496238385228234754?s=20\&t=GcK-Tf2D5WLAvPTaZqYGWA)
+
+Make an effort to learn other people’s communication styles. Be mindful of what platform you use to share certain information.
+
+Many forms of communication can be utilized in remote work. Unfortunately, some communication methods lead to more misunderstandings than others. When receiving and interpreting messages, keep the sender’s communication style in mind.
+
+People rarely discuss their communication style. Pay attention to how people communicate and look for trends. \[Ed.: [Emma Varvaloucas ](https://www.linkedin.com/in/emmavarvaloucas/)has a friend that only uses periods in text messages when she is angry. Emma knows to look out for the periods to gauge her friend’s emotions.]&#x20;
+
+All communication styles flow from your in-person communication styles, so learning someone’s communication style through in-person interaction is ideal. Unfortunately, this isn’t always possible. In this case, starting with high bandwidth channels that let you see the person through video and hear their voice are good alternatives. Knowing someone’s cadence, tone, and sense of humor allows you to translate it onto other platforms.
+
+In terms of how much you communicate, it may be useful to over communicate and then gradually pull back. Ask for input about how often you communicate, “Do you need as much communication as you have been getting? Should I do less?”
+
+Use an appropriate channel based on what you are communicating. People would rather receive negative things in private, so make an effort to send them a private message rather than posting it on a public discord channel. If you need to handle a sensitive topic, choose a high bandwidth method over something more impersonal like email.
+
+Trust your intuition. You will get a feel for what you need to do. \[Ed.: Emma writes a weekly newsletter that they publish at [The Progress Network. ](https://theprogressnetwork.org/)When she started, she would send the newsletter to the founder of the network in advance so he could check it. When Emma never got a response, she realized she could stop sending it.]
+
+Take cues from your teammates about how your communication is landing. Just because you put information out there doesn’t mean it is being received. If your message is important, ask for confirmation that it arrived.&#x20;
+
+Learn how other people communicate and try to use an appropriate communication method.
+
+_\[Contributed in part by_ [_Emma Varvaloucas_](https://twitter.com/heyemmavarv)_, Executive Director at_ [_The Progress Network_](https://theprogressnetwork.org/)_.]_
+
 #### [What should I do when I'm feeling distant from my coworkers?](https://www.pscp.tv/w/cclXwzFsWktwWXhYSnhvam58MW1ueGVsYlh6ZVBKWH2LjG-MHZRIM3Df1VjmeRJ4pzrvHyltvk8vv9LFQnL1)
 
 There are two kinds of distance that we often conflate: logistical distance, how to get things done when you're feeling removed from others, and emotional distance. Try to be specific about what you're feeling and recognize it's natural to feel removed sometimes.
 
 Experiment and see what works. Take more time to check in during a meeting. \[Ed.: our twice-weekly team meetings start with 20 minutes asking how everyone is doing generally, outside work]. Leaders have a special role: make sure you create an environment where communication can happen, where people feel okay about revealing they feel distant.&#x20;
 
-The software you choose can be useful, too. (Leaders' "tool-picking" power matters.) For example, a daily standup tool, essential to the Agile software development process, may help your team more generally to know where you're blocked (if it's "logistical distance," in particular). [Range](http://range.co) \[ed.: #proudinvestor] is a tool that helps with daily team check-ins: it addresses both logistical and emotional distance.[ Icebreaker](http://icebreaker.video) is a video chat tool \[ed.: #proudinvestor] designed for people to get to know each other. Reward the behaviors you want to see -- consider [Bonusly](https://bonus.ly) \[ed.: #proudinvestor] for that, dropping little thank-yous as you go through your day.
+The software you choose can be useful, too. (Leaders' "tool-picking" power matters.) For example, a daily standup tool, essential to the Agile software development process, may help your team more generally to know where you're blocked (if it's "logistical distance," in particular). [Range](http://range.co/) \[ed.: #proudinvestor] is a tool that helps with daily team check-ins: it addresses both logistical and emotional distance.[ Icebreaker](http://icebreaker.video/) is a video chat tool \[ed.: #proudinvestor] designed for people to get to know each other. Reward the behaviors you want to see -- consider [Bonusly](https://bonus.ly/) \[ed.: #proudinvestor] for that, dropping little thank-yous as you go through your day.
 
 Try to have a good time. It's hard with everything going on, a real luxury. Play games. If it's appropriate for your team, try a virtual escape room or sending Lego instructions to one person and the kit to another person (they have to explain to each other how to build it).
 
@@ -476,4 +498,4 @@ Afterward, go back to the person afterward and check in: "Hey, that might've bee
 What are we missing? #thisisnotadvice is a community resource. To add your knowledge or suggest an edit, submit a pull request on [GitHub.](https://github.com/roybahat/thisisnotadvice)
 {% endhint %}
 
-![](<.gitbook/assets/image (2).png>)
+<img src=".gitbook/assets/image (2).png" alt="" data-size="original">
